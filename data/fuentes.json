@@ -1,28 +1,195 @@
 [
-  {"nombre": "La Nación", "dominio": "lanacion.com.ar", "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Clarín", "dominio": "clarin.com", "rss": "https://www.clarin.com/rss/lo-ultimo/", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Página/12", "dominio": "pagina12.com.ar", "rss": "https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Infobae", "dominio": "infobae.com", "rss": "https://www.infobae.com/arc/outboundfeeds/rss/", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Perfil", "dominio": "perfil.com", "rss": "https://www.perfil.com/feed", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Ámbito", "dominio": "ambito.com", "rss": "https://www.ambito.com/rss/pages/home.xml", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Ámbito", "dominio": "ambito.com", "rss": "https://www.ambito.com/rss/pages/economia.xml", "tipo": "medio", "lista_seria": true},
-  {"nombre": "El Cronista", "dominio": "cronista.com", "rss": "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml", "tipo": "medio", "lista_seria": true},
-  {"nombre": "elDiarioAR", "dominio": "eldiarioar.com", "rss": "https://www.eldiarioar.com/rss/", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Chequeado", "dominio": "chequeado.com", "rss": "https://chequeado.com/feed/", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Letra P", "dominio": "letrap.com.ar", "rss": "", "google_site": true, "tipo": "medio", "lista_seria": true},
-  {"nombre": "La Política Online", "dominio": "lapoliticaonline.com", "rss": "https://www.lapoliticaonline.com/files/rss/ultimasnoticias.xml", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Revista Crisis", "dominio": "revistacrisis.com.ar", "rss": "https://revistacrisis.com.ar/feed", "tipo": "medio", "lista_seria": true},
-  {"nombre": "Revista Cítrica", "dominio": "revistacitrica.com", "rss": "", "google_site": true, "tipo": "medio", "lista_seria": true},
-  {"nombre": "Fundar", "dominio": "fund.ar", "rss": "https://fund.ar/feed/", "google_site": true, "tipo": "organizacion", "lista_seria": true},
-  {"nombre": "Argentinos por la Educación", "dominio": "argentinosporlaeducacion.org", "rss": "https://argentinosporlaeducacion.org/feed/", "google_site": true, "tipo": "organizacion", "lista_seria": true},
-  {"nombre": "Ecofeminita", "dominio": "ecofeminita.com", "rss": "https://ecofeminita.com/feed/", "google_site": true, "tipo": "organizacion", "lista_seria": true},
-  {"nombre": "Boletín Oficial", "dominio": "boletinoficial.gob.ar", "rss": "", "google_site": true, "tipo": "oficial", "lista_seria": true},
-  {"nombre": "INDEC", "dominio": "indec.gob.ar", "rss": "", "google_site": true, "tipo": "oficial", "lista_seria": true},
-  {"nombre": "BCRA", "dominio": "bcra.gob.ar", "rss": "", "google_site": true, "tipo": "oficial", "lista_seria": true},
-  {"nombre": "Congreso (Diputados)", "dominio": "hcdn.gob.ar", "rss": "", "google_site": true, "tipo": "oficial", "lista_seria": true},
-  {"nombre": "Congreso (Senado)", "dominio": "senado.gob.ar", "rss": "", "google_site": true, "tipo": "oficial", "lista_seria": true},
-  {"nombre": "El Destape", "dominio": "eldestapeweb.com", "rss": "", "tipo": "medio", "lista_seria": false},
-  {"nombre": "iProfesional", "dominio": "iprofesional.com", "rss": "", "tipo": "medio", "lista_seria": false},
-  {"nombre": "C5N", "dominio": "c5n.com", "rss": "", "tipo": "medio", "lista_seria": false},
-  {"nombre": "Cenital", "dominio": "cenital.com", "rss": "", "tipo": "medio", "lista_seria": false}
+ {
+  "nombre": "La Nación",
+  "dominio": "lanacion.com.ar",
+  "rss": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Clarín",
+  "dominio": "clarin.com",
+  "rss": "https://www.clarin.com/rss/lo-ultimo/",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Página/12",
+  "dominio": "pagina12.com.ar",
+  "rss": "https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Infobae",
+  "dominio": "infobae.com",
+  "rss": "https://www.infobae.com/arc/outboundfeeds/rss/",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Perfil",
+  "dominio": "perfil.com",
+  "rss": "https://www.perfil.com/feed",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Ámbito",
+  "dominio": "ambito.com",
+  "rss": "https://www.ambito.com/rss/pages/home.xml",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Ámbito",
+  "dominio": "ambito.com",
+  "rss": "https://www.ambito.com/rss/pages/economia.xml",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "El Cronista",
+  "dominio": "cronista.com",
+  "rss": "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "elDiarioAR",
+  "dominio": "eldiarioar.com",
+  "rss": "https://www.eldiarioar.com/rss/",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Chequeado",
+  "dominio": "chequeado.com",
+  "rss": "https://chequeado.com/feed/",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Letra P",
+  "dominio": "letrap.com.ar",
+  "rss": "",
+  "google_site": true,
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "La Política Online",
+  "dominio": "lapoliticaonline.com",
+  "rss": "https://www.lapoliticaonline.com/files/rss/ultimasnoticias.xml",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Revista Crisis",
+  "dominio": "revistacrisis.com.ar",
+  "rss": "https://revistacrisis.com.ar/feed",
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Revista Cítrica",
+  "dominio": "revistacitrica.com",
+  "rss": "",
+  "google_site": true,
+  "tipo": "medio",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Fundar",
+  "dominio": "fund.ar",
+  "rss": "https://fund.ar/feed/",
+  "google_site": true,
+  "tipo": "organizacion",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Argentinos por la Educación",
+  "dominio": "argentinosporlaeducacion.org",
+  "rss": "https://argentinosporlaeducacion.org/feed/",
+  "google_site": true,
+  "tipo": "organizacion",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Ecofeminita",
+  "dominio": "ecofeminita.com",
+  "rss": "https://ecofeminita.com/feed/",
+  "google_site": true,
+  "tipo": "organizacion",
+  "lista_seria": true,
+  "prioritaria": true
+ },
+ {
+  "nombre": "Boletín Oficial",
+  "dominio": "boletinoficial.gob.ar",
+  "rss": "",
+  "google_site": true,
+  "tipo": "oficial",
+  "lista_seria": true
+ },
+ {
+  "nombre": "INDEC",
+  "dominio": "indec.gob.ar",
+  "rss": "",
+  "google_site": true,
+  "tipo": "oficial",
+  "lista_seria": true
+ },
+ {
+  "nombre": "BCRA",
+  "dominio": "bcra.gob.ar",
+  "rss": "",
+  "google_site": true,
+  "tipo": "oficial",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Congreso (Diputados)",
+  "dominio": "hcdn.gob.ar",
+  "rss": "",
+  "google_site": true,
+  "tipo": "oficial",
+  "lista_seria": true
+ },
+ {
+  "nombre": "Congreso (Senado)",
+  "dominio": "senado.gob.ar",
+  "rss": "",
+  "google_site": true,
+  "tipo": "oficial",
+  "lista_seria": true
+ },
+ {
+  "nombre": "El Destape",
+  "dominio": "eldestapeweb.com",
+  "rss": "",
+  "tipo": "medio",
+  "lista_seria": false
+ },
+ {
+  "nombre": "iProfesional",
+  "dominio": "iprofesional.com",
+  "rss": "",
+  "tipo": "medio",
+  "lista_seria": false
+ },
+ {
+  "nombre": "C5N",
+  "dominio": "c5n.com",
+  "rss": "",
+  "tipo": "medio",
+  "lista_seria": false
+ },
+ {
+  "nombre": "Cenital",
+  "dominio": "cenital.com",
+  "rss": "",
+  "tipo": "medio",
+  "lista_seria": false
+ }
 ]

@@ -6,6 +6,11 @@ espectáculos, ofertas, exterior), agrupa notas parecidas por título y
 calcula un pre-semáforo según cuántos medios serios distintos lo cubren.
 Salida: data/candidatos.json (insumo para la curaduría de Claude).
 
+Fuentes prioritarias (prioritaria: true en data/fuentes.json, hoy Ecofeminita):
+sus notas, y las de otros medios que las nombran en el título, se miran en una
+ventana de 72 h, no pasan por los filtros de ruido ni de exterior, cuentan como
+fuente primaria (pre-semáforo verde?) y van primeras en candidatos.json.
+
 Uso: python3 scripts/prefiltro.py [horas=24]
 """
 import json, re, sys, unicodedata, datetime as dt
@@ -14,6 +19,7 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent.parent
 HORAS = int(sys.argv[1]) if len(sys.argv) > 1 else 24
 AR = dt.timezone(dt.timedelta(hours=-3))
+HORAS_PRIORITARIAS = 72
 
 # Ruido: si el título matchea y no hay una palabra "salvadora", se descarta.
 RUIDO = r"""
@@ -44,13 +50,36 @@ def tokens(t):
     return {w for w in re.findall(r"[a-z0-9]{3,}", t) if w not in STOP}
 
 
+def prioritarias():
+    fuentes = json.loads((BASE / "data/fuentes.json").read_text())
+    pri = [f for f in fuentes if f.get("prioritaria")]
+    dominios = {f["dominio"] for f in pri}
+    nombres = "|".join(re.escape(norm(f["nombre"])) for f in pri)
+    return dominios, (re.compile(rf"\b({nombres})\b") if nombres else None)
+
+
+def es_prioritaria(n, dominios, patron):
+    return n.get("dominio") in dominios or bool(patron and patron.search(norm(n["titulo"])))
+
+
 def main():
     crudo = json.loads((BASE / "data/crudo.json").read_text())
-    lim = (dt.datetime.now(AR) - dt.timedelta(hours=HORAS)).isoformat(timespec="minutes")
-    notas = [n for n in crudo["notas"] if n.get("fecha", "") >= lim]
+    ahora = dt.datetime.now(AR)
+    lim = (ahora - dt.timedelta(hours=HORAS)).isoformat(timespec="minutes")
+    lim_pri = (ahora - dt.timedelta(hours=max(HORAS, HORAS_PRIORITARIAS))).isoformat(timespec="minutes")
+    dom_pri, pat_pri = prioritarias()
+    notas = []
+    for n in crudo["notas"]:
+        f = n.get("fecha", "")
+        n["_pri"] = es_prioritaria(n, dom_pri, pat_pri)
+        if f >= lim or (n["_pri"] and f >= lim_pri):
+            notas.append(n)
     entran, fuera = [], {"ruido": 0, "exterior": 0}
     for n in notas:
         t = norm(n["titulo"])
+        if n["_pri"]:
+            n["_tok"] = tokens(n["titulo"]) or {"_pri_" + n["id"]}
+            entran.append(n); continue
         if re.search(RUIDO, t) and not re.search(SALVA, t):
             fuera["ruido"] += 1; continue
         if re.search(EXTERIOR, t) and not re.search(ARG, t):
@@ -79,8 +108,9 @@ def main():
         ns = g["notas"]
         serios = sorted({n["dominio"] for n in ns if n.get("lista_seria")})
         oficial = any(n.get("fuente_tipo") == "oficial" for n in ns)
+        prioritaria = any(n["_pri"] for n in ns)
         dominios = sorted({n["dominio"] for n in ns})
-        if len(serios) >= 2 or oficial:
+        if len(serios) >= 2 or oficial or prioritaria:
             pre = "verde?"
         elif len(serios) == 1:
             pre = "amarillo?"
@@ -89,6 +119,7 @@ def main():
         out.append({
             "id": ns[0]["id"],
             "pre_semaforo": pre,
+            "prioritaria": prioritaria,
             "medios_serios": serios,
             "cant_medios": len(dominios),
             "cant_notas": len(ns),
@@ -96,12 +127,13 @@ def main():
             "notas": [{k: n.get(k) for k in ("titulo", "medio", "dominio", "url", "fecha", "lista_seria", "fuente_tipo")}
                       for n in sorted(ns, key=lambda n: (not n.get("lista_seria"), n["fecha"]))[:8]],
         })
-    out.sort(key=lambda g: (len(g["medios_serios"]), g["cant_medios"]), reverse=True)
+    out.sort(key=lambda g: (g["prioritaria"], len(g["medios_serios"]), g["cant_medios"]), reverse=True)
     res = {"generado": dt.datetime.now(AR).isoformat(timespec="minutes"), "horas": HORAS,
            "notas_ventana": len(notas), "descartadas": fuera, "grupos": len(out), "candidatos": out}
     (BASE / "data/candidatos.json").write_text(json.dumps(res, ensure_ascii=False, indent=1))
     print(f"ventana {len(notas)} | ruido {fuera['ruido']} | exterior {fuera['exterior']} | grupos {len(out)} | "
-          f"multi-medio {sum(1 for g in out if g['cant_medios'] >= 2)}")
+          f"multi-medio {sum(1 for g in out if g['cant_medios'] >= 2)} | "
+          f"prioritarios {sum(1 for g in out if g['prioritaria'])}")
 
 
 if __name__ == "__main__":

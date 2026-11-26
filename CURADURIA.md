@@ -6,7 +6,7 @@ Soda es un medio hecho por y para jóvenes. **No defiende a ningún sector**: in
 ## Material disponible
 - `data/crudo.json`: notas de RSS de portales y de Google Noticias, de los últimos 7 días.
 - `data/candidatos.json`: la salida de `scripts/prefiltro.py`, que se corre primero. Tiene las notas de las últimas 24 h, sin ruido y agrupadas, con un **pre-semáforo** automático. El agrupado es grueso: **fusionar a mano** los grupos que hablan de lo mismo. Por ejemplo, el dólar o un mismo informe pueden venir en 5 grupos.
-- `data/fuentes.json`: qué medios son de la lista seria (`lista_seria: true`).
+- `data/fuentes.json`: qué medios son de la lista seria (`lista_seria: true`) y cuáles son prioritarios (`prioritaria: true`, hoy Ecofeminita).
 - `data/x.json` (más adelante): posteos de X leídos sin login. Son **alertas, nunca fuentes**.
 - `data/edicion.json`: la edición anterior, para dar continuidad y no repetir.
 
@@ -14,6 +14,23 @@ Soda es un medio hecho por y para jóvenes. **No defiende a ningún sector**: in
 Política, economía, juventud y educación, sociedad y cultura. Deporte o espectáculos solo si se volvieron tema social o político.
 **Breaking** solo si es muy relevante: una medida de gobierno, un hecho grave o algo que cambie la agenda del día.
 **El foco de Soda son las cuestiones sociales y políticas. No se cubren el dólar, las cotizaciones, el riesgo país, los bonos ni los mercados**, ni como tema ni como clave ni como idea de carrusel; la economía entra cuando explica un tema social o político (salarios, consumo, empleo, presupuesto educativo), y los temas de universidad, juventud, derechos y sociedad nunca se pueden caer de una edición si siguen vigentes. Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo universidad, empleo joven, alquileres, apuestas online, salud mental, bolsillo y derechos.
+
+## Fuentes prioritarias (Ecofeminita)
+Los informes y papers de Ecofeminita son **super importantes** para Soda. El prefiltro los busca en las últimas 72 h, los marca con `prioritaria: true` y los pone primeros en `candidatos.json`, junto con las notas de otros medios que la nombran.
+- Todo informe, paper o dato nuevo de Ecofeminita **entra en la edición** si no salió en una edición anterior (revisar `data/edicion.json` y `data/ediciones/`), y se evalúa como posible `idea_carrusel`.
+- Se lee el informe completo para sacar los datos duros y se pone como `primaria`. Se cita como "según el informe de Ecofeminita" con el nombre del informe.
+- Las notas de opinión o de cultura de su sitio (reseñas de series, por ejemplo) no tienen esta prioridad y se evalúan como cualquier otra nota.
+
+## Excepción: elecciones generales de España (del 26 al 30 de noviembre de 2026, inclusive)
+Por pedido de la dirección, mientras dure esta excepción cada edición de las 11 y las 15 h arma **además** una edición aparte de las elecciones generales de España del domingo 29 de noviembre, con las repercusiones hasta el lunes 30. Desde el martes 1 de diciembre esta sección no se arma más.
+1. Correr `TZ=America/Argentina/Buenos_Aires python3 scripts/espana.py` y leer `data/espana/candidatos.json`, que trae las notas de los portales de España y Europa (`data/espana/fuentes.json`), de Google Noticias España y de los medios argentinos que cubren las elecciones.
+2. **Semáforo propio.** 🟢 con 2 o más portales de España o Europa de redacciones distintas que no se citan entre sí, o con una fuente oficial española (Ministerio del Interior, Junta Electoral Central, Boletín Oficial del Estado, Centro de Investigaciones Sociológicas). 🟡 con un solo portal de España o Europa. Lo que solo cuentan medios argentinos u otros queda 🟠 y no se publica. Las notas de Agencia EFE o Europa Press que levantan otros portales cuentan como una sola fuente. X, cuando se pueda leer, es solo una alerta.
+3. **Encuestas.** Se citan con el nombre de la encuestadora, el medio que la encargó y la fecha de campo. Desde el 24 de noviembre la ley electoral española prohíbe publicar encuestas en España; una encuesta "nueva" que circule estos días va a `alertas`.
+4. **Resultados.** El domingo 29 a la noche y el lunes 30, los números de bancas y votos salen solo del Ministerio del Interior (escrutinio provisional), con la hora y el porcentaje escrutado. El escrutinio definitivo lo hacen las Juntas Electorales Provinciales del 4 al 7 de diciembre.
+5. Las mismas reglas de precisión y estilo de siempre. Nombre completo y cargo la primera vez ("Alberto Núñez Feijóo, presidente del Partido Popular (PP)"), siglas de los partidos desarrolladas y nunca "según [medio]".
+6. Entre 4 y 8 temas, con el mismo formato JSON de la edición argentina (claves, temas con `seccion`, fuentes, primaria, alertas, para_chequear). Una o dos `idea_carrusel` con el ángulo para los pibes y pibas de la Argentina, por ejemplo la vivienda, la juventud y el voto, o qué cambia para la Argentina.
+7. Guardar en `data/espana/edicion.json` con el mismo `id`, `generado` y `tipo` de la edición argentina, y una copia en `data/espana/ediciones/<id>.json`. Después correr `armar_sitio.py`, que arma `espana.html` y el botón rojo "ELECCIONES ESPAÑA".
+8. **Sumar `data/espana` y `espana.html` al `git add`** junto con los archivos de siempre.
 
 ## Semáforo de chequeo (obligatorio en cada tema)
 - 🟢 **Confirmado**:

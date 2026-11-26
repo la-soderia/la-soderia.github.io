@@ -388,7 +388,14 @@ def fecha_larga(fecha):
     return f"{DIAS[d.weekday()]} {d.day} de {MESES[d.month - 1]}"
 
 
-def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
+LEYENDA = '<span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span>'
+LEYENDA_ES = '<span class="pill ok">🟢 2+ portales de España o Europa, o dato oficial</span><span class="pill mid">🟡 un solo portal de España o Europa</span><span class="pill warn">🟠 solo medios argentinos u otros: no se publica</span><span class="pill bad">🔴 falso</span>'
+
+# Excepción: elecciones generales de España del 29N. El botón se ve hasta el lunes 30/11 inclusive.
+ESPANA_FIN = dt.datetime(2026, 12, 1, tzinfo=AR)
+
+
+def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo="", leyenda=LEYENDA):
     titulo = "La Sodería · Motor Soda"
     desc = "Lo que pasó, chequeado: temas del día con semáforo de fuentes y última hora automática."
     return f'''<!doctype html>
@@ -405,6 +412,12 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 .btn{{font:inherit;font-weight:600;font-size:.85rem;background:var(--surface);cursor:pointer;display:inline-flex;align-items:center;min-height:38px;padding:6px 14px;border-radius:6px;border:1px solid var(--line);color:var(--fg);text-decoration:none}}
 .btn:hover{{border-color:var(--brand)}}
 .btn.on{{background:var(--brand);border-color:var(--brand);color:#fff}}
+.btn.esp{{background:#E3141B;border-color:#E3141B;color:#fff;font-weight:800;letter-spacing:.06em;gap:8px;box-shadow:0 0 0 0 rgba(227,20,27,.6);animation:latido 1.8s infinite}}
+.btn.esp::before{{content:"";width:8px;height:8px;border-radius:50%;background:#fff}}
+.btn.esp:hover{{filter:brightness(1.12);border-color:#E3141B}}
+.btn.esp.on{{outline:2px solid #fff;outline-offset:2px}}
+@keyframes latido{{0%{{box-shadow:0 0 0 0 rgba(227,20,27,.6)}}70%{{box-shadow:0 0 0 10px rgba(227,20,27,0)}}100%{{box-shadow:0 0 0 0 rgba(227,20,27,0)}}}}
+@media (prefers-reduced-motion:reduce){{.btn.esp{{animation:none}}}}
 .dia{{font-size:1.05rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-bottom:2px solid var(--brand);padding-bottom:6px}}
 .rojo{{color:var(--bad);font-weight:800}}
 .ed-sep{{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}}
@@ -415,7 +428,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
   <nav class="nav">{nav}</nav>
 </div></header>
 <main>
-<section class="ley"><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
+<section class="ley"><div class="leyenda">{leyenda}</div></section>
 {cuerpo}
 <footer><span><b>Actualizado:</b> {e(ahora_txt)}</span><span>{notas} notas leídas de {medios} medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
 </main></body></html>
@@ -431,6 +444,38 @@ def bloque_ediciones(eds):
         if len(eds) > 1:
             out += f'<p class="ed-sep">Edición de las {e(hh)} h</p>\n'
         out += seccion_edicion(ed)
+    return out
+
+
+def lead_espana():
+    return ("Elecciones generales de España del domingo 29 de noviembre. Cobertura especial hasta el lunes 30 con las repercusiones. "
+            "Todo se chequea con portales de España y Europa o con fuentes oficiales españolas.")
+
+
+def cuerpo_espana():
+    out = ""
+    ed = leer("data/espana/edicion.json")
+    if ed:
+        txt, _ = hora(ed.get("generado"))
+        out += f'<section><p class="lead">Última edición curada: {e(txt)}.</p></section>\n' + _seccion_edicion(ed, False, [])
+    else:
+        out += '<section><p class="aviso">Todavía no hay edición curada de las elecciones. La primera sale con la edición de las 15\u00a0h. Abajo tenés la cobertura automática.</p></section>\n'
+    cand = leer("data/espana/candidatos.json") or {}
+    lim = (dt.datetime.now(AR) - dt.timedelta(hours=12)).isoformat(timespec="minutes")
+    gs = [g for g in cand.get("candidatos") or [] if g.get("ultima", "") >= lim] or (cand.get("candidatos") or [])
+    gs = sorted(gs, key=lambda g: (len(g.get("medios_serios") or []), g["cant_medios"]), reverse=True)[:20]
+    items = ""
+    for g in gs:
+        cls, lab = PRE.get(g["pre_semaforo"], ("warn", g["pre_semaforo"]))
+        ns = g.get("notas") or []
+        lis = "".join(f'<li>{link(n.get("url"), "<b>" + e(n.get("medio")) + "</b>" + (" (Argentina)" if n.get("origen") == "argentina" else "") + " · " + e(n.get("titulo")))}</li>' for n in ns[:6])
+        serios = ", ".join(e(m) for m in g.get("medios_serios") or []) or "ningún portal de España o Europa"
+        items += f'''<article class="g"><div class="meta"><span class="pill {cls}">{e(lab)}</span><span class="sub">{g["cant_medios"]} medios · {g["cant_notas"]} notas</span></div>
+<h3>{e(ns[0]["titulo"] if ns else "")}</h3><span class="sub">Portales serios: {serios}</span>
+<details><summary>Links ({len(ns[:6])})</summary><ul class="fu">{lis}</ul></details></article>'''
+    out += f'''<section class="panel s-rojo"><div class="phead"><h2 class="chip rojo">Cobertura en vivo</h2><span class="pside">Automático, sin curar</span></div>
+<p class="aviso">Esto no está curado. Lo arma un script con los temas más cubiertos de las últimas 12 horas por portales de España y Europa; el semáforo es un pre-chequeo automático.</p>
+<div class="ult" style="margin-top:12px">{items or '<p class="lead">Sin datos por ahora.</p>'}</div></section>'''
     return out
 
 
@@ -450,6 +495,8 @@ def main():
         b += f'<a class="btn{" on" if activo == "ayer" else ""}" href="{prefijo}ayer.html">Noticias de ayer</a>'
         b += f'<a class="btn" href="{prefijo}index.html#periodistas">Periodistas</a>'
         b += f'<a class="btn{" on" if activo == "archivo" else ""}" href="{prefijo}archivo.html">Archivo</a>'
+        if ahora < ESPANA_FIN or activo == "espana":
+            b += f'<a class="btn esp{" on" if activo == "espana" else ""}" href="{prefijo}espana.html">ELECCIONES ESPAÑA</a>'
         return b
 
     # Hoy: solo ediciones de hoy + última hora automática.
@@ -507,6 +554,10 @@ document.querySelectorAll('.dias .btn').forEach(function(b){{
         items += f'<li><a href="archivo/{fecha}.html"><b>{e(fecha_larga(fecha).capitalize())}</b></a> · {len(eds)} edición(es), {temas} temas</li>'
     cuerpo = f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Todas las ediciones</h2></div><ul class="fu">{items or "<li>Todavía no hay ediciones.</li>"}</ul></section>'
     (BASE / "archivo.html").write_text(pagina("Archivo", "Todas las ediciones curadas, por día.", cuerpo, nav("archivo"), ahora_txt, len(notas), medios))
+    # Excepción España: página propia mientras dure la cobertura (después queda congelada).
+    if ahora < ESPANA_FIN:
+        (BASE / "espana.html").write_text(pagina("Elecciones España", lead_espana(), cuerpo_espana(), nav("espana"), ahora_txt, len(notas), medios, leyenda=LEYENDA_ES))
+
     print(f"ok | hoy {len(eds_hoy)} | ayer {len(eds_ayer)} | días en archivo {len(por_fecha)}")
 
 

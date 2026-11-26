@@ -1,0 +1,194 @@
+[
+ {
+  "nombre": "El País",
+  "dominio": "elpais.com",
+  "rss": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "El Mundo",
+  "dominio": "elmundo.es",
+  "rss": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "ABC",
+  "dominio": "abc.es",
+  "rss": "https://www.abc.es/rss/2.0/espana/",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "La Vanguardia",
+  "dominio": "lavanguardia.com",
+  "rss": "https://www.lavanguardia.com/rss/politica.xml",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "elDiario.es",
+  "dominio": "eldiario.es",
+  "rss": "https://www.eldiario.es/rss/politica/",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "El Confidencial",
+  "dominio": "elconfidencial.com",
+  "rss": "https://rss.elconfidencial.com/espana/",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "infoLibre",
+  "dominio": "infolibre.es",
+  "rss": "https://www.infolibre.es/rss",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "RTVE",
+  "dominio": "rtve.es",
+  "rss": "https://api2.rtve.es/rss/temas_espana.xml",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "Agencia EFE",
+  "dominio": "efe.com",
+  "rss": "",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Europa Press",
+  "dominio": "europapress.es",
+  "rss": "https://www.europapress.es/rss/rss.aspx?ch=00066",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Cadena SER",
+  "dominio": "cadenaser.com",
+  "rss": "",
+  "tipo": "medio",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Newtral",
+  "dominio": "newtral.es",
+  "rss": "https://www.newtral.es/feed/",
+  "tipo": "chequeo",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "Maldita.es",
+  "dominio": "maldita.es",
+  "rss": "https://maldita.es/feed/",
+  "tipo": "chequeo",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "Reuters",
+  "dominio": "reuters.com",
+  "rss": "",
+  "tipo": "europa",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "AFP",
+  "dominio": "afp.com",
+  "rss": "",
+  "tipo": "europa",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "BBC Mundo",
+  "dominio": "bbc.com",
+  "rss": "https://feeds.bbci.co.uk/mundo/rss.xml",
+  "tipo": "europa",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "Le Monde",
+  "dominio": "lemonde.fr",
+  "rss": "https://www.lemonde.fr/europe/rss_full.xml",
+  "tipo": "europa",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "The Guardian",
+  "dominio": "theguardian.com",
+  "rss": "",
+  "tipo": "europa",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Politico Europe",
+  "dominio": "politico.eu",
+  "rss": "https://www.politico.eu/feed/",
+  "tipo": "europa",
+  "seria": true,
+  "google_site": false
+ },
+ {
+  "nombre": "Ministerio del Interior",
+  "dominio": "interior.gob.es",
+  "rss": "",
+  "tipo": "oficial",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Junta Electoral Central",
+  "dominio": "juntaelectoralcentral.es",
+  "rss": "",
+  "tipo": "oficial",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Boletín Oficial del Estado (BOE)",
+  "dominio": "boe.es",
+  "rss": "",
+  "tipo": "oficial",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "Centro de Investigaciones Sociológicas (CIS)",
+  "dominio": "cis.es",
+  "rss": "",
+  "tipo": "oficial",
+  "seria": true,
+  "google_site": true
+ },
+ {
+  "nombre": "La Moncloa",
+  "dominio": "lamoncloa.gob.es",
+  "rss": "",
+  "tipo": "oficial",
+  "seria": true,
+  "google_site": true
+ }
+]

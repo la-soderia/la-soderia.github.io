@@ -43,15 +43,16 @@ p{margin:0}
 a{color:var(--accent)}
 .lead{color:var(--muted);margin-top:6px}
 .panel{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--stripe,var(--brand));border-radius:10px;padding:14px 16px 16px;display:flex;flex-direction:column;gap:12px;min-width:0}
-.s-azul{--stripe:var(--brand)}.s-naranja{--stripe:var(--naranja)}.s-amarillo{--stripe:#F9B233}.s-violeta{--stripe:var(--violeta)}
+.s-verde{--stripe:var(--verde)}.s-azul{--stripe:var(--brand)}.s-naranja{--stripe:var(--naranja)}.s-amarillo{--stripe:#F9B233}.s-violeta{--stripe:var(--violeta)}
 .phead{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
 .pside{font-size:.8rem;font-weight:600;color:var(--muted)}
 .chip{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:4px}
-.chip.azul{background:var(--azulbg);color:var(--brand)}.chip.naranja{background:var(--naranjabg);color:var(--warn)}.chip.amarillo{background:var(--amarillobg);color:var(--mid)}.chip.violeta{background:var(--violetabg);color:var(--violeta)}
+.chip.azul{background:var(--azulbg);color:var(--brand)}.chip.naranja{background:var(--naranjabg);color:var(--warn)}.chip.amarillo{background:var(--amarillobg);color:var(--mid)}.chip.violeta{background:var(--violetabg);color:var(--violeta)}.chip.verde{background:var(--okbg);color:var(--ok)}
 .claves{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
 .claves li{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
 .cf{display:flex;flex-wrap:wrap;gap:4px;font-size:0}
-.cf a{font-size:.75rem;text-decoration:none;color:var(--muted);background:var(--tag);border:1px solid var(--line);border-radius:4px;padding:1px 7px}
+.cf span,.cf a{font-size:.75rem;text-decoration:none;color:var(--muted);background:var(--tag);border:1px solid var(--line);border-radius:4px;padding:1px 7px}
+.barra{height:8px;background:var(--tag);border-radius:4px;overflow:hidden}.barra span{display:block;height:100%;background:var(--brand);border-radius:4px}
 .temas{display:flex;flex-direction:column;gap:10px}
 .tema{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:flex;flex-direction:column;gap:8px;min-width:0}
 .tema>p:not([class]){color:var(--muted)}
@@ -148,24 +149,113 @@ def tema(t):
 </article>'''
 
 
-def seccion_edicion(ed):
+SECCIONES = [
+    ("Política", "politica", "naranja"),
+    ("Economía", "economia", "amarillo"),
+    ("Juventud y educación", "juventud", "violeta"),
+    ("Sociedad y cultura", "sociedad", "verde"),
+]
+MAPA_SECCION = {"politica": 0, "economia": 1, "juventud y educacion": 2, "juventud": 2, "educacion": 2,
+                "sociedad y cultura": 3, "sociedad": 3, "cultura": 3}
+
+
+def sin_tildes(t):
+    import unicodedata
+    t = unicodedata.normalize("NFD", (t or "").lower())
+    return "".join(c for c in t if unicodedata.category(c) != "Mn").strip()
+
+
+def indice_seccion(t):
+    return MAPA_SECCION.get(sin_tildes(t.get("seccion")), 3)
+
+
+def panel_agenda(cand):
+    """Los 10 grupos de las últimas 24 h cubiertos por más medios distintos."""
+    gs = []
+    if cand and cand.get("candidatos"):
+        lim = (dt.datetime.now(AR) - dt.timedelta(hours=24)).isoformat(timespec="minutes")
+        gs = [g for g in cand["candidatos"] if g.get("ultima", "") >= lim and g.get("notas")]
+        gs = sorted(gs, key=lambda g: (g["cant_medios"], g["cant_notas"]), reverse=True)[:10]
+    if not gs:
+        cuerpo = '<p class="lead">Sin datos por ahora.</p>'
+    else:
+        tope = max(g["cant_medios"] for g in gs) or 1
+        cuerpo = '<div class="ult">'
+        for g in gs:
+            ns = g["notas"][:5]
+            lis = "".join(f'<li>{link(n.get("url"), "<b>" + e(n.get("medio")) + "</b> · " + e(n.get("titulo")))}</li>' for n in ns)
+            pct = max(4, round(100 * g["cant_medios"] / tope))
+            cuerpo += f'''<article class="g"><h3>{e(g["notas"][0]["titulo"])}</h3>
+<div class="barra" aria-hidden="true"><span style="width:{pct}%"></span></div>
+<span class="sub">{g["cant_medios"]} medios · {g["cant_notas"]} notas</span>
+<details><summary>Links ({len(ns)})</summary><ul class="fu">{lis}</ul></details></article>'''
+        cuerpo += "</div>"
+    return f'<section class="panel s-azul" id="agenda"><div class="phead"><h2 class="chip azul">Agenda general</h2><span class="pside">Lo que cubren todos los medios</span></div>{cuerpo}</section>\n'
+
+
+def ficha_periodista(p, auto=False):
+    notas = "".join(f'<li>{link(n.get("url"), e(n.get("titulo")) + (" · " + e(n.get("medio")) if n.get("medio") else ""))}</li>' for n in p.get("notas") or [])
+    temas = "".join(f"<span>{e(t)}</span>" for t in p.get("temas") or [])
+    return f'''<article class="tema">
+  <div class="meta"><span class="sec">{e(p.get("rol", ""))}</span>{'<span class="sub">Automático, sin curar</span>' if auto else ""}</div>
+  <h3>{e(p.get("nombre"))}</h3>
+  {f'<p class="cf">{temas}</p>' if temas else ""}
+  {f'<p>{e(p["posicion"])}</p>' if p.get("posicion") else ""}
+  {f'<ul class="fu">{notas}</ul>' if notas else '<p class="lead">Sin publicaciones en las últimas 48 h</p>'}
+</article>'''
+
+
+def panel_periodistas(ed_pers, auto_pers, ident=True):
+    """ed_pers: periodistas curados de la edición; auto_pers: lista (ya armada) de los que faltan, automáticos."""
+    fichas = "".join(ficha_periodista(p) for p in ed_pers) + "".join(ficha_periodista(p, True) for p in auto_pers)
+    if not fichas:
+        return ""
+    return f'<section class="panel s-azul"{" id=periodistas" if ident else ""}><div class="phead"><h2 class="chip azul">Periodistas</h2><span class="pside">Qué publican y cómo se posicionan</span></div><div class="temas">{fichas}</div></section>\n'
+
+
+def auto_periodistas(excluir, crudo_notas):
+    lista = leer("data/periodistas.json") or []
+    lim = (dt.datetime.now(AR) - dt.timedelta(hours=48)).isoformat(timespec="minutes")
+    out = []
+    for p in lista:
+        if p["nombre"] in excluir:
+            continue
+        ns = [n for n in crudo_notas if p["nombre"] in (n.get("periodistas") or []) and (n.get("fecha") or "") >= lim]
+        ns.sort(key=lambda n: n["fecha"], reverse=True)
+        out.append({"nombre": p["nombre"], "rol": p.get("rol", ""), "notas": ns[:5]})
+    return out
+
+
+def seccion_edicion(ed, home=False, cand=None, crudo_notas=None):
     aviso = ""
     if ed.get("tipo") == "hipotetica":
         aviso = '<section><p class="aviso"><b>Edición hipotética.</b> ' + e(ed.get("nota") or "Es una prueba: la oficial sale a las 11 h.") + '</p></section>\n'
-    return aviso + _seccion_edicion(ed)
+    return aviso + (panel_agenda(cand) if home else "") + _seccion_edicion(ed, home, crudo_notas or [])
 
 
-def _seccion_edicion(ed):
+def _seccion_edicion(ed, home=False, crudo_notas=None):
     claves = "".join(
         f'<li><p>{e(c.get("texto"))}</p><p class="cf">' + " · ".join(link(f.get("url"), e(f.get("medio"))) for f in c.get("fuentes") or []) + "</p></li>"
         for c in ed.get("claves") or [])
-    temas = "\n".join(tema(t) for t in ed.get("temas") or [])
     pc = "".join(f'''<article class="tema chk"><div class="meta"><span class="pill mid">🟡 Parcial</span></div><h3>{e(p.get("titulo"))}</h3><p>{e(p.get("resumen"))}</p>{f'<div class="alert"><span class="lbl">Qué falta</span><p>{e(p["falta"])}</p></div>' if p.get("falta") else ""}{f'<details><summary>Fuentes ({len(p["fuentes"])})</summary><ul class="fu">{fuentes(p["fuentes"])}</ul></details>' if p.get("fuentes") else ""}</article>''' for p in ed.get("para_chequear") or [])
     out = ""
     if claves:
         out += f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Lo que tenés que saber</h2><span class="pside">Claves de la edición</span></div><ol class="claves">{claves}</ol></section>\n'
+    temas = ed.get("temas") or []
     if temas:
-        out += f'<section class="panel s-naranja"><div class="phead"><h2 class="chip naranja">Temas del día</h2><span class="pside">Chequeados con semáforo</span></div><div class="temas">{temas}</div></section>\n'
+        if home:
+            out += '<section><nav class="nav secciones">' + "".join(f'<a class="btn" href="#{i}">{e(n)}</a>' for n, i, _ in SECCIONES) + "</nav></section>\n"
+        grupos = [[] for _ in SECCIONES]
+        for t in temas:
+            grupos[indice_seccion(t)].append(t)
+        for (nombre, ident, color), ts in zip(SECCIONES, grupos):
+            if not ts and not home:
+                continue
+            cont = "\n".join(tema(t) for t in ts) if ts else '<p class="lead">Sin temas curados en esta edición</p>'
+            out += f'<section class="panel s-{color}"{f" id={ident}" if home else ""}><div class="phead"><h2 class="chip {color}">{e(nombre)}</h2><span class="pside">Chequeados con semáforo</span></div><div class="temas">{cont}</div></section>\n'
+    ed_pers = ed.get("periodistas") or []
+    auto = auto_periodistas({p.get("nombre") for p in ed_pers}, crudo_notas or []) if home else []
+    out += panel_periodistas(ed_pers, auto, home)
     if pc:
         out += f'<section class="panel s-amarillo"><div class="phead"><h2 class="chip amarillo">Para chequear</h2><span class="pside">Una sola fuente</span></div><div class="temas">{pc}</div></section>\n'
     return out or '<section><p class="lead">Todavía no hay edición curada.</p></section>'
@@ -279,6 +369,7 @@ def main():
     def nav(activo, prefijo=""):
         b = f'<a class="btn{" on" if activo == "hoy" else ""}" href="{prefijo}index.html">Hoy</a>'
         b += f'<a class="btn{" on" if activo == "ayer" else ""}" href="{prefijo}ayer.html">Noticias de ayer</a>'
+        b += f'<a class="btn" href="{prefijo}index.html#periodistas">Periodistas</a>'
         b += f'<a class="btn{" on" if activo == "archivo" else ""}" href="{prefijo}archivo.html">Archivo</a>'
         return b
 
@@ -287,12 +378,12 @@ def main():
     if eds_hoy:
         txt, _ = hora(eds_hoy[0].get("generado"))
         lead = f"Última edición curada: {e(txt)}."
-        cuerpo = seccion_edicion(eds_hoy[0])
+        cuerpo = seccion_edicion(eds_hoy[0], True, cand, notas)
         if len(eds_hoy) > 1:
             cuerpo += '<details class="ed-sep"><summary>Ver también las ediciones anteriores de hoy</summary>' + bloque_ediciones(eds_hoy[1:]) + "</details>"
     else:
         lead = "La edición curada de hoy sale a las 11 h. Mientras tanto, abajo tenés la última hora automática."
-        cuerpo = ""
+        cuerpo = panel_agenda(cand) + panel_periodistas([], auto_periodistas(set(), notas))
     cuerpo += seccion_ultima(cand)
     (BASE / "index.html").write_text(pagina("", lead, cuerpo, nav("hoy"), ahora_txt, len(notas), medios))
 

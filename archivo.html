@@ -35,15 +35,16 @@ p{margin:0}
 a{color:var(--accent)}
 .lead{color:var(--muted);margin-top:6px}
 .panel{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--stripe,var(--brand));border-radius:10px;padding:14px 16px 16px;display:flex;flex-direction:column;gap:12px;min-width:0}
-.s-azul{--stripe:var(--brand)}.s-naranja{--stripe:var(--naranja)}.s-amarillo{--stripe:#F9B233}.s-violeta{--stripe:var(--violeta)}
+.s-verde{--stripe:var(--verde)}.s-azul{--stripe:var(--brand)}.s-naranja{--stripe:var(--naranja)}.s-amarillo{--stripe:#F9B233}.s-violeta{--stripe:var(--violeta)}
 .phead{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
 .pside{font-size:.8rem;font-weight:600;color:var(--muted)}
 .chip{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:4px}
-.chip.azul{background:var(--azulbg);color:var(--brand)}.chip.naranja{background:var(--naranjabg);color:var(--warn)}.chip.amarillo{background:var(--amarillobg);color:var(--mid)}.chip.violeta{background:var(--violetabg);color:var(--violeta)}
+.chip.azul{background:var(--azulbg);color:var(--brand)}.chip.naranja{background:var(--naranjabg);color:var(--warn)}.chip.amarillo{background:var(--amarillobg);color:var(--mid)}.chip.violeta{background:var(--violetabg);color:var(--violeta)}.chip.verde{background:var(--okbg);color:var(--ok)}
 .claves{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
 .claves li{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
 .cf{display:flex;flex-wrap:wrap;gap:4px;font-size:0}
-.cf a{font-size:.75rem;text-decoration:none;color:var(--muted);background:var(--tag);border:1px solid var(--line);border-radius:4px;padding:1px 7px}
+.cf span,.cf a{font-size:.75rem;text-decoration:none;color:var(--muted);background:var(--tag);border:1px solid var(--line);border-radius:4px;padding:1px 7px}
+.barra{height:8px;background:var(--tag);border-radius:4px;overflow:hidden}.barra span{display:block;height:100%;background:var(--brand);border-radius:4px}
 .temas{display:flex;flex-direction:column;gap:10px}
 .tema{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:flex;flex-direction:column;gap:8px;min-width:0}
 .tema>p:not([class]){color:var(--muted)}
@@ -85,10 +86,10 @@ footer{font-size:.8rem;color:var(--muted);border-top:1px solid var(--line);paddi
 <header class="band"><div class="band-in">
   <div class="topline"><a class="wm" href="index.html" aria-label="Soda, ir a hoy"><span class="wordmark">soda<span>.</span></span><h1>Archivo</h1></a><span class="eyebrow">Motor de relevamiento • La Sodería</span></div>
   <p class="lead">Todas las ediciones curadas, por día.</p>
-  <nav class="nav"><a class="btn" href="index.html">Hoy</a><a class="btn" href="ayer.html">Noticias de ayer</a><a class="btn on" href="archivo.html">Archivo</a></nav>
+  <nav class="nav"><a class="btn" href="index.html">Hoy</a><a class="btn" href="ayer.html">Noticias de ayer</a><a class="btn" href="index.html#periodistas">Periodistas</a><a class="btn on" href="archivo.html">Archivo</a></nav>
 </div></header>
 <main>
 <section class="ley"><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
 <section class="panel s-azul"><div class="phead"><h2 class="chip azul">Todas las ediciones</h2></div><ul class="fu"><li><a href="archivo/2026-11-25.html"><b>Miércoles 25 de noviembre</b></a> · 1 edición(es), 10 temas</li></ul></section>
-<footer><span><b>Actualizado:</b> miércoles 25 de noviembre de 2026, 23:30 h</span><span>2083 notas leídas de 366 medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
+<footer><span><b>Actualizado:</b> miércoles 25 de noviembre de 2026, 23:35 h</span><span>2110 notas leídas de 373 medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
 </main></body></html>

@@ -30,6 +30,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 FUENTES = RAIZ / "data" / "fuentes.json"
 BUSQUEDAS = RAIZ / "data" / "busquedas.txt"
+PERIODISTAS = RAIZ / "data" / "periodistas.json"
 CRUDO = RAIZ / "data" / "crudo.json"
 DIAS = 7
 MAX_POR_FEED = 150
@@ -176,6 +177,62 @@ def cargar_busquedas():
     return res
 
 
+def cargar_periodistas():
+    try:
+        return json.loads(PERIODISTAS.read_text(encoding="utf-8"))
+    except Exception:
+        return []
+
+
+def dominio_coincide(dom, pdom):
+    return bool(pdom) and (dom == pdom or dom.endswith("." + pdom))
+
+
+def apellido_en(titulo, nombre):
+    """True si el titulo contiene algun apellido (palabras del nombre salvo la primera, de 4+ letras)."""
+    t = " " + normaliza(titulo) + " "
+    toks = [normaliza(x) for x in nombre.split()[1:]]
+    return any(len(x) >= 4 and " " + x + " " in t for x in toks)
+
+
+def etiqueta_per(p):
+    return "periodista:" + p["nombre"]
+
+
+def tarea_periodista(p, fuentes_por_dom):
+    """Busqueda en Google Noticias por el nombre entre comillas, ultimas 48 h.
+    No se descarta por la regla del exterior si el dominio es el del periodista."""
+    q = urllib.parse.quote_plus('"' + p["nombre"] + '" when:2d')
+    notas = []
+    for it in items_de(descargar(GNEWS.format(q=q))):
+        if not it["titulo"] or not it["link"]:
+            continue
+        medio, dom = it["medio_src"], it["dominio_src"]
+        titulo = it["titulo"]
+        if medio and titulo.endswith(" - " + medio):
+            titulo = titulo[: -len(medio) - 3].strip()
+        f = fuentes_por_dom.get(dom)
+        if not (dom.endswith(".ar") or f or dominio_coincide(dom, p.get("dominio"))):
+            continue
+        notas.append(armar(titulo, it["link"], resuelve_google(it["link"]), it["fecha"],
+                           (f["nombre"] if f else medio) or dom, dom,
+                           f["tipo"] if f else "medio", bool(f and f["lista_seria"]), etiqueta_per(p)))
+    return notas, 0
+
+
+def marcar_periodistas(notas, periodistas):
+    """Recalcula el campo 'periodistas' de cada nota."""
+    for n in notas:
+        marcados = []
+        for p in periodistas:
+            dom_ok = dominio_coincide(n.get("dominio", ""), p.get("dominio"))
+            ape = apellido_en(n["titulo"], p["nombre"])
+            de_busqueda = etiqueta_per(p) in n.get("busquedas", [])
+            if (de_busqueda and (dom_ok or ape)) or (dom_ok and ape):
+                marcados.append(p["nombre"])
+        n["periodistas"] = marcados
+
+
 def tarea_rss(f):
     """Un feed RSS directo de fuentes.json."""
     notas = []
@@ -273,6 +330,10 @@ def main():
     for q, abierta in cargar_busquedas():
         trabajos.append(("gnews " + q, lambda q=q, a=abierta: tarea_gnews(q, a, "1d", por_dom, q)))
 
+    periodistas = cargar_periodistas()
+    for p in periodistas:
+        trabajos.append(("periodista " + p["nombre"], lambda p=p: tarea_periodista(p, por_dom)))
+
     def correr(t):
         nombre, fn = t
         try:
@@ -306,6 +367,7 @@ def main():
     todas = fusionar(previas + nuevas_lotes, inicio)
     limite = inicio - timedelta(days=DIAS)
     todas = [n for n in todas if datetime.fromisoformat(n["fecha"]) >= limite]
+    marcar_periodistas(todas, periodistas)
     todas.sort(key=lambda n: n["fecha"], reverse=True)
     nuevas = sum(1 for n in todas if n["id"] not in ids_previos and normaliza(n["titulo"]) not in titulos_previos)
 

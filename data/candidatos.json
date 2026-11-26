@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-25T23:29-03:00",
+ "generado": "2026-11-25T23:35-03:00",
  "horas": 12,
- "notas_ventana": 1254,
+ "notas_ventana": 1260,
  "descartadas": {
   "ruido": 90,
   "exterior": 81
  },
- "grupos": 862,
+ "grupos": 867,
  "candidatos": [
   {
    "id": "22decc0281",
@@ -295,8 +295,8 @@
     "ambito.com",
     "perfil.com"
    ],
-   "cant_medios": 4,
-   "cant_notas": 4,
+   "cant_medios": 5,
+   "cant_notas": 5,
    "ultima": "2026-11-25T22:19:19-03:00",
    "notas": [
     {
@@ -323,6 +323,15 @@
      "dominio": "ellitoral.com.ar",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUQ0UFo0S1Q0M0Y2SGdCbXI2MjNTdFN5VjZDTTRzN1llSmFCM2w1YWdRMlVuQVlmUDROak1kUkFpaDhodk1MOEtwZm9OcWNQOHVJUFQ3OHFSU2pUVFAxd0tDOVdBbWkyUDNQWGpSc05TZzZJZDgxSHo2bGxKTm9YZ1R3bmRDV0p6eE82VnFqWWx5RmJzVjhFUXNOVDBBQjc5ZUlJdWluM3NpZTNPMmMzbHBSZWNSaXNYWUpr?oc=5",
      "fecha": "2026-11-25T20:40:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Milei suspendió su visita a Corrientes por su agenda en Paraguay",
+     "medio": "Corrientes en el aire",
+     "dominio": "corrientesenelaire.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOFBIYmVGVW9reXhKRVdqQmtjUXVuVUE4RTBfZm5HY0YwclpHQ21hTVltZ0NwN21YT1NsN3p4WlBydkc1RXVOcTBma2JPYnhVU2t3UTluSGR4Nk1fQUYteDd0MHV0YVNaTkhNcmZlcmJVRHBHMEFJcDVjdkU1VWFwbi1wdVNncWdBREs4Z0xiV044aFQwOGRpTWJJSGhfai0yS2dZMG5SX0ZzWnM?oc=5",
+     "fecha": "2026-11-25T21:58:44-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
@@ -421,46 +430,6 @@
      "dominio": "cholilaonline.ar",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUFVdGRwOXhXWVVNVWFTdEEtN0h5Z3VXWFZLbElQQzY0Y3FGSU5vNk95RS12NmdQRUJSS2xJOE84aDFQdUUtU3lzcm1LY1k0YVg2MlIxNEF1UDEzOUxCaWxXWlRHVncwQllLUF92MWdKQUhPbzdOTDJacWhmcjlQaU9uYktCZVEyUTJ2Z2NJYi1ZNVlNN01wRmh4MTBZN1Vxck9ReGE4ZjFrVWFmZk1Xcg?oc=5",
      "fecha": "2026-11-25T16:10:42-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "919cfe1d1b",
-   "pre_semaforo": "verde?",
-   "medios_serios": [
-    "lapoliticaonline.com",
-    "pagina12.com.ar"
-   ],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T14:14:30-03:00",
-   "notas": [
-    {
-     "titulo": "Caputo dijo que no le preocupan el dólar y el riesgo país, y volvieron a subir",
-     "medio": "La Política Online",
-     "dominio": "lapoliticaonline.com",
-     "url": "https://www.lapoliticaonline.com/economia/caputo-dijo-que-no-le-preocupan-el-dolar-y-el-riesgo-pais-y-volvieron-a-subir/",
-     "fecha": "2026-11-25T11:29:54-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Habló Caputo y el riesgo país volvió a subir",
-     "medio": "Página/12",
-     "dominio": "pagina12.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJxV3lnZUI0RDN0UDk2NXExcFg1cENROE9mOUhEUnZWdzZlWUdiaXJqblRvYTdKRERDTGhVMzR1QzNTaDhqNGVUekRaSUJzSmZPQ2cyd2Rubm1RQ3BUUW9iYTFualduc2JjdVdtbDhTVm83RTI3MU1HQWNRaDlVZlJCZ3ZWV1pKWmxFTw?oc=5",
-     "fecha": "2026-11-25T12:06:31-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Números en rojo: el riesgo país no afloja, volvió a subir y el dólar oficial anotó un nuevo máximo",
-     "medio": "Diario Mendoza Today",
-     "dominio": "mendozatoday.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmxmaWNGU29sa3ZPcGNNb2N0X0owQV9WQnBKTGVQYktTNEYyeVkyc1FUZGlfSS15MUlhblB5Tm5MSURXYzBVY2Q3ZWpnSmJTRXlHendwd2FVX194dWZHNnJmQ3c0SDBZVU1xX3lRZ1B4d281OWxKNlJqNlZtMUFEdkZvV3pWcG5TRU94NGt6V291TFBNU0xmZ2xjaU84YkNhZWU2UTFQMDBWek9oWlRtd0l3YWRYWlpqb1c5dW8td1dueFI3Szk4aFlsRXowbUXSAcgBQVVfeXFMUDEwenNkRWlXd2dGcWpGSkZJMTRvNjVrUnVkakxRQkpUTFliejk0dGFRWi1JcmpQSWxtUF9JM0JKTUxUdldvUmFqV0R2NTNFZzF1ZzA4NHhJU0JTNmRDM0VaWnRwdXlrRWRaYk5IdUszd1ZpZ3lPdzk5bHZXSlZHSGRPZzU3eTByb3gtdUR2QlV5cGI4eHRGdnhWZ2xuZFJVOENVNTJ1OTl4dDQxMWtkQXhmRi1iWXdodTFuVl9oY0xZV2FRNnBHZVQ?oc=5",
-     "fecha": "2026-11-25T14:14:30-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -1289,6 +1258,45 @@
    ]
   },
   {
+   "id": "5e17a9ee38",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "ambito.com"
+   ],
+   "cant_medios": 3,
+   "cant_notas": 3,
+   "ultima": "2026-11-25T14:25:14-03:00",
+   "notas": [
+    {
+     "titulo": "Paro universitario de 24 horas y movilización al Congreso en rechazo al Presupuesto 2027",
+     "medio": "Ámbito",
+     "dominio": "ambito.com",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDUzZ3hRdmQ2V2ZiZmRwaEIwODJIV0hhWEVObE9vUXJiWWExWlNfb3lOQ0ptQWQxUlUyNTQzTVp1R1dUaEM5R1Q4cWpmYUVsSWZHVzdWc2ZCaHdyQUk0dHBkQ1hzU1gzRTktX3R4WFplUGp6V0lUYTZhdHpFTU9jSFRTNW14cFZFdFVyZ3o4UWY1OThwYkJrSGpmZXoxeFVXMkN6NG1pQ0pkZGtZRnF2OFZtWUtXMndadlN0dFh3N1JIZFNVZ2RWaTBCNkpGU3BKZm5fVtIB1AFBVV95cUxOVDUzZ3hRdmQ2V2ZiZmRwaEIwODJIV0hhWEVObE9vUXJiWWExWlNfb3lOQ0ptQWQxUlUyNTQzTVp1R1dUaEM5R1Q4cWpmYUVsSWZHVzdWc2ZCaHdyQUk0dHBkQ1hzU1gzRTktX3R4WFplUGp6V0lUYTZhdHpFTU9jSFRTNW14cFZFdFVyZ3o4UWY1OThwYkJrSGpmZXoxeFVXMkN6NG1pQ0pkZGtZRnF2OFZtWUtXMndadlN0dFh3N1JIZFNVZ2RWaTBCNkpGU3BKZm5fVg?oc=5",
+     "fecha": "2026-11-25T13:59:35-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Paro docente universitario por 24 horas contra el Presupuesto: qué reclaman los gremios",
+     "medio": "Diario Mendoza",
+     "dominio": "diariomendoza.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEs2ZThSSjY4Y2JkVS04U1ZNVzZjRm1xUURUd1A1RHlvN0dEai00WlFHenJ5cHFhMHVBdGRpa21NWTBZVDBLaUtLb2xhXy1jOWxSV1EyWHplTk1weDFuUjBWZDIyZDhxdFFDckMyR0ZIYlI1QmRmTy02Y1RuRnFjZ0JoRTRLRjVheEF2UWJNTWgtZ0Y3a2xEMld2UmhrWHlZeE1wZVhYV1lyaHJxZmk2R3pTbkPSAboBQVVfeXFMTTlyNUZaZWdmakdNa3pZMGc1NUV6SnpSbzVVS2NPY09NVWx2NFhaMzBMUENCYXBMTTJpcGlPY2liWUVZMHJQS0ZFY3M5eEluZnZ3RDZPRGFPVDhrYjF0OGhFbjVxdjNiT25USDIteXppc19hb1A3NTlTWTBtZ1ZpMGlLQ1hCLTFfLWFuT3Q3OXV4NmhWcFB2VWxOeXYyS0tQYmxQVWhHdkxGank0OVZrMGF5bVQxTnBZbi13?oc=5",
+     "fecha": "2026-11-25T11:45:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Paro universitario: CONADU y gremios de distintas universidades rechazan el Presupuesto 2027",
+     "medio": "Estado de Alerta",
+     "dominio": "estadodealerta.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS01FSnBpVlIzVmRuODRPYVBpSmNNXzBVdHJiYlNobTJZbENPSno3NnVqYTk3T2g2blc5R1c2TXJIWmtVaDF6R2dfemtvRl9KakQ1ZTlsQlpPNkVqV29KbGhmdlV3WlliOXluRlA0RTZUdk91Y1lJVkswd3pBai0zLVRSeWZWWjZ4b3ZUSEQ1WVNCdlBGdzFuZnRsbjkyMC1xSk1uODBzQnJVczdETTVQZzRhb0pLbWphdncwdGRNTdIBxAFBVV95cUxNUXdoTFhPQmdRYjNMSUhwSXRGUnJzQTktclNwektac3ZXM3BmNWYtX0RHSVBhb3EzWm56R2s5QzNBMGpnU2tELWRwc1VDRkk2bnpZM1JNNjBOMVQyS0VyRm5QV1F5QW5UdnRxWG43dG1EcFhoYlFyWUdhRDJyaXhMRS1ydVk2aURTWW4tN3RJUWNYZVBHTUFoZHhRVFdqc2dUeV9RZVcyeUg5d0xfUktvRk1iMUNFVkZ0TzQyTGdEOExZSS1H?oc=5",
+     "fecha": "2026-11-25T14:25:14-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "b9c14bc503",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -1907,30 +1915,30 @@
    ]
   },
   {
-   "id": "35df1a53d8",
+   "id": "919cfe1d1b",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
-    "infobae.com"
+    "pagina12.com.ar"
    ],
    "cant_medios": 2,
    "cant_notas": 2,
-   "ultima": "2026-11-25T15:35:02-03:00",
+   "ultima": "2026-11-25T14:14:30-03:00",
    "notas": [
     {
-     "titulo": "Elecciones en España 2026: cómo votar en Argentina y todo lo que hay que saber",
-     "medio": "Infobae",
-     "dominio": "infobae.com",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0FJa3Z5ckVSUXdPMFhyZGVScVJYUlBnd1JHYVNvNDJCRWtjakhUZ0hYX0VHWEljNTdVLUZsOVBUNnFndWVnS2dkYllrZDdBRVhnbkdrSUV0cjQxSF9IcTBNUnczV1JRUWZOZy1HWXdmeENVM1FUVnRiWm9tdUF6dWo0Mk1NMWppQ0xER042a2w4d3VTMmw4blFxc0NIYjREQXJJSEFHUm0zVkVaWURwVmMxUmJiNHJIMWVMYTFlSdIB2gFBVV95cUxNTWdFSk9zVEdsSXQyRlhTTGR3RXV0OEZNRG9ibkFJWTdkdkJIWEFLOXNocjBYWHNha3BaUlhCMlBmc29OWVB6Sk5DazhadEpVMGt6Z2hOZG5pU1VtNWZnUEI3UFBzQlZuRkJJb05BR0NGX0R5bDFGWmZZelpFQWIxYWVMRTk1Tks2cVFQWkVfVnVZLXFocWNFMzNIb3FlcWNCbWtOVmF5Sk4yaV85ODg5ZnhOV0Jlb0IxcTZZNlZEODZBT2lxeFVLTkFvdEowWTJvcWpXejdLdExZZw?oc=5",
-     "fecha": "2026-11-25T11:32:00-03:00",
+     "titulo": "Habló Caputo y el riesgo país volvió a subir",
+     "medio": "Página/12",
+     "dominio": "pagina12.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJxV3lnZUI0RDN0UDk2NXExcFg1cENROE9mOUhEUnZWdzZlWUdiaXJqblRvYTdKRERDTGhVMzR1QzNTaDhqNGVUekRaSUJzSmZPQ2cyd2Rubm1RQ3BUUW9iYTFualduc2JjdVdtbDhTVm83RTI3MU1HQWNRaDlVZlJCZ3ZWV1pKWmxFTw?oc=5",
+     "fecha": "2026-11-25T12:06:31-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Elecciones en España 2026: qué argentinos pueden votar y hasta cuándo hay tiempo de hacerlo",
-     "medio": "Diario Río Negro",
-     "dominio": "rionegro.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1ZIbUl1aWdWQVNPeUdZclM5WC1TUjVrZXFHLVZCOV9kbm9rUVZlUGJiYzcwN3hsRDlSY1drSTdJU3pBSXdtZWJQMUJrUEFwRndFcmhiRTl2RHE1NXEtUHQ2SFZTUElmQ0lnZVEwdkZ0dmxlRXpYdE40LUZwSVZEenFrMlRucU5BV1VLWURJRUZXTDlXZGVRTG1OckFYUEJ5RzVIWHF1RzdPNGZtVFR2MXVLQ0VMb2FSakdzY2lNeU1HOHJqSVQxMGcxMDFjOEw4N19TQTB30gHWAUFVX3lxTE9vVkhtSXVpZ1ZBU095R1lyUzlYLVNSNWtlcUctVkI5X2Rub2tRVmVQYmJjNzA3eGxEOVJjV2tJN0lTekFJd21lYlAxQmtQQXBGd0VyaGJFOXZEcTU1cS1QdDZIVlNQSWZDSWdlUTB2RnR2bGVFelh0TjQtRnBJVkR6cWsyVG5xTkFXVUtZRElFRldMOVdkZVFMbU5yQVhQQnlHNUhYcXVHN080Zm1UVHYxdUtDRUxvYVJqR3NjaU15TUc4cmpJVDEwZzEwMWM4TDg3X1NBMHc?oc=5",
-     "fecha": "2026-11-25T15:35:02-03:00",
+     "titulo": "Números en rojo: el riesgo país no afloja, volvió a subir y el dólar oficial anotó un nuevo máximo",
+     "medio": "Diario Mendoza Today",
+     "dominio": "mendozatoday.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmxmaWNGU29sa3ZPcGNNb2N0X0owQV9WQnBKTGVQYktTNEYyeVkyc1FUZGlfSS15MUlhblB5Tm5MSURXYzBVY2Q3ZWpnSmJTRXlHendwd2FVX194dWZHNnJmQ3c0SDBZVU1xX3lRZ1B4d281OWxKNlJqNlZtMUFEdkZvV3pWcG5TRU94NGt6V291TFBNU0xmZ2xjaU84YkNhZWU2UTFQMDBWek9oWlRtd0l3YWRYWlpqb1c5dW8td1dueFI3Szk4aFlsRXowbUXSAcgBQVVfeXFMUDEwenNkRWlXd2dGcWpGSkZJMTRvNjVrUnVkakxRQkpUTFliejk0dGFRWi1JcmpQSWxtUF9JM0JKTUxUdldvUmFqV0R2NTNFZzF1ZzA4NHhJU0JTNmRDM0VaWnRwdXlrRWRaYk5IdUszd1ZpZ3lPdzk5bHZXSlZHSGRPZzU3eTByb3gtdUR2QlV5cGI4eHRGdnhWZ2xuZFJVOENVNTJ1OTl4dDQxMWtkQXhmRi1iWXdodTFuVl9oY0xZV2FRNnBHZVQ?oc=5",
+     "fecha": "2026-11-25T14:14:30-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -13026,6 +13034,61 @@
    ]
   },
   {
+   "id": "61586acf44",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 5,
+   "cant_notas": 5,
+   "ultima": "2026-11-25T23:31:27-03:00",
+   "notas": [
+    {
+     "titulo": "El gobierno de Brasil analiza invitar a la asunción de Lula a otra autoridad argentina en lugar de Javier Milei",
+     "medio": "TN",
+     "dominio": "tn.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeklCWmFfdlctRkl0RWtKeGt0am5udnkxQkVnZnVtYWI5Q0JOT0xIQ1QzV0pXQWczY2w5V1FLX0tnU09hMU8zSXZKN0NzRWRjOGhlT2NMVUFidGdBaXRDVFZNNkVNOE9xbmxjVktFWlcxdXJ0MzF6S2Zmb1hYY0dVQjlDZnFkWUkwRk4yMnhYUElwamJrWkV6dGJFY2hlVk1Heno1bTY5N0R1VGVUaHNFTGE2dTFnMGNyWWZORWdWNlFfTnh1cU5VckZrQzdCSC0wQnRLUUVPdGtzNmdWV3kwdm9uVzB1M1UwT0lV0gH_AUFVX3lxTE1KLVYyZlZidXVGM092WTQzcnNyVTcwWkZZRm91VzA0QU40WVdJLTJfbWg3azlNOFNTdnhtRDRrMHRoOEVmSi1aWU9ZVjV4VFJVX3NoMHRPV1JNYzh1emt5SFZReEJQSzR6OThKaVVqelQtU1lXYThiRi1nU2dfSE4zQVZhTzljTlA5M0VTV1pMaXZxQm9hQVZhY0RiekluVkFjU0o4S2p3UTNEZXp5VFJFbkRod0l0bmtrVzEtSnFwajJNN1JUTG9tU1lLWG5zUXE5QnBzT3B6emUxYW5UYzR2Zk1XeWhBUGc2RlBYdUNmejhvS1hsam1hZ3dvT1ZBRQ?oc=5",
+     "fecha": "2026-11-25T17:28:29-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Tras cancelar la invitación a Javier Milei, Lula evalúa convocar a otro dirigente argentino a su asunción",
+     "medio": "Nexofin",
+     "dominio": "nexofin.com",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXZUanE4UTJ5UW9CZjJhQmRGMWpJZ1RzTzVxc0VDR1pGSERJN3hYU2pzZnJsUkpwM2hQWDdPVC03UkI5UVVHc3dmT1lidFdBMFdMTE9GUk52SjQxNlJMUlYyYWdRYWtjc3RpYXBScnNQa1QxYlQyNE1yTTVkWXBNVEJ0QkJmMldnMEd6c0p3Vk5tN1dyYWtOd2xFeHc5RkZ3RUZPS2RzVTcya1dyWWl3THpIZThscUJrdHhIbzFkLVpWMXpWZmRUSXhWX040ZXd1cFRZQ0RJYXNUY0hLRjBGNmdkUELSAeQBQVVfeXFMTnV2VGpxOFEyeVFvQmYyYUJkRjFqSWdUc081cXNFQ0daRkhESTd4WFNqc2ZybFJKcDNoUFg3T1QtN1JCOVFVR3N3Zk9ZYnRXQTBXTExPRlJOdko0MTZSTFJWMmFnUWFrY3N0aWFwUnJzUGtUMWJUMjRNck01ZFlwTVRCdEJCZjJXZzBHenNKd1ZObTdXcmFrTndsRXh3OUZGd0VGT0tkc1U3MmtXcllpd0x6SGU4bHFCa3R4SG8xZC1aVjF6VmZkVEl4Vl9ONGV3dXBUWUNESWFzVGNIS0YwRjZnZFBC?oc=5",
+     "fecha": "2026-11-25T19:46:39-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Brasil evalúa invitar a otro representante argentino a la asunción de Lula en lugar de Milei",
+     "medio": "DameNoticias",
+     "dominio": "damenoticias.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlpXN1RQMnZQNnJVZDN5RExIeVMtZWltZ1lFWEJGYWY0bS01Y2VITHZsLXJMczg5M0U4emhKSEwxVUJORXFDWUxfUTdsM3ZwbjhPMDY1LTUtR085RDNIQ0I4WE1DMnZOQlRKUVhZZmI1RkVWYnJET2VWTFd6YXNtZHdWYzl2eVc0Smk5UGRQY3RQeVIzbHpCYU1oSjFfa2ZVNDU1WUV5TTZPaU1ra0k2cDExWHJ4eDVWVXc2RU5ldzk3RWJuWlNlSTRObWhJdw?oc=5",
+     "fecha": "2026-11-25T21:59:19-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Brasil contempla invitar a otra autoridad argentina en lugar de Milei a la asunción de Lula",
+     "medio": "Radiofonica 100.7",
+     "dominio": "radiofonica.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmtsQzdSRVQ2V2pVZkhBOVhVc0E3Q1Vsemh6eGhPaldMeGJyNm1ETmQ1UmI0WlFtY0txMTg0OGNpaVVDMDdJYjlQTjNDcjJwY0FuWTZjQ3FDbzNYQWtyYnd1djFUaTF6VHM5T3lDc0ZVb3lYam44TmFMemtpTmRzRm9QWF9KUEVZdzNQbUpVUzc5TXdKYlBoM0ZIMVU5OGhVLVJXaXdodUtuOTc3YXVuNTdta0VZa0k?oc=5",
+     "fecha": "2026-11-25T22:03:41-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Brasil evalúa invitar a otra autoridad argentina en lugar de Javier Milei a la asunción de Lula da Silva",
+     "medio": "Radio Mitre",
+     "dominio": "radiomitre.cienradios.com",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV2plZFBXWXBkV21PRnc3ZTdCZFRaUlVMVG5ybG9NQnhoR3BXUHd3N1dBTWs5WHhOS0RONEhRRFpFSElVTWI3MWFJeGI4ZFVwcEpIUHJITHUzX0gxZTJGaVRUMDVwLXJuV3BYNm94eGNZTjJoMXE5bUo4NEozWjBjWUc3ODlyX2JMQkZxcjQtMHIxNk9NeWFLTkhzQzAxY0Qwa2l6em14VFg0andmTEZkbmpOSXRBREx4dFpObkViZkk5QUxsT0VCV29aU0hiNk1nS01fSHZPalItLUVWQ1RwQTVxQ2NxT3RrQXVZ?oc=5",
+     "fecha": "2026-11-25T23:31:27-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "c64179cd25",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -13075,52 +13138,6 @@
      "dominio": "diarioelnorte.com.ar",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOazEwNEJDckJKR1c4S3NuX0xRR3pvcWpUOHdEVnBUNFo4ZVd0Sm92YnRJRTExYTh1MzJXZGN5dnJybUFmNDcxaEdJaF9UeVB6Um1meVZpNTNYU184TV9RUFVJSl9RZ2lYenQxMGJhX0RndkQza3BfUDU1c0NEMFFvYkNrYmJLblk?oc=5",
      "fecha": "2026-11-25T20:10:10-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "a6efa2f313",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 4,
-   "cant_notas": 4,
-   "ultima": "2026-11-25T22:03:41-03:00",
-   "notas": [
-    {
-     "titulo": "El gobierno de Brasil analiza invitar a la asunción de Lula a otra autoridad argentina en lugar de Javier Milei",
-     "medio": "TN",
-     "dominio": "tn.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeklCWmFfdlctRkl0RWtKeGt0am5udnkxQkVnZnVtYWI5Q0JOT0xIQ1QzV0pXQWczY2w5V1FLX0tnU09hMU8zSXZKN0NzRWRjOGhlT2NMVUFidGdBaXRDVFZNNkVNOE9xbmxjVktFWlcxdXJ0MzF6S2Zmb1hYY0dVQjlDZnFkWUkwRk4yMnhYUElwamJrWkV6dGJFY2hlVk1Heno1bTY5N0R1VGVUaHNFTGE2dTFnMGNyWWZORWdWNlFfTnh1cU5VckZrQzdCSC0wQnRLUUVPdGtzNmdWV3kwdm9uVzB1M1UwT0lV0gH_AUFVX3lxTE1KLVYyZlZidXVGM092WTQzcnNyVTcwWkZZRm91VzA0QU40WVdJLTJfbWg3azlNOFNTdnhtRDRrMHRoOEVmSi1aWU9ZVjV4VFJVX3NoMHRPV1JNYzh1emt5SFZReEJQSzR6OThKaVVqelQtU1lXYThiRi1nU2dfSE4zQVZhTzljTlA5M0VTV1pMaXZxQm9hQVZhY0RiekluVkFjU0o4S2p3UTNEZXp5VFJFbkRod0l0bmtrVzEtSnFwajJNN1JUTG9tU1lLWG5zUXE5QnBzT3B6emUxYW5UYzR2Zk1XeWhBUGc2RlBYdUNmejhvS1hsam1hZ3dvT1ZBRQ?oc=5",
-     "fecha": "2026-11-25T17:28:29-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Tras cancelar la invitación a Javier Milei, Lula evalúa convocar a otro dirigente argentino a su asunción",
-     "medio": "Nexofin",
-     "dominio": "nexofin.com",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXZUanE4UTJ5UW9CZjJhQmRGMWpJZ1RzTzVxc0VDR1pGSERJN3hYU2pzZnJsUkpwM2hQWDdPVC03UkI5UVVHc3dmT1lidFdBMFdMTE9GUk52SjQxNlJMUlYyYWdRYWtjc3RpYXBScnNQa1QxYlQyNE1yTTVkWXBNVEJ0QkJmMldnMEd6c0p3Vk5tN1dyYWtOd2xFeHc5RkZ3RUZPS2RzVTcya1dyWWl3THpIZThscUJrdHhIbzFkLVpWMXpWZmRUSXhWX040ZXd1cFRZQ0RJYXNUY0hLRjBGNmdkUELSAeQBQVVfeXFMTnV2VGpxOFEyeVFvQmYyYUJkRjFqSWdUc081cXNFQ0daRkhESTd4WFNqc2ZybFJKcDNoUFg3T1QtN1JCOVFVR3N3Zk9ZYnRXQTBXTExPRlJOdko0MTZSTFJWMmFnUWFrY3N0aWFwUnJzUGtUMWJUMjRNck01ZFlwTVRCdEJCZjJXZzBHenNKd1ZObTdXcmFrTndsRXh3OUZGd0VGT0tkc1U3MmtXcllpd0x6SGU4bHFCa3R4SG8xZC1aVjF6VmZkVEl4Vl9ONGV3dXBUWUNESWFzVGNIS0YwRjZnZFBC?oc=5",
-     "fecha": "2026-11-25T19:46:39-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Brasil evalúa invitar a otro representante argentino a la asunción de Lula en lugar de Milei",
-     "medio": "DameNoticias",
-     "dominio": "damenoticias.com",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlpXN1RQMnZQNnJVZDN5RExIeVMtZWltZ1lFWEJGYWY0bS01Y2VITHZsLXJMczg5M0U4emhKSEwxVUJORXFDWUxfUTdsM3ZwbjhPMDY1LTUtR085RDNIQ0I4WE1DMnZOQlRKUVhZZmI1RkVWYnJET2VWTFd6YXNtZHdWYzl2eVc0Smk5UGRQY3RQeVIzbHpCYU1oSjFfa2ZVNDU1WUV5TTZPaU1ra0k2cDExWHJ4eDVWVXc2RU5ldzk3RWJuWlNlSTRObWhJdw?oc=5",
-     "fecha": "2026-11-25T21:59:19-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Brasil contempla invitar a otra autoridad argentina en lugar de Milei a la asunción de Lula",
-     "medio": "Radiofonica 100.7",
-     "dominio": "radiofonica.com",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmtsQzdSRVQ2V2pVZkhBOVhVc0E3Q1Vsemh6eGhPaldMeGJyNm1ETmQ1UmI0WlFtY0txMTg0OGNpaVVDMDdJYjlQTjNDcjJwY0FuWTZjQ3FDbzNYQWtyYnd1djFUaTF6VHM5T3lDc0ZVb3lYam44TmFMemtpTmRzRm9QWF9KUEVZdzNQbUpVUzc5TXdKYlBoM0ZIMVU5OGhVLVJXaXdodUtuOTc3YXVuNTdta0VZa0k?oc=5",
-     "fecha": "2026-11-25T22:03:41-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -13950,34 +13967,6 @@
    ]
   },
   {
-   "id": "146efd3cae",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 2,
-   "cant_notas": 2,
-   "ultima": "2026-11-25T19:47:36-03:00",
-   "notas": [
-    {
-     "titulo": "Docentes: según el gobierno, volvió a asistir más del 80% a las escuelas en la segunda jornada de paro",
-     "medio": "AHORA Entre Ríos",
-     "dominio": "ahora.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb3I3THkxZnQxTmRuWFEzNXRmaGx6STRlUjZhOHdZeU9zUEIzdnJKdnVMeFRVUVlRRnBjbGMxbTk5ZVpVOTBWMC05aGlWVmtSOFFzMU8tMUg1SjQ5RW5nMGJ0ZWEzZXFxdXB5bDJzeHo5Y25rZlZHazBCWlNzNnR1Nm4xbmhUbUdkWjRwZExtM2dSSUlvVE9pczhmWV9ncmUzRUFWQXJZZ0dTRTB5X05LdFBraUFDdDJ3TDJvMTFkOA?oc=5",
-     "fecha": "2026-11-25T11:34:42-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El Gobierno destacó que el 83,4% de los docentes asistió a las escuelas durante las 48 horas de paro",
-     "medio": "7PAGINAS",
-     "dominio": "7paginas.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlByTG83X0ZxOUJPcXZETFlKSjk1TU81bGptVG0wOFpuTlp3VXl4cDZJMmlCRDVjWFhKT3g3VmVpaERNSTlDOElGQ1ZuQWFFRllMSFBXOE5YWmhkZ2V0cHVHd1pSeVhYX0hVVkNmOEt3MHpYUWN2cmVnSm41bmhOQVlucldPaVEwb1JycHVnTnQxSUZVZ1FFdWlBMHI2SkRSQ2UwRWVQYW13Q3RTMVZpWHNaZFlHa1BDdTV2QnBuVUw?oc=5",
-     "fecha": "2026-11-25T19:47:36-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "58d530814f",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -14112,6 +14101,34 @@
      "dominio": "elmarplatense.com",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYnRCaHE1YmF4MTVjNUNIRF9XMEdwSi01UlNoOXNhXzVfMm5zcTh5NlZWcUpJTURwT1hXLU1LSlFjWFE2T051VUQwM1lNRTk5al85TTdvcDB3bkNfanNwLVN6YWFhY0lVQVlyV2Z5ODhDWV9XeDl6cVNtZVQwTFRHaG0xZVNSS3pJUFpGVEZFSTg1NUFVSXYyRmowRUdoejU3ai16a0NvMlFUQnF6OVJGQkNuQVdjMWNSLUhpanhzemhwZWlF?oc=5",
      "fecha": "2026-11-25T19:04:27-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "66be2ce729",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T18:54:32-03:00",
+   "notas": [
+    {
+     "titulo": "Riesgo país a 1.130 puntos y dólar a $1.700: Caputo puso aún más nerviosos a los mercados",
+     "medio": "La Noticia Web",
+     "dominio": "lanoticiaweb.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEpaSkYwNG15c0VYUXkyZ0ZNZWpuamxsenZfanFFRGRCZDNueGZJZWF3MndPVHFTRGVmb1JtVG5UdnJ5NUl0dXh1SFJ3Smw4bnNwSlh3TVNXSlM1dHpYMGh0NnhMZ3dXcXJuWTI0WWZjSm50V3ZPNDVzVVJOOG1PWGMwRkJ2TWw1SVd3MXlUYlpWWjh3UjR2bjBWUW44M3hCdlo4Wi1rVnl1MzNQVXE5Vw?oc=5",
+     "fecha": "2026-11-25T12:54:43-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Habló Caputo pero no logró calmar a los mercados: el riesgo país llegó a 1131 puntos",
+     "medio": "Medios Provincia",
+     "dominio": "tiempopopular.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFZfbHdHVnpDU3V0YXVkQXZvczE0NFdsVlRiVVpFV0M0TzNIMm9iMEVhbnVDVWFXMkZYaDBlOTlUM0wyVFVyOHY3LUlPRmd6dTl4TDE1Ukw2bkc3QmFKeFNMa2w3YlQ4STh4RGZaSTZTTWxYaWpXWEttMXI3NDZ2eFhvTWk1Z2Q3TUZmSEtOTG1sWWNhVnRHY2JlUUNmTjNvcWNoejF2UHdTSDFsTGxDYTQ4WWMxazRWeEJrMWxIVGoxdkNlMUxn?oc=5",
+     "fecha": "2026-11-25T18:54:32-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -14510,28 +14527,28 @@
    ]
   },
   {
-   "id": "5e17a9ee38",
+   "id": "8cd19de7c1",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
    "cant_medios": 2,
    "cant_notas": 2,
-   "ultima": "2026-11-25T14:25:14-03:00",
+   "ultima": "2026-11-25T13:30:56-03:00",
    "notas": [
     {
-     "titulo": "Paro docente universitario por 24 horas contra el Presupuesto: qué reclaman los gremios",
-     "medio": "Diario Mendoza",
-     "dominio": "diariomendoza.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEs2ZThSSjY4Y2JkVS04U1ZNVzZjRm1xUURUd1A1RHlvN0dEai00WlFHenJ5cHFhMHVBdGRpa21NWTBZVDBLaUtLb2xhXy1jOWxSV1EyWHplTk1weDFuUjBWZDIyZDhxdFFDckMyR0ZIYlI1QmRmTy02Y1RuRnFjZ0JoRTRLRjVheEF2UWJNTWgtZ0Y3a2xEMld2UmhrWHlZeE1wZVhYV1lyaHJxZmk2R3pTbkPSAboBQVVfeXFMTTlyNUZaZWdmakdNa3pZMGc1NUV6SnpSbzVVS2NPY09NVWx2NFhaMzBMUENCYXBMTTJpcGlPY2liWUVZMHJQS0ZFY3M5eEluZnZ3RDZPRGFPVDhrYjF0OGhFbjVxdjNiT25USDIteXppc19hb1A3NTlTWTBtZ1ZpMGlLQ1hCLTFfLWFuT3Q3OXV4NmhWcFB2VWxOeXYyS0tQYmxQVWhHdkxGank0OVZrMGF5bVQxTnBZbi13?oc=5",
-     "fecha": "2026-11-25T11:45:00-03:00",
+     "titulo": "Amba zona norte: cae banda narco con más de 80 kilos de cocaína",
+     "medio": "Pilar de Todos",
+     "dominio": "pilardetodos.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3MzSWU5VEhBR2ZCb1JFWmNPbzRCQUR3UTR4Mnd3Y2RGVzNPSHFzRXg1OFVFZldiTGJhQjM0VkI4MzJ3TktrbFE4SDBfSVdfRzJnNEc5UFRjMUpJc1ZmbjFWRVE1T2dqZnJzTnFHUkNfOV8xTVhTUUpPOEpOUVRuUFNMdDRMcFVxdlhTbnB3TGprVUU4aUlfcFhGU0lSb3hjeDFTcVczQjZBOXQ5OGxuQmpLWWhKQ2FRT3VQZWl2aFI3QQ?oc=5",
+     "fecha": "2026-11-25T13:30:56-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Paro universitario: CONADU y gremios de distintas universidades rechazan el Presupuesto 2027",
-     "medio": "Estado de Alerta",
-     "dominio": "estadodealerta.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS01FSnBpVlIzVmRuODRPYVBpSmNNXzBVdHJiYlNobTJZbENPSno3NnVqYTk3T2g2blc5R1c2TXJIWmtVaDF6R2dfemtvRl9KakQ1ZTlsQlpPNkVqV29KbGhmdlV3WlliOXluRlA0RTZUdk91Y1lJVkswd3pBai0zLVRSeWZWWjZ4b3ZUSEQ1WVNCdlBGdzFuZnRsbjkyMC1xSk1uODBzQnJVczdETTVQZzRhb0pLbWphdncwdGRNTdIBxAFBVV95cUxNUXdoTFhPQmdRYjNMSUhwSXRGUnJzQTktclNwektac3ZXM3BmNWYtX0RHSVBhb3EzWm56R2s5QzNBMGpnU2tELWRwc1VDRkk2bnpZM1JNNjBOMVQyS0VyRm5QV1F5QW5UdnRxWG43dG1EcFhoYlFyWUdhRDJyaXhMRS1ydVk2aURTWW4tN3RJUWNYZVBHTUFoZHhRVFdqc2dUeV9RZVcyeUg5d0xfUktvRk1iMUNFVkZ0TzQyTGdEOExZSS1H?oc=5",
-     "fecha": "2026-11-25T14:25:14-03:00",
+     "titulo": "Cae banda narco en el AMBA norte con más de 80 kg de cocaína",
+     "medio": "elconurbano.com.ar",
+     "dominio": "elconurbano.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9sYXBSMU9hNUZZMzc2ZEdxWUY0MnVScDVpUkZlMTNhQU5kSWRSSjR1TjJRem5qNkJJOEdXRXoxc0JPQ3R1M3UxXzRQaXZTanluakhiaU9MbDFRT0pERTFaMG9PYUFuSVZ0XzRtYklyR1R0U3plRENOTjNFM1hadWttay14XzNRb04xbG1WUGRYS05JdmY4NEp0anA?oc=5",
+     "fecha": "2026-11-25T13:30:56-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -14678,34 +14695,6 @@
    ]
   },
   {
-   "id": "92b033695e",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 2,
-   "cant_notas": 2,
-   "ultima": "2026-11-25T11:52:52-03:00",
-   "notas": [
-    {
-     "titulo": "Histórico trasplante en el Hospital Notti: un padre le donó un riñón a su hijo de 12 años",
-     "medio": "Mnews",
-     "dominio": "mnews.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclhSSDRUU0stSktlUFZlY1B3U0lNZjV4emxWUU12ODI4YmdXMkNjT2dnczdWTmJjdVBxX0V6Vi1qZDNKTTIyelFrNjgwQ2JrYXZPakNWakRDN0lKem1ndEhpVkppRl9aTFYwLTJmSXBtOHZiZENjUTBCQjhFV0lqTjNLR0VOWEphUlZKWExNTmwxdWc1azN2MnZ0TVcySUFkS29xMGlKSmZFbjdNTVZqX0JkX3ItSWYxRFBUUjdzTWVwSHRsLXlBN1BnVTVaeUxI?oc=5",
-     "fecha": "2026-11-25T11:29:55-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Mendoza: un padre le donó un riñón a su hijo en un trasplante histórico en el Hospital Notti -",
-     "medio": "8 Digital",
-     "dominio": "8digital.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTU4VXBvV1l6S0hBSDU3RlNWelRQSkh5X09OaFhLck9wU1FwY1ZCVWhTQXRmeUI0MkVYMGNla2swZU5SV1UzVk9URHlpRHZITUJlVFZGcGV6RkV3U040dDM1R3dxQWY0YzFhSEQwSkZuTXlmNVVubEpDNlB6eV9VSVg2N3ZNZnRLSUFreWhFYUgwdE1Wbzg3V2N4YlJUVGVEbU9wLUdKRGxiUjVoLURNVGRJV3JCMl93d0lkRg?oc=5",
-     "fecha": "2026-11-25T11:52:52-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "2bd6f81421",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -14725,6 +14714,25 @@
    ]
   },
   {
+   "id": "510ae61b74",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T23:06:13-03:00",
+   "notas": [
+    {
+     "titulo": "Un viaje al exterior cada 18 días: cuánto lleva gastado Milei en lo que va del año",
+     "medio": "La Nueva Provincia",
+     "dominio": "lanueva.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0NLeWoyN2pQX0JZU3JrRHM5YnJpanRXZ3F6WVByTjBYbi1nOW8xWVhVZ3pxRTBRZEY5ckVtYjBFQ3BCazctUkdVdmZ4RWtLMHRBcE1RQmxsWmx3ZUFrS0RvQThIUVVaRFNJWWp1ckxyMkR6Skx3TUt3eGt3TG56QTZNNERuLXpKRlZ2amIwX1g2WDlrNlI0QS1yeFZLN0VDeVFhOGY4ZEMwZVRjSExGWkJCNVh2eUFHSWF6SlRUSzBJVlQ2aXRIUQ?oc=5",
+     "fecha": "2026-11-25T23:06:13-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "73ccd13e1b",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -14738,6 +14746,25 @@
      "dominio": "laopinionaustral.com.ar",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2o0bHZ2LW9PeW9DcHRBVnV3TVdxSGM5czdRMEVLZ2pIS0UxbG9GbHpNcHlXdmlUMXc1YmNDQ0hjS2FxeGpGLXBNbFVwQ09mS1RkUWtBVzFtQ19wQk13QnNNY1YyM2J4SkJ0TkFlZjU2ZzhjWk5mUGstek9iNUtaaWgwNEo4VWNoalNYMlo5V3ZENGlGdl9pcGtyUFpVbjJjdXJkNW54alQ1eWNXWk5VZVFveVJybUtCV2FaM01n?oc=5",
      "fecha": "2026-11-25T22:57:58-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "cdf438c596",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:46:30-03:00",
+   "notas": [
+    {
+     "titulo": "Brasil reconfigura vínculos con Argentina y EE.UU. tras elecciones presidenciales",
+     "medio": "teleSUR",
+     "dominio": "telesurtv.net",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xTnVVZ2ppSTYtTTBCbDBkUklETnZSSW1EcVRRTDZUWmdpYkNVY0FWTWY3dVRDQ3ViVE43d25FZ3M1UGMtMGttLWtLczhYYV9lbi1fMzU3cVFuQWhmVGJsUms2bjc1QmN6YlFfZzUwdVpSY1RtNkl6NU5ITQ?oc=5",
+     "fecha": "2026-11-25T22:46:30-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -15181,6 +15208,25 @@
    ]
   },
   {
+   "id": "777383f336",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T20:32:11-03:00",
+   "notas": [
+    {
+     "titulo": "Iosa suma a su armado a Néstor Filipponi, exsecretario de Salud Mental de Córdoba",
+     "medio": "La Jornada Web",
+     "dominio": "lajornadaweb.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3ZoNW1hdDR6ZkZMcGMyaVJvSTh1Qloxb3lWVEh4N3lqZThRS2tlV3NwenI5bjB4Y203dFI5WTlqWlVobU8wbE1LZ1Rob0VzUXVweWxud0ExMENZU3NYTUxoMTNBSEdQWjZ1Vm9DUzh5b2pNNXM2dU1GQlZ0U21NbUl0cDAzM3M0cGEzSEtBVE1rLVhUcV9Jck1tN2dWM0pndnJlNndnMGl3dTQ3dzdvNlBZQnN4QdIBtgFBVV95cUxPb3ZoNW1hdDR6ZkZMcGMyaVJvSTh1Qloxb3lWVEh4N3lqZThRS2tlV3NwenI5bjB4Y203dFI5WTlqWlVobU8wbE1LZ1Rob0VzUXVweWxud0ExMENZU3NYTUxoMTNBSEdQWjZ1Vm9DUzh5b2pNNXM2dU1GQlZ0U21NbUl0cDAzM3M0cGEzSEtBVE1rLVhUcV9Jck1tN2dWM0pndnJlNndnMGl3dTQ3dzdvNlBZQnN4QQ?oc=5",
+     "fecha": "2026-11-25T20:32:11-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "3f91c69d80",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -15352,6 +15398,25 @@
    ]
   },
   {
+   "id": "8ac1a0cf8d",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T20:09:14-03:00",
+   "notas": [
+    {
+     "titulo": "De Loredo ratificó que su candidatura a gobernador es irrenunciable",
+     "medio": "Política Córdoba Verdad",
+     "dominio": "politicacordobaverdad.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzQ2b3k4NkpGcV9LSDFTcFF4VExNbkhqQUJ4czA0bW80a0EyeWpfS1pVQThLdGZEdjZlamx1bGlDbFZWd3JGY18taGZxX2ZNVXVqWGlKQmpxcjZvSlVVZl8tWEx2MFd0QWxNYUlDWlJCUmNYRlpMSW02akUxQ1ItU0h2Z0pHN1BIMVlNMGhNRmNZZ05FRXkxQVk4SnowLVloWGpsa0ZPcVo?oc=5",
+     "fecha": "2026-11-25T20:09:14-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "67c55cb083",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -15460,6 +15525,25 @@
      "dominio": "inforama.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnVPOWw5Mk9ZOU9USkFtSXZzM2dCMWQyUDZ4YnV0bXBmaFhEczhuaTBfb2o5bjRXRkVyS0ppb25IREFqd0xWVGUtWm8xV0tQUjR1S2lMUERvQkdGQS04SWpUZWhRX1VUUmxVZDI2VFVyUEFVUGVvT250c0l4dlNxNzNfSFFMTkttXzVrYUgzZXh0ZW82VFJSZEFwaVpVMEI3NFN5LU1qeC16aG45UjdXU0U3Vl96NTZXQzhmbTdrUmNvTnVlTTNOdGRGNXZjV0xCdzZPRg?oc=5",
      "fecha": "2026-11-25T19:51:47-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "146efd3cae",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T19:47:36-03:00",
+   "notas": [
+    {
+     "titulo": "El Gobierno destacó que el 83,4% de los docentes asistió a las escuelas durante las 48 horas de paro",
+     "medio": "7PAGINAS",
+     "dominio": "7paginas.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVlByTG83X0ZxOUJPcXZETFlKSjk1TU81bGptVG0wOFpuTlp3VXl4cDZJMmlCRDVjWFhKT3g3VmVpaERNSTlDOElGQ1ZuQWFFRllMSFBXOE5YWmhkZ2V0cHVHd1pSeVhYX0hVVkNmOEt3MHpYUWN2cmVnSm41bmhOQVlucldPaVEwb1JycHVnTnQxSUZVZ1FFdWlBMHI2SkRSQ2UwRWVQYW13Q3RTMVZpWHNaZFlHa1BDdTV2QnBuVUw?oc=5",
+     "fecha": "2026-11-25T19:47:36-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -17109,6 +17193,25 @@
    ]
   },
   {
+   "id": "7caa54853d",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T15:55:00-03:00",
+   "notas": [
+    {
+     "titulo": "Congreso: LLA acordó con el peronismo para tratar el proyecto contra la ludopatía infantil",
+     "medio": "Diputados Bonaerenses",
+     "dominio": "diputadosbsas.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TVmJqNzlzaGlOLXpIUTc4MFhjX0JBbmFGT2RRcTUzQ3dCNExReS00UnZycDRIV05MbVpNVWx3YWhSYmU5Z0o2dmhTMll4QkhieTh4aUFwa1Q1SlpmM3BtWVZzREYwd3EyQ0ZwUGxn?oc=5",
+     "fecha": "2026-11-25T15:55:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "aad5545f16",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -17179,6 +17282,25 @@
      "dominio": "amdelplata.com",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkFwaEJLLUxNeXlsQVkzME0xTG1NODVKdXlWNDRPYnNSMGZuRlFZSHlVNm8zSEp3b1NwVW0zX0d1eEo4VW9RQWZwSHpvM2N6Yi0wanM5WGZSUjdYQVVjRjNoVzUwQmVPdENHNVdEOGZ0bWRwYVg3QnVzTnU1TnJwRFlyd0dDdjFweWJVMjJRc2pieEpLUmQ2MHA0cXNlMkQzNl9ETGxwdTZDWTFj?oc=5",
      "fecha": "2026-11-25T15:38:40-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "35df1a53d8",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T15:35:02-03:00",
+   "notas": [
+    {
+     "titulo": "Elecciones en España 2026: qué argentinos pueden votar y hasta cuándo hay tiempo de hacerlo",
+     "medio": "Diario Río Negro",
+     "dominio": "rionegro.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb1ZIbUl1aWdWQVNPeUdZclM5WC1TUjVrZXFHLVZCOV9kbm9rUVZlUGJiYzcwN3hsRDlSY1drSTdJU3pBSXdtZWJQMUJrUEFwRndFcmhiRTl2RHE1NXEtUHQ2SFZTUElmQ0lnZVEwdkZ0dmxlRXpYdE40LUZwSVZEenFrMlRucU5BV1VLWURJRUZXTDlXZGVRTG1OckFYUEJ5RzVIWHF1RzdPNGZtVFR2MXVLQ0VMb2FSakdzY2lNeU1HOHJqSVQxMGcxMDFjOEw4N19TQTB30gHWAUFVX3lxTE9vVkhtSXVpZ1ZBU095R1lyUzlYLVNSNWtlcUctVkI5X2Rub2tRVmVQYmJjNzA3eGxEOVJjV2tJN0lTekFJd21lYlAxQmtQQXBGd0VyaGJFOXZEcTU1cS1QdDZIVlNQSWZDSWdlUTB2RnR2bGVFelh0TjQtRnBJVkR6cWsyVG5xTkFXVUtZRElFRldMOVdkZVFMbU5yQVhQQnlHNUhYcXVHN080Zm1UVHYxdUtDRUxvYVJqR3NjaU15TUc4cmpJVDEwZzEwMWM4TDg3X1NBMHc?oc=5",
+     "fecha": "2026-11-25T15:35:02-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -17821,6 +17943,25 @@
    ]
   },
   {
+   "id": "65b57d3e82",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T14:24:28-03:00",
+   "notas": [
+    {
+     "titulo": "Buceo con lobos marinos en Comodoro: qué aprobó la Provincia en la escollera y qué permiso necesita el operado",
+     "medio": "abcdiario.com.ar",
+     "dominio": "abcdiario.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vY3gzdk1vWXVoc1JGbjRZZVE0MWtNU2lMQTNGaFEzWWllRFhhUXNYR0k0UGZzZzBLRWVMNmcxbkRrcXNrS21kQWo1b1RjRTg0ZUFlSWNmd9IBUkFVX3lxTE9CUmNkVS00Z3M0TVlZX21IeEw2TjNUaXhWd3NSYVVJVFQ0djdRU3M2NjJOeXRRQXoyc200X3ZKYkpXQUNxQlY2SjV1WG5EdU8xeHc?oc=5",
+     "fecha": "2026-11-25T14:24:28-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "6fc32fa570",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -18372,25 +18513,6 @@
    ]
   },
   {
-   "id": "8cd19de7c1",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T13:30:56-03:00",
-   "notas": [
-    {
-     "titulo": "Amba zona norte: cae banda narco con más de 80 kilos de cocaína",
-     "medio": "Pilar de Todos",
-     "dominio": "pilardetodos.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3MzSWU5VEhBR2ZCb1JFWmNPbzRCQUR3UTR4Mnd3Y2RGVzNPSHFzRXg1OFVFZldiTGJhQjM0VkI4MzJ3TktrbFE4SDBfSVdfRzJnNEc5UFRjMUpJc1ZmbjFWRVE1T2dqZnJzTnFHUkNfOV8xTVhTUUpPOEpOUVRuUFNMdDRMcFVxdlhTbnB3TGprVUU4aUlfcFhGU0lSb3hjeDFTcVczQjZBOXQ5OGxuQmpLWWhKQ2FRT3VQZWl2aFI3QQ?oc=5",
-     "fecha": "2026-11-25T13:30:56-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "01f861eca1",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -18575,25 +18697,6 @@
      "dominio": "impactocastex.com.ar",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUxyUGxuRVdQQUVmSnhaRmlDQV9PSTl5emF2Ny1QMDF1ZFd1b2ZSUVo3UVJidGgxRmR3UWl1QVBfdUQ1M0FIYm1SSkI2dTFaalhlbDNsUFdVS3NYVXJGbXpvczVxVjV0ZG5ZZy1ULTlnbTBkLXRmUnNuMW94MzU4dzFTV3FnSFR0b0pWemxGa2xLZ3FEVnp4SGlGdEViM25QV1Zzag?oc=5",
      "fecha": "2026-11-25T13:00:02-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "ff5068bd54",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T12:54:43-03:00",
-   "notas": [
-    {
-     "titulo": "Riesgo país a 1.130 puntos y dólar a $1.700: Caputo puso aún más nerviosos a los mercados",
-     "medio": "La Noticia Web",
-     "dominio": "lanoticiaweb.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEpaSkYwNG15c0VYUXkyZ0ZNZWpuamxsenZfanFFRGRCZDNueGZJZWF3MndPVHFTRGVmb1JtVG5UdnJ5NUl0dXh1SFJ3Smw4bnNwSlh3TVNXSlM1dHpYMGh0NnhMZ3dXcXJuWTI0WWZjSm50V3ZPNDVzVVJOOG1PWGMwRkJ2TWw1SVd3MXlUYlpWWjh3UjR2bjBWUW44M3hCdlo4Wi1rVnl1MzNQVXE5Vw?oc=5",
-     "fecha": "2026-11-25T12:54:43-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -19113,6 +19216,25 @@
    ]
   },
   {
+   "id": "92b033695e",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T11:52:52-03:00",
+   "notas": [
+    {
+     "titulo": "Mendoza: un padre le donó un riñón a su hijo en un trasplante histórico en el Hospital Notti -",
+     "medio": "8 Digital",
+     "dominio": "8digital.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTU4VXBvV1l6S0hBSDU3RlNWelRQSkh5X09OaFhLck9wU1FwY1ZCVWhTQXRmeUI0MkVYMGNla2swZU5SV1UzVk9URHlpRHZITUJlVFZGcGV6RkV3U040dDM1R3dxQWY0YzFhSEQwSkZuTXlmNVVubEpDNlB6eV9VSVg2N3ZNZnRLSUFreWhFYUgwdE1Wbzg3V2N4YlJUVGVEbU9wLUdKRGxiUjVoLURNVGRJV3JCMl93d0lkRg?oc=5",
+     "fecha": "2026-11-25T11:52:52-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "4dcd1e4b09",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -19126,6 +19248,25 @@
      "dominio": "avellanedahoy.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbjJPejhUbnZvbkFWdEs4aDdfQ3d3NFVEc0xSbmNZcXRrV1VkcFpxbFVnM21Ga3JEOGkteWFabEg0WVVUaGV5YzBHeVNITDdGNmN5Nzl6emFtbm1JRkdZb2VWOVZvNVZhbFhDdDFjUXBvMS11N1B6azhCUWUxanlTLWM3N1g2Nnp2N2NMZEk1YzJ1QU9ENkNFYUR3bUFJSXlQZDM4bEJjRGJfaXpyOTFFenFFdHJpcWpqVlJpcHpIdW9ISHRzakJieUlGN2pUR3Q3eGRhNnV3?oc=5",
      "fecha": "2026-11-25T11:51:19-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "5f402e5eda",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T11:50:44-03:00",
+   "notas": [
+    {
+     "titulo": "(audio) Paula Todaro lleva el mate y los sabores argentinos a miles de kilómetros",
+     "medio": "LU24 – Radio Tres Arroyos",
+     "dominio": "lu24.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVRkSnZzRHVUV3ZSa2JMVUJWTTM1bk8xX2FDdE9XSzhieWxWOWhaU0pCaFVIaWFQVXVrT1oxd25MLVZuTEYzZk52cUgySnVTZGJNdkZzaUdFNGlCYTlKdXpwUUdJeG9RZGE4bzZzRFdfUzFqSFVZNW93RnhQNTNhWTZ3U2tiVXVRUUU1NHFGcEFpSE8yLXpUVmhaWFo0dUt4V1ZUTU95N1JqNFh3eHI1SWVB?oc=5",
+     "fecha": "2026-11-25T11:50:44-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -19316,44 +19457,6 @@
      "dominio": "infocampo.com.ar",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGpjWUI3ZnRKWHh4b09QX0tkeU9UbUtWbDY3Wk5tSFJMN0stSmprNzJ1NEZQREgzT3k4Z29FQ19IdXNsNkNXU19uMTFoN2dycVVZU1ZKMWpWdmkwZURFd0ZkOENrcWNFZ1l6dXoxN0o1c09OZ0MwbzVVZnNZUWlaUmwxZ0JyZw?oc=5",
      "fecha": "2026-11-25T11:35:02-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "01bcbecb65",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T11:32:05-03:00",
-   "notas": [
-    {
-     "titulo": "Presupuesto 2027: \"Estamos sujetos a la extorsión de la oposición\", manifestó Salom tras la falta de quorum",
-     "medio": "https://www.noticiero9.com.ar/",
-     "dominio": "noticiero9.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelMxclo1bUF3TlJWeV9obm1Xa1dZelBCRXRtMTZGeVZRNU5vOFlrd0tOV01KaUE5SC1YUTdodjFYdVlVTjhoRzBRejZxSkNYRHhXYlZ5azF2WnB0dFRsV0Z4c1FFSWhTZGk5MkdXYUY2dnhXSDd3dE1QTWZPWGVNcUVucG8wWnI5QVBJZXBPUE9tem1CUzh5NW1QNmxKdm1RLVhjeVJlZ29IVVFlSkk2OWs2ZnRidnRvZFVESjBIcmFFOUhkVTY4bXBhUUpnNGFPcVhXTUF3?oc=5",
-     "fecha": "2026-11-25T11:32:05-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "87524d15c4",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T11:29:28-03:00",
-   "notas": [
-    {
-     "titulo": "Género, educación y lenguaje inclusivo: una investigación doctoral sobre las escuelas secundarias de Rosario",
-     "medio": "Portal ON24",
-     "dominio": "on24.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRHA1MDllZ3FibFNfbktRdVhheTFCZTRxbmxmMHFNS1J6TjJacFJpUkc3VVZQNTBsRFRfMTVjYVFkTjZnR3RFalZuYnBhWkNrdW1qZW85T1FBcl8zZXBSdU5rV1RMdkJzNnY0dEFHSmpGY2xTRHlJOE9TMGJ5MERsbUJ2aXVIdWhuYnFnWlFYVUVYeUJqVmNoY1lhZmJoOXFDU20wZVJYamZsakdZaWFmS2F1dW5qaTJFb21ZU3FlekhjWWRNeW8xYkVaX2JKODdvaFlwQg?oc=5",
-     "fecha": "2026-11-25T11:29:28-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }

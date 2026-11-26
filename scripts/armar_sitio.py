@@ -151,12 +151,12 @@ def tema(t):
 
 SECCIONES = [
     ("Política", "politica", "naranja"),
-    ("Economía", "economia", "amarillo"),
     ("Juventud y educación", "juventud", "violeta"),
     ("Sociedad y cultura", "sociedad", "verde"),
+    ("Economía", "economia", "amarillo"),
 ]
-MAPA_SECCION = {"politica": 0, "economia": 1, "juventud y educacion": 2, "juventud": 2, "educacion": 2,
-                "sociedad y cultura": 3, "sociedad": 3, "cultura": 3}
+MAPA_SECCION = {"politica": 0, "juventud y educacion": 1, "juventud": 1, "educacion": 1,
+                "sociedad y cultura": 2, "sociedad": 2, "cultura": 2, "economia": 3}
 
 
 def sin_tildes(t):
@@ -166,7 +166,7 @@ def sin_tildes(t):
 
 
 def indice_seccion(t):
-    return MAPA_SECCION.get(sin_tildes(t.get("seccion")), 3)
+    return MAPA_SECCION.get(sin_tildes(t.get("seccion")), 2)
 
 
 RUIDO_AGENDA = re.compile(r"a cuanto (cerro|cotiza|se vende|esta)|cotiza(n)? (hoy|este)|(dolar|euro|real) (blue|oficial|hoy).{0,25}(hoy|lunes|martes|miercoles|jueves|viernes|sabado|domingo)|euro blue|cuando cobro|que jubilados cobran|cronograma de pago|fecha de cobro|horoscopo|clima (para|en)")
@@ -226,7 +226,9 @@ def panel_agenda(cand):
     else:
         tope = max(g["cant_medios"] for g in gs) or 1
         cuerpo = '<div class="ult">'
-        for g in gs:
+        for k, g in enumerate(gs):
+            if k == 5:
+                cuerpo += '</div><details class="mas"><summary>Ver 5 temas más</summary><div class="ult">'
             ns = g["notas"][:5]
             lis = "".join(f'<li>{link(n.get("url"), "<b>" + e(n.get("medio")) + "</b> · " + e(n.get("titulo")))}</li>' for n in ns)
             pct = max(4, round(100 * g["cant_medios"] / tope))
@@ -234,7 +236,7 @@ def panel_agenda(cand):
 <div class="barra" aria-hidden="true"><span style="width:{pct}%"></span></div>
 <span class="sub">{g["cant_medios"]} medios · {g["cant_notas"]} notas</span>
 <details><summary>Links ({len(ns)})</summary><ul class="fu">{lis}</ul></details></article>'''
-        cuerpo += "</div>"
+        cuerpo += "</div></details>" if len(gs) > 5 else "</div>"
     return f'<section class="panel s-azul" id="agenda"><div class="phead"><h2 class="chip azul">Agenda general</h2><span class="pside">Lo que cubren todos los medios</span></div>{cuerpo}</section>\n'
 
 
@@ -275,10 +277,10 @@ def seccion_edicion(ed, home=False, cand=None, crudo_notas=None):
     aviso = ""
     if ed.get("tipo") == "hipotetica":
         aviso = '<section><p class="aviso"><b>Edición hipotética.</b> ' + e(ed.get("nota") or "Es una prueba: la oficial sale a las 11 h.") + '</p></section>\n'
-    return aviso + (panel_agenda(cand) if home else "") + _seccion_edicion(ed, home, crudo_notas or [])
+    return aviso + _seccion_edicion(ed, home, crudo_notas or [], panel_agenda(cand) if home else "")
 
 
-def _seccion_edicion(ed, home=False, crudo_notas=None):
+def _seccion_edicion(ed, home=False, crudo_notas=None, agenda_html=""):
     claves = "".join(
         f'<li><p>{e(c.get("texto"))}</p><p class="cf">' + " · ".join(link(f.get("url"), e(f.get("medio"))) for f in c.get("fuentes") or []) + "</p></li>"
         for c in ed.get("claves") or [])
@@ -298,6 +300,7 @@ def _seccion_edicion(ed, home=False, crudo_notas=None):
                 continue
             cont = "\n".join(tema(t) for t in ts) if ts else '<p class="lead">Sin temas curados en esta edición</p>'
             out += f'<section class="panel s-{color}"{f" id={ident}" if home else ""}><div class="phead"><h2 class="chip {color}">{e(nombre)}</h2><span class="pside">Chequeados con semáforo</span></div><div class="temas">{cont}</div></section>\n'
+    out += agenda_html
     ed_pers = ed.get("periodistas") or []
     auto = auto_periodistas({p.get("nombre") for p in ed_pers}, crudo_notas or []) if home else []
     out += panel_periodistas(ed_pers, auto, home)

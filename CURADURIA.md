@@ -13,7 +13,7 @@ Soda es un medio hecho por y para jóvenes. **No defiende a ningún sector**: in
 ## Temas que entran
 Política, economía, juventud y educación, sociedad y cultura. Deporte o espectáculos solo si se volvieron tema social o político.
 **Breaking** solo si es muy relevante: una medida de gobierno, un hecho grave o algo que cambie la agenda del día.
-Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo universidad, empleo joven, alquileres, apuestas online, salud mental, bolsillo y derechos.
+**El foco de Soda son las cuestiones sociales y políticas**; la economía entra cuando explica un tema social o político (salarios, consumo, empleo, presupuesto educativo), y los temas de universidad, juventud, derechos y sociedad nunca se pueden caer de una edición si siguen vigentes. Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo universidad, empleo joven, alquileres, apuestas online, salud mental, bolsillo y derechos.
 
 ## Semáforo de chequeo (obligatorio en cada tema)
 - 🟢 **Confirmado**:

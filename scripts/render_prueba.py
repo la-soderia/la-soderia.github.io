@@ -7,7 +7,7 @@ BASE = Path(__file__).resolve().parent.parent
 ed = json.loads((BASE / (sys.argv[1] if len(sys.argv) > 1 else "data/edicion-prueba.json")).read_text())
 out = Path(sys.argv[2] if len(sys.argv) > 2 else BASE.parent / "prueba/edicion-prueba.html")
 e = lambda s: html.escape(s or "")
-SEM = {"🟢": ("ok", "Confirmado"), "🟡": ("mid", "Parcial"), "🟠": ("warn", "Sin confirmar"), "🔴": ("bad", "Desmentido")}
+SEM = {"🟢": ("ok", "Confirmado"), "🟡": ("mid", "Parcial"), "🟠": ("warn", "Sin confirmar"), "🔴": ("bad", "Falso")}
 
 def fuentes(fs):
     return "".join(f'<li><a href="{e(f["url"])}" target="_blank" rel="noopener"><b>{e(f["medio"])}</b> · {e(f["titulo"])}</a></li>' for f in fs)
@@ -90,7 +90,7 @@ details summary:focus-visible,a:focus-visible{{outline:2px solid var(--accent);o
   <p class="lead">Miércoles 25 de noviembre de 2026. Es una prueba para que la corrijas: los carruseles los redactás vos.</p>
   <div class="stats"><span><b>{m["notas_analizadas"]}</b> notas leídas</span><span><b>{m["grupos"]}</b> grupos</span><span><b>{m["temas"]}</b> temas elegidos</span></div>
 </header>
-<section><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 desmentido</span></div></section>
+<section><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
 <section><h2>Lo que tenés que saber</h2><ol class="claves">{claves}</ol></section>
 <section><h2>Temas del día</h2><div class="temas">{temas}</div></section>
 <section><h2>Para chequear</h2><div class="temas">{pc}</div></section>

@@ -21,7 +21,7 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
   - O una **fuente primaria**: documento oficial, dato del INDEC o BCRA, Boletín Oficial, paper de Fundar, Argentinos por la Educación o Ecofeminita, o la declaración textual de la persona involucrada.
 - 🟡 **Parcial**: una sola fuente seria, o varias que **repiten el mismo cable** o la misma fuente. Va en la sección "Para chequear", con la fuente aclarada.
 - 🟠 **Sin confirmar**: solo X o solo medios fuera de la lista. **No va en la edición**: queda en `seguimiento`.
-- 🔴 **Desmentido**: una fuente primaria o 2 serias lo desmienten. Si se viralizó, se propone como posible carrusel de "esto es falso".
+- 🔴 **Falso**: una fuente primaria o 2 serias lo desmienten. En el sitio se muestra como "Falso". Si se viralizó, se propone como posible carrusel de "esto es falso".
 
 ### Reglas del chequeo
 1. El pre-semáforo del script es **solo una pista**. Siempre se revisa que las fuentes sean independientes de verdad: 10 portales que levantan el mismo cable cuentan como 1.
@@ -46,7 +46,7 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
 5. `claves`: 4 o 5 puntos de "Lo que tenés que saber", cada uno con sus fuentes.
 6. `para_chequear`: los temas 🟡, con lo que falta para confirmarlos.
 7. `seguimiento`: los 🟠, con lo que se dice y dónde.
-8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si fue desmentido, se pasa a 🔴.
+8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si resultó falso, se pasa a 🔴 Falso.
 9. Antes de guardar, revisar: ¿cada tema tiene semáforo y fuentes? ¿Hay alguna cifra sin fuente? ¿Se marcaron las discrepancias?
 
 ## Límites

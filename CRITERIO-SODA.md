@@ -20,7 +20,8 @@ Las placas están en `criterio/2026-carrusel-tren-san-martin/`, en la carpeta de
 **Lo visual.** Una foto de fondo del tema que se repite en todas las placas, el texto en blanco con los destacados en rojo, la foto del responsable recortada en círculo y el logo de Soda en la última placa. **Nunca llevan gráficos**; usan fotografías y archivos audiovisuales.
 
 ## Reglas de precisión (pedidas por J)
-- **Fiscalías, juzgados y organismos identificados.** Se dice cuál ("la Fiscalía Federal N.° X a cargo de…", "el juzgado federal de Daniel Rafecas"). Si el dato no está en las fuentes, va a `a_chequear` en lugar de quedar genérico.
+- **Jamás "un" o "una" para algo identificable** (una fiscalía, un juez, un informe). Siempre se dice cuál y quién ("Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal"). Si no está en los títulos se busca en la nota completa; si no aparece, se saca la mención y va a `a_chequear`.
+- **Nunca "según [medio]"** en las placas; el dato chequeado se afirma. "Según" solo vale para un informe, un paper o un documento.
 - **Siglas desarrolladas** la primera vez ("el Consejo Interuniversitario Nacional (CIN)").
 - **Personas con nombre completo y cargo** la primera vez ("Luis Caputo, ministro de Economía de la Nación"); después se puede usar el apodo o el cargo, como hace el carrusel del tren con "Toto Caputo" y "el ministro de Economía".
 - No usar ganchos de fórmula como "¿Viste…? Seguro que sí".

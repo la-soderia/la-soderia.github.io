@@ -26,7 +26,7 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
 ### Reglas del chequeo
 1. El pre-semáforo del script es **solo una pista**. Siempre se revisa que las fuentes sean independientes de verdad: 10 portales que levantan el mismo cable cuentan como 1.
 2. **Cifras:** si los medios dan números distintos (por ejemplo 20.000 o 30.000, o 1.100 o 1.139 puntos), **se marca la discrepancia** en `alertas` y se busca el dato primario. Nunca se elige un número "a ojo".
-3. Lo que es **interpretación** de un medio se atribuye ("según La Política Online…"). Los hechos van sin adjetivos.
+3. **Nunca "según [medio]".** Los hechos chequeados se afirman directamente; la fuente queda en la lista de `fuentes`. "Según" solo se usa con un informe, un paper o un documento ("según el informe de la Jefatura de Gabinete", "según el paper de Fundar"). Las interpretaciones u opiniones de un medio no se incluyen. Los hechos van sin adjetivos.
 4. Para cada dato duro se indica la fuente primaria si existe (`primaria: {nombre, url}`).
 5. No se inventan datos, citas ni contexto. Si algo no está en las notas, no va.
 
@@ -48,6 +48,11 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
 7. `seguimiento`: los 🟠, con lo que se dice y dónde.
 8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si resultó falso, se pasa a 🔴 Falso.
 9. Antes de guardar, revisar: ¿cada tema tiene semáforo y fuentes? ¿Hay alguna cifra sin fuente? ¿Se marcaron las discrepancias?
+
+## Precisión periodística (regla de J, obligatoria)
+- **Jamás "un" o "una" para algo identificable.** Nada de "una fiscalía", "un juez", "un informe", "una encuesta", "un funcionario". Siempre se dice qué o quién es: "Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal", "Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11", "el Decreto 759/2025".
+- Si el dato no está en los títulos, **hay que buscarlo**: leer la nota completa (los links directos se pueden leer con curl) o buscar en las otras notas del crudo. Si aun así no aparece, esa mención se saca del texto y el dato faltante va a `alertas` o `a_chequear`; nunca queda la mención genérica.
+- Siglas desarrolladas la primera vez y personas con nombre completo y cargo la primera vez.
 
 ## Estilo de redacción (pedido de J)
 Esto vale para los resúmenes, las claves, el "por qué importa" y las ideas de carrusel.

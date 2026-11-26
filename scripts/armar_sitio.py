@@ -80,6 +80,13 @@ details summary:focus-visible,a:focus-visible,button:focus-visible{outline:2px s
 .g .sub{font-size:.78rem;color:var(--muted)}
 .aviso{background:var(--amarillobg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:.86rem}
 .ideaobj{display:flex;flex-direction:column;gap:6px}
+.s-rojo{--stripe:var(--rojo)}.chip.rojo{background:var(--badbg);color:var(--bad)}
+.ideaficha h3{font-size:1.12rem}
+.idealink{font-size:.82rem}.idealink a{text-decoration:none;font-weight:600}
+.claves.compactas{gap:0}
+.claves.compactas li{background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:7px 2px;flex-direction:row;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
+.claves.compactas li:last-child{border-bottom:0}
+.claves.compactas li p:first-child{font-size:.92rem}
 .ideaobj ol,.ideaobj ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:3px}
 footer{font-size:.8rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px;display:flex;flex-direction:column;gap:2px}
 """
@@ -145,7 +152,7 @@ def tema(t):
   {prim_html}
   {f'<details><summary>Fuentes ({len(fs)}{mas})</summary><ul class="fu">{fuentes(fs)}</ul>' + (f'<p class="otras">También: {otras}</p>' if otras else "") + "</details>" if fs else ""}
   {f'<div class="alert"><span class="lbl">Ojo antes de publicar</span><ul>{al}</ul></div>' if al else ""}
-  {idea(t.get("idea_carrusel"))}
+  {f'<p class="idealink"><a href="#idea-{e(t["id"])}">Ver la idea de carrusel ↑</a></p>' if t.get("idea_carrusel") else ""}
 </article>'''
 
 
@@ -287,8 +294,19 @@ def _seccion_edicion(ed, home=False, crudo_notas=None, agenda_html=""):
         for c in ed.get("claves") or [])
     pc = "".join(f'''<article class="tema chk"><div class="meta"><span class="pill mid">🟡 Parcial</span></div><h3>{e(p.get("titulo"))}</h3><p>{e(p.get("resumen"))}</p>{f'<div class="alert"><span class="lbl">Qué falta</span><p>{e(p["falta"])}</p></div>' if p.get("falta") else ""}{f'<details><summary>Fuentes ({len(p["fuentes"])})</summary><ul class="fu">{fuentes(p["fuentes"])}</ul></details>' if p.get("fuentes") else ""}</article>''' for p in ed.get("para_chequear") or [])
     out = ""
+    ideas = [t for t in (ed.get("temas") or []) if t.get("idea_carrusel")]
+    if ideas:
+        items = ""
+        for t in ideas:
+            i = t["idea_carrusel"]
+            if isinstance(i, dict):
+                cab = f'<span class="sec">{e(i.get("formato", ""))} · {e(t.get("seccion", ""))}</span><h3>{rojo(i.get("portada") or t.get("titulo"))}</h3><p class="pq">{rojo(i.get("enfoque", ""))}</p>'
+            else:
+                cab = f'<h3>{e(t.get("titulo"))}</h3>'
+            items += f'<article class="tema ideaficha" id="idea-{e(t["id"])}">{cab}<details><summary>Ver placas, copy y material</summary>{idea(i)}</details><p class="idealink"><a href="#{e(t["id"])}">Ir al tema chequeado ↓</a></p></article>'
+        out += f'<section class="panel s-rojo"><div class="phead"><h2 class="chip rojo">Ideas para carruseles</h2><span class="pside">{len(ideas)} propuestas de esta edición</span></div><div class="temas">{items}</div></section>\n'
     if claves:
-        out += f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Lo que tenés que saber</h2><span class="pside">Claves de la edición</span></div><ol class="claves">{claves}</ol></section>\n'
+        out += f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Lo que tenés que saber</h2><span class="pside">Claves de la edición</span></div><ol class="claves compactas">{claves}</ol></section>\n'
     temas = ed.get("temas") or []
     if temas:
         if home:

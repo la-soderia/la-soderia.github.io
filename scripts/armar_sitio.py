@@ -393,8 +393,8 @@ LEYENDA_ES = '<span class="pill ok">🟢 2+ portales de España o Europa, o dato
 
 # Fondo de la página de España: la bandera (rojo, amarillo y rojo en proporción 1:2:1), tenue y fija detrás del contenido.
 CSS_ESPANA = """
-body{background:linear-gradient(180deg,rgba(14,15,17,.86),rgba(14,15,17,.93) 45%,rgba(14,15,17,.97)),linear-gradient(180deg,#AA151B 0 25%,#F1BF00 25% 75%,#AA151B 75% 100%) fixed;background-attachment:fixed}
-body::before{content:"";display:block;height:6px;background:linear-gradient(90deg,#AA151B 0 25%,#F1BF00 25% 75%,#AA151B 75%)}
+body{background:linear-gradient(180deg,rgba(14,15,17,.62),rgba(14,15,17,.72) 50%,rgba(14,15,17,.8)),linear-gradient(180deg,#AA151B 0 25%,#F1BF00 25% 75%,#AA151B 75% 100%) fixed;background-attachment:fixed}
+body::before{content:"";display:block;height:10px;background:linear-gradient(90deg,#AA151B 0 25%,#F1BF00 25% 75%,#AA151B 75%)}
 """
 
 # Excepción: elecciones generales de España del 29N. El botón se ve hasta el lunes 30/11 inclusive.

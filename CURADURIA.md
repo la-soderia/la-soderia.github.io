@@ -42,7 +42,7 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
    - `fuentes`: 2 o 3 notas principales, de líneas distintas si se puede, con medio y url. El resto va en `otras`.
    - `primaria`: si existe.
    - `alertas`: discrepancias, datos a verificar o el "ojo con".
-   - `idea_carrusel`: opcional, un ángulo posible en una línea. **No se redacta el carrusel**: eso lo hace J.
+   - `idea_carrusel`: para los 2 o 3 temas con más potencial, una propuesta con el formato de `CRITERIO-SODA.md`: `{gancho, placas[], grafico, audiovisual, cierre}`. El gráfico se arma con números reales de `python3 scripts/menciones.py "término A" "término B"`. **No se redacta el carrusel**: eso lo hace J.
 5. `claves`: 4 o 5 puntos de "Lo que tenés que saber", cada uno con sus fuentes.
 6. `para_chequear`: los temas 🟡, con lo que falta para confirmarlos.
 7. `seguimiento`: los 🟠, con lo que se dice y dónde.

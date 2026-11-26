@@ -19,8 +19,11 @@ AR = dt.timezone(dt.timedelta(hours=-3))
 RUIDO = r"""
 \bhoroscopo|\bquiniela|\bloteria|\bpronostico del tiempo|\bclima (para|en)\b|black friday|cyber ?monday|\bofertas?\b|descuentos? de hasta|
 \bfutbol\b|\bpartido\b|\bgol(es)?\b|\btorneo\b|\bliga\b|\bcopa\b|\bboca\b|\briver\b|\bmessi\b|\bseleccion\b|\bnba\b|\bformula 1\b|\bf1\b|\btenis\b|\bgran hermano\b|
-\bnetflix\b|\bserie\b|\bpelicula\b|\breality\b|\bfarandula\b|\bmodelo\b|\bactriz\b|\bactor\b|\bcantante\b|\bwanda\b|\btinelli\b|\breceta\b|\bdieta\b
+\bnetflix\b|\bserie\b|\bpelicula\b|\breality\b|\bfarandula\b|\bmodelo\b|\bactriz\b|\bactor\b|\bcantante\b|\bwanda\b|\btinelli\b|\breceta\b|\bdieta\b|
+duran duran|\bmanchester\b|\bchampions\b|\bpremier league\b|\bpremier\b|\bla liga\b|\breal madrid\b|\bbarcelona fc\b|\bliverpool\b|\barsenal\b|\bchelsea\b|\bjuventus\b|\bbayern\b|
+\bbajar (de )?(los )?kilos\b|\bbajo (\d+ )?kilos\b|\bperdio (\d+ )?kilos\b|\bse murio (el|la) (cantante|guitarrista|baterista|vocalista|rockero|musico)\b|\bmurio (el|la) (cantante|guitarrista|baterista|vocalista|rockero|musico)\b
 """
+RUIDO = RUIDO.replace("\n", "")  # los espacios dentro de cada término son literales
 SALVA = r"\bgobierno\b|\bley\b|\bcongreso\b|\bdiputad|\bsenad|\bmilei\b|\bpresupuesto\b|\bsalari|\bdespid|\bviolencia\b|\bfemicid|\buniversi|\bescuela|\bjovenes\b"
 EXTERIOR = r"\b(cartagena|colombia|mexico|chile|peru|venezuela|españa|espana|madrid|ucrania|rusia|israel|gaza|iran|china|trump|eeuu|estados unidos|brasil|lula|uruguay|paraguay|bolivia|ecuador)\b"
 ARG = r"\b(argentin|milei|caputo|kicillof|bullrich|buenos aires|bonaerense|cordoba|rosario|mendoza|cristina|peronismo|congreso)"
@@ -48,7 +51,7 @@ def main():
     entran, fuera = [], {"ruido": 0, "exterior": 0}
     for n in notas:
         t = norm(n["titulo"])
-        if re.search(RUIDO, t, re.X) and not re.search(SALVA, t):
+        if re.search(RUIDO, t) and not re.search(SALVA, t):
             fuera["ruido"] += 1; continue
         if re.search(EXTERIOR, t) and not re.search(ARG, t):
             fuera["exterior"] += 1; continue

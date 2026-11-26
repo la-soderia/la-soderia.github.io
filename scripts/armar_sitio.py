@@ -391,11 +391,17 @@ def fecha_larga(fecha):
 LEYENDA = '<span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span>'
 LEYENDA_ES = '<span class="pill ok">🟢 2+ portales de España o Europa, o dato oficial</span><span class="pill mid">🟡 un solo portal de España o Europa</span><span class="pill warn">🟠 solo medios argentinos u otros: no se publica</span><span class="pill bad">🔴 falso</span>'
 
+# Fondo de la página de España: la bandera (rojo, amarillo y rojo en proporción 1:2:1), tenue y fija detrás del contenido.
+CSS_ESPANA = """
+body{background:linear-gradient(180deg,rgba(14,15,17,.86),rgba(14,15,17,.93) 45%,rgba(14,15,17,.97)),linear-gradient(180deg,#AA151B 0 25%,#F1BF00 25% 75%,#AA151B 75% 100%) fixed;background-attachment:fixed}
+body::before{content:"";display:block;height:6px;background:linear-gradient(90deg,#AA151B 0 25%,#F1BF00 25% 75%,#AA151B 75%)}
+"""
+
 # Excepción: elecciones generales de España del 29N. El botón se ve hasta el lunes 30/11 inclusive.
 ESPANA_FIN = dt.datetime(2026, 12, 1, tzinfo=AR)
 
 
-def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo="", leyenda=LEYENDA):
+def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo="", leyenda=LEYENDA, css_extra=""):
     titulo = "La Sodería · Motor Soda"
     desc = "Lo que pasó, chequeado: temas del día con semáforo de fuentes y última hora automática."
     return f'''<!doctype html>
@@ -421,6 +427,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo="", l
 .dia{{font-size:1.05rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-bottom:2px solid var(--brand);padding-bottom:6px}}
 .rojo{{color:var(--bad);font-weight:800}}
 .ed-sep{{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}}
+{css_extra}
 </style></head><body>
 <header class="band"><div class="band-in">
   <div class="topline"><a class="wm" href="{prefijo}index.html" aria-label="Soda, ir a hoy"><span class="wordmark">soda<span>.</span></span>{f"<h1>{titulo_h1}</h1>" if titulo_h1 else ""}</a><span class="eyebrow">Motor de relevamiento • La Sodería</span></div>
@@ -556,7 +563,7 @@ document.querySelectorAll('.dias .btn').forEach(function(b){{
     (BASE / "archivo.html").write_text(pagina("Archivo", "Todas las ediciones curadas, por día.", cuerpo, nav("archivo"), ahora_txt, len(notas), medios))
     # Excepción España: página propia mientras dure la cobertura (después queda congelada).
     if ahora < ESPANA_FIN:
-        (BASE / "espana.html").write_text(pagina("Elecciones España", lead_espana(), cuerpo_espana(), nav("espana"), ahora_txt, len(notas), medios, leyenda=LEYENDA_ES))
+        (BASE / "espana.html").write_text(pagina("Elecciones España", lead_espana(), cuerpo_espana(), nav("espana"), ahora_txt, len(notas), medios, leyenda=LEYENDA_ES, css_extra=CSS_ESPANA))
 
     print(f"ok | hoy {len(eds_hoy)} | ayer {len(eds_ayer)} | días en archivo {len(por_fecha)}")
 

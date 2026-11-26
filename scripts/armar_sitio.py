@@ -342,7 +342,7 @@ def _seccion_edicion(ed, home=False, crudo_notas=None, agenda_html=""):
 def hora(iso):
     try:
         d = dt.datetime.fromisoformat(iso).astimezone(AR)
-        return f"{DIAS[d.weekday()]} {d.day} de {MESES[d.month - 1]} de {d.year}, {d:%H:%M} h", d
+        return f"{DIAS[d.weekday()]} {d.day} de {MESES[d.month - 1]} de {d.year}, {d:%H:%M}\u00a0h", d
     except Exception:
         return iso or "s/d", None
 
@@ -464,7 +464,7 @@ def main():
         # Antes de la edición de las 11 la portada nunca queda vacía: muestra la última edición curada disponible.
         ultima = next(iter(por_fecha.values()))[0]
         txt, _ = hora(ultima.get("generado"))
-        lead = f"La edición de hoy sale a las 11 h. Mientras tanto ves la última edición curada, del {e(txt)}."
+        lead = f"Estás viendo la última edición curada, del {e(txt)}. La de hoy sale a las 11\u00a0h."
         cuerpo = seccion_edicion(ultima, True, cand, notas)
     else:
         lead = "Todavía no hay ediciones curadas. Abajo tenés la agenda y la última hora automáticas."

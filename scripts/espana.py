@@ -157,8 +157,12 @@ def main():
     if (CARPETA / "crudo.json").exists():
         previas = [n for n in json.loads((CARPETA / "crudo.json").read_text()).get("notas", []) if n.get("origen") != "argentina"]
     todas = fusionar(previas + nuevas, inicio)
-    for n in todas:  # fusionar no conoce "origen": se recalcula
-        n["origen"] = "espana_europa" if n.get("lista_seria") else "otros"
+    # fusionar une duplicados por título y hereda lista_seria de cualquiera de ellos (así un medio
+    # que copia un cable de EFE quedaba como serio). Se recalcula por el dominio real de cada nota.
+    for n in todas:
+        serio = any(dominio_coincide(n.get("dominio", ""), f["dominio"]) for f in fuentes)
+        n["lista_seria"] = serio
+        n["origen"] = "espana_europa" if serio else "otros"
     lim = INICIO.isoformat()
     todas = [n for n in todas if n["fecha"] >= lim]
     todas.sort(key=lambda n: n["fecha"], reverse=True)

@@ -82,6 +82,17 @@ details summary:focus-visible,a:focus-visible,button:focus-visible{outline:2px s
 .ideaobj{display:flex;flex-direction:column;gap:6px}
 .s-rojo{--stripe:var(--rojo)}.chip.rojo{background:var(--badbg);color:var(--bad)}
 .ideaficha h3{font-size:1.12rem}
+.verbtn>summary{list-style:none;display:inline-flex;align-items:center;gap:8px;width:max-content;max-width:100%;min-height:42px;padding:9px 18px;border-radius:8px;background:var(--brand);color:#fff;font-size:.9rem;font-weight:700;cursor:pointer;transition:filter .15s}
+.verbtn>summary::-webkit-details-marker{display:none}
+.verbtn>summary::before{content:"▸";font-size:.9rem;transition:transform .15s}
+.verbtn[open]>summary::before{transform:rotate(90deg)}
+.verbtn>summary:hover{filter:brightness(1.12)}
+.verbtn>summary:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.verbtn .cerrar,.verbtn[open] .abrir{display:none}
+.verbtn[open] .cerrar{display:inline}
+.verbtn[open]>summary{background:var(--tag);color:var(--fg);border:1px solid var(--line)}
+.verbtn>.ideaobj,.verbtn>.idea{margin-top:10px}
+@media (prefers-reduced-motion:reduce){.verbtn>summary,.verbtn>summary::before{transition:none}}
 .idealink{font-size:.82rem}.idealink a{text-decoration:none;font-weight:600}
 .claves.compactas{gap:0}
 .claves.compactas li{background:none;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:7px 2px;flex-direction:row;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
@@ -303,7 +314,7 @@ def _seccion_edicion(ed, home=False, crudo_notas=None, agenda_html=""):
                 cab = f'<span class="sec">{e(i.get("formato", ""))} · {e(t.get("seccion", ""))}</span><h3>{rojo(i.get("portada") or t.get("titulo"))}</h3><p class="pq">{rojo(i.get("enfoque", ""))}</p>'
             else:
                 cab = f'<h3>{e(t.get("titulo"))}</h3>'
-            items += f'<article class="tema ideaficha" id="idea-{e(t["id"])}">{cab}<details><summary>Ver placas, copy y material</summary>{idea(i)}</details><p class="idealink"><a href="#{e(t["id"])}">Ir al tema chequeado ↓</a></p></article>'
+            items += f'<article class="tema ideaficha" id="idea-{e(t["id"])}">{cab}<details class="verbtn"><summary><span class="abrir">Ver placas, copy y material</span><span class="cerrar">Ocultar placas</span></summary>{idea(i)}</details><p class="idealink"><a href="#{e(t["id"])}">Ir al tema chequeado ↓</a></p></article>'
         out += f'<section class="panel s-rojo"><div class="phead"><h2 class="chip rojo">Ideas para carruseles</h2><span class="pside">{len(ideas)} propuestas de esta edición</span></div><div class="temas">{items}</div></section>\n'
     if claves:
         out += f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Lo que tenés que saber</h2><span class="pside">Claves de la edición</span></div><ol class="claves compactas">{claves}</ol></section>\n'

@@ -198,7 +198,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap">
 <style>{CSS}
 .nav{{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}}
-.btn{{display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}}
+.btn{{font:inherit;background:none;cursor:pointer;display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}}
 .btn.on{{background:var(--accent);color:var(--surface)}}
 .dia{{font-size:1.5rem;border-bottom:2px solid var(--accent);padding-bottom:6px}}
 .ed-sep{{font-family:var(--display);font-size:1.05rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}}
@@ -263,12 +263,27 @@ def main():
     # Ayer y anteayer (para el lunes: sábado y domingo relevados).
     eds_ayer = por_fecha.get(ayer, [])
     anteayer = (ahora.date() - dt.timedelta(days=2)).isoformat()
-    cuerpo = ""
-    for etiqueta, fecha in (("Ayer", ayer), ("Anteayer", anteayer)):
+    def boton_dia(fecha):
+        d = dt.date.fromisoformat(fecha)
+        return f"{DIAS[d.weekday()].capitalize()} {d.day:02d}/{d.month:02d}"
+
+    botones, paneles = "", ""
+    for k, fecha in enumerate((ayer, anteayer)):
         eds = por_fecha.get(fecha, [])
-        cuerpo += f'<section><h2 class="dia">{etiqueta} · {e(fecha_larga(fecha))}</h2></section>\n'
-        cuerpo += bloque_ediciones(eds) if eds else '<section><p class="lead">No hay ediciones curadas de ese día.</p></section>\n'
-    lead = f"Ediciones curadas de ayer ({fecha_larga(ayer)}) y anteayer ({fecha_larga(anteayer)})."
+        botones += f'<button type="button" class="btn{" on" if k == 0 else ""}" data-dia="d{fecha}" id="b{fecha}">{e(boton_dia(fecha))}</button>'
+        contenido = bloque_ediciones(eds) if eds else '<section><p class="lead">No hay ediciones curadas de ese día.</p></section>\n'
+        paneles += f'<div class="panel-dia" id="d{fecha}"{"" if k == 0 else " hidden"}><h2 class="dia">{e(boton_dia(fecha))}</h2>{contenido}</div>\n'
+    cuerpo = f'''<section><nav class="nav dias">{botones}</nav></section>
+{paneles}
+<script>
+document.querySelectorAll('.dias .btn').forEach(function(b){{
+  b.addEventListener('click',function(){{
+    document.querySelectorAll('.dias .btn').forEach(function(x){{x.classList.toggle('on',x===b)}});
+    document.querySelectorAll('.panel-dia').forEach(function(p){{p.hidden=(p.id!==b.dataset.dia)}});
+  }});
+}});
+</script>'''
+    lead = "Elegí el día: las ediciones curadas de los dos días anteriores."
     (BASE / "ayer.html").write_text(pagina("Noticias de ayer", lead, cuerpo, nav("ayer"), ahora_txt, len(notas), medios))
 
     # Archivo: una página por día + índice.

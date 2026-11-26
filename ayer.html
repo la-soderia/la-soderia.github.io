@@ -59,7 +59,7 @@ details summary:focus-visible,a:focus-visible{outline:2px solid var(--accent);ou
 footer{font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;display:flex;flex-direction:column;gap:4px}
 
 .nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
-.btn{display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}
+.btn{font:inherit;background:none;cursor:pointer;display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}
 .btn.on{background:var(--accent);color:var(--surface)}
 .dia{font-size:1.5rem;border-bottom:2px solid var(--accent);padding-bottom:6px}
 .ed-sep{font-family:var(--display);font-size:1.05rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
@@ -68,14 +68,23 @@ footer{font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);padd
 <header>
   <div class="eyebrow">Motor Soda · La Sodería</div>
   <h1>Noticias de ayer</h1>
-  <p class="lead">Ediciones curadas de ayer (martes 24 de noviembre) y anteayer (lunes 23 de noviembre).</p>
+  <p class="lead">Elegí el día: las ediciones curadas de los dos días anteriores.</p>
   <nav class="nav"><a class="btn" href="index.html">Hoy</a><a class="btn on" href="ayer.html">Noticias de ayer</a><a class="btn" href="archivo.html">Archivo</a></nav>
 </header>
 <section><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
-<section><h2 class="dia">Ayer · martes 24 de noviembre</h2></section>
-<section><p class="lead">No hay ediciones curadas de ese día.</p></section>
-<section><h2 class="dia">Anteayer · lunes 23 de noviembre</h2></section>
-<section><p class="lead">No hay ediciones curadas de ese día.</p></section>
+<section><nav class="nav dias"><button type="button" class="btn on" data-dia="d2026-11-24" id="b2026-11-24">Martes 24/11</button><button type="button" class="btn" data-dia="d2026-11-23" id="b2026-11-23">Lunes 23/11</button></nav></section>
+<div class="panel-dia" id="d2026-11-24"><h2 class="dia">Martes 24/11</h2><section><p class="lead">No hay ediciones curadas de ese día.</p></section>
+</div>
+<div class="panel-dia" id="d2026-11-23" hidden><h2 class="dia">Lunes 23/11</h2><section><p class="lead">No hay ediciones curadas de ese día.</p></section>
+</div>
 
-<footer><span><b>Actualizado:</b> miércoles 25 de noviembre de 2026, 22:27 h</span><span>1919 notas leídas de 356 medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
+<script>
+document.querySelectorAll('.dias .btn').forEach(function(b){
+  b.addEventListener('click',function(){
+    document.querySelectorAll('.dias .btn').forEach(function(x){x.classList.toggle('on',x===b)});
+    document.querySelectorAll('.panel-dia').forEach(function(p){p.hidden=(p.id!==b.dataset.dia)});
+  });
+});
+</script>
+<footer><span><b>Actualizado:</b> miércoles 25 de noviembre de 2026, 22:29 h</span><span>1919 notas leídas de 356 medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
 </main></body></html>

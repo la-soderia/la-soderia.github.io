@@ -449,8 +449,14 @@ def main():
         cuerpo = seccion_edicion(eds_hoy[0], True, cand, notas)
         if len(eds_hoy) > 1:
             cuerpo += '<details class="ed-sep"><summary>Ver también las ediciones anteriores de hoy</summary>' + bloque_ediciones(eds_hoy[1:]) + "</details>"
+    elif por_fecha:
+        # Antes de la edición de las 11 la portada nunca queda vacía: muestra la última edición curada disponible.
+        ultima = next(iter(por_fecha.values()))[0]
+        txt, _ = hora(ultima.get("generado"))
+        lead = f"La edición de hoy sale a las 11 h. Mientras tanto ves la última edición curada, del {e(txt)}."
+        cuerpo = seccion_edicion(ultima, True, cand, notas)
     else:
-        lead = "La edición curada de hoy sale a las 11 h. Mientras tanto, abajo tenés la última hora automática."
+        lead = "Todavía no hay ediciones curadas. Abajo tenés la agenda y la última hora automáticas."
         cuerpo = panel_agenda(cand) + panel_periodistas([], auto_periodistas(set(), notas))
     cuerpo += seccion_ultima(cand)
     (BASE / "index.html").write_text(pagina("", lead, cuerpo, nav("hoy"), ahora_txt, len(notas), medios))

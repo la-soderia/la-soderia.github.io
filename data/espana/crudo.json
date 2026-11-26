@@ -1,13 +1,24 @@
 {
- "generado": "2026-11-26T12:27:41-03:00",
- "total": 1061,
- "errores": [
-  {
-   "fuente": "rss Europa Press",
-   "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
-  }
- ],
+ "generado": "2026-11-26T12:32:45-03:00",
+ "total": 1211,
+ "errores": [],
  "notas": [
+  {
+   "id": "80583d0f93",
+   "titulo": "Cort traslada a la concesionaria el requerimiento de la Junta Electoral para que retire la propaganda del PP en Avenidas",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTHQtQXVlbEV2SXRHNnFheU5Pc21wX1hVUjJqWks1bFVkRkFrZFpQMzA3aVMxX0wzeTNpNmZ2ZmpEd3pZNFFDR3BUMUlQNk51eUVYNnJvTUpsTWptLXhTd2NpaXNYbGdDdXV2TWlEWEVBOXcweVdPV0lndVVFbUtaSmloaE4zS3EzaG1PMjNVWWdZUjdlTXBGY1o1ZUpuY1EzY3B2dkc3RDRrT1QyZjNISmdZaFFERjJySzlJVzRBUnJYbTI3OHc0YUIydEVERVFGc2hxeGk5VmlnTm1CZUxqamtDeEdwY0FCVUJXUw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T12:23:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
   {
    "id": "957c4e74f2",
    "titulo": "¿Dónde tengo que votar este domingo? Consulta el buscador de todos los colegios electorales de Mallorca",
@@ -180,20 +191,34 @@
    "origen": "espana_europa"
   },
   {
-   "id": "8a535a279a",
-   "titulo": "El Supremo defiende que no ha ampliado el número de afectados por el voto suspendido por la 'ley de nietos'",
-   "medio": "Valencia Plaza",
-   "dominio": "valenciaplaza.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUGY1U2F0dnhfV1ZwMDRpRUpCVEZ2ek5ETE83ZzZ1amltdmJXdVhWLXEzTDF6LWFudjFvZlJuTG9wUFlsNnFvMURIMEFmZGtXcDdBcHdWX3VJaVJWOWtlbnJWcGFEMzNra2FsemxhSHJ4OUxfUlp2NTJaLVRPVm9uZkVsdnJpWExYYllGMHZua2htU1gwcElvaFROYWh3Q3JIOW5feEZDUGdWUTVEQkZ3ZHM5ZEVrSVNDNmg5TjNxVlZqQmVUTUszYU9VZVFFZEo2a3dSQlNwWng3bXVuWk1SYkZfYnU4aEZZNXc?oc=5",
+   "id": "b3d839493c",
+   "titulo": "Las pensiones en en el programa electoral del PSOE para el 29N: blindaje constitucional del IPC y un año adicional de cotización por cada hijo",
+   "medio": "Faro de Vigo",
+   "dominio": "farodevigo.es",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1p4OHRXZEJFZWU4bjQ2Z3hXa0VUVHVpMVNxRzBUUVNGUkR1VDVZQlVydzNSMUYwQlZob2ZkOXNubHY3bEwyZWdIVU1WcHBOS1RfU2pvM1lPWlZDSWZOWGZ4a21hc3ZsNEl1TmxJODIwQTg4ckpMU3UwV1BJOE9YWFl5RHBwUS1UaXZkVVZPVE9EbDN5bWVNeEdqRFdNYkHSAaQBQVVfeXFMUDZUNHNObFlOU1JOcHpPRFhYZy1uaWVOb251Smc0LUlMOFQtM2kwMl9OMGVPUTRpZF9hWXhud0RRQW1uY2YwWnZmTXczV2xNRzJPajFZbk02c3NXekZVTkIwSjVCTDEzeDZmaGV2Q3BCd2E3YmlMWEctYTlGaFhJdU92akZ0UE9ZdDdTR1FsUjNBSFNScVVNSDh3Sm9mdFJvMEZJQTc?oc=5",
    "url_original": null,
-   "fecha": "2026-11-26T11:53:27-03:00",
+   "fecha": "2026-11-26T12:00:25-03:00",
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "Junta Electoral Central"
+    "elecciones generales 29N"
    ],
-   "visto": "2026-11-26T12:27:41-03:00",
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "8e0aa2d180",
+   "titulo": "El pueblo manchego de los 10 votos: 5 de ellos vienen desde el extranjero y ni hay carteles de los partidos ni mítines",
+   "medio": "El Confidencial",
+   "dominio": "elconfidencial.com",
+   "url": "https://www.elconfidencial.com/espana/2026-11-26/pueblo-manchego-10-votos-poco-poblado-1qrt-1tna_4471770/",
+   "url_original": null,
+   "fecha": "2026-11-26T12:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "c9765832f5",
@@ -270,6 +295,22 @@
    "fuente_tipo": "chequeo",
    "lista_seria": true,
    "busquedas": [],
+   "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "d504abf71d",
+   "titulo": "El Supremo defiende que no ha ampliado el número de afectados por el voto suspendido por la 'ley de nietos'",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://www.europapress.es/nacional/noticia-supremo-defiende-no-ampliado-numero-afectados-voto-suspendido-ley-nietos-20261126154702.html",
+   "url_original": null,
+   "fecha": "2026-11-26T11:47:02-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
   },
@@ -545,6 +586,22 @@
    "origen": "otros"
   },
   {
+   "id": "dfe1ba7837",
+   "titulo": "Cruz llama en Huelva a concentrar el voto en el PSOE \"para garantizar una España de derechos, libertades e igualdad\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZkd4TmhwT2t5WUwtRC0xeVVLNTlhdXk2OGZtbi02RWN6cXFUcUROSVRIRHJHVFBmdnBYQVB3YjFxZ2l2YWJqMGNmczJVN3pVZTh5Zk9pRDFodHZTemcxa2VPRXVwai1OaFlKYkFMYmExSTVLTUVOb1NHeFhmR3QtRWZoUEdlNjVWbUxfckw4dTFPcWxET3kxTloydHNBUk1XaThOUkJXcXlBZ3BSa3pKWnZjaWdQWURSQmk3Q3l6YVdPZ2FUcFZpR0F3eno0QVlqQVdXS2VPWnAxdkhhVi1Uem95X2tRRW5LX0g4X0lVNnB3MlBYU3c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T11:17:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "d35b22523d",
    "titulo": "Sánchez y Colau clausurarán la campaña en Madrid, Feijóo lo hará en Sevilla y Abascal en Valencia",
    "medio": "Demócrata",
@@ -589,6 +646,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "d284c48ea9",
+   "titulo": "Sánchez ratifica su apuesta por el transporte público",
+   "medio": "Canal Sur",
+   "dominio": "canalsur.es",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnhBUTA1SkZPaGZFcEQtSDdxR1JyNXJsZGFSUDF6dlZEU3NLSlEtZmRVdXNndzFYMGJzOXg5VUtGeFc5MU94dFJDS3ZVYnlYNlNSbkFfb3N3M3FiYTRoZ0I5T0dSWGs3WkRWMWk5cFlRQUJSSWlYNC1oOUtsN2FxSzhaWG1UNXZjM1JYVnh0LWpWUFk3V3RsVFpPWDl5N0RmM3d0VWJUbHlZemRBM0lNVWRmcjdabmxQaEU2bzU1VlY2bTkzMUh5cllOODQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T11:14:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "06561d140b",
@@ -728,6 +801,38 @@
     "Junta Electoral Central"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "e1ebbb5603",
+   "titulo": "Vox propone una sanidad pública \"para los españoles\"",
+   "medio": "Canal Sur",
+   "dominio": "canalsur.es",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHBWaWN4WUN4bVRJY0VpMjh4ckNTdHVlMnRJTm9nMDQzdmNYYVpGR1hTdTRUVnNvQUdQblFwRWI4MmhqdGhENjlLYXgxeUlhSDB3dkZsYXFDUVJvNUNQeEJ4amtsdzE2RFdtXzZNUmdBOTc3U0lHVmllVFpPODhteVJ5QTNfMlF5UG51ZDZMNnNUN0wxdnp0WmNFaWY1akF2OTRrZmRjRHRydVJQdE9FajhkRXR0eWdhQlpVSlB2bG14WFd4?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T11:06:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "efd9a48e68",
+   "titulo": "Núñez Feijóo en la recta final de campaña: \"A guapo me gana Sánchez y a fuerte, Abascal, pero yo no voy a fallar\"",
+   "medio": "El Observador",
+   "dominio": "elobservador.com.uy",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR0RPN1g0X3QtaHRCd09OakMxMEdoSXZZQ0RkU1FuWFR2NjA3Qno5aHJOdG9mVUZuTE5CM0hZWXd3YVlNSmY5d1Rodk5mbldUYnBGWEJsZjVDNnp0aXg5YW45Tzh3Tzhkd09nMjdkRjZUUk9SaHZjY1dNRGdKdGthVERiVTBmcldqNlZNM2NmMWFmUGNTNlVIc0FXbF83THUxWVB2MVdEMG1DNmZSVlFER2NqYjhmOHY5dVE1TEVTTjVWSFFiZVd3NTRxQWxONk1DTWlQRDhRNmRrZXZYREY0THk2UUoxbF93ZkdtWXdR0gHzAUFVX3lxTE5GSUZrYWlTWklqQS13ZGRxUVlqd0Y3dF9ocVU1ZWpBVnZNLVJBUk1OYVlTVEpkamhXYzRlQUdWTUFWd3UwZW5CSjJSa3BWaFQyLS1WTXRYTS1sdFZDcnVaN0R3YkhUYTdaZnhBbWsydkJWdzQ5cG56NEstZzVoX1p1RC1KVGxUR0RIRlRLMml0T1NlaTNHY3lSZnFHUFFqUFJkNkFZZnQzUk15ajloNHVlejhWSlEzM0pobTh5X0Y1Nk1DSjQ3dVQ5dzZLclRNZGtWNW4yVTIxWVZpS3NtRFBKNlVCZTlDOGlrNkhmRVpaSkdDWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T11:04:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -880,6 +985,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "a20822b7b0",
+   "titulo": "La Diputación de Sevilla ratifica el manifiesto del 25N consensuado en las ocho provincias con la abstención de Vox",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMDlnZ19CVDZ2SmdfWlRWZ2VraWF6VWI1N25EYUxYNGRQdUplbGJQcjI2cjljRDFvX2ROeGN1OWFIekxXcWJzNFhHZGpYS0xVdF9BcUo0ZExOWHpWY1REc0hMUm51V3U1ank0Sjd4clY5c09qYzN3U1JxMmU5dXlGRDVJYVpDSzloMVY4d2FwWl90TjFwWUhWMFdBQmI5dURNcEdxZGVXNy13enF3Y284RnZpdUR6ZDlFZzFyajY4M2ZzUlQ3WjNPOUJLX2hJWEtvX2tLbVQyVkV2TElSbU5iQlJTclpTcU4ybmQtQVVfSGtFWFRCckM3bk5lSGFDeVJ4QU1YNlZR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:50:52-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "d5f8d0a5bb",
    "titulo": "Elecciones 29N: ¿cuántas horas tienes para ir a votar si ese día trabajas?",
    "medio": "Tribuna de Salamanca.",
@@ -1026,6 +1147,20 @@
    "origen": "otros"
   },
   {
+   "id": "929cdd0be7",
+   "titulo": "Sánchez asegura que será \"convincente\" pero \"educado\" en el debate electoral a cuatro de este jueves",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://www.europapress.es/nacional/noticia-sanchez-asegura-sera-convincente-educado-debate-electoral-cuatro-jueves-20261126143557.html",
+   "url_original": null,
+   "fecha": "2026-11-26T10:35:57-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "892b924598",
    "titulo": "El español Pablo Hernández De Cos será el nuevo presidente del BCE, tras el apoyo de Países Bajos",
    "medio": "Agencia EFE",
@@ -1076,6 +1211,38 @@
    "origen": "espana_europa"
   },
   {
+   "id": "a2f1bd2ca7",
+   "titulo": "La Diputación Permanente del Congreso ya ha votado 14 decretos en periodo electoral y superará los aprobados en 2025",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://www.europapress.es/nacional/noticia-diputacion-permanente-congreso-ya-votado-14-decretos-periodo-electoral-superara-aprobados-2025-20261126143243.html",
+   "url_original": null,
+   "fecha": "2026-11-26T10:32:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "3cbe1097c6",
+   "titulo": "Almería contará con 537.778 electores el 29N, 21.670 más que en las generales de 2023",
+   "medio": "Teleprensa",
+   "dominio": "teleprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTI4NHlLNGhXNHBSblBwRXNKWm5xVlpyZmhLWk5Ga0FxcTdGb0hSclM3YVFWLXVQcndsaTE2YVpZSEhnTXhlN25jeG8wdUVqUGtlN3NsdVdhM2Z3VWt5WTBXSHJ5R3JHTGd2c1gxdURObUpPVGxGT3VJZmhJZWRhNHltYmFiUmt1TEJxWmR6N0RtYmRHY2p3WWtpdGlERDNYX0s0d0lWSnRGR0xXVlhqMVYzeVNDR0N1c0ZTSUt0ZzZJUVYyMW0zTktiSnBPU1FTbXVZNmdR0gHWAUFVX3lxTE4tMjg0eUs0aFc0cFJuUHBFc0pabnFWWnJmaEtaTkZrQXFxN0ZvSFJyUzdhUVYtdVByd2xpMTZhWllISGdNeGU3bmN4bzB1RWpQa2U3c2x1V2EzZndVa3lZMFdIcnlHckdMZ3ZzWDF1RE5tSk9UbEZPdUlmaEllZGE0eW1iYWJSa3VMQnFaZHo3RG1iZEdjandZa2l0aUREM1hfSzR3SVZKdEZHTFdWWGoxVjN5U0NHQ3VzRlNJS3RnNklRVjIxbTNOS2JKcE9TUVNtdVk2Z1E?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:30:32-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "b3b64018a3",
    "titulo": "La UE llega dividida a la cumbre sobre cómo pagar la ayuda a Ucrania en 2027",
    "medio": "Agencia EFE",
@@ -1090,6 +1257,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "05d5ac339a",
+   "titulo": "Un total de 787.255 electores están llamados a las urnas en Granada el próximo domingo, 21.778 más que en 2023",
+   "medio": "El Comarcal de La Alpujarra",
+   "dominio": "elcomarcaldelaalpujarra.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOallRdUttb2dhLXV1bUN5engxNHE3VzkyZzJ0R2h2Z2JyWE5GOVJKdVZ0dFhHZU92eEVSVnZ2NU5zWWkyQUhfVFN0enZEN3hDUklaNzZwbnpiQVJ2YWNrc1FTVTZTWGU3ZlhOLXFsOW01cXdKNXJFd0RPVGN2WW9KNkJDQ2dPYWVMZDgweF9FdUFqb3lTN0ttZFZBWEczZDR6Tzd6d2U5VWZhb2VyWVI3RFpKRlRSTTZqelVXMVQ3TnlNSnd4SGxiMU9hc1hEc0V4TWtNNlhZM2NqRGU1VVUw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:26:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "303803c979",
@@ -1137,6 +1320,22 @@
     "elecciones generales España"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "b71f1572be",
+   "titulo": "Lo mejor de las entrevistas de Plex a Sánchez y Feijóo: los zascas por el Lamborghini y la Dana a Pedro, las caras del líder del PP por ir a 247 km/h y lo que es la felicidad para ambos",
+   "medio": "Vozpopuli",
+   "dominio": "vozpopuli.com",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbFA5VkdkWGxJby1KSENuQzdvNFAyWkpJS3J6Y0lQaFFDQlFjYUZTXzRTV20waDE5UTlLcUdySmxUbk05eWlNNXNXaVpIRG5uSEVacHQyVDlSQ3lRRkNYQ3otWi0teUFJanJhczhybHhOeEN4aXc0UjVsYUZ4bVpkMGg4QjlYQVVqYklUemFHRFhoa2JrNHFkczgwTFNvMmNGQ1JqNnRXcDFrNlFTb2NVVGlRM1dMY3ZsTFNOam5jY0hVdWZpNy0waFZvM01QSzZzM1g0dzRXaWlENzB0bDBQdUtLdzFFdkc0cFZsYklxVDg4OVVJVEdJcTJhekgxNTQ2dkp1NW5MaDZUZkkwQ3hPcWpMS2IwSzNueV9qbEZVaGRlTXlfLURVVWNaMkY4ZFhRbzVad1NGd05KWVhMS2ZXVDB6dVhHVkQtTldN0gHLAkFVX3lxTFBsUDlWR2RYbElvLUpIQ25DN280UDJaSklLcnpjSVBoUUNCUWNhRlNfNFNXbTBoMTlROUtxR3JKbFRuTTl5aU01c1dpWkhEbm5IRVpwdDJUOVJDeVFGQ1hDei1aLS15QUlqcmFzOHJseE54Q3hpdzRSNWxhRnhtWmQwaDhCOVhBVWpiSVR6YUdEWGhrYms0cWRzODBMU28yY0ZDUmo2dFdwMWs2UVNvY1VUaVEzV0xjdmxMU05qbmNjSFV1Zmk3LTBoVm8zTVBLNnMzWDR3NFdpaUQ3MHRsMFB1S0t3MUV2RzRwVmxiSXFUODg5VUlUR0lxMmF6SDE1NDZ2SnU1bkxoNlRmSTBDeE9xakxLYjBLM255X2psRlVoZGVNeV8tRFVVY1oyRjhkWFFvNVp3U0Z3TkpZWExLZldUMHp1WEdWRC1OV00?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:23:31-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -1205,6 +1404,22 @@
    "origen": "otros"
   },
   {
+   "id": "f8451b19dc",
+   "titulo": "Las elecciones se cuelan en el Pleno de Málaga, que no alcanza consenso con el 25N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbHl6OEpoU29EV3JOZ0FQU25WdTJCOXljRGxJTXlvX0FHNDF4THpOUExoNXFtcW8wSkE2RWlCLTRxbEdzUU0zcXhuQjVvdUFlM3RlRERaeFJLbmdkSko5amJoWFlzSjBNZWZ1aU96VklDcGNJdnFoSXFCNWpRcW8zbl9VaU1QVmRUR2JYNDZ4bFMyVEZOemdRNm5ZNEVJNkcyaGI3a2RORTZzRXNsUkNWaS13aDA5N0JHbGpOZXN4MmFvSzBBbGtTREVodmY?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:22:35-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "b57d255525",
    "titulo": "A qué hora es el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau hoy, jueves 26 de noviembre de 2026: dónde ver, programación y candidatos",
    "medio": "El Economista",
@@ -1239,6 +1454,38 @@
    "origen": "espana_europa"
   },
   {
+   "id": "3068ddd1fc",
+   "titulo": "Una web y una app oficial facilitarán el seguimiento en tiempo real de los resultados de las elecciones del 29N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVFNsWUNpUDhvbFMydU5EVTFTSFdmVVN5bko4clZac2lRSk9RWmVRYVBGMWl2NUlXRl9ELU1WX09DSzYzNjhEQXpQYW1tSFVfY2tRSk1LUGtFMW1wUGxZWjBZTy1aZnp2RTExUFpTbTk4MVV4ZHZPb0JhelRvd1FXdnpQUmJIOGFBZ3QxNmR5TkkyelJvR0l2ODA5d1ZERWVfZXVxMjhITUVrQkYyWnAza0thT01TU1BSYnZ3N1BObFJwd0hfU1k5Z1hZdDd2SUZNby1obmoyX2Y?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:21:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "56577440e7",
+   "titulo": "Dispositivo electoral en Asturias: 13 millones de papeletas, 1.443 mesas y 581 colegios electorales",
+   "medio": "La Voz de Asturias",
+   "dominio": "lavozdeasturias.es",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPWlRVZVFFdnpiMEhwM0FmeHFLNjUtZlNPd2xKOGVsRmxnbkV3OERuZURUY1N6MldHQ0xCaVJhVmRhQW5WOXlZdldfREpmTkNvMldLbFY3RS03bVZreGNRaTUzNnhBU2tzSHVCRXpJbUlBSjVLN0lKX1Jmb1JCR0NWYlJsOTRETWZPam9jNlVDZ1lER2JsRGRtOHFCZ1p0eWFISTVSVm9kb3ZEcURNRDRIMGh0cEdidktZYm01eUNwa2psdzcycHJmWldTV2R6WHBBUlp0ZlYwMDFfUGpVQjZMbzRKSjFrMGdCTmV6ZGhBMENYQUZwT2tJMHNrMldraWNMZGZBMzNFVGctSVBKb0taRXlJSm5La1lyWVExU0lQelRYSXdKZE1YZ0JR0gGqAkFVX3lxTE9aVFVlUUV2emIwSHAzQWZ4cUs2NS1mU093bEo4ZWxGbGduRXc4RG5lRFRjU3oyV0dDTEJpUmFWZGFBblY5eVl2V19ESmZOQ28yV0tsVjdFLTdtVmt4Y1FpNTM2eEFTa3NIdUJFekltSUFKNUs3SUpfUmZvUkJHQ1ZiUmw5NERNZk9qb2M2VUNnWURHYmxEZG04cUJnWnR5YUhJNVJWb2RvdkRxRE1ENEgwaHRwR2J2S1libTV5Q3Bramx3NzJwcmZaV1NXZHpYcEFSWnRmVjAwMV9QalVCNkxvNEpKMWswZ0JOZXpkaEEwQ1hBRnBPa0kwc2syV2tpY0xkZkEzM0VUZy1JUEpvS1pFeUlKbktrWXJZUTFTSVB6VFhJd0pkTVhnQlE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:21:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "bcc3039582",
    "titulo": "Sánchez acapara las búsquedas de la campaña; Abascal y Colau tuvieron su momento en «La Revuelta»",
    "medio": "Enpapel - Tu periódico en Majadahonda",
@@ -1252,6 +1499,22 @@
     "campaña electoral Sánchez Feijóo"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "5ea64b0450",
+   "titulo": "El voto por correo, bajo custodia y con precintos numerados: así es el protocolo de seguridad de Correos",
+   "medio": "Telemadrid",
+   "dominio": "telemadrid.es",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUpJOFdXczFFMF9tRG9fcVlWN3NIb25BOTZqdnRHM2hFVDhqQkR0cERPTEtIdUR3ZkdYd2NyZVZOZUt6UUZFcjZpRWZEMlNyU2l5V2EtcXBPQ24yVFBZYUV4QjdiOVZVQmN1YTZ5M0xIY3ZIN1VGUTM5NUFZLVYtSWJFcl9RanlabExONzdfSUlHbExmS0dJMWhmbjRxaFFaRWVHUXJR0gGrAUFVX3lxTFA3SGNucHF3ZldzTXZzQkR4QVZNRE9TYjZraGxkaThTTHJMVEtXamk3LUgyMV9sVmkwZTVWcGlqZjNpUFk5QldGVi1aWnZienJuTld6aHc5Wi1oLWNxMlhmWHIwMTFrYllzRTFIb0REMWMtdzlSQlhTbzlnU0lVSngyZHdqM3RoYjZQRV9qVm5KWEUwUktpVW5EVUFiNVlPNVAxVVJMUW1tRVdfcw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:15:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -1755,6 +2018,22 @@
    "origen": "otros"
   },
   {
+   "id": "2b45b2e6c7",
+   "titulo": "El Consejo de RTVE respalda a Silvia Intxaurrondo ante el expediente de la Junta Electoral Central",
+   "medio": "El Independiente",
+   "dominio": "elindependiente.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSGhqSVJPaUpRZDlRY19zR0FweGRvYTF2aVUyRndCcUhhS1l3STZlZmx1THg4TXIxRl9NMGc5V2VBRnRYNGM2UnZuaG9vZ2wwMkQwV2RZLXVyOG4tNGwxdDFTdTBFbXRORGhkTklRcElxeVh2MnBfeV9xcDFiN0FsclZKVWRGcnI4eDN0MDVYTUZGNVFSSzNUUW9oMXFDX2pJNFJfcGpfNDcwNTBQbnBndkhteWRya0VmQ05GeTRZbWNTbzlIVjlHTVVMUk9zaWNtazYtZUl4WW40QklUSThrWlkzUEVodlc4bjZRSmhwX2pMY2xNdF9laXpySnctWVdQc1p5aGswV3h0TknSAYsCQVVfeXFMTUhoaklST2lKUWQ5UWNfc0dBcHhkb2ExdmlVMkZ3QnFIYUtZd0k2ZWZsdUx4OE1yMUZfTTBnOVdlQUZ0WDRjNlJ2bmhvb2dsMDJEMFdkWS11cjhuLTRsMXQxU3UwRW10TkRoZE5JUXBJcXlYdjJwX3lfcXAxYjdBbHJWSlVkRnJyOHgzdDA1WE1GRjVRUkszVFFvaDFxQ19qSTRSX3BqXzQ3MDUwUG5wZ3ZIbXlkcmtFZkNORnk0WW1jU285SFY5R01VTFJPc2ljbWs2LWVJeFluNEJJVEk4a1pZM1BFaHZXOG42UUpocF9qTGNsTXRfZWl6ckp3LVlXUHNaeWhrMFd4dE5J?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:50:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "cc8ecf1faa",
    "titulo": "Elecciones 29N: despliegue informativo en EXPANSIÓN",
    "medio": "Expansión",
@@ -1803,6 +2082,38 @@
    "origen": "otros"
   },
   {
+   "id": "4cfb016df5",
+   "titulo": "RTVE respalda a Silvia Intxaurrondo ante el expediente sancionador de la Junta Electoral Central",
+   "medio": "El Independiente",
+   "dominio": "elindependiente.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZG5jSEVVSlQzNmxlLXFvMk9xUk01MDliYTVtdlVkNjU0QUhnQTExYnJQV0NqZzUxS0ItREcxcTNfc3BRQ3ZFNlAzU0VGTUpzeDdKZGVYZXU4d0tWeGl6X1pGLWlUVTFBS2VvUjBSREZ2UE1yVE1JWTRVTDQ4S0ZOaDNJc2xINHRUcHN6ZFBpdHFUblNTZTZac3RlcGp3VkFtaWt6QXBTUE9YYlBHc29tbDZ3SDRvTmIyTUZmU3U5eU9qdEJreFhTQWRyYXNzSEEzMW5qd0F0X0hJbjFXRmpWTTJ3R3FVZ9IB5gFBVV95cUxQZG5jSEVVSlQzNmxlLXFvMk9xUk01MDliYTVtdlVkNjU0QUhnQTExYnJQV0NqZzUxS0ItREcxcTNfc3BRQ3ZFNlAzU0VGTUpzeDdKZGVYZXU4d0tWeGl6X1pGLWlUVTFBS2VvUjBSREZ2UE1yVE1JWTRVTDQ4S0ZOaDNJc2xINHRUcHN6ZFBpdHFUblNTZTZac3RlcGp3VkFtaWt6QXBTUE9YYlBHc29tbDZ3SDRvTmIyTUZmU3U5eU9qdEJreFhTQWRyYXNzSEEzMW5qd0F0X0hJbjFXRmpWTTJ3R3FVZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:49:04-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "c7a9eb387b",
+   "titulo": "29N.- La Delegación del Gobierno ultima el dispositivo para las elecciones, que ha costado 704.000 euros",
+   "medio": "Europa Press",
+   "dominio": "fotos.europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03UGNENTREendKVVQ3SnFqVkRPX3d2Wms2Q0VGWkdaYkRxdm9BLW1qRU5mS3hleXZOQ0x1Mk92cVBmek1xd2hleW96bnduQTFIZDQ3RGxkUjZSdmUyNnc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:44:21-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "470e24cc5a",
    "titulo": "Habilitan una app y una web para seguir en directo los resultados de las elecciones desde tu móvil",
    "medio": "Crónica Balear",
@@ -1829,6 +2140,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "elecciones generales 29N",
     "site:cadenaser.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -2035,6 +2347,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "fc372886f7",
+   "titulo": "El Consejo de RTVE respalda a Intxaurrondo ante el expediente de la Junta Electoral: \"Es profundamente lesivo para el periodismo\"",
+   "medio": "20 Minutos",
+   "dominio": "20minutos.es",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZnpOM3BDbGlISVZSZ3hFbl9aaTc5U1pKYkg3MDdRb05XdWxHMWtPdGZxZUFmOHM0Q1FWd1Z1d285dzJDanJGeHM0Tmc3MmJhSlFqUWc1SElTSVJWdTBUVVhDSnhPQ1Nvbm9VZFNNeVZTMnp4RUdEXy1MMVJfSTVyMjVkUnNTckN5Y2NrekhBNjFvbUlnTVRHckl6NEdEdUNZT18wNkNuMmcyaDhHbXYtTGwzM2hRbVN4eGwxVW5oQjhORDUweGtBSG9COU9sMXZjT25FcDBxQlRwck9JSjdtTGRIY2hEanBNN0pMMXNn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:32:18-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "2e720e9ea1",
    "titulo": "Concluye la votación de los españoles residentes en Alemania para las elecciones generales del domingo",
    "medio": "ABC",
@@ -2067,11 +2395,11 @@
    "origen": "otros"
   },
   {
-   "id": "5947005ff2",
+   "id": "832537f2e7",
    "titulo": "Una web y una aplicación permitirán seguir en tiempo real los resultados electorales",
    "medio": "El Confidencial",
    "dominio": "elconfidencial.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEVvcDhRd2xRZ0pqSTlVQmY3QzNGU2NScFJYWFdVSUFzTS1lT0xSLUVYUWVycG9TZmZtaEJvSU1VclhCdmMtbXUzSUgyQjlJUkROalNael9hYUJlbW50Q0c4blczNy14M1QwMGwwMldWTWNTZjIxMHlCMm1vdXowWFFLOVJxWTdGbTVWSk1wc2FrY0JZQko1RXN1bmZOSWpMaHdXOW16YnQ2STVFeFo4eGtR?oc=5",
+   "url": "https://www.elconfidencial.com/espana/2026-11-26/elecciones-generales-resultados-provisionales-app-1tps_4473243/",
    "url_original": null,
    "fecha": "2026-11-26T09:29:00-03:00",
    "fuente_tipo": "medio",
@@ -2113,6 +2441,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "6e3858fe59",
+   "titulo": "El Gobierno regional anima a todos los murcianos a votar \"piensen lo que piensen\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT0l5UnJ4VVQwd1E0bEtCYXFrUTRVV0k3VFZFYzRsVVR4VGlnWE45N3ZGT0RxYXBibmZuMTBDNmxDbGFsaGxxSTR5czdfZjN3NkhQZEV6T2dkLTJ0MEJsWXI2V1R5LW0xS29VVWZITElqQ1NDUEVQaVFucUduRWdXSUFKak04cmFTOXFVaGJVRkpSbElWdXRJRXVpMFltejFFSC00NFBNRlg4WmlIbWs3RHpycHR4MkVucktFajRmenU?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:28:25-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "e219fd9da9",
    "titulo": "Elecciones generales: 1.264 municipios cambiaron de ganador",
    "medio": "Demócrata",
@@ -2144,6 +2488,22 @@
     "elecciones generales España"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "f404fc9427",
+   "titulo": "La Delegación del Gobierno ultima el dispositivo para las elecciones, que ha costado 704.000 euros",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZl9VTHVFVlY4RVhSWERxU19ydFd2SVJSYmIwT254NmtLWlJhZUFILXFhR0tpRjVWVWhGdTZxQ3k0Vlo0ZDRZNlRERjVMaXNuSDFhWVNyeHk5MHMtbktwTTJzTDlFX1ptZW9wVmh3S3FXdXJ2SDg0UmliTGVnTHRGREhnN2JjM3J6RFYyR0dmTnlIU2dSaFhPc3d1eGFRajYtRm1pMkJtRnd4c09nQ1lqcUViMUR4RFVwRnZRQnBxQVBqTm1pVF9VRk82b2JkazA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:25:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -2271,12 +2631,12 @@
    "url_original": null,
    "fecha": "2026-11-26T09:18:00-03:00",
    "fuente_tipo": "medio",
-   "lista_seria": false,
+   "lista_seria": true,
    "busquedas": [
     "Junta Electoral Central"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
-   "origen": "otros"
+   "origen": "espana_europa"
   },
   {
    "id": "0d878a54b2",
@@ -2516,6 +2876,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "b4e31fa496",
+   "titulo": "Serbia convoca elecciones presidenciales para el 27 de diciembre",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTjRoczJMUWsxWDhwcVZ0WjlkWjRHQmEzS3lvRXRKaVR1b1k1TWF3YW1xVUVUVTd1eHRVVnBjdUZwODJQdGM3aHZhWW90TG1OeGhtTlNfZ0VSRjgtX0pGczFlSll2SkZqVnZYaDBZSHNsR0xONnM2QU9CcDV6ZFd1OGdMcTNZazlpOVVZN3FFclpuTmpwd3JQNl9VWHBFTHBjeWhTWjBzeDRGYjdaTUZoaGtfMllOcm5hZDFFMUZMOA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:04:34-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "d9355c789f",
    "titulo": "La Junta Electoral obliga al Ayuntamiento de Palma a retirar las 180 banderolas electorales del PP en Avenidas",
    "medio": "Europa Press",
@@ -2563,6 +2939,22 @@
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "120489a140",
+   "titulo": "Un dispositivo de 963 agentes garantizará la seguridad en La Rioja durante la jornada electoral",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa3FWQ0NuWk9CUGwyTzlZU2dDcmZ2R1RUNDE4LWtYLTMzVG5OUHpPa1BYRkxmdnlVRUMxeXRpX0xXY242Q1FZOVJXTE5JYy1yTE9oT0dnazlwOExDMmh0U1RqeERnOFV0ZHNaTWRyYkpFU2NRR2tBUjFGNzVjRk10cmIyekhvOFVZWEUwMFlaS0hKUmNvdDJrcnZ4OGRfamJ0eG5aZ2NvOVhWMWIwNS11N192SWZIaEhMSWY3b2dHZWxnNTJfb2NwbFBYb253QQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T09:02:15-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -2672,6 +3064,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "campaña electoral Sánchez Feijóo",
     "encuesta elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -2853,6 +3246,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "2b0fed0646",
+   "titulo": "¿Puede amañarse el voto por correo? Así se controla cada papeleta desde que sale de casa hasta las urnas",
+   "medio": "El Diario de Madrid",
+   "dominio": "eldiariodemadrid.es",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeGJiOU5CMk1EaXZESUs4dnZvMEhFXzk5dDdxUkh5VXdXLUgtNml4bGY4YXE2allvMEt5WC1rTERfWVJhaW1BejM3WE12NHJDOTJIMzYtUFBDM1E1UWVLTlBWZEZwNnJCOFl4elhWSFFmNHJGT0lHMl9XeXhaaXlPeWQ3NHJfLTV3UHQ0ZVRaZHIxZTJiMWdINjFoRjRMcFhPLVVmTzM5VEE5YmZiaTJxbnlwV3dtMGg3WEh1cWNpenA3Y1NId2xENGJCaFczdUtHZHdNYW8xSdIB3AFBVV95cUxOb3dmVHFBUjU1X2lISks5NUR4dnpKYmhUQ0s4bXRfUEJYeHRLTkQtV2dqWmEyWEo5YjZyeGZWV3V3aWFoNHhsRzJpOW56Qy1ZZFhrd1hXMWcydUhSZDBtNS1ObE1QWERTTnl1dzl0V21ETVVtdFZfcWZQbDQ1MkMwdkwwM2JKdXB4Z3FBdFFlNlozd085emRfNHd4TnlzVEh5bktDOEsyek05VjU0a0Joc29HTFFBOVlZU0hySEprSzV3dWE1WWJrdlo1TXRGbDA4SlBZTTFSUWxUQWpp?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T08:43:59-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "c39ef5fdf5",
    "titulo": "Casi 300.000 personas están llamadas a votar en las próximas elecciones generales en la provincia de Burgos",
    "medio": "Cadena SER",
@@ -2971,6 +3380,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "73dbf244c3",
+   "titulo": "Colas en las oficinas de Correos en el último día para depositar el voto",
+   "medio": "www.atlas-news.com",
+   "dominio": "atlas-news.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3Vpbi1lSU9VSjMtUFUyRlg4RUItS0oyYUlQdlJ0NU5pMzFncUY0Z2VLdlBBdVUwR3NXYk9UTzFvbVBsdE1zYkl6MWl0alFITGVRdDcxbjVsMnpuMUg4MktUdGtIUWIxTks5V3V2NDBDTWQ2ZW1BaWpUZDlfcTMxM01uTTI3dG5kOVhUNURR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T08:39:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "7a7acf0155",
    "titulo": "Las elecciones generales elevarán su coste a 243,4 millones, 23 millones más que en 2023",
    "medio": "Demócrata",
@@ -3064,6 +3489,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "50a7cd099e",
+   "titulo": "Las elecciones generales costarán 243 millones de euros, 23 millones más que en 2023",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2djNEVHOXRTejk0d0NITWpsX24wb0tmY2k1NnFtemEzVW5XY3NYV01zZG1fOVZ2RnAtZm9CZXdLRjlEdG9acWFRVS1naGFTRnktWXhjVWVYdDE0a2VkZFUxY0NrV1lIVURiaU5kSGZfT2hCaFRIV0hDVlJKaktaVU9Ja19OakFHWldzYktWdkIxVWtsOVZmUHlWRmNjb25TVDU1N2ZzQnlVd2d4cy0tRkw5aDkyT0FoUHFGbUJpa2twU1h2VU85eHRkS2ZOUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T08:35:47-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "e3ab193ff4",
@@ -3301,6 +3742,22 @@
    "origen": "otros"
   },
   {
+   "id": "700b4b911d",
+   "titulo": "Más de 8.500 personas forman parte del dispositivo para las elecciones generales del domingo",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaGpBaDdWVTZLOVpfLTdqMUIzSGxUaGdfQkFZUXp1Y3VlaVZoOHFfRW5NRTNaQVdGdjZzQ2owSnBoMlgzcXQ2Ujd0UFRyZVc2TTZCOE5HcVU0X3AwY3hnWXVpTFFsWG9MaV84ajhHZWJwTFZ5OHhlVnJnTnFwSU5KV2VBc09aaWdkSEUyNnJaQVRpSHhNcUZHLUFWN05xWHBHeWFvQW4wYmgwbU9iVWpldnhIdEhZQ3BNSVBpTEtOS3NYdlBNZVMtZXpuWnpWcFMwWUE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T08:01:46-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "e4d38da17a",
    "titulo": "¿Cómo suena la campaña de Vox?: Abascal, un líder no melómano que no perdona el himno de España",
    "medio": "El Periódico",
@@ -3495,6 +3952,38 @@
     "elecciones generales 29N"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "316339fd5c",
+   "titulo": "Sanz afirma que ni Sánchez ni Montero pueden pedir la \"confianza\" a los andaluces tras una \"traición\" de años",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRfQjF5TGphZ2hhUFh1TDFzSDBORnJhejlrNVZqeEdDZ3ZUQkRncVR2cExwWjNmdGFKVGRxWjBFUkFWR3Z5NWkzM0VlVlA5ejA1LWxxYThzQXd6YmZvaHZMYXZwUWJjcGtkbXlBcU1DSk9kUjQ0ZHN6a2JheFNTQ3pmdEt0Q0NqX0ZiVmlrQ1ZnUmtCdkZCOVZMZG1lZ0d0R2RvZVQzcDQ1OVA1STJTTjRXZW1zdmNLMTZNZng0NHAzSXdlODFOMDVrOFZ3MHBFM3BFb0lB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T07:49:47-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "90542ae87c",
+   "titulo": "Bono justifica los cambios de \"criterio\" de Pedro Sánchez: \"Yo estoy con mis hijos aunque discrepe de ellos\"",
+   "medio": "Onda Cero",
+   "dominio": "amp.ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeUdQQjN2TndwM0pRUTRzRHoyVGlPQmJQSi1fY2ctZmZaanhmRlhLdDM4NGRVM1lIQXJkN3dZcEdPam51Sng3V0k0blYxNTRxWTd6RnhsTlktSWZrMGE5VkRJNFU3ODBTSUJqVjdORmowM1NIRTVaQWEtSnZ3OEF3UGliQzFEV2Y0dEczTnFXVUxJMzQ5VjRSbWxLcU9aLXNnWXczQTdjbXo4cmFIUlRRdkFaRWZsd3JFWDlLVl94ZkVrRjNzZkdzSXlabEVHZTJXYmZFcldLdnllNU51OVNNajBqQU92MmtTS0tXVWhQUGw5MFllNzkzYjdn0gH6AUFVX3lxTE15R1BCM3ZOd3AzSlFRNHNEejJUaU9CYlBKLV9jZy1mZlpqeGZGWEt0Mzg0ZFUzWUhBcmQ3d1lwR09qbnVKeDdXSTRuVjE1NHFZN3pGeGxOWS1JZmswYTlWREk0VTc4MFNJQmpWN05GajAzU0hFNVpBYS1Kdnc4QXdQaWJDMURXZjR0RzNOcVdVTEkzNDlWNFJtbEtxT1otc2dZdzNBN2NtejhyYUhSVFF2QVpFZmx3ckVYOUtWX3hmRWtGM3NmR3NJeVpsRUdlMldiZkVyV0t2eWU1TnU5U01qMGpBT3Yya1NLS1dVaFBQbDkwWWU3OTNiN2c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T07:49:39-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -3742,6 +4231,22 @@
    "origen": "otros"
   },
   {
+   "id": "8ad86881bf",
+   "titulo": "¿«Correos retuvo en un centro de Madrid votos por correo de 2023 de distritos de renta alta y los destruyó antes de que llegaran a las urnas»? · La Buloteca · Maldita.es",
+   "medio": "Maldita.es",
+   "dominio": "maldita.es",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHpERHFrc3k5elhadWM1ckRwNUJ6VV85cE9IZWFiSGhkMVlxTmpaZElqQTg2Z21xZzVmWTFEZVhMVnk2X09rdEE0UjloeEg3cWlhdlQycHlBa01TbzRRNnpzZGFzeVZnU0ZUVlFjbXNjazMwR3VON1h0eWo4TC1QLW9vbGtOVWlYeTJXd0tPR0VFN01OZWRHU1ZLb0UyeGJhdDNzNTVENk5FWWFjX3c0WW1ZQVpoUFVmSVpZYTBDWWZ4MEVtbk5oeE5zTGFwbEhuZk1yeWMyNkE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T07:22:21-03:00",
+   "fuente_tipo": "chequeo",
+   "lista_seria": true,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "c1e2df7214",
    "titulo": "Feijóo muestra su lado más personal: \"Sánchez y Abascal me ganan en guapo y fuerte, pero pido una oportunidad\"",
    "medio": "Diario de Sevilla",
@@ -3806,6 +4311,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "f9ba41499c",
+   "titulo": "Cartagena se prepara para una jornada electoral en la que votarán más de 155.000 personas",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWlHQ1BwTW1IU24zRmdMWklOV0wyWjA0YmNPRWlsTU9wbzlZaVY2MmQteHpiWXk5RnhZa2RVbnU1TTRBalJiaXpVUHVpYkZ6Smtod0E5N25Ya2V0dERFVVBqR3p2cUJORHdmQjJBS2dDOEFKU3Qza0tDTThnQnRWU3NRRHpqckR1Z1VVNHdVNmF5M1pjRFNJbl9TRWNlWEgyejdhbm9SQnpncGN4OGFDLWVCbGlreC1kYTlmZUVCalNaQzg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T07:13:08-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "2763773801",
    "titulo": "ELECCIONES 29N. Bellido llama al voto para el PSOE, \"el único que defiende los derechos, las oportunidades y el futuro para la provincia\"",
    "medio": "EL DECANO DE GUADALAJARA",
@@ -3835,6 +4356,22 @@
     "elecciones generales 29N"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "d220933415",
+   "titulo": "Un total de 520.497 cántabros pueden ejercer su derecho al voto en las elecciones generales de este domingo",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMFdCZmVvV3hJbEdLUFlwLVcwMkkwd19TQjE5REJnejlnZTVETnhpZ2JOS1Q2ZElkNUhMSHRhQzBCbUlBYWlXWHJkc1hJRHUtSU5WSVYzbTdOTTN2cWx6dGM2V2w1N2JWWEMwN01BcmhjZTVDdlRaWXBpcUVOLXZpNm9wNE5Ma2ptTnBwWjhTdVRmb2NjSUp4Q25OZmk3azE4MGViekRCOUM1UV92M3p0bDBlbmR1NndtRENTSGVIWVY2eXFBWDNkcEZrdjFTZEstWlNvZTRCTTRwR1U3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T07:09:27-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -3962,6 +4499,22 @@
     "elecciones generales 29N"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "5871fe264b",
+   "titulo": "Elecciones generales en Vegas del Genil: listas y candidatos | Elecciones 2026 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWJuLXdQS1NhNDBoLTJmMGhrWDdKUnM2MXNRLW5hS3l5bnZwUE91VHRfSmJDdEw1ZnZUR0QwOHc1bEM0LXZDLTQwaGt4a1NERXBCOTBObGhCZkNSeFdrTmx6Sm9uNHJ1Vkt3VmdmdURUVkZ1dkZxMndIWUlCWHJiSmZydkJTSDBybjdMUVpR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T06:57:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -4183,6 +4736,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "campaña electoral Sánchez Feijóo",
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -4446,6 +5000,20 @@
    "origen": "espana_europa"
   },
   {
+   "id": "a6977d2b55",
+   "titulo": "Vox no acude a la Diputación Permanente y acusa a Sánchez de tratar de \"comprar votos\" a tres días del 29N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://www.europapress.es/nacional/noticia-vox-no-acude-diputacion-permanente-acusa-sanchez-tratar-comprar-votos-tres-dias-29n-20261126100615.html",
+   "url_original": null,
+   "fecha": "2026-11-26T06:06:15-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "c1fdb15b4e",
    "titulo": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
    "medio": "Le Monde",
@@ -4553,7 +5121,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "campaña electoral Sánchez Feijóo"
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
@@ -4675,6 +5244,20 @@
    "origen": "otros"
   },
   {
+   "id": "758d2979f2",
+   "titulo": "Manuela Carmena, Alberto Garzón y excargos de Podemos como Bescansa y Ramón Espinar piden votar a Frente Amplio",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://www.europapress.es/nacional/noticia-manuela-carmena-alberto-garzon-excargos-podemos-bescansa-ramon-espinar-piden-votar-frente-amplio-20261126094619.html",
+   "url_original": null,
+   "fecha": "2026-11-26T05:46:19-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "7bd72ebd88",
    "titulo": "Santiago Abascal tendrá a Pedro Sánchez a su lado en el debate a cuatro que marcará la recta final de las elecciones",
    "medio": "EDATV News",
@@ -4787,6 +5370,22 @@
    "origen": "otros"
   },
   {
+   "id": "15f171da30",
+   "titulo": "Sánchez, Feijóo, Abascal y Colau se miden este jueves en un debate a cuatro que dibujará los dos",
+   "medio": "LaCerca.com",
+   "dominio": "lacerca.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdXNqNTVudnlWdEE3UUh1U3VTMGVuNW1wMENBMldsX0hJTWZ4dzJhS2NxNTZmSXVndExzXzZuR2FUejVZNmVFc3pGQ3VseTlMdG12dFFVUW1DS3NrRktxN0w1NWd6amZicUMtcmItNEtwSzZxM2NMc3dKNHRzbGN2TGxVVTM5d01IUGZ4N09HZ2t3cVktTFFQZk9OYXY5OWZ5b1FjUXA1Z1h2ck1nS3lwZVdhRkNYd9IBtgFBVV95cUxQdXNqNTVudnlWdEE3UUh1U3VTMGVuNW1wMENBMldsX0hJTWZ4dzJhS2NxNTZmSXVndExzXzZuR2FUejVZNmVFc3pGQ3VseTlMdG12dFFVUW1DS3NrRktxN0w1NWd6amZicUMtcmItNEtwSzZxM2NMc3dKNHRzbGN2TGxVVTM5d01IUGZ4N09HZ2t3cVktTFFQZk9OYXY5OWZ5b1FjUXA1Z1h2ck1nS3lwZVdhRkNYdw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T05:38:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "d5ab0f764b",
    "titulo": "Quién ganaría las elecciones generales 2026, según las últimas encuestas: PSOE, PP, Vox o Frente Amplio",
    "medio": "Heraldo de Aragón",
@@ -4847,6 +5446,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "campaña electoral Sánchez Feijóo",
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -4999,6 +5599,22 @@
    "origen": "otros"
   },
   {
+   "id": "6be7bb13a6",
+   "titulo": "Colau promete \"firmeza\" con Abascal y Feijóo y avanza que hablará de violencia machista en el debate a cuatro",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWh5cTIweHU1VDJuOUdya002UjBhaldkcDAzS1VCVDllOFp2cjFZd1hVTXI2eGN0WVl2MDZzVUo3bWMyelZ5c3VoNXpKaUJhMml0Vm5kQ2VvS2RYcm9vMVJWQ0lncWVvazg1SlNVODNNMDNEYUFWb25hYlNQT0VwNkJKaWdZUUZKNmxWcXg4dWwyVnJrTU4ySUZSa3JVQWs2dEtoNGpsd1dyb2s1MHNhbEtrcnpPSnNhZ2FUTDBna1BUZjFkMVFDN2FFdTVsTXJFa3BZbW0yUFN1Z2tmTERNNUR3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T05:16:35-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "a902c13d30",
    "titulo": "El último pulso electoral entre Sánchez, Feijóo, Abascal y Colau: horario, escenario y cinco bloques",
    "medio": "ESdiario",
@@ -5041,7 +5657,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "elecciones generales 29N"
+    "elecciones generales 29N",
+    "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
@@ -5417,6 +6034,22 @@
    "origen": "otros"
   },
   {
+   "id": "baf0c32bac",
+   "titulo": "Canal Sur ofrece en directo el único debate a cuatro de la campaña",
+   "medio": "Canal Sur",
+   "dominio": "canalsur.es",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVkRSLWdJYmZhZmdDT3E2dVJOTXI3Mzd1bV8wc0VSU0VTZkpBMXlhV1V6bWJnUTNxZXNXa1JaU1RPRndTemVQUDB5Q3pRaFRyQlE3NnRYalpaQTdPQkNYVFRxTnNKVklhcGtGcmZsRmlvWDZIcXhMVEZ3eWdPRk91ZFFLOU9kMXI5NWRhc3J3Y1pSajhBc19oLW1teHZoUThqbFNCaTBzMHdfSlpqVkNEVkxSWFphamR5cXhBTEFsbUVMOVdrUl9SVEVB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T04:32:42-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "da5f91ccb6",
    "titulo": "Debate a cuatro de las elecciones generales del 29-N: a qué hora es, dónde verlo en directo por televisión ...",
    "medio": "OkDiario",
@@ -5443,6 +6076,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "Junta Electoral Central",
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -5505,6 +6139,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "debate electoral elecciones generales",
     "elecciones generales España",
     "encuesta elecciones generales"
    ],
@@ -5761,6 +6396,22 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "efc681e20f",
+   "titulo": "Fernando Jáuregui.- Ganar (o perder) las elecciones en media hora",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU0pTeHRzeWw5bUlvblZXbzRnNGNHUzlTRTdvRDZTdXFoZGlkYVJVVmdsWDc5M2Z3NElkbUpOOWJhZGd6c09UX0JiNlhGS1ItbDJ2REFUWHY4a2l3WEFQaGxDbElCTHdELWp0bXh4SnJvNTRTV0VIbG9SMy11T0prQ1RuZERTcFY3cDlGWmN5VWpnVG91eDJNLXp4bHhkU2hFNkNCYUJxV01VTTVKbGViVUhuV2JLb1BvUkRSdmkyQXNmVHgzMzdZdVNCTjNQWWRadmRTRlJ1UUE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T04:00:57-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -7589,6 +8240,22 @@
    "origen": "otros"
   },
   {
+   "id": "166039b862",
+   "titulo": "Resultados de las elecciones generales 2023 al Congreso en Zaragoza",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nM0YxTW1fRk9sOGNDWVBid0FhdmxjVEpZRUY0RVcweXRYckxYSy1Bd2N4ZHhQRjJuaEhOWTRjQzRPRU5tSEZTQzlWdngxNlVNTy0yMFdCSzdDTWpQY3JWbFN6dzNpUlFaX3F5eENVMjF3SEQ0VWtYUmpn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T00:27:09-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "f093be0e4b",
    "titulo": "Resultados de las elecciones generales 2023 al Congreso en Segovia",
    "medio": "Cadena SER",
@@ -7715,6 +8382,38 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "53ad6bc412",
+   "titulo": "Cómo se financian los partidos nuevos o agrupaciones que se presentan por primera vez el 29-N",
+   "medio": "Libertad Digital",
+   "dominio": "libertaddigital.com",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcE5HaUJWZ1hZM1RSemxlR0ZqRTY1bW9DUk4tRkpQRFh2Nl9YcHZWYW14ZXkwWFNxOExxTVkxQUdBc1dRamdteVNpWHJVVF9rMExBbEtqWnlNNnNFUnBudHhSd0E2cTBxVUZIa2dnWDl1RlktUzR2dnRGb21RR0Z0bEdMY1Z2c0Jza25lV0UxNmZ5QzkzSHpld1JpR19LazBORWJYNUFRY0dBWnQ5ZW1ZdkxZRWozWngwZXo2Yk9hOUp1eUJfSHZmQ2cxSGhFV19hb09UUGgwQVg5a1JrZGV1UVJXVXFlUHMzYnVQUmJNeDhiUER4RFZCWHVEUnhzVG01?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T00:00:10-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "f656ef0f13",
+   "titulo": "Resultados de las elecciones generales 2023 al Congreso en Bizkaia | Vizcaya",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5peHdHRkQwbzU5RldITV8ySkNwd2U2NEJScThVWTBscUFSaV9XcGpCSDhhX2lnWHFoei1FRnp0Ujk4TXExY3JJZjlDMWVSYXZvMkNtUk55dDUxbm4tRy01dzF5V05YMHg0SlAxVnN3MmNYb25qWEE1Njd3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T23:39:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "bc6821769a",
@@ -7893,6 +8592,38 @@
    "origen": "espana_europa"
   },
   {
+   "id": "63f5f96bd9",
+   "titulo": "Este jueves, Sánchez, Feijóo, Abascal y Ada Colau debatirán a tres días de las elecciones españolas",
+   "medio": "la diaria",
+   "dominio": "ladiaria.com.uy",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzZudG9YZ1RzTThFSzZwQkphUGFJNlZzSndPd2hMbmdXZVYyVG13Y3BmN0FRRnFZenpYeEVhTlpweHgyQ29IMDdWajJxdTVZUC1nU1B1R2s5UUpKSHE0amdNR1NuWENTZVlMallmY2tPSEJjcTQyMGpVVWp3QzNrcXlTN1p3dnFITVFfRDE5eUs1S3hIYzYxZndQVXFRRVRtNnVjUUZQVUpfMXlNRjBXOEJiNHh5ejQxdHdRbDZtWkZXbTF4bTJraGFHZlVXeVdOYTM2UUMyNE4yc2hu0gHsAUFVX3lxTE16SFNhems3algzUW1YTUgtd19FcXg5aFVLc2tubThuS3VCenlaRnhhVkVmRHBmbmdpSFlSRjBwdkI4M0E0aW1YMk8wSFBNa3FrbDVSWTZ6clgwZFgtel9MSGx0U0ZwUFZkcHBfZnVqamducGpsMWU3X2E1NFVFSVJ6eUpRMFBuazhIMkp0TEozbDRvVUhDOUZGYVJLMGlNcFlRMnV2UHlXWXZSaFBZSU9PZkRVbDV5TS12SXVNbzV0OTVGVUlrVVpHbzdkRVh0OG1EMmJSOTEyc09RMG9MZEJuNTU0ZldqclZKN05v?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:07:20-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "d885da037e",
+   "titulo": "Los grandes problemas que los candidatos han dejado fuera de la campaña electoral",
+   "medio": "MUNDIARIO",
+   "dominio": "mundiario.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmk1TXh4LUFNNjVtV0k0eUE4RTlkQ1lkbHI0VGhvVE5UZ2xkU1ZqbVFjcUlrejV5bG0wejQtdm1md29BLXQ0MHBVT3R0UUM0NEhxRzJDbzI4NTdGSS01ZWhaVzVGa2toRXRRT21tbmZNdEE3TUhxamc4b1Flc1RFd0Z1bV9qY3g3OTNyZkR3aEtQVlZsdzZwR21JQVE2S0x3bjlBdlNndTktbGtjck8xVmUyNWQzZzROdEZjUFJ3YnJyMHY5UG4tZg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:07:10-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "e52f8e9173",
    "titulo": "La Administración Trump impone nuevos aranceles a la UE, China, Japón y otra decena de países",
    "medio": "Agencia EFE",
@@ -7922,6 +8653,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "837f0f1fef",
+   "titulo": "Valorian gana las elecciones sindicales de El Corte Inglés y reclama una subida salarial del 18% en tres años",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTg4LVpPbW5TSUcyQzViN3RBdDRZRFoyNlFJZDRnWktyQ3dOS2UxdHdUekxzaG1QZC1XY21rNGtsTElsNGh1THdQVVdQSGJuYno0d2xRUENWcklnZlpjVndZSEtuSkNzRm1qc0RSZHpxZGtvV0xqOUJaNmpBYVFXaXhlX2E3dndQbDUxWXJjYjBfTFUyenVvTUFBVGZhWE1jaUZkNi1RRVBRNXVRYVhBMzJmQzVwMjVqVmptcU9tMEdkVllIS1FPTFFMd0VtNmc5QUdYOVhYV3ZJckwzYWQ2SjQ4dw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:03:25-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -8015,6 +8762,22 @@
    "origen": "otros"
   },
   {
+   "id": "3d28bfeabf",
+   "titulo": "Feijóo asegura que hay que \"reforzar\" la \"custodia de las sacas\" donde se guarda el voto por correo en su entrevista con Plex",
+   "medio": "20 Minutos",
+   "dominio": "20minutos.es",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTHVPMHJrUjJodjFIRU56M3ZBOFd0UUxqdHAxSXQyaWJtSTE4T3FZOUFhZkVMWVNBaHp3QlNQMm5rZFlJam4wMFZyNjBId1Z6VTdReG1vVTRMUU91QnZGMVhFT2lfNkZPZE9SU2tSRXRCS0ZnWnh0Y2p3aVZYbm80U216THBoSWZBNEtyR2RJOWRiRjFXZDhwa2M4RVpnZDdfWkw4Y08wRTlwa285Nmk0TGVfbUFQVzNlb1FIQmt2NnB1djZvbXFQZ2MyWEZKR1hBZHRLc3Bjb01FV0xiOElwMWZFZ1pmZHZvRjg4cWVRbw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T19:16:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "15cfde1bdb",
    "titulo": "Unas elecciones generales y más de 30 bulos: las desinformaciones difundidas sobre los comicios del 29N",
    "medio": "LaSexta",
@@ -8098,6 +8861,22 @@
    "origen": "otros"
   },
   {
+   "id": "32f91358e9",
+   "titulo": "Bravo llama al voto \"masivo\" al PP y acusa al Gobierno de \"engañar\" a los autónomos a cinco días de las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeHRDdGxIWTdYMGtHYzJMQm42YlB4Q3NuMVJXWEtFVkhJUmhnWHJsOVhGX2Fwam52NkpCSFpxd1FOVXZjOV9oS3FCSmI0dkthNk1uR1E1RWlVcjZ6NnpEc0F1OVpUbmd2QVZJeEJLWTZqR0xnWkJUWUJ2SzdrVDNUejRMSHJ6WExwRE51RlJIN3NHY1dNeHoyNjBsV200Y0NrU3pMU003cWJycXlyc2hjT3JTaDZRMTN5aEFBNEdJMVBvUVhHWmpCcWlTN1NXQ2NLV1p1Y2lHTGJ6WDhYUFljdzYta21KNlozMHpxYnpLREVHUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:53:15-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "a0fd53ff23",
    "titulo": "Kallas destaca la protección de las infraestructuras marítimas para la seguridad del Mediterráneo",
    "medio": "Agencia EFE",
@@ -8160,6 +8939,22 @@
    "origen": "otros"
   },
   {
+   "id": "e6de2f2bd8",
+   "titulo": "Vox apela a \"los que dudan\" y recuerda que \"los españoles siempre han estado por encima de sus peores gobernantes\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUpUakFWRnRoRS1pWUt0bXF0MXhUX0V5WGR4LWRYdnFjbFFIVkJnMVl1Z3Jtbk4xRnlSZDRHRVhEZXhEUEQ2cDduWWxUV2JaRTlUR08wZnVrSjJfVWZHQnpoZWlCRXI1UTFNS1MtRjZmM09MZzlGQ3NVSmQ1cWZSRTF2cExXd1pjUHJqT1JydFZrZkhDMmxIUnM1OTM0S2c5WW5ja0F6LW1wR3RZNjFrdENkZDdXTlZxUDB1Q0NKUllUaHl4ajR2WmJXMUVWck5qcjRka19B?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:39:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "a45952e3c2",
    "titulo": "Feijóo pide reforzar la custodia de las sacas del voto por correo",
    "medio": "Demócrata",
@@ -8186,6 +8981,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "site:europapress.es",
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -8208,6 +9004,22 @@
    "origen": "otros"
   },
   {
+   "id": "7a389d22a2",
+   "titulo": "Miles de mujeres vuelven a marchar separadas en Madrid en un 25N marcado por las elecciones del próximo domingo",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLVR2Z09zV2kydERnQzI0MTBnYlFrQzdHTVVtZFFMWUFEZmNCa3FVelNMdnJkUy1DbnBVV1NBZE5IU1pCamVfQ1QxVnhEYVJVVTdpdm1JdFdDeUVHNFlSRnJGTlVyTFV6QVc3dldMZG4yQmwzdmhYNm1QRjZsOXNQN0FFd0EwdjF1UERFUUw4b0JhZjA4cEtPX2o1NUc5dk92T05XdFVsS2EtZnhPdWpmQlBraTNtd2hHVmNDMTF4aXZaNzR5S1EtSDFGbGZjdTFHZ2lRdU1mQjR4NVV3aGN1Y1dWejZlVlphcWhoSlJVVC1mYzVWSUdtcERR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:27:42-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "622d5c8a06",
    "titulo": "¿Se deben poder publicar encuestas electorales días antes de votar?",
    "medio": "El Nacional.cat",
@@ -8224,6 +9036,22 @@
    "origen": "otros"
   },
   {
+   "id": "a953d3781a",
+   "titulo": "Resultados | Elecciones Generales 2026",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmZjSHFoaHZZel91NjEtWUh6UFRuSHpfUTZxeW5VM1VUMGJvNHkzY0FZdmctY1dlT01ER1JUSEpJaDZKVmhpY2dIM1pZRW9Sa3ROTmZZa0djR3VGSnlJbHdBTG0ybGpTUVFnaV9sc3hGdFlhSkVKOEphaWdPdHpMSXFnNmNNZlgySGFnZjZlZEJOT2ZFT1NUQTItYw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:15:58-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "ff9c940fc9",
    "titulo": "La UE destaca el acercamiento de los Balcanes Occidentales antes de los planes de adhesión y les pide más integración",
    "medio": "Agencia EFE",
@@ -8237,6 +9065,38 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "40900d1c8d",
+   "titulo": "Pedro Sánchez pasa un día con el youtuber Plex en plena campaña electoral: “Si cobras menos de 11.000 euros al mes, recibes más del Estado del bienestar que lo que pagas en impuestos”",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQQVE3eVFXVk1nNDVtTHJ4RE9SR2N5NUt1VFRYWDRoUHJSVVZ0Rnc4T21FWGFVYjJrWHVyRVVCMjNHQ0tkaHRwRGt1Y0x6ZVZma0tXMGtvRXQ3RkNYOURpaWVNamRKVXVOU0RPR3ZrYi1xN2xnTUh5N1JIcjUtSVAyOEt3YVN6WW1McV9uRU5uajN3NlA4LWxjZkFqZ0pDWUE2VElReGtYU3B6MWhoaFhqNFFDbkRTc3dIVFMxTUhpWmtFNDM4aVIyMlM4ZTAzekF5ZERrSGVlS04xVjY0akpHblhPVHg2WnRZcG9ocVVyM0lPbUw0WDA1STk5UWRJREpHUHdQNjVkcGYxVmNXSjN1bWFZY2Y4Q1FFQzhBeGRjdVd2Y3FBenNxWkZGV0ZST0lQbmhualdwVl9iZUhjLUZlSzFDb9IB3gJBVV95cUxPMjc3WUJ4MWppS2hfYzZDREN0MWZVR3Rkd05mNFdsdEdiaTdicnlUWXk1R2ZIUk5lS1JYZ3ZpMXhwRG1XZjlzSmJFc1BaZ1RNY1NMaUVXSHFmcFNqZVpTZ0FGal9TME1qQ0lVSmVsZlZZSTlEaXVhS25kM2RObXlGMmdmdS1xcEZfYmN1UUpWNU1QNTJNYWdmWDNlT0JEMUc0QWFOLVM4RUpsYkRUdU12WlZtei1CRjNXQ3czeWVlVS1UWm90VTRERU5laWluZnFHbXpSRHEtWmM2XzZkdFNWZG5QaDcxZUQxd3BKcFZ4TjhfM0tBM2I2RzB2NS11LVhfUC05NGxlNDNneVRCVnRMeElPNEEwczlzaFFlS2s2ZHE3NkptQkZJX1FXLW1WMXA5YkZjNTZLcmJNWE5NYWZqbEx3X2lmeFZKbUgxUEswNzJxMkpSR3VseEw5T0Jldw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:15:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "e79d7febe5",
+   "titulo": "Colau critica que el PSOE decepciona en vivienda y promete medidas en campaña que bloquea en el Gobierno",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUdVSXZ3WFk0R1FoREk4aGlhR25kV1RhMWNXY084TTJZZXZpdHUwYjlvOFoyLTU4M0hONTJLS0dWb0o1LU5objJrN3RGR2FMcjlxb002MnpMeTBlQ0xfRFhrYl9LbmF2MHFYR1k3aGpaRGF0czZtSHkyQy1IWnBxM3Z6c2NyWkZYbTc1Z2NxUTFDWUFfWWxaYlJFUlNZbjFjREJMYTBuSXRlY2dHLXFRbzg4LXhiNnRnbDE4V0FKMkllcVRncHNmanByTldoaEo4T00xSlNrLTdQb3M?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:11:58-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -8489,6 +9349,38 @@
    "origen": "otros"
   },
   {
+   "id": "880ce0fad0",
+   "titulo": "La caja mágica a la que se encomiendan Sánchez y Feijóo",
+   "medio": "El Nacional.cat",
+   "dominio": "elnacional.cat",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1ZQX0lTeHlzYi0zVnBLMlJjUkpZTHhmamhEYmxtNUY0ZFhmbDBGR3h4cmVhR05CcXkzNTQ4RU80RTlMTjBYb0R2V1NUT3c1YVZodVhzSjRacEJ2QVRvZENkRUxIUzQwWnF3dlRtNnNoNFo2NER6TUtBNnVkLTF0ZWhwWWhaNmFSbEE3UFZyQTloUC1BN2lPNHZB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T17:27:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "9ecb723e3f",
+   "titulo": "Mujeres del 25N ante las elecciones generales: la violencia machista no es prioridad para \"absolutamente ningún\" partido",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYjlTVDNpZjJHSzQtdy11SkhlMmRqNW1uNnFxSjNHX1NSblNDNGY0UXpQaWd2SGZHRE9jeHI4RUZRZEYxTU91ZnBMa1FoM2lFZXpsQmlpSmc5clg1TVZCLVhhZFVHTmQyQVVwVDd1U0FwV1JSSjd0LXI5NzJGekE5NVJqY3lDdHpYVW5ESnJFWEJQa1JIMDN3V3VrM0ZEUjhyOUpQWkRNeFRaWlhXYndLTFhKOUE2eTZLU1Q4UWNvUVZxajcwamRjWWxTM1pXZkFieENkR3BLbjhENXB2b0hTbFRucGRVeTJpa1o0N1NnMXNMaVVneFc1Y3pR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T17:24:39-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "34f48f106a",
    "titulo": "Feijóo, ante su posible primera negociación de gobierno con el partido que quebró la hegemonía del PP",
    "medio": "El Periódico",
@@ -8553,6 +9445,22 @@
    "origen": "otros"
   },
   {
+   "id": "838a9a97dc",
+   "titulo": "Plex le explica a Pedro Sánchez por qué le molestó que dijera que España necesitaba \"más autobuses y menos Lamborghini\": \"¿Qué tiene que ver una cosa con la otra?\"",
+   "medio": "El HuffPost",
+   "dominio": "huffingtonpost.es",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2Y0UVExZXlQcHhoZWtBNGNxSFV1R2NVLXVMa0hBZjlZb2VxUXVtYWVfWE5xZUpaV3JmdzY1a3dNNWNWbi0wdHdMRFlxMEV5UFZQMTR5N3dLQ3JoMTJ2NmVuRzJUS2hIWEY5dWZfUzVXT2J0VFo4Z0IzRHI3RnZxS1lkYnNqSzhRY21vUkVfS2FCYzJJY2p3NVRXSjNKUEozWGp5RGUzS3ZuNDFCUHZTSEw2S2tkeENKWndMOVQ1dEE5X0NmcnBxNEZ6TWZyLWNCYW1vNGVGNThfY1oyaC1ydUtubWhZSG5aZVJiUVFJeUnSAYQCQVVfeXFMTmRNbzd5X1M1OUMwOVZRYnltTlN2X1IzVWRIZUFSNHpVTlI3cHVpcDh1ZDI0NGRWaGJlLWYxalpaUENCMkkzQ2lvLTdseG84Y0lOTDQzWmlvTFFnZHc0cHlUUG10TjBYa3FfNDJEZGZIRTJXdVFDbjhyZ3NMbU9YU3pSS3U1emUtcm1OdFJCeGljSUNlejI1blB1aTNUeVhDMmZjQjVLZjBhc2tCU04zeV9qQnZOaW9QOTlrUWxWQk9GMjY4elMyR0hRWmdia2k3Q2YtLWczblJ6clV3Zl82WHVLV3ZOYml4UEhFdUpDRFNlVzVkZTYxbk5OVTktekhRU3VsYl8?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T17:08:29-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "afdb2d08fb",
    "titulo": "Elecciones en España: qué dicen las últimas encuestas de cara al domingo",
    "medio": "Ambito",
@@ -8600,6 +9508,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "1357293117",
+   "titulo": "Feministas \"antifascistas\" abuchean a Ayuso al ritmo de Rosalía y reivindican vivienda digna al ritmo de Aitana",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUnQxdnZPUTRDRzVULWRYNTNzRy1oS2NSTkFKOE5oSmIyZExaM2NrYnRuTXIzNU9uNDl0Z2FhSG9RT2tPMkhJMjBEU2JKbEJMQU1PX2NOOTc5YWkxaFZzak9GWnd3Nkw0eWVhbEU4NkVFTzREWmpFWEx3bXA4akQ4Sy0tNjJ3Rlk2eGVxdml1dHJYSUNOQUZRRThZazJHcVVHVnZvY3QyRUdtZWxtV1cwblZxSGRwaEhmWWtnTEFYbXJYYWtyVzJIcjV3S21YU1R1TUxVU0dGR3I3Wi1qVlFsNkNEdnlsWHB6ZTFmemd3bFU0QUtUMS14dll3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:59:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "cc67b43e45",
@@ -8682,6 +9606,22 @@
    "origen": "otros"
   },
   {
+   "id": "a88c6adfbe",
+   "titulo": "Colau anima a las mujeres a votar \"en masa\" y \"poner a la extrema derecha en su sitio\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFF5Zmd2OXlUTVRyMXAyWTJNdUpnUG1wY085bnNqLUFxZVVCeXZ1bHgxNHpReGN5c3duOTV3RnRGcFVubEc5aURYdW9reWo5LXFqTE1UeHhrNDdJeEszNnZBYWJwMUxnSnpXSVpNNG1IalAzeFR6NjJPNXM5Z3Zua2ZETHhvaEVZVlFTNWlYQmJOa2VtdEdDdkc2dFVZOHBtS08tR3FVV3pfeGVYWkowUzJrMU9ZYzNGQXc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:41:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "49c71bf495",
    "titulo": "La imagen de una supuesta compra de votos del PSOE de Mojácar: fue un caso que ocurrió en las municipales de 2023 y ya era público",
    "medio": "Agencia EFE",
@@ -8695,6 +9635,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "aaadf253f2",
+   "titulo": "Los bloques políticos se diluyen el 25N: PP y PSOE con abolicionistas y Frente Amplio y Podemos con \"antifascistas\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVUzVVp2LUtIMlRNV0FCSWVFalBJWDJXRnczQ1NkMHYwOHNmNGtfTVVZRWQ5QVZKYnBCSlQ2cWtNQ0YzS1d4S2hmTzZBMmg0YjNsMjFZYUoxWXVra08xSjgtZHdjcmZVVy1IeVNmLWdlQU5LUkxiZlNvaXdoRmVmT0sxN09KelJkc3NyaTU4YW02UFpValpleWxVSFlHdllwM3hWV0ViU2dyaFd6azV1MFQ4UE5aeDI2YXl3STE1Qjk5ek9ZejA5OWZQRXRlWTNkbUktQ3EtV1lJNDJ2T0xWdkhZeUdkVmRvRnFkVmJBNVlNWmc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:33:22-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -8728,6 +9684,22 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "3b7f6f93b2",
+   "titulo": "Almeida, a velocidad de un opositor 'cantando' temas, pide no caer en desmovilizaciones ni en falsas remontadas",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRG9idVdjd0dJZW1zazJJaTJMVFVReHhpanJwZWh2RFdCLVpNazJMZmlaSVdkUjc5eTd6NUo1bzQ4R3c3Y2R0U2g0T3dSYk02VmRTLUM5ekdBdmlycEZUN2xKZEZDWWpRdHpKSWxXVWxYOW94MWJheVFHWEhwSTJCWnhqTWhackp0a096Zm1sbzAzVTRwUzVVWWkxYnEwc013M21kMDhOVi1fajJwOE5KamhQMFJqUC05RnozYUZkQTN0MjN5TGZOazVsMGlVZnBqdWNmcEo4SEJsQlJ0RENVOG81bXo1VXc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:26:59-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -8793,6 +9765,38 @@
    "origen": "espana_europa"
   },
   {
+   "id": "af57ac0103",
+   "titulo": "Colau anima a las mujeres a votar \"en masa\" y \"poner a la extrema derecha en su sitio\" en la marcha de Comisión 8M",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSlpMSXhYbWFubW1CZ0p4V1RPYXBQVXpVOE5PdFF5dEdYRGVWQW80X0xjM0VxUXUwalRSXzVBeXlxREpZRkExeU1KYkxmb2ctSFhYcC1UVk9nLW9VVWNVQUpLQmNJS2EwN1E0TDRGU0R6dkd2dUg1aTNYNzRIYlA0SzAwbGg1aVVUZWVNTXFTVEFiNUZ0MTVlNk1MQ2hkdjg4bWs0aENVR1o3Y3FUWjRKbHNvdFE0dVZXeXFmQk1EeE1ULWdaaC1HSWdCdkNLNm04dG8tVjV1U0dSRk1PMmNnV2ZOWlM?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:13:46-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "8ffdd43e79",
+   "titulo": "Feijóo cierra su jornada de campaña con una entrevista en \"El Chiringuito\"",
+   "medio": "La Razón",
+   "dominio": "larazon.es",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0dFU1RZYlVtbldTYTJEU1dIM2cwY3h4YzFRYWhUdUsyNUVVRFllSkpxaEFlWUFQMWRtRlpsa2JiTEJzSzNIWmVLYkpFZkk4RWY0VzVGTnlGaEFma1RJZlJPbVlEcU1rRFBSREk2WXc1RWZKejM2dnZOTE45NVE3c3pvV253UTUwcnh5eHF6TmxLNkJjeENJTXBOOXNpaERwdmIzMHljWkpiMEtTcGZHSV9OdEdKaEU0enF5b9IB0AFBVV95cUxNVXhUaFFHbWxpVk5IZmwweENTUUxYQzBHZmt5b09lMU5UeXpldEhURnpiTUxzR2JObXFMd2FXbnhmVTM5NEZIbTVmNXlMemk1R05wamZZT3RfTWRyd251ZkVhT0xVLU5RcHJDU3dHMVdfTWttSzVOelpOY3l2OVczVVUtTHVfQmhTNUlHUUhCYVpYaWlpWnRsYzhlUWtGMmlId0k2cDI5TDJGVDVPdTRkTVdjY2g5WngzZGlRTFFZZGU0dnh5OHpXNkhUN0NIOXdx?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:11:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "d7ed93c8af",
    "titulo": "Ocho años de contradicciones de Sánchez: 15 momentos clave en que cambió radicalmente su postura",
    "medio": "Nuevaradio",
@@ -8823,6 +9827,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "4fc5f20268",
+   "titulo": "Última hora de la campaña electoral del 29N (25/11/26)",
+   "medio": "La 7",
+   "dominio": "la7tv.es",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXVfbGlzTTJYQURrTV9TbzBITGh2NUNtZmRTbW1obDlfSEd2eDc5aDZvdVlnMVR0NEo2RkJFUXh0LW9USDJwei1JeUQyUlhSNFVpZzVhbk9sQTlxSTdYNkJyOUJ2QURsQWxwWGdveEEwNThBX3BZMjhxSEdNeEJYSjFWc25tenVWV2NvcEFtdU02Y0ZJeUJCeEZsTGxoVnZmOGt1VHBkY9IBpwFBVV95cUxNUXVfbGlzTTJYQURrTV9TbzBITGh2NUNtZmRTbW1obDlfSEd2eDc5aDZvdVlnMVR0NEo2RkJFUXh0LW9USDJwei1JeUQyUlhSNFVpZzVhbk9sQTlxSTdYNkJyOUJ2QURsQWxwWGdveEEwNThBX3BZMjhxSEdNeEJYSjFWc25tenVWV2NvcEFtdU02Y0ZJeUJCeEZsTGxoVnZmOGt1VHBkYw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T15:50:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "af29bc1b1e",
@@ -8871,6 +9891,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "091cd5ad82",
+   "titulo": "La marcha de Comisión 8M recorre Madrid por el 25N al grito de \"feministas antifascistas\" y \"ni una menos\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUF85M0YwX3BwVDJkb1UyWDlENkJmb1dkNUoxN0pJLUJpaEx2bDhjUDBwbE1pSFZrQ0VwclhMVHp1THJhZk5YZjdSbWpYZHlENEZGT0NFbFhSNVRiMGstZlBUTkZlMmxXbHBYM2xwTFNmd1dCWEtucXdPX0lwbXVvMWJrS1oya2ttS1JnbGdaXzRJTGhZMFpwdUN6TkNwYjBUejc0dVhvUWNVbWkxODZDR0hFUDRsamtNaFE0cWUyWnc0aDIxcjZTVk5Nc1N3Y25sM0FQSTFCYw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T15:31:22-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "d9cedff269",
@@ -9091,6 +10127,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "elecciones generales España",
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -9145,6 +10182,22 @@
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "746e365851",
+   "titulo": "Crespín (PSOE) avisa desde Córdoba de la \"amenaza de involución\" para las mujeres a partir de las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXBVQUQ3dm1PcmdnZlUxakE5Z2J1aTZZLVpSUFNiOXZxWkh3SEpINUNDb1lxVDBXUVhpQmxvLS1KUldTZVhJWHpCbVVPcWJqTGVDeTlqS0VJSFdnOU9McEpwX1Q2OXBmSTBLNDhRODA2YTgtSHQxd3Zad0FtZWVCMEY0WlA1SGc4WlN0dzlfTWs3dWhCdklGS19GZ2FBUW5QS2h6a1FPN0J4MnpzNXZlOTI1eHJVTGdxdFRXUGVfT1NaUVdlMTRzd2V6d0N2UjV6OUE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T13:44:19-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -9259,6 +10312,20 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "f6ee4bd571",
+   "titulo": "Sánchez, Feijóo, Abascal y Colau se miden este jueves en un debate a cuatro que dibujará los dos bloques ante el 29N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-abascal-colau-miden-debate-cuatro-dibujara-dos-bloques-29n-20261125172619.html",
+   "url_original": null,
+   "fecha": "2026-11-25T13:26:19-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "fd670e81f8",
@@ -9390,6 +10457,38 @@
    "origen": "otros"
   },
   {
+   "id": "ac7ffd18d4",
+   "titulo": "Pedro Sánchez y Feijóo aterrizan en el canal de Plex para hacer campaña con los jóvenes: a qué hora y dónde ver",
+   "medio": "Levante-EMV",
+   "dominio": "levante-emv.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUgxekpBQm54YnUtMDRxdFN2T2VWQmNVRkk5M2wteG1kbW5YWkVCZUhSZDJfNDVNdjRyZmZNaVVuRS10Uks4MXpfUFAyYmNEZm5pekR1bXpNeUd4Tnk4eUtxbEd3dFFnUXhJNFJaamVoWHV4RmtEbUtJOTByeFF5Z0NLSUtHY1YzNnRkR3I3aXp4S0NCQlNyU1FrcHBVSjNhZjF3WmdDTjnSAa4BQVVfeXFMUC03eDJfSUJUQjdnbU53NWZQRzNIYmhkb2lPSjJFNWVtS3ZuSkJqSFNIclNTUG9aN2w4YzJzVU5EWDloRFZnQ2JfSnV1RFltNTc2WWRUc19OYUt2VFBqQzRYeENoZkxrOEtQeEJrVzdvX0lCQlZvQWJJUHk5R2VOelVRLXFFemJtLTVmMFMtSUFValdkNVZLZW5JdFZYVmJUMGxsaF9Ga3BjY2VDOEdB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T13:00:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "748231c293",
+   "titulo": "Más de 175.000 ciudadanos, residentes en la provincia de Huesca, están llamados a votar en las elecciones generales",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYlpyakc3QkphV1p6YjdHWHlOa24zRGVvQjg0VDlvMGNPVW5mOGxyTWxjdG9ZRmFGd3E3anNvcVRwSmtSb2U2cVRKVnN2MGtrcDhnSnpvczItT2t1aGc1bFJBX1hZZHFBV2RzV0g2dXBhMzFZTksxX1BTRmN6SnZjVlNLQ1Jjb3d5anBJRG1EY09LZmxUT01BRkZCNVpydVRieW5aV1FnRmFidmVJV2hyamFjX2ZDeFdlZUVhR01OU084c3VxYTN6OE1IS1pBcFJjRU5zVnNLT3pUNjRTR194cy0yMVdLSlFa?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T12:58:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "681d23aac4",
    "titulo": "El PP promete 'pantallas cero' en los primeros años de la escuela: \"Los libros y el cuaderno volverán a ser las herramientas prioritarias\"",
    "medio": "El Mundo",
@@ -9484,6 +10583,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "bbfec374a1",
+   "titulo": "Pedro Sánchez y Alberto Núñez Feijóo se disputan la presidencia en las elecciones del 29N en España",
+   "medio": "DW.com",
+   "dominio": "dw.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWhwUjBFMTdZc1lybGNqcnUwTmNFd015MXpEYmw5dkhHbm1xVnBaWkM2OWphSU5qM25JOXpyaFdGRUxtTUd6Q0ZTSFJnOW9nZU1sZmVkSFZlNFdqVFRBVlZIRFFrS3NwYjBzSGM2UXN3VS05RFBkbVZoVkd2aVZXbVNvdm56T3ZIa3dtRjBVdENSV1lBRVRoTXZiUFRORGNuU0E2VXlkWGQ4bFpNOVHSAa4BQVVfeXFMT1pYdFBQc2tCX3JKLVI4Ml9Kd3pZNTZoeXFGcFRpZ25fZlBRd0I4cEh1bFVIeElIRUhDMnVoRWVkNWJGNXJaWW9WcEpXa1pULVBjSzZXbkFQbmlhSlpobTdJX3lxdWtTZ0VGeDM5dkJDZ0N1UDR4alBheDZyeXlYWjN2X1QyV2FtTHBuVEIxZk5IMmxsQl9KY0xEX2MtRDdKNXJfa2NncklsNUFPN25n?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T12:49:41-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "5b3d912d7e",
    "titulo": "À Punt emitirá este jueves el debate electoral de Sánchez, Feijóo, Abascal y Ada Colau",
    "medio": "Valencia News",
@@ -9525,6 +10640,22 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "36f2547742",
+   "titulo": "UGT-FICA gana las elecciones sindicales en Aspil y consigue la mayoría del comité",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDdkeEVFcS04OHpjNGJXVUk3dEtmdmxZQU0wYjVPeTVYSHpPS2p0b1g2dDU1cjhxTWJkSnJoeEwtVUNzUnNHRHB4ZTNiTnhUSk9EU0Y4YmFQUmpwT0M2cTA0dl9ZUGZZR0tUakhwRVdBZWhZYkF0NFNUbTlScFhhalpkazRsdDhWLVlBVUk3anVrVEowREJqbUZ3YkpmeGEtLUhOZU1wNV9LTVVubm1oejBYOHNMY0g2VzJRSzNBYUl6VTlKWjEw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T12:38:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -9873,6 +11004,38 @@
    "origen": "otros"
   },
   {
+   "id": "6117b622a4",
+   "titulo": "Feijóo exigirá a Sánchez aclarar las dudas del cara a cara y esquivará el choque directo con Abascal",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc3JvLXVYLXpYczI5YThMd1hsMy1yZEwxeGZyZFJPTDR6N0p5R0JGV2ZHMm1ITW91UVE4UEVHcXdveXNfNWQzeEFGMmJhNjVXQVBOWGVUZTYza1RqYUFXRF92SHVUWGVhM0RyaVhIUHJaSWlycF9tYm5DU0VFR1lGeERPMDVPRnVoR0JFSkJpWHF1TkRaLVdJOWlSOWVqeXZ5OTdEQUtWeklUM1k4Y0tJWGNacXFfN3UzQVFWS0JXM01wSlpOc0g1eGdic1cwMDhtQ3VUXzVDa0NoZ1dUTTRuc2ZXZXJvWHJUN0HSAe8BQVVfeXFMTllaakxUQ3RteG84T0ZuVVBkTTRra08wUDhlSVZMbXpxckRhLVRieDBqYkdmVlFXOXZpOUpnWVlPb2VnVGtzUE50QS12X0M3aWVyQjJTQi1lOC1QVjJGa0pkTGlHVmN6SEdmTmRSUWFQMnoya3JHN0VPbDI1Y1RCamFodU5QR3ZfWEk2YjhnSXFMemJYT0NsUnM0UFFJbXVZQUE1VjJiN0RhNWVaYTRLdGE4c3o2bFZZamFwR2JudXViX0dERG54QWJLdFBkblFkd24xRmQzMHhUemZfN1FlNHdHNnVjMGVJRW9hQWJhQjg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T11:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "68ddd08ed0",
+   "titulo": "Así será el debate a cuatro: casi dos horas y un atril de apoyo en un encuentro que abrirá Colau y cerrará Feijóo",
+   "medio": "Heraldo de Aragón",
+   "dominio": "heraldo.es",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU2VfVUV5S1ZHeTNTMkN0MGJCTmF0aWdjUFRVT3FoX3VuaGNVNXZBNFNqbG8zZkY5NzVORmZTaE81WXB3WjhNZXlmS0JuN3FWaHNfclhIZ2lXcTFzMEQtV0dzdEhXQ21BRUdCdGlvZ2ttUlo3X0hKbEhUTmFEWjZPQ2FpNFp0TDhSc1o2ZFprMXBfNEtyMmttcl83TDRwQktfaG1jUWlVTGRPcG90SzVkdTNnT05sYlh1NHJUWjhsNmtZUnZNNV9EaFpNZEFzZzdNMXh3TnAzM0dLVjU2aDlsd2g2VXZ6OWEzb2M4VXdMZlNoRXZ00gH6AUFVX3lxTE9Iay1MaWVqaTFDVG10TDZPMUhOdnIyTUpZcmh6TXZGdHVDSUZlald6Qnk1Q2FPUVNWdVFqZ0dVaXVXWGdPakR4dWhaSmNYU2lNc2hZTGlyRUZUMXFNbEVybHNjeGc4cGdQSTZNS1RFSDVpaElIOTFSeG9MQklBR3NzQVlmbnNxWlc1Rzl5dXdCWFFLYnJISGNaOVJBUklIc1l1blFaZ19VRGZ3MzNpbTFaR0FQTGw0eFNVd21fT012enFldXZaVzJ3bXFoZDJPYnZ0clVacUtnaWdyb0pPTmVyd2dBajZoVF9nWXZ4T3Vhek51RVE3NmpJVlE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:56:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "6eb751aedd",
    "titulo": "Los cuatro candidatos, ante el último gran debate: así se prepara la cita decisiva de este jueves",
    "medio": "El País",
@@ -9938,6 +11101,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "ecc429f2a9",
+   "titulo": "Las candidatas del PSOE por Huesca creen que en estas elecciones peligra seguir combatiendo la violencia machista",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeHdxZGQzRlRCRjBmbFZCcFAtTmR5WVNIM19UeFF2cXd1UlQ0dkRmWXRXbFRhQ2xvSFhGVHR0czhiRGF3V0pENkJkSnpGcFc4VzFEendpc1pOYy1mNlZvYUtEVzlhQ2ZTNk9kcXlPWjRPNGF2QjVvdnhGYmJnUG5fYmg5aU5xMl9sN3ZySl9IZU9kajVWUTk3aHZzVWQ0VWI0ckNtVk50WExucWZyV3Q0cHdyN19td2pMRXVEckZuTVpFcDF2MG01QjdpeUEzY0tNWWN5NEdoZEtmOFBGUU9OQw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:39:18-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "7ca6e2047e",
    "titulo": "B-2026-38862 Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Composición, edición, manipulado y entrega al operador postal Sociedad Estatal Correos y Telégrafos, SA. de un máximo de 36.500.000 tarjetas censales",
    "medio": "Boletín Oficial del Estado (BOE)",
@@ -10000,6 +11179,38 @@
    "origen": "espana_europa"
   },
   {
+   "id": "9c5cff9dc5",
+   "titulo": "Medidas económicas aprobadas por el Gobierno antes de las elecciones del 29N: cuáles tienen que pasar por la Diputación",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWZOR1hBNlBDWU9fZGVtUUc3d2pmYUFrMkhGSFFmR0F2MkxiSDFveDViVno5SzJzbzluNDdkZWpSRjV2R1NmNlhkTnZRZzNWanctSVlhODA1dzhsQXlEeGh6ejVPMTlYSHpneWFBQklBcFQ3UFlLVl90MUwzOEwtX25VU2xIZlJrT2t6R1FhcnJ2cWVNdUVIcGdULUxCbmhFX1Myc2VqeThSLVFQcy1jeUp3am8tX2NyZl8yRDlidkctMkcwVXExR1V2bjF4azlfSHY5ZDRjMXU0UTVTS0piNW9FeC1Cb3hK?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:26:09-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "9d07384a36",
+   "titulo": "Rufián dice que Sánchez es \"una criatura de las izquierdas soberanistas\" y celebra que González ya no influya en el PSOE",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMUdBVmJHdkpFanhUWjEyZldpNzhaOEktRkZOeWtZeU9sWkVFeTR6TktFQmNxeUZkWnR1VGhiUkdjWTlsM2FvQlhtdlRPLXZGOTVQRnNwajI5ejNzVFFpbmNWSGpQeW1Zc1BqaUpnbDZhdTg5cWFjVDVlb1BESzdIMDljNDNpbG5uOWJPUmM1QkpUdkpDZDJjT1NaMnd2Z0pNUllFbDA3ZzBDcDIycmFQaEJHaU9WVnYzcG4yWGtkLWlPMmkybTVfSDk2SjVsaUprMWU5aklDZzJ0TWJEVTBXc2JmTTBxd3c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:21:34-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "6e0265918b",
    "titulo": "Anuncio 38863 del BOE núm. 293 de 2026",
    "medio": "Boletín Oficial del Estado (BOE)",
@@ -10013,6 +11224,38 @@
     "site:boe.es"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "df076a5217",
+   "titulo": "Irene Montero avisa que vendrán \"tiempos difíciles\" si gobierna la derecha pero también el PSOE con Frente Amplio",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZTJCejFLYzNZZ3I1ZzlBTVpaRkJHZldiT3k0Z25sTFNOTDlicDI0bXhUakJJbnNNVUhPazZuWTd1UzBYVDBvTldvU3FXUzNxYWt5dGUxSUZzMDJJaXJGMlMzT3VZenpWTVNHeXhOUTJUTkRGMTdLN1R0Wkxna0Q5LWVRVWl3T0t4NkxCZXc0STFKZFgtckpYa0NHUHhhalIwcUd6QldpejBYbW1TY2NQbFBCLUZkMEdhdHFGSGRJYXFLd00yUFZtRm41YlpOdTJBNHJkOENBNnJlRnpJbnNIQS04M2FiQ3RMVFMxUA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:17:18-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "8bbd4b47dd",
+   "titulo": "La Real Sociedad Canina pide un IVA veterinario reducido y revisar la Ley de Bienestar Animal ante las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOE1RLVNCblNzc2QwWno1Z19Kd2w2Y0U0NTZoakRRWTluQUxCUEc1aTY3VWVuWWhxRmxuV2NqLUVTZ2RrcFBKZzhNV29mdFZFbS1LajNsTWduZWpNU0hBbjFZeVRQVzFNMWpmWGEzVU8yNVJaLVpoWldlZE5SQ1NjOEYtWlY4VUJ6QWl1UkNyakNEM0xhT0prUnJMZUpNOGVoM0ZBanJucklCT0VMZk5WLXBwVEpJdG5PN19JMTB2clQyM1FMMjNkbWp5MnhyMjFBai0zWXdmSjR3NDJpMlFhZ25Ja0ptNmN3SVE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:16:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -10061,6 +11304,54 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "164ce9e5ce",
+   "titulo": "CCOO exige a Correos una plantilla suficiente para garantizar el servicio postal en las elecciones del 29N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2syY0NWR3dyUFRodlJFLXhuRm9JWFliSnc5NDlfS3dlbHZCMnp3ZjAzZUxTaGtlOTROMjlLLUtOMDlYZWEwaVVNM1JKc28wVEFaYWcxb0xFYTlVOXRDNHE5U0NwbVFhSjNiTU0teFhtSjhwbTRNSWZpdUtXTlJQR1UxRjE4cjdWSTc4NlVPNy1tb3dpd0VBWGRacVV5RGF1STVhcUlTaW1tOUNBbEZod3VxMDlTVTFET1hIMk10cVRVQUdxNUp3b0dIWnN0S1Etc1ljVUh2T0JfMTlzWFE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:08:24-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "b2fb45e980",
+   "titulo": "Irene Montero llama a salir a la calle este 25N y acusa al Gobierno de tener el feminismo \"escondido en un cajón\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdEFBUThXaENiLUZfQjJXWDI0a0poRmtJSzhDYVVIUHJ1VFZ6TnpmVWk0dkx5OUhwb2xmVDQtcUJPcWFsMGcxS3RBNlNqcF9WOV9VWTJHS2E3NGFrellnaWpVa2RqVVUyUDlydXQwSDhBeU42eGZxaGszeDJDXzVzVmF1eW9VS2NnWTA3YUdMMHdKUjNoWmZkSDd3dzI1dGF2dW9DbVZxR1JYazhVT0hiOEt0VjBxZlotNWZaWk9McXloQXdzM2ZKT216OXJ4Vm5Gb2hYVm5rNVpFb2RsUl9oZy1BWGxqMGxEZEdj?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:01:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "b616983ae3",
+   "titulo": "Irene Montero reta a Tellado a aclarar si recortarán pensiones tras pedir el voto al PP de Madrid para \"jubilarla\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTEM0cVVOaUVfMHFtRzRhQUtvVWw4SU5sTGZXNUxTSVBkczZfZk80TjhSc1o1YW55VTJLekVmVW9ud3BfVjA4VnV2RlMtMFlhOGRqd2ZvTXFVdFFrckk3Ml9sbnJMWkU3WjNBbG9sR05FQmFPSkl1NTVMX0pfeFYxVUN5cVgxV2FjMVJ5bDVYUVlzeWkyX3JzQkJScjBRVlYtci1nRGRPdXN0eE1Da01DYTYwWHZEUWtCdnVWVEh0U0lMQS1KY01RMl9SWVFQSmVEYVFseFdJekNBS0phQ0RfS1N6Y3E3QU9F?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:01:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -10123,7 +11414,9 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
-    "debate electoral elecciones generales"
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales",
+    "site:europapress.es"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
@@ -10159,6 +11452,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "aa582aa2a1",
+   "titulo": "Podemos aplaude el regreso de Puigdemont y que la amnistía se aplique \"a todos los perseguidos\": \"La mejor noticia\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU0xUVmoxZlhROXhzM1kxUktxUVRBQjVVU3JJUFhDc2lGOHBxa1JFNjhHaGgxNTYwQ3paTGNTMGY4TDFhUlgzbEpMeHUtclhfMzVMWDFWRTZyWkQtWnJ6bGhVbHFGcHB4YURnR210aW50M05pU2dKRnFfOVM4LTRuVXdiUnh6ckdPdDFndTNOWUk0WmpEbkhBQnVsUU02X0NHTk9lbFdXdVExRnphM3oxVkJyajNXVW9DbEt5NXhYVkNwX0hKM1RMUWxkWlNvQy16RGVXRkdEYTVPNVQ5OURobQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T09:42:34-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "a9dd2153f5",
    "titulo": "Así fueron los resultados electorales en Móstoles en las últimas elecciones generales",
    "medio": "mostoleshoy.com",
@@ -10189,6 +11498,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "a82c2a47e7",
+   "titulo": "Garriga (Vox) dice que las elecciones generales son \"decisivas para el futuro de España\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX28ySVl1UW5fYnNhUjd1Zmd1Z215QWVEMC1LWC1DcnZqTnpZQzdaWjJIOFhBVVYzLTduX3hFRE5kUnVKeU5MOEpaQzU4NlYwR3hpdm96RHhwR2pQY3JzQWZWMi1rWDJQNjdGckNiN1hPbHlFUGU2T1pyVE5uVm45U2tyZzh2YmRsdzVURWZuMk5YOGR5cUZPZHIwb0prNHVPM0h0X3BJU2FxUnNnb3pUbmxkVUVtaDA0SHVwaHNKV0NOaElmMlpj?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T09:39:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "272b86e632",
@@ -10234,6 +11559,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "7b5b6f0d8d",
+   "titulo": "Óscar López asegura que Salamanca es una de las provincias que \"con muy pocos votos van a decidir las elecciones\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRm1LSWRLdEpIWjZXMThKN0l5QllrU0djZW1DRHUyNmtCa1NNNWJ1VTZ2aExiRi1VT1R2Mnlrcmllalg5cXYtdm0zemplRnFCU1RyaGd4eGkzcmc1UXQ5NnJ2NXFPTHdMa0t3QTBxczFzQXdBTGNpTHhNN1ZxMGZLYzNOZ0JUUHo5eEU1clYxajloODdxRzllY1BFbHVJNkJkbFZtcnU4Q2p5TnRBb2tnMHZNM0V5Y3VyZURrVFFRUjR1RTk3U29jbEk1TFRzdl9Gbm1VNjcxVGIxSnR5SFVUZWhKWno?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T09:28:56-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -10347,6 +11688,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "a5ea25a1a7",
+   "titulo": "El Congreso abrirá de nuevo sus puertas a los ciudadanos el 11 y 12 de diciembre, dos semanas después las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWU1OSzFnRjZYelY3RzdTckY5OFdTX0xLNmNKWm1uQU9oaWlNREh4SW55X3E4bnhOQ01nRTRRQ3BaQUg2YWdjaC1aUjktTnhmczJXOUFFMUpxbGRJSm5EU1JOT3JpNGZWWGRxaFhxM1kxcGo1V01yZFpJWnpyWEs3RTY1cXFfTkJtcjRtelB4V1RrTXVBWE1zNGNJTTdBOVVFc1B4UVhlSmpVczNzdjh0aUJmNWJIbzhid2g0ZHRFdnB5Q0duTzVGeFo5XzZ1cVRsX0p1SHlMc1R1UnBJcmxfYmJ5QW4wQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T08:57:17-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "c08bb81b27",
@@ -10470,6 +11827,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "site:europapress.es",
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -10490,6 +11848,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "204e4a0b8b",
+   "titulo": "Cifras estimativas del voto exterior, presencial y por correo. ¿Será determinante del resultado electoral?",
+   "medio": "El Liberal.cat",
+   "dominio": "elliberal.cat",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUjJsMUVqWjRQX3V3M21rVXZfMU81Yjl5VEZLSk1Wc2xPUEhNOWw4amR5TWlYTnVnenJ3QWFMSmlMMkxFTGs0Y2pwSHZVZ3prZTFlZ20wMmlmYy1PaWtiaXhWd1cxQWxTWGV5WXJfcGlFQ1hMRm44bHktbnBBLVJpQ0tKWnJJbEVpRHlrc0QzakVDRjRLVFlTdUc3QTJvN1k?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T08:22:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "8490ae4c6f",
@@ -10582,6 +11956,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "f4d5dc9fb6",
+   "titulo": "El bicarbonato no sirve para todo: dónde no debes utilizarlo",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLVBHczZWNy1JaG02NXYzbVJyLXdtNjY4S0Y2dzR0YUhpUVZ0Wlo2TDlEREl2TWZtS0hIRV9kQk1FNW91OU9FYmZWS3ZzS0o1djBvcnlNdXNXU05VWWp4NmtLcHZidzVJcEw0Q1JyMmlNeEdpTXJWdjIydUNvT292cEVSNm5iUW02NGJfbW5QcER2cHIyeGVCQXhKYzNURHdGZWl6X1pxRUgxYmtfY0ZlV3VsUy04d0ctZE1oWER2RTJMUEhKa3c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T08:07:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "7d3e4587cd",
@@ -10692,6 +12082,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "97d6e007f3",
+   "titulo": "El PP denuncia que Sánchez apruebe medidas por decreto en campaña y condicione al próximo Gobierno: \"Es predemocrático\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ3JremtXWmJBWkVHOHlWeS02N0N3WW9QdGhBdVJGV3k2RG84aDZtZEY4Y3ZrV192YTlrN25QaW5VQUNYT3Rmams4LXliTmNVUUpwakIzRDRDVnI5XzZfVjdTRnJfRFE1SWFZejJiZjRqdUdzalZ4aFpwSVFubnlDS0Q2V3ZvOThUVHNLWWlfZTY0ekRmWlgzaUl6ek9MZGJyRG1oOEYwREl6eVYyeUd2WjI2aUY5NER3LWNxNEJDandnSnExV2dVNk1maGtqS3V1Wnk4emNhT3FoSG1aeTRLZUhWV0RPTHF3U1FmVUZiNA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:46:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "85493dfe82",
    "titulo": "El Gobierno agita la recta final de la campaña al acusar a PP y Vox de \"poner en duda el sistema electoral\"",
    "medio": "La Razón",
@@ -10790,6 +12196,22 @@
    "origen": "otros"
   },
   {
+   "id": "013bef6e3a",
+   "titulo": "Más de 1,8 millones de electores en Canarias están llamados a las urnas este domingo",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmJMX1YyNWM1ejl6bEt6dktNRVJwamswYkI5a0pXWkRBM2VmWGZzaXJEOGFCempPa2pWbU9GaTlnSzkxQkV0SG1jTlJNcVYtVnNTbHlBWU9DUkJXNDgwTWtIbkI4aW1uODM0QUJLRDdDcXp0clR3OVRXamZTUk85d09OaVIxczg3YnpSSmRyeDNVTEE4a1pCTlFpcGxaRkFjVlhIR096Vm93U0RGeTBDTjlHSWFWNlc3YWx5TDVCbC1aRXFTaVBVMWxra0gxdw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:27:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "cd5d0d9129",
    "titulo": "La Eurocámara critica el último borrador presupuestario pese a incluir una tasa digital",
    "medio": "Agencia EFE",
@@ -10817,6 +12239,22 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "87ddcec0f3",
+   "titulo": "Sánchez no acude a la cumbre europea para negociar el presupuesto y deja en manos de Macron la representación de España",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbE9nMHNIVVJuTDZSYW43TjVPZW9OSnNMcW90Rlpoa2lVcWZINXEyNjJwMmVGQXhCVVlOZThOaEhLTGctTVRJa2VtLTJOTm1lWDNrLWE5RmtYR0k0eENyUFFyMDAxVzhpQ2Q3MG9RamFUdFpKV0NLWTVVN0YwS202M2R6S1phNmRqREdfRHhuNnhCWHpaMnJYUFM2WHZlNWl1TUtYMXdCdl9xa0tnMmQ5OGFBQzVzMW9JYnZFMXB6MUtxSTBIZzRISXdmMFlBemZhbFd6bW5pWkxYUGN0Y00wc0E3ZlFCQ0JDN3dZMw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:14:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -10850,6 +12288,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "3fab44358b",
+   "titulo": "La IA en campaña: del 'Yo sí te voy a votar' dedicado a Sánchez, a Feijóo como reguetonero",
+   "medio": "Diario de Noticias de Álava",
+   "dominio": "noticiasdealava.eus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWJyR002LS1HTGZPZ1dIelpUb2ozY1B6eFVUMGhVQVVMd2lxbC0xcHZMWklpWjkzRGZhTWl3Z3dvYW82OXNVTVpFSUl6bkRtNHRCMmMyVF8zRzBSdjBGa0lpbWpmdVlUWDdwanJmYk1ncllXRUZTNkN0cVZSdm5HeEpGSFVaa1REamtaaDVFWGxFZGVjVWJranpnRThObDBv0gGmAUFVX3lxTE4waVk2aWZabF90aWY4LXc0OXQ1OVNuNnVrMEtnV3d2aHRmNGl2MnBVSXYtTG84UWFSb1ByNDN3VkxtOXU1ZV9UNTQ2S2lUVXpsaTRfb25hczhuWWZiWEZqOXNnRVlpM0h5c3QwU0dheDlSbEE1UWN5dEJEbnhIM2x1bndGYjN5SC1ydnNzQVBEVVVpX1RGbDFFUkdnZVVXeTlhR194QWc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:09:03-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "85631d5bc0",
    "titulo": "Puigdemont confirma que regresará a Catalunya el 12 de diciembre y acudirá al Parlament",
    "medio": "La Vanguardia",
@@ -10861,6 +12315,38 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "f376063531",
+   "titulo": "Un total de 1.820.645 ciudadanos tienen derecho a votar en Euskadi el 29N, un 1,76% más que en 2023",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1FlNWpQeGxGWDRkazV0UlNtX1ZaeGhCRThlUlZEOWNFRGEyX2htTi02MHpuOHMxZWhEVDVuMVlYUzhVX3FEWEVkeG9tUzVyaTUwQmx5djlpeUZyR09DdzA0bjMtS181dVhYYTVBMVVvdWw0WG1GNUFadDhGVFQ5YWp3c2h0VFFxbFZwM1pJV2I4TnNvRkpFeC1QVl9zRFNLQ3hNRDNQQVEyTUIyMlZwMHVGXzlHeHBmRnJsZ0tKMFZGUjAzNWtzQlB1Y1R6QQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:05:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "7684417279",
+   "titulo": "Sémper dice que el PP respetará \"cualquier resultado electoral\" y está convencido de la victoria de los populares",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMThOR3FnQm5BeVRSb2p1N0oxZGluQUJob0lkbVVUV3lZRW43ek1SdnRZYWViV1R0SlhyU3dOMVdUb3hicVVjQ1VkSUhQSk1JU3R1OVlEWWVRN2FxbEI2bnRvVTBzMTBmNXRtZnVqNXpNdll3bXVPOUJ2bVBvSk5KNGlqQUloemdtM0pVak5RSXJXMFlOTWc1Y2w3V3JBN3I3UzRUUGU2UkJhN1RNSlZER1VJN2p0VDh2UlNDcW8xMFphblZvLXNzOVRHVGNiNjB2dy1yOTZlOHE3Mko4MHlVN3BR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:52:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -10877,6 +12363,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "6435950251",
+   "titulo": "IU afea el cambio de colegios electorales a días de las elecciones y exige explicaciones al Ayuntamiento de Sevilla",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeFVPTTlqSS1EeGlaN2NUYTM1dEtNc3pyVF9OXzhKNGlIVkRkMEtvU2Vmc3p0MDBNVUJYTjhwN29PVDRJR3k0Q0p3elA4V0J5Q2R3NURDVU1QYW9YRkhtTnprMGUycS1kMlZ3amlRWDc0ZXZWQjExb1hmcUIyQlNIVDAwSG5tYTlFTjR2dXVucVlGV0dlczgwaDVpX0JlMzJsS0VsMDk4a2NhZERLajh3SVBHbWJoVHNGOWFSY0ZPUTFWNklzQktUU1lsY0cyenk1V1hFclNscmotQnZZdkFMaUZ5a0dBU1VDUy1FdEZEMHFvbW56dEZJWUVLeWNQMW03?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:46:02-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -10926,6 +12428,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "0492acd6a1",
+   "titulo": "Dónde ver las entrevistas de Plex a Sánchez y Feijóo: horarios y cuándo estarán disponibles",
+   "medio": "Elplural.com",
+   "dominio": "elplural.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnV3dG1XSXMwMmdCYldSc1lfUDczOW1lSTkyNGNYT3dfc1VvV2RBUnY3QW5ETXRTNkxzZzN6MFZ3WFpKOUEyN19PQ3Z4Y1lBZUtXNjFtRGozc2ZOYWxBVm1KX1R0Szludzd1ZVJISGJ6VTgwN1kyUjRaRFNjU3BEbHlJZjBGQktxWUptajV1QUVTRmNTMnV0S01aRXhDUXNuZ1hlNDJoNjdUc2loek1sbW1wNjJGam1MajBUb1F30gHDAUFVX3lxTE5ZYTJ1cU9LdlpEQkthYXhZVXVDeW4wTmFIV3Q3ZE9WUkQ5MkdOVWZrWjVod21majZuSWVpbmdHZ3U3TXQtVDZjbHowbTBkc3Z0UnJkSWhwZTVmX1pMQWNqZ0pCRnk0UTRjSW9zc2lEaWJvQjJFdHplTEQ4aGd1STBMZGE4aWtONDFKQ09mZ0x4a0czLXNSLTVrNmhOR25SWkhtU3V5ODhZTF9HMnJpTkk2VEM5c3N6MXdCMWk3U0xKYWJJTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:19:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "c4c6982722",
@@ -11020,6 +12538,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "b44cdac93a",
+   "titulo": "Sánchez avisa del riesgo de que \"el domingo se esfumen\" derechos de la mujer que \"tardan mucho en conquistarse\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemVRR2k4NjdwVUpLc0tPWWstaHBZbWhqNTR2aTFkT19ZSFcxbHUzY2xoY0dpSUpvTUJYUzFySzZDWkFBTUtVbWNNWDE0dVhqbGM4b1RWM25PSG80cndfcW9Kc21tVnpEOHRBQ3NFWjZJLS1LS1Q3TmMtMXpaQkYwU29JMGlCTWxnY1NSYmlVSGJSXy1OMF9rcTdBNUdKV2luQTBScFNIRlJldWtwYWVuc0U5T0drdjJreHI5X1FzU3I0eTg3ZEo1QlpDUUtxMG11LV96OF9LNE5SZENYNVFkQmxRb3dLVXdwcmc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T05:55:31-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "161cfea9b0",
    "titulo": "'The Adelaide Review' ofrece en Australia la primera entrega del 'tracking' diario del GESOP sobre las elecciones generales en España",
    "medio": "El Periódico",
@@ -11052,6 +12586,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "ffd73ee214",
+   "titulo": "Cerca de 8.000 policías y guardias civiles velarán por la seguridad durante las elecciones en la región",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVEdveDY1RnhBVkIxZTZ5TGZnNllYV1pGcVhkZnZDRVRsR0JDUlctaVRkSGZNbGNUZkd2ZVJ5RnkwSFBmcEQ2RG1lNzkwM2d5bmEyQ1o0VGpsSHpINW04QmpMZ1RicllFZWs0UGFwYS1tSWZUSEdMSndOV1FDNHVBOEU1R04yUklpYmVCQTQxaGZlWEZaaTUwQklmQkZ4YnVZcS1nVURYUzZDcEVfaEg0WHpDOUNPaDhvOTFvR0NQMnkySngwX0lnOWhGT1BBLVE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T05:40:49-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "a0103d7fbc",
    "titulo": "Andalucía cuenta con 59 juntas electorales de zona para supervisar la campaña y los comicios del 29N",
    "medio": "Canal Sur",
@@ -11078,6 +12628,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "campaña electoral Sánchez Feijóo",
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -11303,6 +12854,7 @@
    "lista_seria": true,
    "busquedas": [
     "Vox Abascal elecciones generales",
+    "campaña electoral Sánchez Feijóo",
     "elecciones generales España",
     "encuesta elecciones generales",
     "resultados elecciones generales"
@@ -11343,6 +12895,38 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "a6ecfd47e2",
+   "titulo": "Los escaños más ajustados en las últimas elecciones: esto dicen los resultados de 2023",
+   "medio": "Onda Cero",
+   "dominio": "ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRGRKNTNIb2JSbDhIS09Oa1o1bFdWek9Zd2QxWXhCRkVJb0VxaEVDNnJFV0pDQy02RlViZVlFNDBpekJma29uNGp2UXM3UFMzQTZDUE9lZzNGQkx3b0t2azBHUFF4WjUwcS1HZEMzaXhLb2VLSkNJTUNyR25LQVNWT0VYbWh0Y3o2YlY0Y0JkVEZWa2pIM2kzRVBiOER4QVhXZVRhaTJzaGlXT1hpTndCTTllWkpGYXEwQkcwc1hCWFUyRDNxVVAycXI3dkl5YzJLUXdMOFY3Q0tIZGNKNmtRSHcxeTnSAeQBQVVfeXFMUGwtU1ZWbTN5U3VSV0xGQlFYWGFPMl8zV1dOa2FjSHhqWVRKY25nbFAySThJZGYtVkIyWUZDek1KVjdEcmpzWGt5bEJpczdZQXFNeVJnY09OZ0E1Sm51VkJRWC1jSkhUV21NTnRncHhmc3pJbXdhdEZ4emVqS1RFWlBHRGRFZjhhZ3F1cnVOREdTeWp2TFR6STUyRVFuOFd6OE91RHNMeDloU1F3RWJiZDVaWlZMT0ZkQ2wzQU94Um5XdnVsc0RxeExONnFLdXlYX2Iwc3Vsc2xFWmp2ajNreG5ROVhi?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T04:00:13-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "2fa4c29be4",
+   "titulo": "Julia Navarro.- ¡A votar!",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmtrWEpoYlZGLTlNQ2syVFg1MXRHN2hiTDV6Y1AtNE1ZSmUzTnlmdUU5NGN3b2pVR2FWRnpYQ3RtR2ZqVVVZOTFaWDFDNEw4UGRoMVVQZlJ5cnYxYUs3VEk4ZmswM2ItMW1sX0k2STFVUDdSZUEwQ3lTMmNBc2s2czAwcjF0d0dvbG0yTHBma0lodlZPdVdXRXhPaW1oY3ZZQTdpVUluTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T04:00:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "75915d5b0e",
@@ -12086,6 +13670,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "7cb640f826",
+   "titulo": "La candidata de Junts a las elecciones generales, Miriam Nogueras, en un mitin en Girona",
+   "medio": "Europa Press",
+   "dominio": "fotos.europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Scm1Ia0pHOVBkd3NPdjk4Snk2dTVhV3pMaVlhby00QURUYWl0djVCTjRMU1lwQUNUZkY0bXBXUGtFWnU2OGRONkd6TG1DTGdxcmlhWUZqWVpkLUlTelE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T18:40:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "f3da7a9837",
    "titulo": "Grecia",
    "medio": "Junta Electoral Central",
@@ -12227,6 +13827,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "9a5301edd5",
+   "titulo": "Pedro Sánchez: “Cataluña no va a fallar y va a liderar la gran victoria progresista”",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHhYZnRiRXdDdE9vaHhINHRBb1lNTWpUUF9ta1hCeDhHdEEzSmV1M3J5T1U1OVJEbURscGtKY2ExdXBzZ20xQ3c3SmktS2pPWjdpVjJfWUQ4TV8zeFJ2YVNVRlZPaDJ3YmJ4bnlmZy12cS02SFhfLUl4WmczbG1ZajZrVTNjSldrYWcwRnRrcWVERHl2SFJsemVJdW1BaGJLY2t2QUpfalZocng5bW5TRHNqMFk4TS1OVk9XeEo1TEI3WnZteVdKeWY3TG03clEtQnNQR2JRc3c0eV9E0gHwAUFVX3lxTE5aTC1Bb1lqc25YdzlmUmxya0szdWFlckRJNlAxVmV5MkR5VVdiVFpTLVlMUk1uQ2lMM2k3eFA1bm16d3lvak1TRENDaTVsR1BZTElpSlBnRkVPZzByTXVSNFlBV2hkZlVUMWZTRHpvWl9UY042WWRjamR2WEZxRXUyOXA4cXFsZHBOYTVXRDBtNlY5aFliTk9LbHdTZml5SG9ZeVdySDFNaTM4UFBtdEZYRnhidmd3cHVwbGVOV1JTM2F6UE5iaGFfZ3pDaWwxZnRialU5dkh3UDlubDdvYkNPUHhoTlY2WmpaVi1VSUxWXw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T17:36:18-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "1cb313bdfd",
    "titulo": "La CE alerta del acoso en línea y urge a erradicar la violencia machista",
    "medio": "Agencia EFE",
@@ -12319,6 +13935,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "2ca8a31165",
+   "titulo": "29N.- Urtasun asegura que en estas elecciones \"hay gente a la que le va la vida\"",
+   "medio": "Europa Press",
+   "dominio": "fotos.europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vYUZCb2NzYlN3MDF0WkNuTEVSLWt0b2I1blNFUnppTWFsamVyem9GZF9YRllIZDQzcURyY3BVaVJabi1ENWQzV2pyTXFwYkVURUN1ZzJiYTVRX2YzUlE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T17:15:02-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "3c997e97a1",
    "titulo": "De un exsenador del PP a la jueza que mandó a prisión a los líderes del 'procés': quién es quién en la Junta Electoral",
    "medio": "Diario Público",
@@ -12395,6 +14027,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "3496814c6d",
+   "titulo": "Urtasun asegura que en estas elecciones \"hay gente a la que le va la vida\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWJCWnpwTjdYV2kxdmZ6TDA1RmNTMGxWNDhycDlOa2xPTVkxR2NMMTZ4TzZycmJRM3laVV9fTkVDVmZwaG9RaUhaZUx4cXN0ZXh1Ql80SkY5MmYyeGJZVkpmakc1T2VSY1pmT3N5aFJHbjNhMnVoOE1GeS1mYVZJRXExR0dybU1Nb2tidlZEU2xCTjJ4ODBELWpfQnhPWV85MXJBRU44anQ5NFUxekZ0V1d3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T16:38:23-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "eefa4c6cb8",
    "titulo": "Bruselas amenaza con abrir un expediente a España por superar el techo de gasto en 2026",
    "medio": "Agencia EFE",
@@ -12408,6 +14056,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "6670c19d24",
+   "titulo": "Moreno cede el Pabellón de la Navegación a Feijóo para cerrar campaña en Sevilla tras poner trabas a un mitin de Sánchez",
+   "medio": "elDiario.es",
+   "dominio": "eldiario.es",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOanNEeGtHSFNiMlRfZ3QyTFZVNzlQUzdZWktBeWp1VEdPT2tCLU9fQXdrazlhTjB5SEloWXZ0Tk11TnNmX25GSE5LTHREMDhqMDZEbmtPNzVURnBQMDZsd1BTTmwxY200alFIZFIyMVExdmp5MzJ3RzE5Vk5vY2hIeFNabF8zdkRVQXlWTkdCeHBpWFZCdVhLUmZqUjhKRThud2ozMWprUDhodHlGb19HX0c2OHFycWpYakhnNUQtZ1MtbV84M05PMms2TTIxX0RNaFUxddIB2gFBVV95cUxOSWRnT3VRdUlTVjl5WWZUaGdEX3VkZjNwZ0psLW16eHBRWmFHeTRnd1BTZG5BaV9oeHJvNWxHd1pOOGtBUklMcnpZbXJFMlVnWS10TEVldU0zZ21UVkZEMmF4aWxEUmFWT05RR1pMdTBXZUtpR1EtN3NIRm1CdFZpZTNfSkpJUHVPTTRtRnBVNTBOY0dqWl9WNWtDalFUYUdGc240bzR4dTlBSi1mNHVFdldNQk9DakthNXBFZUtfeGhlaF9RMHlsdXp6VWpCUmNEekpta2ZSME1zZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T16:31:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -12455,6 +14119,38 @@
    "origen": "espana_europa"
   },
   {
+   "id": "7391c5dcb1",
+   "titulo": "Vox anuncia un \"despliegue histórico\" con 208 apoderados en 61 consulados para \"denunciar\" irregularidades\" en el 29N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRFZkU3RsUi12OWtkczJuOUVORXljdnFWMzBwbDZ4M09FYmJLSWltT0l4eGtDdlhUbHBGTXNXWjVTOVpPci1LMzhGM0hiVS1vWEZkNHluUGowdEdNdm9ya3dUX3JNcjBxUUZtMkFuck5VVG9VSnVrenJuUGJNc1F6SmhiN2hOeXVWQW10bldBbjUzTDhybnBtcFQyNmF3MFJya0lEQUczbnF6TGszdDdOS2VrcEJjWmxNVGpaWGhpRHc0N2dva3Y0amlOQkxOMUE2QmxfSDJnSTVVZHFJcWpJNE9XSU1DTUpMNjFR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T16:07:11-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "86943026c9",
+   "titulo": "Democracia21 propone devolver 2.500 millones a los contribuyentes por el efecto de la inflación en el IRPF",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODQ0MWRDNzdxS3JFWGlCSnc1ck5WZWdPbGFpOWxPYng3a2ZaQW9WaEF6aTFoYjl2QzlaM2pJeW5RM3JSbFVhREd4S20wTjFRc0dLSXU2c3hVWGtiR0pjWUJOZ0VYcjVQZTZhNVdtRUVEbThKbGZNdVhWT0JEMVBKc3k4ejJPdEpOQ2JRRDRibjJLeVJnMDBpTHQ0WWVENzNySTdUM0ptR19pSzBKWW1ZNWt0a29mOUEyeTd4aW14ZE9BSEJ0VkZpTUVvYnhfS1hBeE1DY3VCNW85R2U1?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T16:05:07-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "8988ece61e",
    "titulo": "El Tribunal Supremo permitirá votar con el DNI electrónico el 29N",
    "medio": "Agencia EFE",
@@ -12469,6 +14165,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "7e074ecff0",
+   "titulo": "Pedro Sánchez aprueba nuevas medidas sociales y económicas en vísperas de las elecciones en España",
+   "medio": "France 24",
+   "dominio": "france24.com",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNczg3NmJlTGE4dUVaZThKb01WQ2FWVVpSckhMWmNwZEhyUTBUeDZIcHhuRWw2SklramVHRkV4LTB3bmktdUZZRkVUVXZRa3cyVGlQNk5zZFJnb3RsS3Rxc1FoaTN0WEFkRk9na0FnR3ctUXRHMlpKYVFnbU9kQTJRa1U0eUNVcWVYQkZUSHhKTkM1NERTazVoZnNBc2dSMHVORFU2bUo3X0FwRXE3ZGpiRjczSWlKRDRaZTJ1UWViNTFDM2c1akF6Q05TdzJidFNKbEFwR01wdjJ1bW4zZk45ZDRMZTQ5TWp5REs0WWFuUWdkaGJ6Yml1QndfTGNiZ1QyM2c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T15:49:41-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "708b755c6c",
@@ -12535,6 +14247,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "c23893b3b4",
+   "titulo": "No son \"urnas ilegales\" para votantes de la 'ley de nietos': se recoge su documentación por orden del Supremo",
+   "medio": "RTVE",
+   "dominio": "amp.rtve.es",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUh1dHA3U1FVZzkwZUI4YmgtNjJlVnd3M1lXWTlkTzZ4UzdfVVo1cVVHeElDMkdGZUhMOTFsZzZZY1l2YS14a3hUQUF0YjctOU1UVzQtTjJxNnZja1R2Q3pqS3FpT3dtUjdQQm1EdXNuZnhBMld5THdDMWFlNXlWUkcwVnNfZEktam9uMEFFdkw4dWdsOFJIYjhmWU5BbVptNnVVWGpBcjFwNkFp?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T15:23:50-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "6007e293e5",
    "titulo": "Elecciones en España: las apuestas favorecen a la derecha",
    "medio": "Independent en Español",
@@ -12545,6 +14273,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "elecciones generales España",
     "encuesta elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -12591,12 +14320,45 @@
    "url_original": null,
    "fecha": "2026-11-24T15:02:00-03:00",
    "fuente_tipo": "medio",
-   "lista_seria": false,
+   "lista_seria": true,
    "busquedas": [
-    "Vox Abascal elecciones generales"
+    "Vox Abascal elecciones generales",
+    "site:europapress.es"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
-   "origen": "otros"
+   "origen": "espana_europa"
+  },
+  {
+   "id": "ec227d7389",
+   "titulo": "Feijóo y Ayuso buscarán mañana exhibir músculo electoral en un gran acto de campaña en la Caja Mágica de Madrid",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQelJjR3lpdHQ3THlZalJzbmRXUXNEUGVwNmxfa3dFcmgtSzhfeUp5S0xERUt0dGNqSmU4N1MxbEg3V09jUEVMSXM3b3VZSzQ3OXNzaU90a25tX2N0UXFhckxZTFU5SUJvOGdrM1pvVThJOTQ3dEZGeDBUT2Fjb29jbHZhR3RwUHdLbEZqOTIyMTd0eEZhM2RKWk9iV2dSODNGWlRZMVk1N0lGcm1rNFl5NkpRNGk5Nlo2b1ktUzdVcWl6RTRQOGNIQ3d6TUJDRDlLcTQ4REZNcmdGNWxLdEhpWmR3NVlpZFl2M2U0?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T15:01:22-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "7c266d17f2",
+   "titulo": "El feminismo se vuelve a dividir hoy: dos marchas en Madrid en un 25N marcado por las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeDg5WEpEZjZuUUV4QlcxZnJFcTZfZ1hPbmgxZjVfQy1VbllhcnRLRVNIQ2ZERnlsb1JEZk1rVUNMVDdpZDJRTzNhZHRyVHZzYVpxLVZ6V00zMlVfMThUbHJuTkkzUTFrQ0V6MUxXT2dVWWs3bVgza3VOOVBUaFlmdG5VNVZjcVB4aW5yaGU2bjVKdmtac3Q0MWllT0d2OFQ0ZkhnWXVMRUtWUkprYzBNOUlWaUNoX3hrRXJtU0t1ajVHMFVFRGFUQ2xCU1F1aHlOQUxOTjc0YXVMLW1GZE5haw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T15:00:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "731e546ab1",
@@ -12657,6 +14419,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "elecciones generales España",
     "resultados elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -12835,6 +14598,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "356a1369ef",
+   "titulo": "En España, más de un tercio de los jóvenes de entre 18 y 24 años afirman que quieren votar por Vox",
+   "medio": "Le Grand Continent",
+   "dominio": "legrandcontinent.eu",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbU9hSmpwUHJVTWdPYmRFMjNwbHpfSkprako3eW1xXzBMc0VYMFo4VGNOX3F0bGUzTGlrdUpWZHR2VlVtcmdsY3dwLWV6OWZvN0tEUEdZVnVfbGVNYk9VSzM4b2dHd3Z5d01KS0lncV9VYlBxNGR0dmd6dHF1UDJ4TXVaZWNGTUtCeG1Fc3YyTXkyZ0ZwNlZGRXA2LXhtX2NxWm1RNmwtYkp3X1VUMmxvUFV5S20?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T13:22:11-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "37e88e5e36",
    "titulo": "Juntas Electorales Zonales de Huesca por municipios.",
    "medio": "Junta Electoral Central",
@@ -12937,7 +14716,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "Vox Abascal elecciones generales"
+    "Vox Abascal elecciones generales",
+    "campaña electoral Sánchez Feijóo"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
@@ -13111,6 +14891,54 @@
    "origen": "espana_europa"
   },
   {
+   "id": "be754a2af9",
+   "titulo": "El Supremo avala el DNI digital como medio para identificarse el 29-N",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX25RWjg2ZlJLZEZpSHNOT3hOZ2RrSnE1OFZVVThjZUUzYUlDTnJTdzV6Z2ZROGJtWGtmQ0VPTUJfUlRLRlRmOVh5OEdqSlRVaF8wOS1lLURQM2F0c3BRckpOREhhOEFDRlJYQ0dDOUxrT3NNRUZBTzBabVdiSVprS3RwQVdKODRwS2VDb01Eay1aMUo3bWc1ZVNKSEE2Tm9hcWkxeTI2U29GQm4tdmNTQ0xmMS1uXzNMdnYyNE92eGd4WmF2cjJqUlZEa3hDelZoMVHSAeYBQVVfeXFMT2h4MTBCa1Z4LXpfbEdicDNGdVVjekFCMlNjbmJNTUZDdnFrZm04bjhpT2N2OW13eEc2NzVMcXVENk9aODJ0SjVfcWhWbnFxa0xEdmtFU3pjNXhTendMMVM4ZGhOaDM5U2RSeVZSVTlnRS1aZ1Q0T0tQVWhiT1FSWDdscTNjdmdPTTdlbmFac21WU0RQYnRGY1RlX2NtOHVjUUJqWXZBUERTN2dCaXl4T0NVekhZM0I3cEdHMnEwWlVhNlFMVDJyR1R3TTFsc1pEOGhWMDFIc0IzdjlZbEdMZUlBQXJWbFE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T11:35:52-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "51812f9b17",
+   "titulo": "Ampliar alquiler asequible, rebajar IRPF y frenar el fraude digital, propuestas de OCU ante las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdEpCTG1NbjAwQmZJYjhHS0xiaWpFQ1U4N1QydzZSY2VKOW4wNlZ4aEx5ODBfbE1sdHZDdkRJZlBFX1NyVHpZTWx4ZTliVXIzNExQbFBLcjdseDBxV19iWWZHZUcwNTlfb1E1bXdxMjYyVjlUUXFrNld3THdnSlRnWEM5Q3ZscnYySm9OSTI2M1g4UkpWamJQTmMwdEtLX0QzdU1RcklXYWhXaVdmbTdLS29WWjFTY3ctS1Ewem44WWQ4U1ZlWDZZcF9BUVh6N0QyaWwtZU9hQTB5ZlQ4NjhFeVB2eWVxUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T11:28:23-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "21551ea989",
+   "titulo": "Moreno llama a asegurar el \"quinto diputado\" del PP por Málaga, \"clave\" para la \"victoria\" del \"cambio\" el 29N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXRDQmpqaUkySFNPREdvbVZRanI2RkRISS1CZ09sSWFRd1BfNzc2NGRlZE5VTXJ2U3NYT1pLbU1HSjREYVhaTk1MU1lmR3hkRzJvZFZpa2Zmd3FIQnZGTndSdEdzWG1takpZSjdONk5UZEdUOWRqTGluYnNjS0ZSOTFRbHBfNkpRbEZxek9fQ1lhOERsT2o3dU8wZ2RiU3dTbXFGTkhvbzh1bUxQZDByYmlhQldHQ1NzZlVMOHNCUDdsenkyc25FcHJYUV9TcE1RZlhjQzBiTk01NDFQOERaR3EwNDBXQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T11:22:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "6e8e9e4804",
    "titulo": "Octavi Vilà revela que en el 2017 intentó con Puigdemont “que la situación no fuera tan complicada”",
    "medio": "La Vanguardia",
@@ -13152,6 +14980,38 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "b3c73eed29",
+   "titulo": "Exteriores defiende que consulados siguen indicación del TS de \"custodiar y diferenciar\" votos por 'ley de nietos'",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUJUTjBCWjIyVVZ3UHlxS3c2enZpWm9jU1N2Tk15SUVYV0hzUktjS0g5Y3l6SjV5cWpGdjcyVzlITHo5ek51QXdRVjlyaTR5aEdISVR0cF9rcmVvMVNOc21zMUN0ang5SEd0Und0cFRlMDFDTDdfTkNYUzVLeXZxX2xsd3pwdzNmRVFDWk1nRW5RRGJxTHJrVXgyZFdQTm42QjE1NGpzR054SVZyaEdyQWNzend5SEpFck5jeHVDXzQ1M19WTTBOYWlrTHY1QmpHZzhZS3Z5SHZjaHhsZmFIWTB0aGEzOU8xWmc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T11:19:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "5b1ab4068c",
+   "titulo": "El Supremo avala el DNI digital en las elecciones y rechaza un recurso contra las urnas de cartón para los 'nietos'",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVnpEcF9XOXJkQmxGMVVKSGJfZmlOSGpORXNib05EQW1YYWlBS1BiMGpjN1lvWVc2TnlzWG91bG1LbWNtVHJQZUFrd0dUcVBXN2VtVjluY1BSemJLMzJMQ2JnY2EzYXVNb3RHYTJfNlRRWWNQZ21GUnFMM0NxMnJIOHJCS2w5Wm5VREVPMW4zVjR6QzU1WEJwZTM5U2Fia1pTMUpsMjd3cWc2eVhFZHRaQjNnZk9KNzRQUlpPOTZsM0xTTXJYYmlpNHlxb0o4eHBRSVFKeVFKcnZRSzA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T11:17:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13265,6 +15125,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "732ffae42a",
+   "titulo": "Tellado apela a los \"currantes\" y ve al Gobierno \"desesperado\" tras medidas como ampliar el permiso por fallecimiento",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNXBjWVBtRUNBTHRERUExNUhVTC1kSHZKd2lIamZWTHQxLTV5NTQ2Sk9fUDU4OW9Eb0hEeGRGcEE1UHlrQzFZZVRiMGdla2x0S3QyR3dTVWp2VExYVm1RSUJvRGktUGF0UHA1VEdqSzR5RHVrMV9oQmpNRzFIVkZHWVNEMkI0Um5hbFQtMUlQc2tiZHlnRVVYQmttRzA0MHhoZzRHdl84NmFkQTE0SEFUUXVTVlp4WDRzX1ZIRHFSd3dXWUFQdTlJR2V3eENGd3Npc2RpZVlSeWkyck5sck9pNEtjaw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T10:41:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "6a13788f0d",
    "titulo": "¿Qué eurodiputados españoles podrían hacer las maletas y volver a Madrid tras el 29N?",
    "medio": "Agencia EFE",
@@ -13295,6 +15171,54 @@
    "origen": "espana_europa"
   },
   {
+   "id": "ccf6764d73",
+   "titulo": "El Gobierno considera \"intolerable\" que se cuestione el sistema electoral y exige \"respeto\" a PP y Vox",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnJwWUlWNUplc2cybU05NmYwSFhnSmlYQ0VwXzZITEdBeUVUNUJuOHpmTUVDNEZrTE00UnU4NmhiSTktYmJ4Ynk0TXM1eHZ1NHNZajJwNVJwNmtVT2RZZ0JrUWNrUS1DM3dUTklEVGNRNXF0OTdJeHpRVEYweERHb3E3TFhVVG82TzR0dml0dkhJLUJGb1hDczAtQzkwSlZQQm9rd1V6am50LUwtbHl2M2ExbEhJVVFld3lFVHdCU25BZlluN3YtYnVRVnIwdlhMRHgwZ2dwNG9KV3c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T10:30:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "ab5db387d1",
+   "titulo": "Márquez (PSOE-A), \"súper positiva\" sobre el resultado de las elecciones generales: \"La alegría le está ganando al miedo\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM19oczZTTEdMRTltLThpa1pSVmFrSDVWdlNyeGRFNVNpenN6d2ZweDhjRUYtc25vWDcyV2d5WndoN0xaY0ZneW0yU3FsWVNkczhEbzdTWEVLdW5MVGNJd0ZDdUZ6NVh4c3duelVVVzNqMGtlNUVvQWxqV1A2Umd0ZFFRTkVkSHVoVGkxMXY2SVlIZFdBSmZ6UjZWWTR4eEl3VkRaV2VkcTVjUXg5aTVlc3ZPRHBKWUduY0JqLXREeUNzZEVIN3FSeVEtR04wdUU4bVdmUWw5QVptYW12U25fRGJR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T10:23:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "9c844190a1",
+   "titulo": "El Gobierno defiende la batería de decretos en la semana de elecciones porque se dirigen \"al 100%\" de los ciudadanos",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMEtkTjhXUGt0aktwSVRLZFVYVjRIVTVSTDJWN0Zib0J1VkVSc0tIYkhUWVhtSkJJSkdTSWRIcG5PSzQzbl91M19ES0xZekIzTllqTkNiN09maGlKVlc0SVotcUJTVHltcG9Ra3RpXzNsVnpYdWotbGlUTUx5THdCUzBuS0NVbDhHVGIxdnlCd1NCeFAxQWotU0NfZVJsT3JkejBKdzlGQU5JT04xWjRxaFpXeXkxdThwTGhzNTJ6T2Y4am11ZUctMDdEOG5UWmQ1R0R4Z2Z6VHI2UF9FSERF?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T10:20:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "1d91b1818d",
    "titulo": "Gobierno recurre ley de reconocimiento del 'concebido no nacido'",
    "medio": "Agencia EFE",
@@ -13308,6 +15232,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "1bb7cf6cdd",
+   "titulo": "Frente Amplio pretende asumir Vivienda si gobierna con el PSOE y Emilio Delgado quiere ser ministro",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTVMMkdYTEJmMFR2WjAyZEVISkhlSTFvS05HX0VXWC1zYkRON1pMYmg3YV82bXk4ZGF2OE51SHVBM3NHVzFjcThTLTB6Y0JsVXFYMVFyVnB1eDJMTWNjblpEUnBoeTEzWWdDeTNHUC1kejBNWUdrRGl5b0dsajFMZkN4dnhSNmVhejNRTXgtcjh2MEhQM3hKTDN2NzZzaEdiMFVqUTY0TE1nN0lKX3BkSGt0akJwdG55ZVdydWJRQ09vXzVVbUlMUUo3X09oZm9PT2dYeDR3N01nOTNuaEVWdmRfa01vdUdhWWRmZU1B?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T10:18:22-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13367,12 +15307,13 @@
    "url_original": null,
    "fecha": "2026-11-24T10:10:00-03:00",
    "fuente_tipo": "medio",
-   "lista_seria": false,
+   "lista_seria": true,
    "busquedas": [
-    "Junta Electoral Central"
+    "Junta Electoral Central",
+    "site:europapress.es"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
-   "origen": "otros"
+   "origen": "espana_europa"
   },
   {
    "id": "abbf91d73f",
@@ -13404,6 +15345,22 @@
     "site:juntaelectoralcentral.es"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "5dba1f771f",
+   "titulo": "El Ibex 35 cayó en nueve de las diez primeras sesiones posteriores a elecciones desde 1996, según Finizens",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbEkybTM5Sld0bXhrREdmbXZQdUVvZS15UU56ZWU0ZUo4WlozRVNWbTF4WTV0N3l4by1uazN3a0lhdFJmamtDQ29NYm9RT3A0c3diNzhjdk5IV0UxS0NKNENEb2RETlp0M05CMDhQd2lkRjlKT1NqT0ZtV0xTZy1McWxXbk5uZU05RnlsRVFDYzByRXFOdTR5TU1jQTlwMzFqeTJDNDBMbzktSXE5aWFfZG9yaUZIenJ1cGtPN0tSVGExckZEcDF6bUdEYzllSkh1VGpzb2s5MW9hbXc3NW1uS1JqbFNYTVR4cTRjaExR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T10:04:12-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13455,6 +15412,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "ac3b45d0d6",
+   "titulo": "Irene Montero ve bien que el Gobierno amplíe permisos pero ironiza: \"Ojalá viviésemos siempre en campaña electoral\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc05HQ3I5TmprSWk0MHZwWXlnSTRLUjBibm5qa3cyN1JGUWREZi1MRzN2VnVEVzNHYWtLSURfQTFQREFsZTJXdXAxam42US1IZW1XZ1JYREQ1R3ZyTXRvNzVIcmtJY2lMYzk5YnpDNXFMc2dVdUdzaWlHcHVCc2ZlVTlGdFlQZmZLXzFsdEdHN19VdmFGT2p4akUyaXkxc2RCUEVHZmVHczVvVFBYd3gtbTFPVUxSaWsxZ2hYMVotYTVzSXNNLVlUZTJEYWF1dHVZTDlrMENXWGY1WlVKWjE5cWcwV0o1UGEwR3VNRkZ6UTVJUTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T09:24:28-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "bf51a76fbb",
    "titulo": "Pablo Simón, politólogo, lanza su teoría del 'amor' del CIS al PSOE: «Hay votantes de derecha que no contestan por su mala fama»",
    "medio": "Las Provincias",
@@ -13469,6 +15442,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "1c8250f18b",
+   "titulo": "Irene Montero acusa al Gobierno de \"meter el feminismo en un cajón\" y pide recuperar su protagonismo este 25N",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXAxSEdNN2x5QXMtZDYwSDIxZERZNGFiZkR6U2E0X21tN252R3dQWEwycHNxQXA2YkxteGtpZGw3RTNEQ04yN0VIQ2hhOEV6Q280TWhwY3htNDAwQkw4RHlILUQ5YmZpMHVMOFRmdTFKMFhTRjB0di1PVG5PcTE4NDFmenZubWlzbENNUXVNRlJuUV9oSXY5ODB0UXhULVVVMTdFVnVMdnBJRTl1S0tLRWdHTm01d2VsYWNmeEhlZmppWkRub3lVWXFvNmU1dW9yeER2S1k1M3hWa0xOaF9lZzlDYzkwRmw0YnJj?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T09:22:42-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "4b10806a39",
@@ -13569,6 +15558,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "60910a31ab",
+   "titulo": "Interior desplegará más de 100.000 agentes durante las elecciones, un 11,5% superior con respecto a 2023",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlpnZGswa0lFakxTSWlJdzZfZHBrajR5V1N4dmFlenpmMS12OUlCaVdTMjR6Y0w5UFU5ekZxUlVuY1ZmRS1POWQ3eEJIVUJua0J4ZjMyZk1vQ09zNy1GRHFMcUFhSFdaSHFUa2NycklOTDM0YmJiRG5TQWJQXy1IbEVVWmFKYVlZZXRFWlV6WXpFY3ZoeUJlM0poaVp5d3dlVEdpVjlmQ0MzZF9lTVV6M19WOTZqSHFoZmRvc2hzUElVSllRdkZnVGVlOGVQdHFtNDJSOWE4NA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T08:23:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "eba7ea1bfc",
    "titulo": "El Ejército iraní ordena endurecer el bloqueo de Ormuz hasta que Estados Unidos ceda",
    "medio": "Agencia EFE",
@@ -13599,6 +15604,22 @@
     "resultados elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "179a20ad8b",
+   "titulo": "Emilio Delgado (FA) tacha de \"magufadas\" que Ayuso cuestione el censo como \"semilla\" por si no gana la derecha",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdTNIX0pPcTZIdUwxbTFndFVTNGNxRnRYaER4dmJHclRYY3o5STR3cllnVmlqMmI3ZHY5NXQ1M2tZVEtlaFVMNndyUkZ0Zk5lWlRIZ3I2d0FkdFZtTTcyZzVaOE9YQ254TkdZN09IM1RHRUd0LWlaNGotdzVDMFB3VU1veHNkdE1KT21MRmR3NldEbWlKalRrM1JNSmZSeVdiUHVOVWlwdFhiYXAtdlVraGtDZjZEZFFnZ2NzbHRkQnQ4MEVUd2VraVZsSUtHZTlacHR0MjFoX3Mzb1Fo?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T08:13:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13645,6 +15666,22 @@
     "Junta Electoral Central"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "a01419f5ff",
+   "titulo": "Cuáles serán las consecuencias para Silvia Intxaurrondo tras el expediente sancionador que le ha abierto la Junta Electoral",
+   "medio": "The Objective",
+   "dominio": "theobjective.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcTZ1THBTN3ViUTg4OThyNW9fRFE5NGZ3U3pBZ09qTjBKMnZXYkNnOGFGNDNHSk1rRVp3VHJkOFJNZlhRdk81eFhmcmM1Ql8xWFR4LUlnM0tSekYyNWh1d2xKbWttNUcyVEhfRFEtcXYyUzJSRkhTNjhOQWcwRmpZNFVKaTU4aGdqSnFPYmRxNFRCcVVTamwtZUFtNEZ0NE9iUnFydTVUQzluN0lLSUFaedIBtgFBVV95cUxNQTlZYmFRYjd4ejU0M0FQMlljZ1FxLU1mNmY3YUx1bHdHdjlZZjh0UVlGUnF5d2JGREwySk5YUU80YV9lbTRMaUIzLW42NGFTUG90elZVN1N1anNNVUdRVVdxWWVOelpYMGhaMlB3U2gzZUxhaEFzQ19uVkQ2NVZqZ3pCZGk0Tm84elJUTmU2WkRWRTljaUx4dzJwRWxCZG1iYVp2NWdkMEdlOGZyQ1NPOXRrS3pwQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T08:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -13696,6 +15733,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "de0e9a0e57",
+   "titulo": "El consejo de la OACI eleva a 40 los países miembros al incorporar a Etiopía, Indonesia, Omán y Turquía",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeXEwd1V0Q3Qtb0hIcWtwampfUUZFX3lhVURHV1hsdnVpaUNHaG01a2hvMVhhNU1NSUpFdk9tUXFSV3M3ZEl5OGNzeW9iMlQtVlBxVFl2NVJnZWNZTnd0blhERWJrQ1N2Q1owWm9YT1BzbEkzak9iNktRbnRYVVU4QTljelZtQWNmS2IwS1NsZl9iYWFPa090enBhQ1U2dDhYLVVJWkdWQUxSdGRuQ0JPMEwwWmUtdzc1TUhtQ3M4ajZUMXB0MmdqWl90NDU3Q0o5eV9FVzFBVUpIbXR6cmhIOFk4cTlkSXYwc1N6TVZfNXAtYWs?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T07:36:40-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "eaff1c7cda",
    "titulo": "El PSC prepara un baño de masas para Sánchez con más de 6.000 personas en el mitin de Barcelona",
    "medio": "El Periódico",
@@ -13710,6 +15763,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "e7db6acfda",
+   "titulo": "El presidente de Ecuador anuncia un aumento del salario mínimo a 500 dólares para 2027",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVh0aURWdG16V2FUTnlfSE90RHFVeXZpTjAwWWR3TmJBQWZ1X1FtR0luOFltS3NaVVlMNnpaa0RwTV9tUm9WNFI0NUZTUTVSY1JFSTJOZnA2aFVsM0pWSXJfdElnYXJ4N2xQY1MwTk9RZlB6Wl91cGZ1LUNUd25JRXNJRTRqc3BjNGdlSXRKRTBZemFRWnJ2a2JYMndiSFp1VENqVmhiT2F4VDZOTHdCMjlDc3FKejBFMkk4ZTZYMENXX1NQMUtXSmM5UDBKNkJU?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T07:32:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "ad2ac50478",
@@ -13744,6 +15813,22 @@
    "origen": "otros"
   },
   {
+   "id": "709f0233d1",
+   "titulo": "Feijóo admite \"inquietud\" por las \"urnas de cartón\" para nietos y critica que Sánchez diga que PP no aceptará resultados",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaktGMHV1aF9WaHZ3WWF2UHNzZE5xVWVQbVVKMG9DVVQ4WV8yVF84eGFGVE42MVJzTXBuTDM0V1dReVNWMmZCS01kUEp6bE8wc2FoYTMwYXJzcnZfc3ZQa1JVMnhrVWFPUkI4VS1GbEtNeTlwUER4OGtGZGNxZDJCZGplNjRvRHZZSlVrTF9kZEpiYWpnX2ozSVVJRmJxOFlNWUM2T2FmbTF0bkdYNGhXQzQxMUxSZ3VpYUJ6MGtBLVZ1a00xcUpXOFRJOWFiNzlPV0I3VW9LdlVEdjBqcUlUWTV6SVNEUGVreGc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T07:02:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "d32f75a2e1",
    "titulo": "Arranca la OPAS de Intesa Sanpaolo sobre MPS que puede rediseñar el mapa bancario italiano",
    "medio": "Agencia EFE",
@@ -13757,6 +15842,38 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "9fa0c5452a",
+   "titulo": "CMM ofrecerá este jueves el debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau",
+   "medio": "cmmedia.es",
+   "dominio": "cmmedia.es",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVBzbFZ6QTZ4M3V3S2VkQnF6RHZBWlFoQzVTM1ZpSkk3RWVIU0tCWkJMU2dsbnNTY29PV1U5dDluX2ViX1g4SndXX1pCQXJZU1N0cWxHTG85SjJUZ0hwejVhWl90b09ZR2gyQ3JZWWxkWGRWVUNYTmtQS3BXSDJpbWRHaWp4QXVNSVdFVGVYS0oxZEFZb1ZIMVBZZUh0SHZhT2hsd1pXLVg5WEs5RnBkRVRjX3o1bklLOVFyVzZidkUtMGdT?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T07:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "4e3814a9da",
+   "titulo": "El censo de andaluces en el exterior el 29N cae en cerca de 14.000 electores tras el auto del TS sobre la Ley de Nietos",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDcwWVJLa0lkQmdPTGk5dzFJbnkzYVQ5eHhkVXRiNmtoOHE2TFAxcUdHRzdEYXRGVWo4eUEwQUJyTVNKQnZpMG9BQkRRWkU0Y1NjcktKOWZJckFQZzFOV1YtTEo2eWpaOGxaazBLYlVPeXJTM01kbm9UZXZYc3J3NWtFLVMwaUpwY0phM1k4Qmo0RElZQWhCTElFcU9OQkNVZ2FONlhYRGQ1NnRRTlBhdDM5Nk9BWmNLa0UzVHpSUGhIZFVtNDNmRkZ4QXJKYmU2TkxqVw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T06:59:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13809,6 +15926,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "5a93e4bc91",
+   "titulo": "El Gobierno aprueba la ampliación del permiso por nacimiento de 19 a 20 semanas",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXM0SVNxN1FlN2pIdVhlazl3M1FlcHlUZ0FtVDNXamx1NHZNemJURzdrV1NWMWRvWm1ySHJxdWpSVjUtbWItOU1jZ2JmNEpUczY3dTFKcnFoR3dvOUkwN3V6UTJ0MGxmVklzT3gybkI5cDFFSW5CMGNQYy0weEFaRnRfRThBejVKNnFyTUFIQnBnOVJXZXVuTTlSSTF4SU03UTV0bC1iUVcwSU8wX0dQVlhhY1F2ajR1T2NURGpDbkUwdzB3VzlDdUowS0RXZUowMUlmNXE1UQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T06:37:33-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "5c9a95dd18",
    "titulo": "Costa pide espíritu de compromiso a los líderes para acordar el presupuesto plurianual de la UE en cumbre",
    "medio": "Agencia EFE",
@@ -13822,6 +15955,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "3fa387a031",
+   "titulo": "Frente Amplio lanza una campaña para reivindicarse como izquierda útil al sacar pecho de sus hitos de gestión",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWVKOE1iRkNraXRNaFpmS3V3Z0xFM0dESFFmMzVCb0NZN0c2dGIzS042MDhhQWVtaDgwZF84WlNZWW5zUkZHbUVodm8xd1phLVg0d185aU45QzFDaVVhcGxISkRMbGhDYzRHVVhtc3k2ZlBvS0doY0FtcVBKVzRVSktHT3FUa25MZElLT3lzOE5vcXJRVkhyRkRaWWF2ckF2TUEyR1diazBqSC1GekVWdXJCUjBFdHJqOUIxNEFIck56SERUckIzLVlJZTZzQ1ZYT2djZlpTakxXYlB1ZGZB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T06:31:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13850,6 +15999,22 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "7326a61cb8",
+   "titulo": "Sánchez responde a Felipe González: \"Con el voto en blanco no se frena a la ultraderecha\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGtJWXhzMjM4eTl4eFl6WS1UT2RJX0puLTljSmFFajRvd0dHT0xaaFlDRUNJQUpjOVZoYWpSUFJVNUFYRjBTN0M2WFh3OFlIeGpralFSWjVCbk9xQmliVFl1YWNQSUdtek4tSERhMTZvM0V0SklnR0FoS1d5UmxFVUowTHdwVWQ0ZDFGR1YxdF9sLWJpWms5WUE2aXNOTjBhOXh3RGtJVy1XeU1oTHB5cWg4MDhMUS1ORXdTZUN0ZWR6eHFKNi1UZE1R?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T06:19:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -13931,6 +16096,22 @@
    "origen": "otros"
   },
   {
+   "id": "e6cb42b0ba",
+   "titulo": "Feijóo apela a \"concentrar\" el voto para lograr un Gobierno \"fuerte\" y evita el choque con Abascal por el voto útil",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2JDZWlXdHBFX2szQnpvY1ZOcjFlMkd1cmdpUW0zdk9mTGplQ3pIMF9JbVlabWdHYmRpR0c1TWZCcVR2RXgtNDRVWVo2dHFIQXVPRUhOZEVOWWpOR3U3eEtYeFdWeUQ3ODgwbzdFbEViX3dpZEc0ekhfSTh2NF80SVdjYUJYd2lNVHo4VU9tMzRtMTBia1FtbkVxOV9GNXotdm9FTG0xRUJDUklyZ2d3Y2hFZVNUR2JFUlpHdTRYQUFnczd3MUFNT2NuOU94QWQ1VVVIdnBxNnlLRVBWZ29z?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T06:02:07-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "899ee6844e",
    "titulo": "Feijóo expresa su \"inquietud\" por las \"urnas de cartón en consulados\": \"El señor Sánchez y la limpieza electoral son dos conceptos contradictorios\"",
    "medio": "Onda Cero",
@@ -13993,6 +16174,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "db0186e2ad",
+   "titulo": "Ayuso pide acabar con \"voracidad fiscal y de burocracia\" y ve prioritario bajar impuestos tras las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0lnVmhJWmE2MXZEbWZYRHRpQXpMdVR2d1Y1cGxtTzQ5THJDc0FGbHNkWFBuTGRJODcxN3MxSHlTaG1LMzNuZFZHcXphTFRtWFZSMTRHc2ZqZ2VhS0JLRUpRcVFXcHdxRG9HTUotNGNrUnlIVi1Cai1PbW5WY0hjY2VGNFZaWXFPbkVYOThWZlAxY01HOXJMR2ZXbW5obVYydGJibjdlV1hGUEc0WEpVSkd0UXJGMGRIUTJQUkRLN2RvS1M3bFA0QlRoYXlpUnYwSkNLZjhBdE5DdzMyMVNtbEVLQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T05:44:33-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "30a1674981",
    "titulo": "Silvia Intxaurrondo recibe con \"orgullo\" la sanción por la denuncia de Vox y manda un recado a la Junta Electoral Central: \"¿Es neutral entre el fascismo y la democracia?\"",
    "medio": "El Economista",
@@ -14022,6 +16219,22 @@
     "site:efe.com"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "594b8d18ba",
+   "titulo": "El TSE de El Salvador oficializa la inscripción de la candidatura de Bukele a las elecciones de 2027",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUm40NlRoRUZFQll6V0xSeUFTbTI4aDFXejg3OE5jS0k3Zk1RLVBVWXh1ejgxVFQzQWVVVlREd0J4aTVsbEpZQ1BzTnhZb1dtUC1weVpiRXdDYmRoajhTMGpBZWFwalJyVldJN3VUTlgzWHRCZ2tjTDJQRVVvd3BzSnRfOWtjYU14aEV1VW55RG5XSmlZOVliWEEyQVI4alpRaGgxZkJCQmNEUUFpcHZFU0hpX1JnSUR5d2hGM2xtc0lVekpGMnRjUlNHYjg4SWp5VVM5Z2x3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T05:39:07-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -14057,6 +16270,22 @@
    "origen": "otros"
   },
   {
+   "id": "c4d49a7cc2",
+   "titulo": "Feijóo elige Sevilla para cerrar el viernes la campaña y antes tendrá agenda en la provincia de Barcelona",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObEwwMzdwQnBBTXZseHhMQWVZUV9YNll1SVpYTGlBUDh1Q1dpZ05odXU3bzR2SVNlMVBqMHpFdjRGWGdheS1Ycld0dVlwYVdXY2dWQzRld09Mb1VMUFpnQVcyUXdneV9ibkdZMUxZMV9nWnoyTTlvck02MUp0emNNRms2UDl2Y3VNMVYxa3dYaHdYb3UtMVJqSzNtc3FZZnQ3TXl5ZWZiWDVYNTY0bkcwOGg0TUhzNmdFNl9yamdGV1VzazBlYTdWWkdxclRvTnlYOVhpeng0TmwyTDRQclJUV09zY0tZZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T05:28:49-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "c122e0b7ea",
    "titulo": "Silvia Intxaurrondo irá a los tribunales y desafía a la JEC: ”¿Es neutral la Junta Electoral entre el fascismo y la democracia?”",
    "medio": "La Vanguardia",
@@ -14066,9 +16295,27 @@
    "fecha": "2026-11-24T05:27:30-03:00",
    "fuente_tipo": "medio",
    "lista_seria": true,
-   "busquedas": [],
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "6941585342",
+   "titulo": "Silvia Intxaurrondo responde implacable a la Junta Electoral tras su expediente: \"¿Es neutral la Junta Electoral entre el fascismo y la democracia?\"",
+   "medio": "El HuffPost",
+   "dominio": "huffingtonpost.es",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObmw3YnIxTk0talBqLTJDYS1FLXFqS2oxc1JGX2dTVGVsdnBLTFhIX2NlQ2RlSHR6V0ZhQzc3SVpzOERjMmZoUFh0RWRPMkZtazZLVzBrbmtNOF9XSWduMXVxcm80QkxyRVJsQTNlU051ZzNEMGJBaVc3XzhFSzRSWmhBeDJVNGx0dWNfdlRyQUszTXNhb3lDX01sUTF0Y2VDSkF1STZqV20wUGg4aDRGTzYzSjR3RUVOUFlOaDR5RGpMMTNHdDRKeTNVaGNCb2ZwT1RERUhPR2NTVEVNZ1BUYm1RS1IxNzFFV1U5cGw2OXhfZGlBcGdB0gGLAkFVX3lxTE0yOHlfUjJmU0NvVDI2bE5XQ0VQbUlnbHp1R1hSUDE5TVVEcHdqMjdNajF0cG1YTG1FNjJnOWRwblVFWnU5NmNqMVhSWFl6dmc1TS1UeVpiWFNjX0MzczQxSlhJSUlwejE0MFkxMWZYb2FzYnREYlJ2OUktUTJ2S2ZXLWQyZG9MNkFUc3FHWFdYR1NRbXlmUEZPM2JIOGVxVHZFRjBjaWVCaUtWWU9OLUxwUU13d3VyVkZQbnVXSFNmMWRFWHF4Mk94U2VKX3JEcUNBaXVUd0lWeVU4TEJJSEJHbHROZTRiWjdxZjA1VHF4ZU8wdzMtT05ILVV0TzlFOFZvMFM2ejh0ZzdZSQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T05:18:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
   },
   {
    "id": "3d68c45e26",
@@ -14186,6 +16433,22 @@
    "origen": "otros"
   },
   {
+   "id": "6f4f1cdcd3",
+   "titulo": "Votar con el DNI digital el 29N: siete expertos analizan su seguridad",
+   "medio": "RTVE",
+   "dominio": "rtve.es",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTFJYU9oOUlaak9ibDZpNnd1bVVHVURsaUNVNmM2X0Y2S2VYM0ZRX3NUaEJNM3ExcllCY1BuWmZ0SkZrYmF4eFJjUWNxWXFfUWc4VkhMcTlpSjZiOV90bGktZnhDLXJkajdfeUVQa3BtQ2J4dmticUlURTMxQlB0eUZvZG9UdWFxeW8wd2lObjZkVHd6Q0xqdUl4akIzVTFPQlQya1g4QVJSaGtHcWVwRnhnWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T05:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "51d86ffbe9",
    "titulo": "Silvia Intxaurrondo desafía a la Junta Electoral en pleno directo: \"La libertad de prensa también tiene descuento por pronto pago\"",
    "medio": "El Mundo",
@@ -14262,6 +16525,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "11dac19089",
+   "titulo": "Cibeles no se pone de acuerdo y no alcanza una declaración por el 25N en un Pleno marcado por las elecciones del domingo",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX3hIVDM0WmF6cG10SEROWmFiTGFTRkRXVXlYZm1uTWZRSUlQcGlBcVVBbkp5ZXJ4Qk82T0J0VlFTZnV0Nl9UXy1Kb0lFa2dMOFJwWnlualNvQVhPaTU2dmxzU3AtZ1BvU2MxU3VMUmV3aHI3VV9uOHFCV3hXR2hrbGkwaGdySUp6eVAtN1p2ZXBPOXZTQlVIc1BBSHM4UXpueEkyYlFGdnBRTGFBVFltazBvYnRuNjdqNE92c2V0M1gwMjFfVldZV2FqRFpEVTJxUWQtNU5yMkRJSWZGOFE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T03:59:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "ea729ef92f",
@@ -14478,6 +16757,22 @@
     "resultados elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "9e802d88e9",
+   "titulo": "El PSOE entra en pánico y monta una encuesta online para saber cuántos socialistas van a votar el 29-N",
+   "medio": "OkDiario",
+   "dominio": "okdiario.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOExSYmJPUjNRRy0teEpETlVZSE9hWjNuMXRibGFmYUNYZUR0U1NLTzhodGJyU0dKTHBTNDE3Qjk1amIxNHF6T1UtbGR6bnVRWVJoNHQ4V0VBNUlNQVNGY1RqOGhGTzZ6cXFwSVUzb0hKX3hqQnRDT1ZlWjMtMTdNcWJaRVdzcV8tTVBWclZ6OVBNcHZKX0U1d0xUZ3NTdTNLNUhFS2Z1TTg5WFRKRWFrVE9IQU5waWY20gG-AUFVX3lxTE9INEJXWG9nOG9QN3NQVWdja2lROVpMY0VCaldmdGxQUzQxNkVxU3hrNnU3Q3dfdGpjbVdhTWtZUkQzc3FWbFlOQjRENDB6cVpQMWhCMzVUbUJ6c3I3N3RQZHZtdXVfV2pvdkowNV9ZcENQOW9sLU95eWV4S1FZMThhZHRQd2FPZEMzVlcwUzRXZnZFdGlFcVloanhFVHZ1X19INXVzVzljLWt0dGtXRmFDSW52Nlp5Qnlzd2dnMnc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T01:52:46-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "encuesta elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {
@@ -14782,6 +17077,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "675ad121bd",
+   "titulo": "Amnistía Internacional identifica 57 \"retrocesos\" en derechos humanos en los programas electorales de PP y Vox",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcDE1T2dnY0Z1QzFRUi1UbW1zRDQ4TlBXdUVZMTZRNjVQZ19IYUljbW56VUxyZml0QjRxTHVQY0llZE1mUEVPQklpTjlPeUl6T2dRSlc3S3A2QUwxcVdHRVNDVk5wQy13X3JUemZrX2tzZ3U3cFVic1hJUVVpOWd5OXVha0RNb2pxWnBKY0ZFUjQ3OHZRQ3VDQjhMU21jZkVXNHducFBaYWhMWEtEakxRQTgtTm8wNFFyZkwybmxPR2JVTHg4VDdWVmphYUx5YUdscXludVVDNmxhZTNaUUJGLUhYVjF3OHZwdV9jZjk0a0RxdmdMblZFM09LSS1wRDR1T0k1Vw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T20:01:49-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "721e9e2f38",
    "titulo": "La última encuesta publicada en España antes del 29-N: el PP saca al PSOE 14 escaños y tendrá con Vox una m...",
    "medio": "OkDiario",
@@ -14956,6 +17267,22 @@
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "998f6f9b87",
+   "titulo": "Verificación, datos y contexto del debate electoral a ocho en RTVE en directo",
+   "medio": "RTVE",
+   "dominio": "rtve.es",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXJZSWpNczk4WFI2OFN0cG5SODFCSG1tVmwtV1RKVXhnZVRvT19OeFB2VnFoZ3doYzNYYTBMWk1kc0w4TnFWZUVJdFR6MDhGejk1X25yejhhUkJLRjlMamtLMENWU3Q2VkJIZWU2TkRiUEN6NGFVLWRSaGlULXVlWFFBVjhENG9DcEJfUXpTZk1MeXVXUEZFUC1lVGJ5Zjd1RjB3RzExc2FhQS1jLUtlVzh5T1JwWVo0eXc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T18:37:24-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -15228,6 +17555,54 @@
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "14250ceaed",
+   "titulo": "Los ocho portavoces ya se encuentran en las instalaciones de RTVE",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGZjSzBDd0lnU3BKZmlQLTljc2pSbWJJeUJuMVplUTJOVnEzdGtKYzhTNnlHdTFTVlRPc0FlM05hRzRpSEtUTFJuNnpWek9FTlVnQ3hnMHl4NGw5Q0owSTRPLU52UldMMmFUSkV6Q2VnSDNhbHRnSVFnZlZITjBDQUE5OW9FbFJVSDl3MFM0QVVuM1hGNGlaZTRjYU1NQ3VmbHlndE1GaGtMdXEtQnVMdU1Fd3FQUGJRSEpKVHNLUFNQQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T17:01:09-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "d860de9b66",
+   "titulo": "Elma Saiz llama a frenar la \"ola ultra\" y la \"agenda de privatizaciones y recortes\" de PP y Vox",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcEFFM3R0UnkzTjJRZ0NoSWRzMTJpdldoNVJKak9CdkJmY2poSDFsbG4xZFNSMkFJZ1BlVG1GNXNLSDRmZVZ1RjJYbVRtSFdLUlUxbXY5enhGNUdiTlNFRWlKNWY5M1ZNcWV1X0pIXzhWaUxwSHFDZjROV25ZQ3RLZkxxMUVRUzUzMnFqR05wdGp6MTBFWng4a1hqc0ZwZ2NCc1g2ejlvYUpNSGRtYzdlYXhHWnRFREpkVk9pTzRMYmwxSGdETUtESFR4UXZpbWVuNHRrVzV0Z1BTdw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T16:58:23-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "32e4c331a2",
+   "titulo": "El feminismo se divide de nuevo: dos marchas en Madrid contra la violencia machista en un 25N marcado por las elecciones",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNUhNbVRCcjZWcUpGTy1GZ0xsYjN0QmEtNUJGQi05RXlEUmJVMGYwWlFLYnFoeXo1R3gxdWZ1TC1Md2VIS2l5cG5hUXFvZDhBNXIxd1NsVGJ0V2hYX1RwcWJuRmtENmg0ZlFOMGprZ0Q4ZWR2Wk95WnJxM21uc2xkYTJqb3lJd3ZDTmZqbm9hV1dTN19HREdicWl5RWtvX2RDWVJ0eXVHYXF3aXBIQXpoQ0FVQ18zQTI5blNXQ1RKZjliQkhzRnFrRncya3psWjFtTkM2NTlySmNfNHJiRmhUSlN1SHZMUlBTX1RPUkRacEFjSzNfWFE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T16:55:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "espana_europa"
   },
   {
@@ -15933,6 +18308,22 @@
    "origen": "otros"
   },
   {
+   "id": "b10c2b8d9e",
+   "titulo": "Álvarez de Toledo asegura que el PP va a \"extremar la vigilancia\" sobre las elecciones para que \"no haya fraude\"",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDBKdHNrOHZidWdDZVBscmJNM1BkQ2lyeU5HbUJVS3RwR0I5T1NMNWJEeHVENWxHeTZqSFFKWUJlVHFEblE2bjlhN2FlczE1VnhWeUpHQUdwWFdVODcxQkpUdDR2bGVRUlM3NFlqM0pqdEpzSDlmQW95YTB2cjFtWk0tc0JWQ2ozcXJGNTVlWEJ3U0dfZWJwTDVSQXB4a0ZveC02MlRrNFRodG1kS0Rtd3Vvang3QmZjY1V6cHkzVmdRVTdFZ29NMlFLOGxoanB6YnZGclJ1WEF6bVotWWc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T15:30:13-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "5fe268c23a",
    "titulo": "La Junta Electoral Central expedienta a Pablo Bustinduy, Félix Bolaños y Silvia Intxaurrondo",
    "medio": "infoLibre",
@@ -16138,6 +18529,22 @@
     "Junta Electoral Central"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "7591d12de4",
+   "titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo y la periodista responde",
+   "medio": "Diario AS",
+   "dominio": "as.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSlp3TEFnUGYyMnBsY0RELTI4N3RrZFY0eVVpelpKZVZRVjltYkpKd1o4RGRVQ292dFFuRFFsbUFsdkQyTXlhbklEcUVEZnhoSHJ6RDQxclR0ZzlTS1psbk1Wb3l5YnFHUWtlMmVydjFad05EOXlVSTdoZGFPUnNUQUVaTHBDNWY5M2ZtUHFDc0FCRHk0eDBfenZzdFF6ZHVUWlFBedIBuAFBVV95cUxOUDg4VmdlbFRVT01Kb09UVlF6WU4tWUNVUEkxdHVxZjludmxKMllrVGw0VVQ5dkxnd1ZXV0lpaksxQUtEUmVRMDdSQ2Y5bGNQRXZhc2NIZmxGdGZZNE5UVXVvY0xhWHY2cE5HQ2JrVnNoc2dTMzRwbGgyZU9PcXpzR1lOTmRFSUhVUEpvWURPR3lmVUVrMVJJOExDazNDYm8xUjB3WVp2N1ZCSUdpbTNBbzVTblNyYXdv?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-23T14:35:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T12:32:45-03:00",
    "origen": "otros"
   },
   {

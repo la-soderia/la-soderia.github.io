@@ -397,7 +397,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 <title>{titulo}</title>
 <meta property="og:title" content="{titulo}"><meta property="og:description" content="{desc}"><meta property="og:type" content="website"><meta property="og:image" content="https://la-soderia.github.io/img/og.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="description" content="{desc}">
-<link rel="icon" type="image/svg+xml" href="{prefijo}img/favicon.svg?v=3"><link rel="icon" type="image/png" sizes="64x64" href="{prefijo}img/favicon-64.png?v=3"><link rel="apple-touch-icon" href="{prefijo}img/favicon-64.png?v=3">
+<link rel="icon" type="image/svg+xml" href="{prefijo}img/favicon.svg?v=4"><link rel="icon" type="image/png" sizes="64x64" href="{prefijo}img/favicon-64.png?v=4"><link rel="apple-touch-icon" href="{prefijo}img/favicon-64.png?v=4">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700;800&display=swap">
 <style>{CSS}

@@ -241,7 +241,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 .ed-sep{{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}}
 </style></head><body>
 <header class="band"><div class="band-in">
-  <div class="topline"><a class="wm" href="{prefijo}index.html" aria-label="Soda, ir a hoy"><span class="wordmark">soda<span>.</span></span><h1>{titulo_h1}</h1></a><span class="eyebrow">Motor de relevamiento • La Sodería</span></div>
+  <div class="topline"><a class="wm" href="{prefijo}index.html" aria-label="Soda, ir a hoy"><span class="wordmark">soda<span>.</span></span>{f"<h1>{titulo_h1}</h1>" if titulo_h1 else ""}</a><span class="eyebrow">Motor de relevamiento • La Sodería</span></div>
   <p class="lead">{lead}</p>
   <nav class="nav">{nav}</nav>
 </div></header>
@@ -294,7 +294,7 @@ def main():
         lead = "La edición curada de hoy sale a las 11 h. Mientras tanto, abajo tenés la última hora automática."
         cuerpo = ""
     cuerpo += seccion_ultima(cand)
-    (BASE / "index.html").write_text(pagina("Lo que pasó hoy, chequeado", lead, cuerpo, nav("hoy"), ahora_txt, len(notas), medios))
+    (BASE / "index.html").write_text(pagina("", lead, cuerpo, nav("hoy"), ahora_txt, len(notas), medios))
 
     # Ayer y anteayer (para el lunes: sábado y domingo relevados).
     eds_ayer = por_fecha.get(ayer, [])

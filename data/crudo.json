@@ -1,9 +1,299 @@
 {
- "generado": "2026-11-25T21:36:50-03:00",
- "total": 1775,
- "nuevas_ultima_corrida": 118,
+ "generado": "2026-11-25T21:50:15-03:00",
+ "total": 1860,
+ "nuevas_ultima_corrida": 85,
  "errores": [],
  "notas": [
+  {
+   "id": "91c662728c",
+   "titulo": "René Descartes, filósofo, sobre la duda y la existencia: “Si pienso, tengo que estar existiendo”",
+   "medio": "La Nación",
+   "dominio": "lanacion.com.ar",
+   "url": "https://www.lanacion.com.ar/sociedad/rene-descartes-filosofo-sobre-la-duda-y-la-existencia-si-pienso-tengo-que-estar-existiendo-nid24112026/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:47:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "e0c0274324",
+   "titulo": "Economía apela a una ‘muralla de divisas’ para pasar el temblor financiero",
+   "medio": "El Cronista",
+   "dominio": "cronista.com",
+   "url": "https://www.cronista.com/columnistas/economia-apela-a-una-muralla-de-divisas-para-pasar-el-temblor-financiero/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:46:29-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "838e49a5ff",
+   "titulo": "Darío Sztajnszrajber explica por qué la filosofía cuestiona la idea de que todo tiene que ser útil",
+   "medio": "La Nación",
+   "dominio": "lanacion.com.ar",
+   "url": "https://www.lanacion.com.ar/sociedad/dario-sztajnszrajber-explica-por-que-la-filosofia-cuestiona-la-idea-de-que-todo-tiene-que-ser-util-nid25112026/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:46:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "a11c216710",
+   "titulo": "Mario Duarte vuelve a la carga con La Derecha y un tema con videoclip protagonizado por Zharick León",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/colombia/2026/11/26/mario-duarte-vuelve-a-la-carga-con-la-derecha-y-un-tema-con-videoclip-protagonizado-por-zharick-leon/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:44:08-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "0c60bd2ffe",
+   "titulo": "El vendaval financiero",
+   "medio": "El Cronista",
+   "dominio": "cronista.com",
+   "url": "https://www.cronista.com/columnistas/el-vendaval-financiero/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:43:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "0909d49c18",
+   "titulo": "26 de noviembre: una fecha de historia, cultura y grandes protagonistas",
+   "medio": "La RZ",
+   "dominio": "larz.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGFyV0FZU2g5Q2k5RlJYSzVGWDF2SnRMLUNaTld5LUpiaGJYQkhFRm1iZ0dPbGFucWZocXZVOXM0d0hkLVA3TDd5eXpKLVl3Z2lBcnF4cTVYT3NSby1QZXhjTVd5Wkh3b1Q4TFNZbTlBRFhPandSVmJpLWhXMnFFQnBrdE9jSU5BTGNBdXlIUG1rQ0I3Z0tUQzAycnpNX3dp?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T21:43:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "cultura Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "9f3ad7d10b",
+   "titulo": "Entre el alivio y la preocupación, vecinos de Iowa aguardan controles tras la detonación de cinco toneladas de explosivo tóxico",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/estados-unidos/2026/11/25/entre-el-alivio-y-la-preocupacion-vecinos-de-iowa-aguardan-controles-tras-la-detonacion-de-cinco-toneladas-de-explosivo-toxico/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:43:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "75d20b9f56",
+   "titulo": "Santilli dijo que Milei ordenó un país en “coma farmacológico” y la oposición criticó el rumbo económico",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/politica/2026/11/26/santilli-dijo-que-milei-ordeno-un-pais-en-coma-farmacologico-y-la-oposicion-critico-el-rumbo-economico/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:43:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "cf8d9f9028",
+   "titulo": "El peronismo y Bullrich acordaron sancionar la ley de ludopatía",
+   "medio": "Página/12",
+   "dominio": "pagina12.com.ar",
+   "url": "https://www.pagina12.com.ar/2026/11/26/el-peronismo-y-bullrich-acordaron-sancionar-la-ley-de-ludopatia/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:42:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "15cfb68ad2",
+   "titulo": "Universidades alertaron que no podrán funcionar en 2027 si el Presupuesto no contempla los recursos de la Ley de Financiamiento",
+   "medio": "Diario Digital Conclusión",
+   "dominio": "conclusion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObTJ5OVFBaGU1aWc4NjNJRFZrTGVmam1QNXNSc1dfa1VkbTdOdmQxa0h6Rl85M0oyZ1NhNFpTZEU1YzBBdUZYMWtxZndBaEFiWGlNTlJ2bi1IQ1pDZGFmeHliVU1GZC1SSDhVVmRNR3NaWmZXSVVtRkVJZDlTZjVNOVgxdUk1MFFod3JGTVY3Z0R4Qmw3alRwYU1CT2FYbnZJV2JORGliM2JNU2NzclBKUFNwQ0xOc2JBbS1CZTIwa0xtNG1DSkxGYm1xSWxUWU5lYXlYbWdWdmlEb3o2Q0d5LTdoaGV2WDZjZndmZ1dnUEhtUEROT3J3Nm13dGFJa2gzX3lkWEZrWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T21:41:40-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "universidad financiamiento universitario"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "fcaa9459aa",
+   "titulo": "Brasil y la Unión Europea rechazaron los nuevos aranceles de Trump y exigieron respetar los acuerdos comerciales",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/america/mundo/2026/11/26/brasil-y-la-union-europea-rechazaron-los-nuevos-aranceles-de-trump-y-exigieron-respetar-los-acuerdos-comerciales/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:41:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "d9c5f7504d",
+   "titulo": "Los libertarios apoyaron el aumento de tasas de Zamora en Tigre",
+   "medio": "La Política Online",
+   "dominio": "lapoliticaonline.com",
+   "url": "https://www.lapoliticaonline.com/conurbano/los-libertarios-apoyaron-el-aumento-de-tasas-de-zamora-en-tigre/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:40:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "9498ab29b0",
+   "titulo": "El mensaje de la hija de Valentín Elizalde a 20 años de su muerte: “El karma jamás deja cuentas sin pagar”",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/mexico/2026/11/26/el-mensaje-de-la-hija-de-valentin-elizalde-a-20-anos-de-su-muerte-el-karma-jamas-deja-cuentas-sin-pagar/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:40:19-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "de6df7c097",
+   "titulo": "La reconocida actriz que quedó involucrada en la ruptura de la pareja más famosa del deporte: el video que levantó sospechas",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/deportes/2026/11/26/la-reconocida-actriz-que-quedo-involucrada-en-la-ruptura-de-la-pareja-mas-famosa-del-deporte-el-video-que-levanto-sospechas/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:37:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "6220483b50",
+   "titulo": "Boca homenajeó al Vasco Arruabarrena, recordó a Maradona y celebró sus títulos internacionales",
+   "medio": "Perfil",
+   "dominio": "perfil.com",
+   "url": "https://www.perfil.com/deportes/boca-homenajeo-al-vasco-arruabarrena-recordo-a-maradona-y-celebro-sus-titulos-internacionales-aSOrs5N4GKRm",
+   "url_original": null,
+   "fecha": "2026-11-25T21:36:03-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "9c4631f858",
+   "titulo": "Poder Judicial revoca hábeas corpus de gobernadora de Lima y reactiva orden de captura por condena de prisión efectiva",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/peru/2026/11/26/poder-judicial-revoca-habeas-corpus-de-gobernadora-de-lima-y-reactiva-orden-de-captura-por-condena-de-prision-efectiva/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:35:59-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "574a724b7b",
+   "titulo": "Santilli en el Senado: Una larga lista de falacias, chicanas y datos a medias",
+   "medio": "Página/12",
+   "dominio": "pagina12.com.ar",
+   "url": "https://www.pagina12.com.ar/2026/11/26/santilli-en-el-senado-una-larga-lista-de-falacias-chicanas-y-datos-a-medias/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:35:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "d5a728362d",
+   "titulo": "Lula sueña con poner al banquero Trabuco Cappi al comando del Ministerio de Economía",
+   "medio": "Perfil",
+   "dominio": "perfil.com",
+   "url": "https://www.perfil.com/internacional/lula-suena-con-poner-al-banquero-trabuco-cappi-al-comando-del-ministerio-de-economia-a7EtJ0P1qBQv",
+   "url_original": null,
+   "fecha": "2026-11-25T21:35:31-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "26efb6afb9",
+   "titulo": "Así puedes ganar 8 mil pesos por disfrazar a tu lomito: cómo inscribirte al concurso navideño en CDMX",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/mexico/2026/11/26/asi-puedes-ganar-8-mil-pesos-por-disfrazar-a-tu-lomito-como-inscribirte-al-concurso-navideno-en-cdmx/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:35:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "2a975ef4c2",
+   "titulo": "Oleaje golpea el litoral de La Libertad: piedras invaden el malecón de Pacasmayo y dañan el muelle de Huanchaco",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/peru/2026/11/26/oleaje-golpea-el-litoral-de-la-libertad-piedras-invaden-el-malecon-de-pacasmayo-y-danan-el-muelle-de-huanchaco/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:35:20-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "ab374b8861",
+   "titulo": "Cómo funciona el depósito del Cybertruck de Tesla y qué pasa con el reembolso si se cancela",
+   "medio": "La Nación",
+   "dominio": "lanacion.com.ar",
+   "url": "https://www.lanacion.com.ar/estados-unidos/como-funciona-el-deposito-del-cybertruck-de-tesla-y-que-pasa-con-el-reembolso-si-se-cancela-nid25112026/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:35:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "b69ba1093b",
+   "titulo": "Kim Jong-un ordenó extender las armas nucleares tácticas a distintos frentes y amplía la producción de material fisible",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://www.infobae.com/america/mundo/2026/11/26/kim-jong-un-ordeno-extender-las-armas-nucleares-tacticas-a-distintos-frentes-y-amplia-la-produccion-de-material-fisible/",
+   "url_original": null,
+   "fecha": "2026-11-25T21:33:28-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
   {
    "id": "8b48126785",
    "titulo": "Mi Anses indicó cuándo habilitará liquidaciones de diciembre de 2026",
@@ -202,6 +492,21 @@
    "visto": "2026-11-25T21:36:50-03:00"
   },
   {
+   "id": "00c2307f4c",
+   "titulo": "Milei viaja a Paraguay para reunirse con el nuevo presidente: las claves de su agenda",
+   "medio": "Diario Popular",
+   "dominio": "diariopopular.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzhicDJoMncwX2xYOVVCeG9Gb2xQU1lRVEtDNXcxZzNWRGd5dF93UVI0R1YyZGhDT1VHUjd0cG8zakg0NGJoOVdna1d4T0hHR20zc1k5NmdraGNZU055eFpJVjNhckhrRDRKWlNlNmhwcnMzZ0FCaGxVcGdrQi1qMEpLd3JMVldlY3ZMLUtXcmxSdHZzTVhnZHE2ZlMtZVlTWGRCc21fQXBvQnlxZm5oekhPTDd6VWFJb1g3Vw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T21:30:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "eb6a989ba2",
    "titulo": "Milei se reunirá con el presidente de Paraguay, su nuevo amigo",
    "medio": "Página/12",
@@ -228,6 +533,36 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:36:50-03:00"
+  },
+  {
+   "id": "dea2aaba07",
+   "titulo": "Milei ya suma más de $4 mil millones en viajes al exterior",
+   "medio": "Del Sur Diario",
+   "dominio": "delsurdiario.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLS0xQVVKZHg0WVE2Vi1taXp2ZXlBdFJobTZqTzJkbWxyZEhsaE8zQ2Z2b0FYNkFrNGN3S0hCNV85Vnl0RER6clFKUnRqRUFMNFlRWVBscFFGV3o3ZVhFMEdDNlUyVWlmQXNUQ2oxN1pOV25ZMUJHLTlEa0g5ckV2dHVyWW8xMGczaVoyWndoZDhRTjRWd2c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T21:27:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "31c013ddc0",
+   "titulo": "Milei acumuló más de $4.000 millones en 17 viajes al exterior",
+   "medio": "El Zonda",
+   "dominio": "diarioelzondasj.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1BNa01ON0xCRWlxSXhvMGRwWkFkSmpwTDBVOGprNjBMeHJqSTJxcFVPZmg4NFFLUnBDb0dxTGJSai1jMDZxYWYyQ00zYlpyMFFzcWdLWEZNNEFFSzRfekl2NDVNZHI2R3NkWkRzWW5NZU5uR0lPazVIaFpJN0JpRjhZbzdoTXJLYjFfQU1tbnNTc2FFZWxrdlkwSnNZQU5Ib284U1pR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T21:27:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "a9f201d087",
@@ -1331,6 +1666,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "FMI Argentina",
     "economía Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
@@ -1577,6 +1913,21 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "35a4d1e1f0",
+   "titulo": "Uber desembarca en Trenque Lauquen y ya busca conductores: ¿podría llegar a La Pampa?",
+   "medio": "Impacto Castex",
+   "dominio": "impactocastex.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdWV2pQS2dOakttcFVuXzMweU5saXV6bEp1eDBmWWZlVGRLTzdNTExqN2hrcUt6WnhQenhWOWNLOFU0LXVCVVRLbzRyRmhYckN1MF85SUZaNHRZdlc1MnlpWVN6RDMwejdSXzdRZE1lVXNyM2RINHo0TE0td0VjOHVHd2xxNG52ZHlVZHNYYXQ1eXU4OGNqV3YzZzBiLVJuZXlnSno5RkltYnJiZE54dzVSR2o5ckY5YzdzLTZfRQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:49:39-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "345622cad2",
@@ -2436,6 +2787,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "b7d217fe06",
+   "titulo": "Deuda y swap con China: cómo pagará Caputo los vencimientos",
+   "medio": "MI PERIÓDICO",
+   "dominio": "miperiodico.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXdmYWE1V055ZGxBM1FfTWJhTVRLZlFyRHRRbFJwTktUSzIwT3Npd3pBWjBuU3FIekpDUTFiTFJLZ0I3Tk9URTctZTVaS1FhUkJxU3lzbDFUVEtnQWU2eWN5Yms0YUd2cEd5Qlh6eWJMZDdVamdHN2R0empxQVUycUdCWjk?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:30:17-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "a363514ce2",
    "titulo": "Brad Pitt y Angelina Jolie ponen fin a una amarga batalla legal por un lujoso viñedo",
    "medio": "Clarín",
@@ -2612,6 +2978,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "Argentina Milei",
     "Gobierno nacional Milei"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
@@ -2841,6 +3208,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "c68564a08b",
+   "titulo": "Santilli defendió al Gobierno en el Senado: “Milei no se cayó a los 6 meses y va por la reelección\"",
+   "medio": "Cadena 3 Argentina",
+   "dominio": "cadena3.com",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSGJpVUF6X0NCcTlyTXdqaURNWWxMemNJS1dEUl8yS2I4WGRxOE5qUmxwLVZQVjBOUTNNS0VGYU9ZNHhfWEV1WHNsQzZXdWpRV09KZUNyQkNobDJXNzM4bWl3andSYzctR2NlcVZJZmgyOEl5dzZ2TWtQUGJMcUFxQmVnVWh0U0VWYm94bGFkbkhIYUtIMmpRTXNIZEZfV1d2WWV6b3hMY3gtYk1lQXVSdGZFUGZza2ozSktxRzlXb3FLTURVSXJGdktCcXp4Z1Y4MmgxQTRPLTFjOHNnYmxTdjkyclFGNTJMYS1fWGFMMEnSAfABQVVfeXFMT0hiaVVBel9DQnE5ck13amlETVlsTHpjSUtXRFJfMktiOFhkcThOalJscC1WUFYwTlEzTUtFRmFPWTR4X1hFdVhzbEM2V3VqUVdPSmVDckJDaGwyVzczOG1pd2p3UmM3LUdjZXFWSWZoMjhJeXc2dk1rUFBiTHFBcUJlZ1VodFNFVmJveGxhZG5ISGFLSDJqUU1zSGRGX1dXdlllem94TGN4LWJNZUF1UnRmRVBmc2tqM0pLcUc5V29xS01EVUlyRnZLQnF6eGdWODJoMUE0Ty0xYzhzZ2JsU3Y5MnJRRjUyTGEtX1hhTDBJ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:22:09-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "ee264d7613",
    "titulo": "León XIV nombró a García Cuerva en un alto cargo en el Vaticano",
    "medio": "Página/12",
@@ -2878,6 +3260,36 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "408fc8af53",
+   "titulo": "Endeudados, pero a la espera: qué dice el primer Índice de Paciencia Social de Tucumán",
+   "medio": "La Gaceta",
+   "dominio": "lagaceta.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWVQV3hjUWo5QW5iUEFfV0EtQVl1eUdQWnpxZE5HeEtSdW1jTGpqZWdTYzg0RWg0SGtBTXpTcWNWbTFNX2x3Z2xkbjFNdnBkeXdLb0w4YXgzRS0tZHRac3gxX1gwbmE2SzBESHdwbkpSbW42Mjl4U2xld3VCcWpnOTlON1c3X0p2enBSV3NuMmtXWENzdmdfZXpKcTJ1LV83RFhfbE01TlNCNGMyaEE2WWFEZzkzT240Q2QyaQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:20:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "economía Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "1a474c809e",
+   "titulo": "Milei viaja esta noche a Asunción para reunirse con Pedro Alliana, que asumió tras la destitución de Peña",
+   "medio": "Eduardo German",
+   "dominio": "eduardogerman.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2lVSmdOUUdoZVN4a2FjdWt4UkpaSW9rNlpJOW5BODFvSHB1WlV5UU1VWmJPenM5V3JzNFFpQk50NGRnZ2RyRWVGNFRTMm0tTGNfYWFUNlJqUVg0WDkxWTBaWHZLMjVNMlZjMzEyQmU3VGY0U05zMl9ha2owUjJlTUdUQS1hbHh5RlFTUko4R1J0V1FFTC1GZG1TSkg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:20:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "e1d3382227",
@@ -3324,6 +3736,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "67c55cb083",
+   "titulo": "Diego Santilli presentó el informe de gestión en el Congreso y elogió a Javier Milei: “Lo que recibió era un caos”",
+   "medio": "Radio Mitre",
+   "dominio": "radiomitre.cienradios.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGhhcE9jS1Nudk1OamJMU19QajhIbThWMnBRYWVBcmwzbkdrdDhyUFBHM0xpOE9NUW81SGl0VFpURF9tRUxZbnFpTFNaQWpvNldEREExTG1ZNG1zcUlwbkhWZFJ5MjdyOEVLdFFQTXM5a0tRRDBaTTUtRHFiU3BBM3U2R09OTm9WVE9xN0FGM3k5Sno2c3ZCenJvcmVZb1NicTlvR1gwU2d3Y1QxTjVQTFJ3WExiem1mRzFlc1o1SGVaeUZjNGFkUnlwRzZQTU9NYTE0Y3hHeFNCYzlOOVJyeHYyUl9VZkwybDA0?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:04:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "71ff47e8ac",
    "titulo": "La economía argentina ingresó en cuadro de \"recesión técnica\": qué significa y qué esperar",
    "medio": "AHORA Mar del Plata",
@@ -3337,6 +3764,21 @@
     "economía Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "3aa126b457",
+   "titulo": "Mayra Mendoza dijo que la \"violencia política es machista\" y por eso Cristina Kirchner \"vive una persecución\"",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdFBqVjRyNVRmMGtFNUVZVDdERkRtTmhwRWJYY0tZcGo0YTkwNkJqNFI3YlZiZWVEY0JyZFpsRnVEQU9MT1VTSXEyWURXQ19tOU9sWHVVR2VEeDRFajM3UzV0dmZaOUpYb3lkVnJnSGFpeGJVWGg5Y2Y5bFF5VUQtUzROOWhFOUl1WGE5ZnhYUU1wQ0gwblMxNzVMR2RXeHVSSzdtaUVPdUxJaHIyTGtwcGpvYWp3SWNSb2ZnX1kzQ0JhdFRZMTQySTFmbFY3d1ZRQ2dOaGF2ZXRocU9FMVJJdHdod3g?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T20:03:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "política Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "3e48535fba",
@@ -4079,6 +4521,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "43b434c7f7",
+   "titulo": "Caputo rechazó de plano aplicar un plan platita ante la caída del consumo y ratificó el rumbo",
+   "medio": "Diario La Opinión de Rafaela",
+   "dominio": "diariolaopinion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkNWWDE3QVVqWjY5bVBNY2U2a1lGU0xFMURNb2VzS3pPRnBwZXF0eXNRWUp4QlJZZUxPTG81bmlfZTJheGdITHhtSzdNYURsV0wwYjEwek5Ka0pIQXVKek9nUHNOQzVsTkdERjFNd0lGSjJGMk9mcURVRUlzWGVSUTE5OWVIZzB0OGd0WnRsazhTNXBpRms0bmtpVklRN3N3S09CZFRqSHpUM00tX1lnQV9EdENicHhRdk5wNFpxalFUd1M2SnVfdGM4QnjSAcwBQVVfeXFMUFJDVlgxN0FValo2OW1QTWNlNmtZRlNMRTFETW9lc0t6T0ZwcGVxdHlzUVlKeEJSWWVMT0xvNW5pX2UyYXhnSEx4bUs3TWFEbFdMMGIxMHpOSmtKSEF1SnpPZ1BzTkM1bE5HREYxTXdJRkoyRjJPZnFEVUVJc1hlUlExOTllSGcwdDhndFp0bGs4UzVwaUZrNG5raVZJUTdzd0tPQmRUakh6VDNNLV9ZZ0FfRHRDYnB4UXZOcDRacWpRVHdTNkp1X3RjOEJ4?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T19:43:31-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "96a2086fe3",
    "titulo": "Paloma San Basilio, 76 años: “Desayuno un huevo pasado por agua todas las mañanas”",
    "medio": "La Nación",
@@ -4685,6 +5142,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "e98a5b8418",
+   "titulo": "Congreso Nacional: el Senado convertirá en ley este jueves el proyecto sobre Ludopatía y debatirá medidas contra el juego ilegal",
+   "medio": "YaTeCuento",
+   "dominio": "yatecuento.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSmN2LVBFSl8tYXRDVDdHT2kybXZkUDZlVE9JdTMySTlmQlFyeWxScjMzQnJPMEVZRVloaG5UeEQ3Q2FTVlZrVVNmUWplaUF4Q0ExUTJYMlVHRF9JZ2J5eVpZclZ5UWFlX3ZJQTl4ZHo5SEZNb3g0MHF6dmJwWVRZNERMRWpGNlR2V2JyM3FDLXlVWl9PazhSd2h5MWpfeVBISkxGd0ZvdG5BaExScjJEMDkyOXFqc0tSMjhrOHVDN2NvWWgweERLcUdKMThmaXpIc2d0YmVfU29uUXVQVlZWTVhyaGpjby1HSnY5QjU2QmMwQ1JaQmJ3Wg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T19:20:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Congreso Diputados Senado"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "34198a16d3",
    "titulo": "Lautaro Martínez dejó atrás su lesión y volvió con gol a la Champions League",
    "medio": "Perfil",
@@ -4773,6 +5245,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "342d45fc42",
+   "titulo": "Dólar Blue Hoy: Cotización Alcanza los 1.730,00 ARS",
+   "medio": "Compacto Diario",
+   "dominio": "compactodiario.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYXAxQTlEUllfbkZtNWxQbWU0NFpfNXBxOGNQQUJBakpoNERHS2x3UmtoNkdiLXh1eGNqR09Pd3V4aHdNeXFjNEdkZHp2d0xmYm5xcmJOeG16Umk1VldkYkdYOHVFY2hyenlQSlZfNWZQZUJJYUR2emwwMi1rbWQwazhzYTYtUzE1MWJWTFRWc9IBjwFBVV95cUxQYXAxQTlEUllfbkZtNWxQbWU0NFpfNXBxOGNQQUJBakpoNERHS2x3UmtoNkdiLXh1eGNqR09Pd3V4aHdNeXFjNEdkZHp2d0xmYm5xcmJOeG16Umk1VldkYkdYOHVFY2hyenlQSlZfNWZQZUJJYUR2emwwMi1rbWQwazhzYTYtUzE1MWJWTFRWcw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T19:18:04-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "80bf689fce",
    "titulo": "Terminó Venecia, una bienal de leones sin rugidos",
    "medio": "La Nación",
@@ -4812,6 +5299,21 @@
     "riesgo país"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "5b43e4fc83",
+   "titulo": "Divisa sin freno: volvieron a escalar el dolar blue y el oficial en Mendoza",
+   "medio": "Diario Mendoza",
+   "dominio": "diariomendoza.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTRYZE1ScEx6SHNKY2ZXWUVyd3c0aDVTTDhEVDZKYW5hM295N1g2NlNOeXZaUzlwYVVvOHhlVnJaOXpaZC1uaEhlLXc3Tk5Pcm9uVGxJWHhTLWZFNHZNdGdlTnBFbFVKd09NLXVTT1FEWngxWXFienhGMTZTb2NCSE1YcHFmeFRoSjdNaDhRci1fVk03X0dDVkxVMklmYVdOWW9RLVZZYm5IcGfSAbABQVVfeXFMTm9JU3BkNzF5QjZMX2o4ZW9qdmU0TEVuckVTRHFOVkZrQ2NFVE5ZemJRNzFxaTFMSDRva0o5WUVVTkNBQm9VaHRGai1Xc2JhaS12bm1nNTFpc1R5QXNkbEZwbjRVMnc1WXhVd0JvNDNNaEtxSVhhdG5MaW1XS2M2ZUxjNWlyT1FpazVXbGJsbFdQcGZyU2lFSENqY0JXWTEtWWxydmJ6al9mcjMtTHRINXg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T19:17:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "8d5902fa1e",
@@ -5299,6 +5801,21 @@
     "cultura Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "b679465cfb",
+   "titulo": "Coderhouse desembarca en Estados Unidos con la meta de superar los 5.000 estudiantes",
+   "medio": "CanalAR",
+   "dominio": "canal-ar.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU21SN2YyRU9GNjlndHAxM1hCQ2szck13SlI1MWZTNWN0ZEZNVkhEVTlqTGNhSDV5V0g5eFE1S1RBYzc5WG12X2N0MHV5ZUgtUlJVa21RekxWVHI5Z0x5ZV9la3F1aFRRcmt1eTZaQTZYRlZxWnhJR0lxNFhtdG1CMVpBNDhhOVMyamN5ZmQ4dFg5ODAwZDk2Mjc5TjNGUzF4RWYzczNIXzNkbHUycW5wc1NVdm1aRmZob0pDY2hCZTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:54:32-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "e45842da19",
@@ -6022,6 +6539,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "59757bf5d5",
+   "titulo": "Santilli reivindicó los resultados de Milei y lanzó un mensaje electoral ante el Senado",
+   "medio": "ADNSUR",
+   "dominio": "adnsur.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcS1Uc1ptdzZGSDlaQjQ5Um80Zi0zSzdNWUdfa3VUWkJrWmt5UE54bG1JMzRXRWxXQjNMc25ibEJqN2dhV29maVlhU3ZXZFI2Y201Snl2Mm9YclZaNmNPWGM4cElmNTI3eWxEQzJaYmw2b2dJRWQ4RzhGRHRNT0ZwVXFNMVRMVUhmOThoNHVQVzVOTkRIZGk0MHNVQ0hHTGFLRE1yaUktbWxNaGNfc25WNzV5Z2xnNFZocFF1c2ktZmpLOEVzU0lvRjFxZ01KY3NTMkZQMFhxSk5hbXdPWE10R3Jn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:29:15-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "02e23cfa69",
    "titulo": "Ahora es el Gobierno de Javier Milei el que desmiente a Javier Milei",
    "medio": "Gente de Salta",
@@ -6104,6 +6636,21 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "b9f2b008a2",
+   "titulo": "Antonela Roccuzzo abrió su álbum privado y mostró dos costumbres argentinas que conserva en Miami",
+   "medio": "Vía País",
+   "dominio": "viapais.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT0p6MmpBNDV0ME1NdzdlT3k0N3JUNlRVVm1oZ2ozeUpuR2x5cXpVdjd5dlNjQjh2SVJ5MktVSWtCbEVLWHlkamVGS3NDNFA5U1htMkRSM3VuMkt2clFaak92YzR4dVZ3OWtFU3R1UFZGVHY1UlpLUlFPVnR0cktSbTd2RVcwOXZxM1pVSUJPZ09sV0NrZVNpYjZxMG9ZckpuSVk3a3E3MXp0azdQOWlXR3dkVUl3c2lMZmd4am9VZHdUdUNpWjJzeEFB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:25:58-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "cultura Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "68b3eb4488",
@@ -6261,6 +6808,21 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "4e551c16d1",
+   "titulo": "El presidente Javier Milei viaja a Paraguay en visita oficial",
+   "medio": "Radio Nacional Rock",
+   "dominio": "radionacional.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXBpZXE3Y3RUU0JSRUNoMkU2VjN0STczZmlXUV9JOEJUVUczODAtUHF5UlFPUTJZd2JvaWZmRlM3VFJoVEV2VVgxQnNBMVlFZ3FaNi1jWHgzX2Vmc3o2NlE5X3FTaXdlWXh6TVlhQnAzMXBTU3BsMEhuWjUwWmJwRGljUjgyTkNDZnZmM0o0eWVnLTBfZUVmeEFEZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T18:17:41-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "0f2f03cb67",
@@ -6758,6 +7320,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "Argentina Milei",
     "elecciones Argentina",
     "política Argentina"
    ],
@@ -7056,7 +7619,9 @@
    "fecha": "2026-11-25T17:49:21-03:00",
    "fuente_tipo": "medio",
    "lista_seria": true,
-   "busquedas": [],
+   "busquedas": [
+    "dólar blue cotización"
+   ],
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
@@ -7071,6 +7636,21 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "cc288bf2e1",
+   "titulo": "Gustavo Carrara en UrbanaBA: “En cada celular de un adolescente puede haber un casino”",
+   "medio": "La Noticia Web",
+   "dominio": "lanoticiaweb.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUg1bHRUa0lXdFdsOGJ0Y05lR2FvNkZSOHVidG5JdEZ2bndJcE1LaW9wUGhEc3JJOWFyN2ttaXVCWUNEYnpOM2V4R2huc09ZSmxTSFFlRmROUkUzM3JHb1VpanZlcEd4ZlpXYS15OFJSRkVxWUNGcGxHcXpVd0lMM0NkRk5HNzF5SU9jRktyc05uSEE4VXJIV2UyTllsNk1LTTNuS2lQMFNsUTRPX1pWVkE0ajBEZFU?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T17:48:45-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "8177416105",
@@ -7171,6 +7751,21 @@
     "Congreso Diputados Senado"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "154b2c1ae0",
+   "titulo": "Santilli defendió el plan económico de Milei: USD 28.000 millones \"volvieron al bolsillo\" de los argentinos",
+   "medio": "República de Corrientes",
+   "dominio": "republicadecorrientes.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQXhyX1JiekN4c2tlLUI3eTRuYXNpV1J5MDdTNzFlNWFvUTZ5VlUtRWJlbkh3aDJjSEtDZlJRakhwRDRFS1ltM1pFOGl4N094dVdtWDNVYUdpa19iR05oamZad1dVZEtmaGZ2Z0lMaXlGb254MVEwSkl6dUFCN201cWFkYUhIWEZWQlFHRWVJcmk5UnVBcG1NMlBUN0g2UlJqRTdzVzhpU0w0ZHJoVWpBZEtzYmY3SUlwVlp3TnNZSVF4dXF3LXZ5Q0ROaEVfNG4tVmJqWlBlNVpQT0R4R2hocQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T17:43:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "39ed8d175d",
@@ -7392,6 +7987,21 @@
     "Justicia Corte Suprema"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "0a620b036e",
+   "titulo": "La Argentina volvió a entrar en recesión: cómo salió de las crisis económicas de los últimos 20 años",
+   "medio": "Somos Jujuy",
+   "dominio": "somosjujuy.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3J5eE5oQzdkaWpHNV9jNzBPb0t0ZlRfUGV5UWIyTVliQzN5ajcwMFRHSl9vRURCYTNGNWh2R0tsWWFSQWxZWmJuREpwak5GdUdjOGVDMnNUdVpKWG9kUllyQjNWS0thWGNweE9PbVRzMzJGUnZVTDF1Wm1uQVVxWTl5Z3NnOUk1d21iZFlFTG5iUkp2ejBudDdqeFZJdzVDcUhzcjZXMW1qTmFiM1HSAa4BQVVfeXFMT0dyeXhOaEM3ZGlqRzVfYzcwT29LdGZUX1BleVFiMk1ZYkMzeWo3MDBUR0pfb0VEQmEzRjVodkdLbFlhUkFsWVpibkRKcGpORnVHYzhlQzJzVHVaSlhvZFJZckIzVktLYVhjcHhPT21UczMyRlJ2VUwxdVptbkFVcVk5eWdzZzlJNXdtYmRZRUxuYlJKdnowbnQ3anhWSXc1Q3FIc3I2VzFtak5hYjNR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T17:34:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "inflación INDEC"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "61f9e766bc",
@@ -8302,6 +8912,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "692f2f5549",
+   "titulo": "Santilli defendió la gestión de Milei en el Senado: “Sin orden ganaban los delicuentes” (mobile)",
+   "medio": "Mendoza 24",
+   "dominio": "mendoza24.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUmhrUTR3dzlzM3dCdFBfaXJYdkM1Sk1HVUlmSEw3MHMtUDNSU3h6WVo4eWNacl9EcmxXWEpnTzlnaTJjNDVlbVJqTEtOcncyTDNFc2IyMlg2aGdGYTF6VURRRXRHTUVTdGpDOGNkTUZaMXdtLTFVbGt4Zl9uVEdWaUdFT01BRndSdWdhYkJVTm9NVENhaXIwYjIyNDB2S1ByTmt0UkNkN214NmQ0c2stNUZEV0lpYm1sSWJ5VmNGeEsxR1lTb0NTdGt3UEo5cng3RjdJYkpROF9LaWI5ajEwam9haGRScDA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:57:06-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "9a9e17944e",
    "titulo": "Banco Ciudad fue premiado por su innovación tecnológica en la atención al cliente",
    "medio": "Ámbito",
@@ -8470,7 +9095,8 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
-    "economía Argentina"
+    "economía Argentina",
+    "gobernadores Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
   },
@@ -8853,6 +9479,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "9587aca197",
+   "titulo": "El Coro Municipal de Jóvenes y la Banda Sinfónica Municipal se presentan este viernes",
+   "medio": "Cultura – Municipalidad de Córdoba",
+   "dominio": "cultura.cordoba.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUNoX2RmNlM4S0Q0ZGxlQzJsT1ZwWWp4NnZLekxzYXcxX090aUNYY0ZIQklLVW1iMENOY3p2M2Fwd3dFZWdMb3BPeTlSZExKMGNuVm1OQldUbTcxaDl5aU9xRWdnQ2NHVE1pejcxbXRzbWFZdHVBZkplVnBXWGRDY1FPVXJqam44VjBubW50TDdxczZsZEc3WVFoYl95dXdtLTV3dXFVRXRRN1ZlbEZKTUlMN09WVFljN2sxeVFPUjR6S1NjdEJr?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:39:13-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "3078b786df",
    "titulo": "Anses paga hasta $420.000 anuales a jóvenes sin empleo: cómo inscribirse y hasta cuándo es la fecha límite",
    "medio": "La Gaceta",
@@ -9007,6 +9648,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "Argentina Milei",
     "Gobierno nacional Milei"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
@@ -9315,6 +9957,21 @@
     "riesgo país"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "f1ea933d7e",
+   "titulo": "Francisco, movimientos populares... los roces entre Roma y Milei para organizar la histórica visita a Argentina, al descubierto",
+   "medio": "Religión Digital",
+   "dominio": "religiondigital.org",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzhQVDFXeXM0Ri1DZnNaRHROVlRpVmQxa2I2c3ZxM3lzQmpsZGxBSFVWQ1hlNzRzZVpJbk1fcmhUSWFrTm9icWZrWFlJVFY3VGlLSjZjR1VrZ2lSaFAxbzFIaW5QWUFzSXlreHVQZEF1eDNSSndTa29SMTh3dk9SRnYxSzNybDIyYWZwanFGRzVwVWtDSEtvbDBPNks3aFZjcDIwZnBqS1lCb0ladmJLdS0zbGtGVEVMWGxFRVhyWdIBxAFBVV95cUxOSS1aT3AzZVJIeXctY0UtMG1TeThzQWlLZHBQR0tYUGI1a1JFTWd4WVNndW5iTlR1RnpBWjluUVZ0WDE4ajNHRVZfcjlWX25KTWdzUmR6N1U3bGxHVXBhQzNEZ1MzbjQ4WHRLSENGcU9HVi1fOWszb21xYnV4dXk5bGtBWl9qMm9LeUFsbXRxMWNGZ1lUTHB2VUlGVk5EX0NDQjAxU05mMTJtZGxRTVdlbFpnazBIYVB5ZVIyZkt3TFJKMmhV?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T16:17:08-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Argentina Milei"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "fd1db6c652",
@@ -9760,6 +10417,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "23d53856ac",
+   "titulo": "El Ministerio del Trabajo abrirá este miércoles 25 de noviembre la convocatoria Prácticas para la Vida 2027-1 para estudiantes de educación superior: de qué se trata",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNMDl1MnJtaV9jM2paY2VHOXZmcXg2OHE1Z0x2T2I2cEoyeHc4UkpkZVVac3R2c1NqOVI2b0hud3FJQ1llTS1rLXBCaGJiY2V6MUpCaHRpQTQ3dENabE9jcjdHRHV2bkw4MU12cHBhSnBBbmdzeTNLNmNHWkttSExvcXpfc2loSi1haW5FWUZXcUJrWEtNQWJ6NXpWXzQ0aDRLTmdCd3BiWjJkS2R6azV0VEFHZmtEVlJTTnU1WXZVZ1IxZl81MjRmRUdkRFYwQ3VIWlotMHZ1bzBya3hJQXVBVDRrQWhvRUJXTms1VXdGdU9ZRjR1VnEzUm5lSGZraWNVVWZfUWh0WEs3LU1QUXJPamtCTGFYVFo2RzFueTF6cUlfWmdCeDc5QV9sby1vR0JoUVFj0gHOAkFVX3lxTE5GeXFTZGJTd3ZOdXFQcXFMenpDVkdOYUVpSTBEZnhkaThjeHVjek9OTVhycmZQT2lveS01V0YzV2JmMWlESGw2V1lEU1c5bHF3aDFoc19kUGh1aC1fMFFockRwWkk2akZncUppb1Z3VlhkckJiTEdCbk82WjNnUmhKU1hKeWpZTzlqdW56S2dKY1VnYnlNS3kyZ0ZpNHFkdVBFeUYxTUQxT2JiOUlfNEJMQy15dDBWOGVZOThpSlZOLXF3cUk3OVhySjR3c1hJendPZVNodldoNWwwR01STXg0UGlaUVItM0cxUVJmZ1E1OXFwSElweWRndzgtQ0RmX3RrWXJWMkwtVnpyVHkyVVlVXzJGbWNzeG5OTnpTWmttcXVSdGNpdGFJX3FodEw3ZV8ya3FIdmVVQU5ycVRvQjE3Rl9nZU51LWlQVTZoOGc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T15:54:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "4146f587a2",
    "titulo": "Paro docente en la UNMDP por el presupuesto 2027 y el cumplimiento de la Ley de Financiamiento",
    "medio": "cazador de noticias",
@@ -9888,6 +10560,21 @@
     "dólar blue cotización"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "47440825ff",
+   "titulo": "Lemmon obtiene una inversión de 14,5 millones de dólares para expandirse en Latinoamérica",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeldDLWl6eWJQREIzb1JybHduM0tJcHN0bHlEQnJwTzFlM1pWYWtxTEloZVp5bmZHQ1FmVzZNb3pKNXB2S3VmQUdOMEhCVDRSTUpidVdTR0NHMldjZVNtaE8zMlB2TlU3N0VXZkRnZVVWa2ZYamtPdmN4NlJEODg3UUZDZHF5M2JwLWVSS2pydTdndXFCTWFwRi13Z0RZUXlTcUR3VDNuMHZhR3llNFRTMWphWkxETGYwdjRDLWtrblBPTmlqeGgyQ01JMTFfSk1SN0M5ZHlpUmfSAfMBQVVfeXFMUEgwcjlEa3NGX0FMM3ZSUTRLcjhpNWs1R2kwQ3E4Sk5ucWdVLTNlREVIOE4wOFg4RWloRU1NNmdWOHBPNnVkYkZvRDZrdzl1Tm1Oa2d6ZHg4bEFFN0NOVDNEZHc3YjhOMVhUSkpuR3VjcHVmS3ItTU04RERNOWhsNXNpWGFmUkNETzhaQWhMdU9mSFozRTgta1MtQ1VUVFoyeDdlUTNnZ3hnY0RZZ3dPQkZRd09FUEpMYVIzMkItN0llRWRrbzg5MUVCc3NjUE8ycldOdmdDbnBVU0RvemEyTlJ1YUxQY0NtNXY0ZnAtcWNYZERn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T15:47:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "0e6c6f49ad",
@@ -10725,6 +11412,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "11345b7511",
+   "titulo": "Riesgo país supera los 1.100 puntos; ADRs mixtos con caídas en bancos",
+   "medio": "Rosario Finanzas",
+   "dominio": "rosariofinanzas.ar",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjZjeTdmMjJpcHJRa3Bmb05CR1BXTkQ4ZE0yYXJkTDBxbEJGMHdlUGRkV3AyZm9paWJjdTAtajdkMmJhZ05jSml4UENUbTR6ZnBSanVEZm5rTzNLdF9UR2RqYlp6UWZNajVIc2h0bEJYblJBYVlBUF9WY1o0aVRzSjBEOHJpNEZPZlhSRmFTQUhuOGtIYmVjOWVCZV92aVJPWnpuR3BWTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T14:52:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "riesgo país"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "a0c9b79037",
    "titulo": "El dólar volvió a subir: cuánto cuesta comprar US$100 tras el salto del blue",
    "medio": "Que Pasa Salta",
@@ -10950,6 +11652,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "4bc9cdc8ff",
+   "titulo": "El retorno del modelo industrial global y el futuro argentino",
+   "medio": "Motor Economico",
+   "dominio": "motoreconomico.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25PUGhzNWZoZnhiSXBVQ3ZMdVFHenBkaWJRMFNWLUl6eTd0OWRVTWVqdC1UcnNwdWFJSEV3U0R5NFVDMGoyR0xQbEc2Q1lubnFuTDZYYXBvODUxQmtxdHpZbW9fbWxfb0VfOGxQNE0xLUVvUkMwRkhpZjRzUC1ZTXViNGhLNlgtSXNsVlNVdlIyTm5kQk1F?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T14:38:58-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "738788a335",
    "titulo": "Tras la caída del Ueno Bank, Javier Milei viaja a Paraguay para reunirse con el sucesor de Santiago Peña",
    "medio": "Filo News",
@@ -10975,6 +11692,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "BCRA reservas tasas",
     "riesgo país"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
@@ -11051,6 +11769,21 @@
     "gobernadores Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "89febb3f58",
+   "titulo": "Bernardo Biella respaldó a Sáenz luego de poner en duda su reelección",
+   "medio": "Elintra.com.ar",
+   "dominio": "elintra.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTi1KclNINzZYVzk5SDlZbXdjNkZkT1hlM0VSLUk5NHZWekFCUFZhTWxfYzZWb1BwX3FIMTB5aUNBNy1VcnVzZnM1ZUxnbG1KSTl4S3FSTDVsM0tRbktFN2NwRDloQmhIaF9NWV93dF9rMi0zdlpCWHE1Y1VUengyMjh6VG1xQUoxYThBRDctWUZIZEVFa0NEdWw1LWRNU3lZTHBaYXNicw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T14:33:45-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "gobernadores Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "d3627e7ca7",
@@ -11201,6 +11934,21 @@
     "Argentina Milei"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "5e17a9ee38",
+   "titulo": "Paro universitario: CONADU y gremios de distintas universidades rechazan el Presupuesto 2027",
+   "medio": "Estado de Alerta",
+   "dominio": "estadodealerta.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS01FSnBpVlIzVmRuODRPYVBpSmNNXzBVdHJiYlNobTJZbENPSno3NnVqYTk3T2g2blc5R1c2TXJIWmtVaDF6R2dfemtvRl9KakQ1ZTlsQlpPNkVqV29KbGhmdlV3WlliOXluRlA0RTZUdk91Y1lJVkswd3pBai0zLVRSeWZWWjZ4b3ZUSEQ1WVNCdlBGdzFuZnRsbjkyMC1xSk1uODBzQnJVczdETTVQZzRhb0pLbWphdncwdGRNTdIBxAFBVV95cUxNUXdoTFhPQmdRYjNMSUhwSXRGUnJzQTktclNwektac3ZXM3BmNWYtX0RHSVBhb3EzWm56R2s5QzNBMGpnU2tELWRwc1VDRkk2bnpZM1JNNjBOMVQyS0VyRm5QV1F5QW5UdnRxWG43dG1EcFhoYlFyWUdhRDJyaXhMRS1ydVk2aURTWW4tN3RJUWNYZVBHTUFoZHhRVFdqc2dUeV9RZVcyeUg5d0xfUktvRk1iMUNFVkZ0TzQyTGdEOExZSS1H?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T14:25:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "docentes paro"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "b9d53813af",
@@ -11805,6 +12553,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "ce4c8a1edd",
+   "titulo": "El Senado convertirá mañana en ley el proyecto sobre Ludopatía | 25 de noviembre de 2026",
+   "medio": "Hoy Día Córdoba",
+   "dominio": "hoydia.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0ZCOXVfVU9CNHp0VjJOZTVsYlB1T2s3c2JwdENWVXlhanh3RUZIdno3TG9rT2JMbmRaN1ZiZGVKT2N4dUJnUHpycHFrbU1LVWppUDZaVGR4LVFwXzJtQW1mQzRxb0pMLXRZN3FGUEFCbTlhVl9TWDdIQnlMNlQydWxzem53X3lwa1BySEdqYTh2R3BOMjNGQ2ZobUJLSTdfYjBFLTdB0gGrAUFVX3lxTE50dDFLOVJZZUltWTFfSHlWekppLThValZGeWQ5Z0I5MmozM2MzRWpUVE9RcXhJMUFuRmw0Zkl3ZnkxT2dXMzRHakx0dmFCTV9Lek0xaUtFRnYwZUdfbG9DSWM3WnVURzdmMm1JdDJ5RWZCQkdVZWJJM2Yyd2tzLXhOOEdXT04yUndMQkIyS2xjdmY2a0NvQ3V6U0tDX1pHQWFzSVQyeFRBblRTOA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T13:49:47-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Congreso Diputados Senado"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "d6c1b41b63",
    "titulo": "Financiamiento universitario: la fiscalía pidió que se ratifique la inconstitucionalidad del decreto de Milei que frenó la ley",
    "medio": "Clarín",
@@ -12225,6 +12988,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "ee0f7bd015",
+   "titulo": "A cuanto cotiza el dólar este miércoles 25 de noviembre",
+   "medio": "Flipr.news",
+   "dominio": "flipr.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcU54TGNjbF9RN2VySFc4c2dSQlFVd0p6blpVTnA0LTdfVXZKcFNsLXpsOW1nbUgyOElaNmk5dEdfajFzUFdWLTFLazVpY1l6bU1OWHBXZU85eHk0UmJRQU50Y1p0SVV4MUN2R3JxSnZtR21Ncl9IbDNEbGxrU1diQ0ZyQm1xb3dwNFI4UXA3VWI4QXpwd1VLbTVzOFRJSnZscnc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T13:21:12-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "71cbe3355e",
    "titulo": "El dólar oficial sumó otros $ 15: a cuánto cerró este miércoles",
    "medio": "El Cronista",
@@ -12472,6 +13250,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "be3659ea71",
+   "titulo": "Jóvenes de Pergamino visitaron el histórico Club Argentino de Ajedrez",
+   "medio": "https://www.pergaminociudad.com.ar/",
+   "dominio": "pergaminociudad.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0pYV3hoTjZieW01bHNRMTlYV1I3aWwwNkNlejdCeXZITXpMZ1RXcEdHc2xROEZwM3p2QkhjTUFWQzJWaEo3ZnlnbF91N1p4LTJNRGxjRnhrX092NkhuMzlQSkplYk40UnJWQWhZMDdMR292T2xVLWFBSmhLcmtEeVM4Q1JhVTd6ZE9FLVBBOE5jdTJvWVhxWlNBcFRMTVBpdHpVdXAyanpjWEhQckZCVA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T13:02:16-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "a6b04658ab",
    "titulo": "Crece el malestar en la Casa Rosada por las críticas de Patricia Bullrich al plan económico",
    "medio": "Enterate Noticias",
@@ -12512,6 +13305,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "Congreso Diputados Senado",
     "gobernadores Argentina",
     "site:letrap.com.ar"
    ],
@@ -13048,6 +13842,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "01779531a2",
+   "titulo": "PASO en el Senado y Presupuesto en Diputados: así quedó la agenda del Congreso de este jueves 26 de noviembre",
+   "medio": "La Nación",
+   "dominio": "lanacion.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUzBiSjVjWGY5bzJtWXJsQklZeE50dzZ4MVN3TGdHRWRqdkZoSjJGd1lhblFLS0g3b25QSUNhQXhLcy1iTXdLWjh0Z2hxaUVHU01XS2w0S3RYNGplYU1EaEZKNGJHWlVMNlB6Q2g3MGtGTkdQVE5VRGJXZjhKSWlLNFc0anZUUXpZTDNZT1dnam1MZTl6ZDM5RHJ4bU0xY3UteU1PVlphTVY4VGF6ejVJT2RxNDRtT3Z4bHlrdFhGaGY2dTRVUTJLQmtXWlV1UnhoVHItWjZFekZab0RRS040SnZR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T12:21:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Congreso Diputados Senado"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "719dc9a5f8",
    "titulo": "ANSES: Calendario de pagos para mañana jueves 26 de noviembre",
    "medio": "las 24 horas de jujuy",
@@ -13194,6 +14003,21 @@
     "riesgo país"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "721c2c3abd",
+   "titulo": "Una oportunidad para dar el primer paso en el mundo laboral en El Chaltén",
+   "medio": "Ahora Calafate",
+   "dominio": "ahoracalafate.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2pTVzBqNDRzelpLSU5VVzVyYmlkZGxFeFczWWhEWk5uM2Y0N3p1VTlTYWJkcVBJSkllaWFSQ2hGU0RSaFRwMDhkZFY5RkZWRTh2cE5zbUptbkJjblEwSU5hbWtGUHFnLVRmb3dWTHZPSnVXVXdvWjAwQXBGYk1uZ0ZSMzFBN2hCNFJRRC1zYV91SjZVbHVWX0FUYjhMM1p5ZjUxMnQwRmJTLVZWU3d4djRVY3B0WjZBaEHSAbIBQVVfeXFMTUlndTR5UHAyOXdka1FKczdjVEloVnR6NzVVRVFQeUFEYTZlbEl2Q0d0T0FNOW1oQkI5SFExVVRSVzV2dXdYYVpqaENGZEkwb3BSb3phSjlvY0dzRlhlMU4yVlp0Z2tPeUJWZldhaW14U3EtLTdyU0FLMHR5ajN1azNqbGthbzdCOWJiYU4tTmtnUXJQZjRaeVNnN29KcVRadXZkLWZTYndWcXBEallKb1Jzdw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T12:11:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "b9c14bc503",
@@ -13464,6 +14288,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "5c061b4d82",
+   "titulo": "Senado: inició el debate por la Ley contra la ludopatía",
+   "medio": "El Litoral | Novedades de Corrientes",
+   "dominio": "ellitoral.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjFfMW5MMFRhN0VNcFd1NEU3MkpRaWZQelNlTGNwMzUzUlpxVGJEcHJBYVpVTVFsUlZMVkVHWktxRDBxa3FqMnVPMTBJcXFYbVdyTDl6V3RpdW1hMjhuaHFRZk9ZRElqb0lQSlhrRFRVTTB6d1o3QVF2TmNSb1g0a2dJcUdsb28wTHV4OTJqS3VTd0E0UVRJLWxMaW01VGt5MHg5Wm9BeVRjOUxsRG5tZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T11:54:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Congreso Diputados Senado"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "f4b0052498",
    "titulo": "El riesgo país arranca el día con un salto hasta los 1.131 puntos y el dólar llega a $ 1.630",
    "medio": "0264Noticias",
@@ -13590,6 +14429,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "docentes paro",
     "universidad financiamiento universitario"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
@@ -14076,6 +14916,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "1c7015592e",
+   "titulo": "Paro universitario: docentes de la UBA suspenden actividades y marcharán contra el Presupuesto 2027",
+   "medio": "Noticias de Bariloche",
+   "dominio": "noticiasdebariloche.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWnc0S2xVZG5GVlgyM0lqdzl3MTBhczFJSXk3UUNHNkxmTVFwSGFCX0R3d0RmcEo3dmo4am1NdF9sWVZuWG1JbGZpYUZLSEFjcG1tQTM0Q1lUUzJ0YVlkZndlZ3lPakxtend5N014M1B5eUZSeVBCMkkwTkl5a0JMM0RBMDQ5NmpFYnRucHF6RDNyOTg3SHZGQTQzWXQyUUoxOENHSlpoc1d0NElNbi1MVzdYMkczR1N6VHVzMkxxQzdLRVAwUVVNOF9wb3d3OVdnTERNV1FKS3pvd9IB2gFBVV95cUxNWnc0S2xVZG5GVlgyM0lqdzl3MTBhczFJSXk3UUNHNkxmTVFwSGFCX0R3d0RmcEo3dmo4am1NdF9sWVZuWG1JbGZpYUZLSEFjcG1tQTM0Q1lUUzJ0YVlkZndlZ3lPakxtend5N014M1B5eUZSeVBCMkkwTkl5a0JMM0RBMDQ5NmpFYnRucHF6RDNyOTg3SHZGQTQzWXQyUUoxOENHSlpoc1d0NElNbi1MVzdYMkczR1N6VHVzMkxxQzdLRVAwUVVNOF9wb3d3OVdnTERNV1FKS3pvdw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T11:20:29-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "docentes paro"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "270928e3e0",
    "titulo": "Ludopatía: el oficialismo busca obtener dictamen en el Senado, en qué consiste el proyecto",
    "medio": "Diario Río Negro",
@@ -14174,6 +15029,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "dólar blue cotización",
     "inflación INDEC"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
@@ -14428,6 +15284,21 @@
     "cultura Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "bd7ede7ec1",
+   "titulo": "Comienza el Festival Fontanarrosa: Rosario celebra cinco días de humor, arte y cultura en honor al \"Negro\"",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZlZWUm9yUUJXa1ljYlVZVS1qUjk3U2h4UHZSdmJZbTBvZ0ZVSHFnSWhrbjk2VVhrTlJ0WHdpUE1BN0VFcGlHVTk4aUsxRFFrRnB6WmZVVDZOU0FpU1VidnJGTTNPZ2xLR2o0cjVCYXFNaHFrT0ZCaF9jNWwtSmNfVDh1VmVfdTJYT3I5aWF4MFFHZmRBN3lLOVFudjJ5aWRacjVlb2JKZl9pSVUxWFpjTTEyemx5WUhSRm9WSG5JMzZwOUwtNUhjaEdybW1WMUJRRDYyN2x6Z2wxbmlFbzk00gH6AUFVX3lxTE4taFhrMlAzc19oOXM1U3VXUVJpeVdEa0E5R0tQdFJTUjRFN0I5MTlWRm82N1NCakFLcVk0SUk4UXppeFB0YnR5Vkw4VWFxSlRua3J2Vm5HUkhhY2pvVm9jZWZ5SThlUzlTOVlvZld1dVVCS0s1bVVTNGMtYmJ3TEQ1WjFWNFlYOGMyNmotQmw4NThZbmtvam5wZTVubnRhdnRSeHA1SGhibF9fR25HVXVmNFNIS3hEamFsU0Nya2o0SzFiYlhYNzE0MXRmSEdnTGRrNjBIM3VjOUh6T2xOZkpvaVhRaXVER1dRdjhxYklwcndkbGwtOWMtUUE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:59:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "cultura Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "fbf290fb09",
@@ -14786,7 +15657,9 @@
    "fecha": "2026-11-25T10:32:00-03:00",
    "fuente_tipo": "medio",
    "lista_seria": true,
-   "busquedas": [],
+   "busquedas": [
+    "riesgo país"
+   ],
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
@@ -14983,6 +15856,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "72314374fd",
+   "titulo": "Consumo en baja y precios en alza: “El costo de un país caro en dólares que las provincias no pueden compensar”",
+   "medio": "Agenfor",
+   "dominio": "agenfor.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1NRYTBvMTFiYlpIREI3eWVZVlhwZko1cHAyMk4xcV9vMzZ0ZHNhS3BiclB5OGtxMDg2ams3WmptUVBjSG93U1pMY2NJeEVwNTJCVU9UNkM1dkNsSlI0Vkp6cG9uWGZQME8wTTlGRkxWcGFtZ2JXcXRTS21HekJnbE8wUjdIOXRCMXJkVm5Ua2ZTb19iMmtHR0t3ZDUtcmdHU2p6OVVLemI0UGhXZm9uQVNQUTVDYTNjTWVVNE5NcXUtRnVsVEMzSVBmU3Vza0Flelc2c096UQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:15:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "e276355a0a",
    "titulo": "Cobran los jubilados: se les pagará antes del viernes 27 de noviembre a todos los pensionados que tengan este número al final del DNI",
    "medio": "El Cronista",
@@ -15039,6 +15927,21 @@
     "docentes paro"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "6e0dc75402",
+   "titulo": "Recesión: \"Tiene que ver con las políticas públicas que ha adoptado este Gobierno\"",
+   "medio": "LV12",
+   "dominio": "lv12.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2JBeHZvclIxdHRqdnRzaHBNSURXZ2Z4WnNNMndQc1ppWUd1VGMwcHF5RVJ6QU00RWtKWWEzNGxOb1RyT3E4b1J3UE1TamNkbmkyTUVjZWRXOURMYm9IcUo5WGRPd2Y1NXhpbFRiYW4xdTRsVFQ1WlpUZDhfSWtCMVhiZkxoVDRoSlBsNzdXeDBLT2hOWjdLQWkzQmxwS0dtd3NkOUZRTGhKZWlnQ0VVNDNQRWZ5NVU?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:12:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "eb7302504a",
@@ -15523,6 +16426,21 @@
    "visto": "2026-11-25T21:36:50-03:00"
   },
   {
+   "id": "6d9a95e1c9",
+   "titulo": "El dólar global sube, mientras los inversores esperan señales de una suba tasas de la Reserva Federal",
+   "medio": "Ámbito",
+   "dominio": "ambito.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDhvU2QxVHB0T2kwVzBwNHJDMEVpc01pbG00dTlIenp4NXVVN25xNXdSRGFONm1FRVdDY1U0NXdQUUFBZ0VqeGlweGZLbkUxd2Mwa3VVaGU4MGdvZ3Q3by1XQU5mMHk5YUtVQmVXQ0w0LXJCT1EzRmdUSlJaOUhScjdhVHBxem5iamNFTldQZkFuN0R0cllITXdXeWQ5MEszNDJuSEVjVXJncm43bjR2akRSblRfRFhDVXdBOUNKSXdUMDJJUS0wSHRoa1hVSjTSAdQBQVVfeXFMUEVqMXVpNUxiTkFMNDB4UzlGU1I4NXpRMkNtblI0WXZPalBobENoOUFJQzRwQkNzX2pKS2NfbWFiQUQ0eFBGNzE5cnZISjZKMTczRVJBY2RpUHpNX1NhT0dfM01OcEpUTmJidGdrS1hXN0NoWmJKSjhYeFFFMFMtSjZDajBoT1ZqR0xEMjZ4R2pqX2RFSlVGWHhocVljT0hTdmR3SUJfUUVuYVlsRmUzdXpkY1h0V0VleTBXbHQ4UHdwYlB5bmJnSTBOTk9SN3hXSVo2d0Q?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T09:34:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "BCRA reservas tasas"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "a1dff70563",
    "titulo": "Fondo de Asistencia Laboral: ARCA modificó los requisitos e incorporó a las cooperativas al régimen para MiPyMEs",
    "medio": "Diario Neuquino",
@@ -15832,6 +16750,21 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "3ebae3e0f3",
+   "titulo": "El dólar vuelve a marcar récords nominales y se recalienta la brecha: el mayorista ya roza los $1.600",
+   "medio": "Ámbito",
+   "dominio": "ambito.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkRBbUoyMDZCUjZhTEh1Z1piZFpyTnpTYUswY3kxV0NVREEzMUpDMEk3eXlybExmYjhjc2ljN1h2ajhZWVp5RnJ2Zi14TmFEMHRwenpuVEhMOG0wODlnMXZKTHgxa05YZzlFa1VmR3JzX2JkTncxMnFOZF9PTTJyMmR6c3J4TFdiR1diWWI5WTF4c0pNQjRwM1NtcXBBTEpOdFBKMU4xWldQQjVBNndvQldIb1JhYWV6cFRwVGxqYmVPS0pyaXpiSHM2bE1yYjFFRnVpUnJPTjLSAdgBQVVfeXFMTWJEQW1KMjA2QlI2YUxIdWdaYmRack56U2FLMGN5MVdDVURBMzFKQzBJN3l5cmxMZmI4Y3NpYzdYdmo4WVlaeUZydmYteE5hRDB0cHp6blRITDhtMDg5ZzF2Skx4MWtOWGc5RWtVZkdyc19iZE53MTJxTmRfT00ycjJkenNyeExXYkdXYlliOVkxeHNKTUI0cDNTbXFwQUxKTnRQSjFOMVpXUEI1QTZ3b0JXSG9SYWFlenBUcFRsamJlT0tKcml6YkhzNmxNcmIxRUZ1aVJyT04y?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T09:10:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "d1a70998a2",
@@ -16678,6 +17611,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "c2712d6994",
+   "titulo": "Diego Santilli presenta su primer informe de gestión en la Cámara de Senadores y defenderá el rumbo económico",
+   "medio": "0221",
+   "dominio": "0221.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUNtZG1lbXZwOVZ0X21rZjJxbS1Cc3lUWnpOeldyMnVyMWRrWVBlZndENXZCbEtHdElJX0YzcHpxc3pkeXdiYXZidUtQQVpoX0lyNTZMZnFwMTMtdU96ei1fOFo0a0E2VE9QNGRNWk5CWDRrNzlmX2V0X1c3ZzdpSDNkMlEwOWs5MlRZWVRMRUFkWWRlX0pzbkxaZ0JNX2Z5Vmo5M2xKc0dodEZMMTJoT2p3aENQVjJrYmhHZFZkWlVMNWVwUXBaN0JZTC1qOXZfalZMVGtBaHbSAd4BQVVfeXFMUHBxM19HQ0s4MmpCanA5bk9LRUJWcHdUcTFTelpNcFlCUFdrd19sMWlrS0xIU2RzN1lJWm9WbW1FMGpocGtLVWVkUmdxVGVWTWxYYXE5N21VT3NrYWgxZzVlYmZrSDhPRnZDUFdpUzBaQkEtVFQyRGpPTDJKdEcycjNKNU9NaUUyV3JoMUl3WlduMExhUVlyZ1lYMFlJNDRPRUYzcjFuYThZSUUwUWdIYlJUdWpZM05udHlLS0lCcVVpQm0xUHhta1hLOXhySWc5a2hELU5iMTMtXzQ0N0lR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T08:15:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "0e2c1ebbd7",
    "titulo": "El Senado entrerriano reclama un pago atrasado para la salud de los bomberos",
    "medio": "https://www.examedia.com.ar/",
@@ -17199,6 +18147,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "c97838d71a",
+   "titulo": "Teresa Parodi volvió a destacar que la cultura es un derecho y que debe haber oportunidades",
+   "medio": "https://www.lafolkargentina.com.ar/",
+   "dominio": "lafolkargentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWnNjUDV1ZDRkR015TVdjLWtvY0dCYW9GR2lGWGRHeDNEcTIxU3RvYWtCVEFSVUNwWUZRQ0tESXNVOW02bWdUQWdoN2ZXdmhsTVIybnRvTE1CRFQ0eE5tSFhTWUdyQ1RvTU5hTjkyblkzcGhNQ3lVYzVoX2pqc1lxNUplbG9sMU9KZ19IWVZHTGJYa1c0UG1NT3pTNHlONFozVDNycERuWGJMUHJkRndRbVdfZzNQbTJWdDdmNHFvazdQbC14WDFFUTR6M2VxQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:30:04-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "cultura Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "b2e63194d2",
    "titulo": "Presupuesto 2027: qué se debatirá este jueves en Diputados y cuáles son los reclamos de los gobernadores",
    "medio": "https://www.lapapa.com.ar/",
@@ -17272,6 +18235,21 @@
     "jubilaciones ANSES"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "e0aa89fea1",
+   "titulo": "Santilli responderá en el Senado por dólar, tarifas y el FMI",
+   "medio": "BHInfo",
+   "dominio": "bhinfo.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZS1SVEc3MC12MVo3SDRaWnR2dkFybDFGSklGTzBDOWlyR3NfNl9WV3hFeGdsbW5QT2QybWJDZk4wQjY2SVBKT3NFdmU3YWpVVkVneWV2dEtlTHhlZXVjLUtOMDhFMXA3WlRSUkpnNXBwZkxyX1VoNV9WelIwdlJ4RlhfZ0w5SjFJbXM5aUV2dVdoanNkYTd1QURLZFBQR3ZndkgtZnZvV0ktV2Jr?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:24:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "34e496b196",
@@ -17379,6 +18357,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "6bac8bb405",
+   "titulo": "¿Queremos que Azul progrese?",
+   "medio": "Diario El Tiempo de Azul",
+   "dominio": "diarioeltiempo.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoOUV4VG16UUliNEhpNmk3MDdhX2FxM1liUVpXMjJqVFBvRDZzd3BUdUNuUmJhYVdaYm1LbHI2WUFUd28tZENiQXZLbGpFTlYxVllXT0x3RWUweTlSQUtFZjhhZERUNmxmWnlTaXVaNzY4d1h2THJqY3hTSEZuUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:11:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "966f22cbff",
    "titulo": "La economía argentina ingresó formalmente en recesión técnica",
    "medio": "Diario Noticias De La Calle de Misiones",
@@ -17407,6 +18400,21 @@
     "jubilaciones ANSES"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "7b0ea3243e",
+   "titulo": "Dólar tarjeta hoy: a cuánto cotiza este miércoles 25 de noviembre",
+   "medio": "Clarín",
+   "dominio": "clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZjJ1TEJfZy1LelhNcjJ6dzBnd3E5UmkxUENVeHhzb2Zjb1dpcmk4SnctRWZIcWtRWWhDcE1SdzQwZUxvdHZiU0xEYXNNSnRva3NGUmtpMllxdUQyd1Y0WFNsRWJVeGVxZmNINmRoLUU2QWRLY18wVWJrcmpSY1RZbkMwUlJjV1NGY0dzSUlodWZla1htdWtwMi1jcUtPLTVQNXJz0gGjAUFVX3lxTFBmMnVMQl9nLUt6WE1yMnp3MGd3cTlSaTFQQ1V4eHNvZmNvV2lyaThKdy1FZkhxa1FZaENwTVJ3NDBlTG90dmJTTERhc01KdG9rc0ZSa2kyWXF1RDJ3VjRYU2xFYlV4ZXFmY0g2ZGgtRTZBZEtjXzBVYmtyalJjVFluQzBSUmNXU0ZjR3NJSWh1ZmVrWG11a3AyLWNxS08tNVA1cnM?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:08:07-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "8a99c76c8c",
@@ -17467,6 +18475,21 @@
     "dólar blue cotización"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "031430a831",
+   "titulo": "Dólar cripto hoy: a cuánto cotiza este miércoles 25 de noviembre",
+   "medio": "Clarín",
+   "dominio": "clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXpGLVdYbzBRMFhQMHFtLXpySHFTcDVUbERINW94eVNzejBiVEY5dDROdnptWlNPNEp1RVJudVVIX2JXSlVWQTF6eWs4NUVRZFBQX0pOX1k5blJZZ2tDZXpkWGZiZWxUOEpkM2VYWDhORmhmZnF0XzNrUVp0VHdlTEo5RkdVaXBFYWFCMXZmOUxXdTZBcXlhM1NQMnRmUTZqU0HSAaIBQVVfeXFMTjF6Ri1XWG8wUTBYUDBxbS16ckhxU3A1VGxESDVveHlTc3owYlRGOXQ0TnZ6bVpTTzRKdUVSbnVVSF9iV0pVVkExenlrODVFUWRQUF9KTl9ZOW5SWWdrQ2V6ZFhmYmVsVDhKZDNlWFg4TkZoZmZxdF8za1FadFR3ZUxKOUZHVWlwRWFhQjF2ZjlMV3U2QXF5YTNTUDJ0ZlE2alNB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T07:05:08-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "356f49e9f4",
@@ -17648,6 +18671,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "ad0fdbf3ca",
+   "titulo": "Neuquén pone en marcha un programa de acompañamiento para jóvenes que estudian o buscan su primer empleo",
+   "medio": "Diario Neuquino",
+   "dominio": "diarioneuquino.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalgwYW5iZ2dYTmVhdUtucERSWFVIWmhiTjhRanVZSmxMWWN6dGhDU1NTRjZvQ1lqeGFOY1l0THFfa2xpekx0eU1aZGhRSnBZNUdrUlhpRHY3ekdvT0d5YjVDV01lVEN2LXpsMThkdV8xY2lfSlowVlBkRGJkZjdwaXBxVGJDclBHdkV6eFltcVBNUk1LLXlVWEtQVTlEMy1GN2tlcDJmSklPVmUzbWw5YUpjRFFvblotZGVhcUhLblRkellsQ05uTzA5OHowQkVv?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:21:22-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "9c5a6a55b3",
    "titulo": "Docentes y nodocentes universitarios paran hoy contra el ajuste presupuestario",
    "medio": "APFDigital",
@@ -17738,6 +18776,21 @@
     "BCRA reservas tasas"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "e146840ef8",
+   "titulo": "El dólar que compran las empresas salta a casi $ 1800: hasta cuánto puede llegar",
+   "medio": "El Cronista",
+   "dominio": "cronista.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjREUjNheURSSHlabmlrWmZLNFluTXBKUzhVMDhXWDZJWkdRcVJ6cEgyQ0Z5NVhBNjhYc3dNZzFLRHR5dDBaMEhqUXoybUFUdFo4T2k5Yi1rNDZoU2VjTFRaSDRVNXA4cEo1eUdYekxPbTRFcHhweko2UDVzek5kTDlNVnVoMVlJTmhkY1BRUDZEVUdjeDN0SVRCcDE4T2hpT3V4b01wSnNGd3JOVm1Ma01Ka3lPRFBzYWfSAdQBQVVfeXFMUDhYclFBU3J6UGEzaE1heUUwMmh4M1Axa05qc0VtdTh5a25wU2lQZ2p0X2JMVTFxdjBIQWc2d190Y0hMTXJvXzA2eVp1MnVWNVF2Nkh3T0NDMF9xbVVWVmNjdlIxUjVqVndISTIyenNzR0xVb3Z0bmxiV0VzbGdPbjh1NlY1d1JtTUJRTm1oNW9fUThtdFZ5WXhNMHl6dUpCa2VKTFJ2QXoxNFVQRVVjd2N4Q3RXLW1DSDk0a2JaZUFvSGN3RDVQZ3JuSmFLcTZVaGdhT2c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:00:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "BCRA reservas tasas"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "19994b60e1",
@@ -18272,9 +19325,25 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
-    "Casa Rosada"
+    "Casa Rosada",
+    "política Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "54ff6bbccc",
+   "titulo": "Número de Expediente 1981/26",
+   "medio": "Congreso (Senado)",
+   "dominio": "senado.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53aXNtLUptYlljRGtqeFRodE5RV0NmcHFsQ2RMa0hTX1I2VGVQWGdyd1NsWWVpcXNWazRRUnVZZEoxc3A0U3pLcGlOYjFrckVGNDFFcFp2NW1kMGhNSVNYSVl0bGIwQ2I4RGxzWnZVUU1haVg1ZEFlczZR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T03:14:59-03:00",
+   "fuente_tipo": "oficial",
+   "lista_seria": true,
+   "busquedas": [
+    "site:senado.gob.ar"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "f39c24ff3e",
@@ -18350,6 +19419,21 @@
     "educación Argentina escuelas"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "1c89e2efa5",
+   "titulo": "BANCO CENTRAL DE LA REPÚBLICA ARGENTINA - Comunicación “B” 13264/2026",
+   "medio": "Boletín Oficial",
+   "dominio": "boletinoficial.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdWpvRkROd1JKUmprT2dOcGV0eTl0VXpQQmN3Tk9tRy1nUTE0R0Yyb2MxZk1na016Y051QTlhLUltejVnT0dkbi03djdEZjBlMVpxcGlkM2RnUWlxTlE4QUlRYU1EWmJUSHVHNVpoX1BuYjlyR0c4bVhB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T03:00:00-03:00",
+   "fuente_tipo": "oficial",
+   "lista_seria": true,
+   "busquedas": [
+    "site:boletinoficial.gob.ar"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "54a7e84f55",
@@ -18743,6 +19827,36 @@
     "economía Argentina"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "36d0b23277",
+   "titulo": "Dólar oficial: a cuánto cotiza en los bancos de la City hoy miércoles 25 de noviembre",
+   "medio": "El Cronista",
+   "dominio": "cronista.com",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGFiVnZMdEdJVWxoMDZ5TnpDcjNfODNIRnVfcUtMb3FkRFp6SHhfR2lCTVBWelctT29KWFJ4cDB0bzhmNUpKWklFdFRSdTlqd1dibjRQNXV1eFlaYzMydEdfSF9ZemlUV1BaOVNycHlUUWJBUUxya0tWNFMtSGlXdTkwNklYSjgtUHRVeFBMS1NaVDhIVnppbnRCelZHNkkzVThsV21PNWYxNGk2aXJndVFQZjRwd3EzMjAwTjhnRDBxXzQycTdYaFFYUXNoTDBldnRLSmRycWVlb2kzS1FWbnB30gHiAUFVX3lxTE5EYWJWdkx0R0lVbGgwNnlOekNyM184M0hGdV9xS0xvcWREWnpIeF9HaUJNUFZ6Vy1Pb0pYUnhwMHRvOGY1SkpaSUV0VFJ1OWp3V2JuNFA1dXV4WVpjMzJ0R19IX1l6aVRXUFo5U3JweVRRYkFRTHJrS1Y0Uy1IaVd1OTA2SVhKOC1QdFV4UExLU1pUOEhWemludEJ6Vkc2STNVOGxXbU81ZjE0aTZpcmd1UVBmNHB3cTMyMDBOOGdEMHFfNDJxN1hoUVhRc2hMMGV2dEtKZHJxZWVvaTNLUVZucHc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T00:52:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "dólar blue cotización"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "56b556f68b",
+   "titulo": "Buscan a una joven argentina que desapareció tras el temporal en Brasil: su novio fue encontrado muerto",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZzFMM285ZmN5eFU1QjVvVTdmUkhyWGhCYlEwc3RudGthRW9xQ2xCOVNNYlMtOGp2R3I5cV9qY2xfbTFCeDRSc0FBbWJqZ2UxTUoybGR5YmpVM181TFJZc1FsbHJIZmU3dTg5WEZjcWx3TmNQWkFRTkptTGRJQ1R3YXo1QVZvWW45R3BtWHJEYS1mY1VuZFVySlpFTlNrazUtNU9WYzd1eTl1MHVLWXhzV24tckNyNDNIaGpDTVo3eURWOFJ4aC1hTkdWS1FSUHdRZWx1c21KVlExdWVqWUdHaGdGcHhDdVFpRFNNMllJd9IBigJBVV95cUxPeXFSUnhxdGMycHdLUGlFakxGUlFTU2stYTBiME9VUGxhWUhzb3dYUzJyRXVzcWlweW9XWFRjSlJUQk1zeUVDYjdNZ0pyUmpsN3lhcFo2c2FZUml0Rkl5cWNCNVg0dlg5T3J2TlVvaXp4U3lJOUZmN1JCTmliVFhzVDF3YzNRMjNDSHdTRm9Rd294ZEp0R0toLUhiVlR2bjBpZHJEb28xLS1yV3BTeTBfNERudG9pWlIxRGNwT2txdWllWFpCamM4RGo5SWZZXzJreVNKM0o0XzY0YnNES3hfZTZiLVN6SlgzWl9mNVB5bjRNb0xkbXUyV1hPdTYybW1hc1ZSNWtFT005Zw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T00:45:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "4732c9f12c",
@@ -19509,6 +20623,51 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "2e7113bd3d",
+   "titulo": "Hay que estar: El legado de un proyecto comunitario en El Salvador, convertido en libro",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSEZLVFV4M05GMWVVVVRXYkpjbkotdExBUTRSem1iYUZ4Zlc4RUtCNGtSdkdCTlp3dU1qbHpVaTI1RmFqMnFxclczNFdINWVtOE4tNzRSRlAzVmlsZ3hxZ2NtQmFfNk9WS2txekRzbGstWjR1MDRuMVJiYUdIdkNFc0FReHR0YTJGcVZQUUYxX1NrUkZ3aWxMb3RqaDhYOHdRME5MRTQ3T2JrSVZzWU5hMjFlQWgzc2VuU0NyQWZxZXAyT3Q3RWh4enZsN2FpZ9IB6AFBVV95cUxOZG53bzhFV3NzdFNubUE4ZUNoTVdhbDBXMDdLLUxkT3NhVGRIMDd2QVZIVGVvVDUyc094OVgyaXhnNi1aVUppR19Wb2FrcjZzaWMwVjFlVlFDbkY4SnpZTDhxajhjRDRwdWVrc0EyUjJXNjdILU1oMEotUG9xMVVxQ0RETWZXeXZxbkthd3FQbWdyWlBsMnVQSDNBams3SmwzNUhveHZCeDNDVXBrby1ncHBWV18wZVhyRHFlcEpCQ1hQcHR1eW80X0JSbm1meTQ5cGpZS0dLcVVpM1Nuc05YVUlHSk5mUzV4?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T23:51:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "jóvenes empleo Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "87d9e8772f",
+   "titulo": "Un emotivo homenaje a Moria Casán: fue reconocida como personalidad de la cultura",
+   "medio": "https://www.lafolkargentina.com.ar/",
+   "dominio": "lafolkargentina.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2VKZngtRE5zMFRGQ0tWY0s0ajRwLTNuTkRMLUZsUTR2V3pId2c4WmFvSGxTeWJjTlltQVVCTU1Ec0d5aTl3d1FUOFBiczZDbF9vN2lrdHQ4Z1pqTWxKRjFBTjRTRXQzOW9oZERWX054VXZQLWR1eEhXMmZTRXhJSUdQcUY4bjdtY0dzV1NNejdsX1NBWWJSUC1kUzF4bGt2TXU4bGVjUFBPT29lZ3M5dmVSNnAyc2ZQZ3VzUDBpTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T23:44:40-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "cultura Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "7e60fc4def",
+   "titulo": "Argentina es el país de la región que más redujo sus expectativas de crecimiento: pasó del 3,3% al 0,7%",
+   "medio": "Diario EL SOL",
+   "dominio": "elsolnoticias.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWRTSjRUWHg3cUh2b3pLaUxvLVlMQnRKTmtBUTBvMzMxY2dWUjU0TGJTbDZUWTdDc0ZYcmFfRUNjV1EtaW56Ql9fZUJoN01paHZ2THpaeXZabkJqSzNScWV3cThaSmtKT0JRcy1WUnlmVGtiaXlRNngzZmxGWDhVZi1rbTFvRlF3bGROWjFGamhlMU5iMGtFQkRtdnpkdk1aUWU4YktISEpHTmdqbk1hWUc4c085YXdvZjJCMW5OUHN5NnhMV25v?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T23:44:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "e8657c31d3",
    "titulo": "La independencia judicial también exige responsabilidad",
    "medio": "Abogados.com.ar",
@@ -19569,6 +20728,36 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "fe85e2cf87",
+   "titulo": "Nuevo paro universitario en reclamo por el financiamiento y la recomposición salarial",
+   "medio": "elheraldo.com.ar",
+   "dominio": "elheraldo.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcF9sMEpnQkdDVXVGRDFrUVJxTXhjMTFBbTYxWkVLVE93aHk2N1pVcUdYRjN2Tlktd09SeWg5YVBoa3RfeTFEcXlqeHNXX3pUZzJ1Qk9PdWpUQUlXREUtWnNUQi1wNm9BZldIcjIxUS1Od1FPUjRvZ0Q5cEJWejFTMnVIMlFrRlZ6dUNUeWUxcVV4aWtDVGlMT0ptbVhTbHFaZkVTaGlXX19La01QRUNlMmlfZkRhWTFadGJ1MEEtYzY5cV9QY0JTT1dHNWpYUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T23:30:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "docentes paro"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
+   "id": "6f1e9e6f5c",
+   "titulo": "Semana clave en el Congreso: el oficialismo va por el Presupuesto 2027 y la reforma electoral, y Santilli debuta en el Senado",
+   "medio": "Diario Río Negro",
+   "dominio": "rionegro.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNLUUyeTdWR2NUY3lqT1RmMGtrWC1EV2dyMm1tMXpJUnRoUXhRZERyeFVjZ1dMYWo5VFVyQXZZYXItM1c1bjZjRUktUHJaV2hmRHBkSWNqVTNiOXJDUHhLS3lyWUpNdUV4NzYwOXNUbE1WcEFQXzFFeW5ISjllS1FwMldTTFFGRXlxZWhKS3psSWdpc3BQRE5KN1NCRUNYdW0zS2dFbnU1WDlNcDlQamhNelNTZjBqcjV5T1ZUbjE4NGhJNFZCYnByMEFyc2U4cF8yR25CclRJaExoOTVKSDdzN2pkejd3dE1mZGFkUl9vYlZVRXAxXzdiRlNydHU3Z9IBhgJBVV95cUxOQUNRbkg5UHJzUlNQZWc5c3ItQklGMHFjdzMyRlczUk9kRmxpSWFPMWVzSzRxZzhJTnJRZUhIU0tqakJQRnlyU3Mxem1EQ01OSTlvMTdwZzVDUHVpR051WDBWc2hEa0Rkb1VYbkdZckpxeWZjZVdGbkFpZG9veUFWdFJqRWtlUVJ1NGd0aGd4eWkxeUd6MVBscElLb0tUV0pYcVA3S05GMlZLRnpyYzk5LTlOenFMd25pUWVWZFctbEZERnBQbHJFdjVOczh1Sk1uLTNaOTc3SEZxTENrUHpzbTFSeldoellNWWM1ZDhfNWJrTWRfNWJSQ011Zy1aSUNfM09iZElB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T23:13:19-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Congreso Diputados Senado"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "2e43e2509d",
    "titulo": "En medio de la caída en recesión de Argentina, Milei anunció su nuevo libro: \"La moral como política de Estado\"",
    "medio": "Diario Nuevo Día",
@@ -19597,6 +20786,21 @@
     "salud pública hospitales"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "df61e053b2",
+   "titulo": "Acuerdo Ecuador-FMI: las claves del nuevo respaldo financiero por US$1.080 millones",
+   "medio": "Noticias de Bariloche",
+   "dominio": "noticiasdebariloche.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWhPbnNMczA4bjYyMExqV29pVUVONEkwLUVIYlBxSmhwQ1l3a1p4TlUyQVc1YzVFMWJlU3VmQVkta1B3V0VqdHllZFFJdl83N240ZWxrS05feXhJa0tpbnRTaTFJXzNWMUFwQXFjdDU5R1JvWFRCcVVKRDh0WGxvT01zS1VBSVdrS01RNWpKbTdhVXFJOVBQRE01WS1GN3lnTFVoUkthcUk3NXpma3JMZGNqUXMwN0Y3RXZaMWJ30gHDAUFVX3lxTE82d3NNN1BmWDRJZWR4UE5UU3BTcmY3NUVkRURYZ0pkaEl5X1l6eUxabzM2Nm5CVUI4U2x3aXFiNUZIalJNNVAxYllySFM0d05QUFhkTjdueG5zSV9jMGptYTVYWHZ1QkhBbzdaNXZoVnZzYjdwRHhRQTM1UkFEY1lxWUFhcmZZZ3RxSHhJZFhkVDZoZUlHUGRUZWZ0ajJ6QUQtMGhwZFV5ODZIVG5XTXZkRVJ3bHJPSlk0TXJwcGU1UExYWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T22:51:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "FMI Argentina"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "0fe5933cca",
@@ -21852,6 +23056,21 @@
    "visto": "2026-11-25T21:24:52-03:00"
   },
   {
+   "id": "d873482f90",
+   "titulo": "Suplemento Estadístico de la Revista Económica, n. 20 (mar. 1939)",
+   "medio": "BCRA",
+   "dominio": "bibliotecadigital.bcra.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTEpxSXE3MW90ZnFreGhWTGZWbEctVDM2dmJ0X0RWZjZiR3MxS0d1OWZwamdKczl4bHpKcjRGUm51WHFnLVU5NlZ0aWVnSDZNTGo4WG5CRV9PbmJYem15LXNWeGFFMXBjWmVyb3VSTGlWOFNBX2oxeWZZUzZwRG4xR2Vhc3lSdlFPZnVtbmEwckxRLV9fcVhTT3N4cG95SlYz?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-22T21:25:39-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "site:bcra.gob.ar"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
+  },
+  {
    "id": "4e3150fe47",
    "titulo": "Circular C [Circulares de Cambios] / Banco Central de la República Argentina.",
    "medio": "BCRA",
@@ -22570,6 +23789,21 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "10bbd05be1",
+   "titulo": "OpenAI - Para entender el poder",
+   "medio": "Letra P",
+   "dominio": "letrap.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBySnNtOVd5NXVtZXZ1TGxPN1dOaDVUTFoyZTVLeE9sY1F0QUlWYi10Wm5RU2J0ZkZTR2RPQzNzOElBcmt5RFpLU283RU1Ta3c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-21T10:09:27-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:letrap.com.ar"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "747a8df5e4",
@@ -25365,6 +26599,21 @@
     "site:senado.gob.ar"
    ],
    "visto": "2026-11-25T21:24:52-03:00"
+  },
+  {
+   "id": "ad5017a84f",
+   "titulo": "CONGRESO NACIONAL CÁMARA DE SENADORES SESIONES ORDINARIAS DE 2026 ORDEN DEL DÍA Nº 430 18 de noviembre de 2026 SUMARIO COMISI",
+   "medio": "Congreso (Senado)",
+   "dominio": "senado.gob.ar",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yYk52Z2FrM1EyTWRZVTBGWXlCR0k3S2NhZG5zT1ViSzI5RzlXNXE1VFk0dklMTEtqNjdqLVlDbGN4RTNkR29BNU5Bblg0SjI3WmFEcUpjTEZhQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-19T01:56:17-03:00",
+   "fuente_tipo": "oficial",
+   "lista_seria": true,
+   "busquedas": [
+    "site:senado.gob.ar"
+   ],
+   "visto": "2026-11-25T21:50:15-03:00"
   },
   {
    "id": "0dcf31c892",

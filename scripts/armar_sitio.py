@@ -16,14 +16,14 @@ DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "doming
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 
 CSS = r"""
-/* Layout: estética minimalista de los documentos internos de Soda (Estructura de roles).
+/* Layout: estética minimalista de los documentos internos de Soda (Estructura de roles), sobre fondo negro mica.
    Fondo blanco, wordmark "soda." en celeste con punto naranja, título en mayúsculas con filete celeste,
    secciones como paneles gris claro con franja de color a la izquierda y chip de área, fichas blancas con borde fino y etiquetas grises. */
-:root{--brand:#0A7DC8;--naranja:#E65019;--rojo:#D8230B;--amarilloT:#B7791F;--verde:#2F855A;--violeta:#7B3FB8;
---bg:#ffffff;--panel:#F7F9FB;--surface:#ffffff;--fg:#1E2A36;--muted:#5F6B78;--line:#DDE3EA;--tag:#EEF2F6;--accent:#0A7DC8;--soft:#F1F7FC;
---azulbg:#E3F0FB;--naranjabg:#FDEBDD;--amarillobg:#FDF3D8;--violetabg:#F3EAFB;
---ok:#2F855A;--mid:#9A6700;--warn:#C2410C;--bad:#D8230B;--okbg:#E6F4EC;--midbg:#FDF3D8;--warnbg:#FDEBDD;--badbg:#FBE4E1;
---display:'Noto Sans',system-ui,sans-serif;--body:'Noto Sans',system-ui,sans-serif;color-scheme:light}
+:root{--brand:#1A8FE0;--naranja:#F26A35;--rojo:#FF4A33;--amarilloT:#F9B233;--verde:#4CC38A;--violeta:#B48CF2;
+--bg:#0E0F11;--panel:#16181B;--surface:#1C1F23;--fg:#ECEEF0;--muted:#9BA3AB;--line:#2B2F35;--tag:#24282D;--accent:#4DAEF0;--soft:#16222E;
+--azulbg:#12283B;--naranjabg:#3A2116;--amarillobg:#352B12;--violetabg:#2A2140;
+--ok:#4CC38A;--mid:#F2C14E;--warn:#F28A55;--bad:#FF5A45;--okbg:#14291E;--midbg:#352B12;--warnbg:#3A2116;--badbg:#3D1A16;
+--display:'Noto Sans',system-ui,sans-serif;--body:'Noto Sans',system-ui,sans-serif;color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--body);margin:0}
 .band-in,main{max-width:900px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}

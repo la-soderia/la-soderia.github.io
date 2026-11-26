@@ -123,6 +123,13 @@ def tema(t):
 
 
 def seccion_edicion(ed):
+    aviso = ""
+    if ed.get("tipo") == "hipotetica":
+        aviso = '<section><p class="aviso"><b>Edición hipotética.</b> ' + e(ed.get("nota") or "Es una prueba: la oficial sale a las 11 h.") + '</p></section>\n'
+    return aviso + _seccion_edicion(ed)
+
+
+def _seccion_edicion(ed):
     claves = "".join(
         f'<li><p>{e(c.get("texto"))}</p><p class="cf">' + " · ".join(link(f.get("url"), e(f.get("medio"))) for f in c.get("fuentes") or []) + "</p></li>"
         for c in ed.get("claves") or [])

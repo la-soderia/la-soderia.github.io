@@ -269,7 +269,8 @@ def auto_periodistas(excluir, crudo_notas):
             continue
         ns = [n for n in crudo_notas if p["nombre"] in (n.get("periodistas") or []) and (n.get("fecha") or "") >= lim]
         ns.sort(key=lambda n: n["fecha"], reverse=True)
-        out.append({"nombre": p["nombre"], "rol": p.get("rol", ""), "notas": ns[:5]})
+        if ns:  # los que no publicaron en 48 h no aparecen
+            out.append({"nombre": p["nombre"], "rol": p.get("rol", ""), "notas": ns[:5]})
     return out
 
 

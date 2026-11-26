@@ -1,28 +1,22 @@
-# Criterio Soda: cómo son los carruseles
+# Criterio Soda para recomendar carruseles
 
-Este archivo se arma a partir de los carruseles que J publica y se actualiza cada vez que J comparte uno nuevo.
-La curaduría lo usa para escribir la `idea_carrusel` de cada tema. **El carrusel lo redacta J.**
+Este archivo guía la `idea_carrusel` de cada edición. **El carrusel lo redacta J**; el motor solo recomienda un enfoque y un borrador de placas. Se actualiza cada vez que J comparte carruseles nuevos o corrige el criterio.
 
-## Referencia 1: "Secreto militar del Gobierno" (octubre de 2026)
-Original en `criterio/2026-10-carrusel-secreto-militar.pdf`, en la carpeta del proyecto.
+## Formato de los carruseles de Soda
+Los carruseles combinan placas de texto con **archivos audiovisuales o fotografías** (videos de declaraciones, capturas de documentos oficiales, fotos de la marcha, etcétera). **Nunca llevan gráficos.**
 
-**Estructura:**
-1. **Gancho por contraste:** "¿Te enteraste que se murió X? **Seguro que sí.** Pero seguro no te enteraste que un día antes el Gobierno hizo Y". El gancho usa lo que todo el mundo vio para mostrar lo que pasó de largo.
-2. **El dato duro y su origen:** qué se hizo y con qué herramienta. Ahí entra el contexto histórico: un decreto de 1963, firmado durante el gobierno de facto de Guido.
-3. **Preguntas al lector:** "¿Hicieron público cuánto nos va a costar…?" Las pregunta en segunda persona e incluye al lector ("nuestra plata", "nos").
-4. **Antecedentes en viñetas:** "No es la primera vez", con bullets cortos.
-5. **Gráfico propio con datos de medios** (firma `/dicenlosmedios`): cuántas veces apareció cada tema en los títulos de la semana. En este caso, Grimau 74 contra "secreto militar" 14.
-6. **Cierre con pregunta:** respeta el otro tema ("merece todos los homenajes") y deja planteada la pregunta de fondo: por qué algo que nos afecta recibe menos atención.
+## Reglas de redacción (pedidas por J)
+- **Precisión en cada mención.** Si se menciona una fiscalía, un juzgado o un organismo, se dice cuál ("la Fiscalía Federal N.° X a cargo de…", "el juzgado federal de Daniel Rafecas"). Si el dato todavía no está en las fuentes, se marca "a chequear cuál" en lugar de dejarlo genérico.
+- **Siglas siempre desarrolladas** la primera vez ("el Consejo Interuniversitario Nacional (CIN)", "el Instituto Nacional de Estadística y Censos (INDEC)").
+- **Personas con nombre completo y cargo** la primera vez ("Javier Milei, presidente de la Nación"; "Luis Caputo, ministro de Economía"; "Axel Kicillof, gobernador de la provincia de Buenos Aires").
+- Escritura directa, afirmativa y fluida; nada de contrastes del tipo "no es X, sino Y"; sin dos puntos dentro de los textos; oraciones conectadas, con punto y coma cuando unen ideas de la misma explicación; sin cierres que repitan lo ya dicho.
+- No usar ganchos de fórmula como "¿Viste…? Seguro que sí".
 
-**Lenguaje:** segunda persona, cercano, rioplatense, con preguntas y negritas en la frase clave. No es militante: el planteo surge de los datos. Una idea por placa.
+## Cómo escribir la `idea_carrusel`
+Para los 2 o 3 temas con más potencial, un objeto con
+- `enfoque`, que en una o dos oraciones explica qué se cuenta y por qué le importa al público de Soda.
+- `placas`, con 3 a 6 textos de placa ya redactados con estas reglas, una idea por placa.
+- `audiovisual`, que indica qué videos, fotografías o capturas acompañan cada placa y de dónde salen (la declaración original, la página del Boletín Oficial, la foto de la marcha, el informe en el sitio del Senado).
+- `a_chequear`, con lo que J tiene que confirmar antes de publicar (qué fiscalía, la cifra exacta, el horario).
 
-**Material:** placas de texto + gráfico propio + archivos audiovisuales (videos o capturas de las coberturas).
-
-## Cómo escribir la `idea_carrusel` en cada edición
-Para cada tema con potencial, proponer:
-- `gancho`: la primera placa con el registro de Soda. Si sirve, usar el contraste con lo que todo el mundo está mirando.
-- `placas`: 3 a 5 líneas, una idea por placa: dato, contexto o antecedente, pregunta.
-- `grafico`: una propuesta concreta con números reales del rastrillo (ver `scripts/menciones.py`), por ejemplo menciones en títulos de la semana de A contra B. **Solo números que salgan de los datos**, con fecha y cantidad de medios.
-- `audiovisual`: qué videos, capturas o documentos sumar (la declaración original, la página del Boletín Oficial, un clip de la cobertura).
-- `cierre`: la pregunta final.
-Todo lo que se afirme en la idea tiene que estar 🟢 o marcado como "a chequear".
+Todo lo que se afirme en la idea tiene que estar 🟢 o figurar en `a_chequear`.

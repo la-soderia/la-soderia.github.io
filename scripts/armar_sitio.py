@@ -89,13 +89,19 @@ def idea(i):
     if isinstance(i, str):
         return f'<p class="idea"><span class="lbl">Idea de carrusel</span> {e(i)}</p>'
     partes = []
-    if i.get("gancho"):
-        partes.append(f'<p><b>Gancho:</b> {e(i["gancho"])}</p>')
-    if i.get("placas"):
-        partes.append("<div><b>Placas:</b><ol>" + "".join(f"<li>{e(p)}</li>" for p in i["placas"]) + "</ol></div>")
-    for k, lab in (("grafico", "Gráfico"), ("audiovisual", "Audiovisual"), ("cierre", "Cierre")):
+    for k, lab in (("enfoque", "Enfoque"), ("gancho", "Gancho")):
         if i.get(k):
-            partes.append(f'<p><b>{lab}:</b> {e(i[k])}</p>')
+            partes.append(f'<p><b>{lab}.</b> {e(i[k])}</p>')
+    if i.get("placas"):
+        partes.append("<div><b>Placas</b><ol>" + "".join(f"<li>{e(p)}</li>" for p in i["placas"]) + "</ol></div>")
+    if i.get("audiovisual"):
+        av = i["audiovisual"]
+        av = "".join(f"<li>{e(x)}</li>" for x in av) if isinstance(av, list) else f"<li>{e(av)}</li>"
+        partes.append(f"<div><b>Audiovisual y fotos</b><ul>{av}</ul></div>")
+    if i.get("a_chequear"):
+        ac = i["a_chequear"]
+        ac = "".join(f"<li>{e(x)}</li>" for x in ac) if isinstance(ac, list) else f"<li>{e(ac)}</li>"
+        partes.append(f"<div><b>A chequear antes de publicar</b><ul>{ac}</ul></div>")
     return f'<div class="idea ideaobj"><span class="lbl">Idea de carrusel</span>{"".join(partes)}</div>'
 
 

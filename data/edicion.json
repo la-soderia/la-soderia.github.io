@@ -1,10 +1,33 @@
 {
- "id": "2026-11-25-23",
+ "id": "2026-11-26-11",
  "tipo": "curada",
- "generado": "2026-11-25T23:50-03:00",
+ "generado": "2026-11-26T11:07-03:00",
  "claves": [
   {
-   "texto": "Los docentes universitarios marchan al Congreso este jueves 26 de noviembre contra el Presupuesto 2027 y por la Ley de Financiamiento Universitario.",
+   "texto": "El Senado de la Nación trata hoy la suspensión de las PASO y la ley de ludopatía, y Diputados el Presupuesto 2027 y la reforma del Banco Central.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "Antes de la sesión en el Senado, Diego Santilli afirmó que el oficialismo tiene los votos para suspender las PASO",
+     "url": "https://www.infobae.com/politica/2026/11/26/antes-de-la-sesion-en-el-senado-diego-santilli-afirmo-que-el-oficialismo-tiene-los-votos-para-suspender-las-paso/",
+     "fecha": "2026-11-26T08:56:30-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Santilli aseguró que el oficialismo supera los 37 votos para suspender las PASO en el Senado",
+     "url": "https://www.perfil.com/politica/santilli-aseguro-que-el-oficialismo-supera-los-37-votos-para-suspender-las-paso-en-el-senado-aQn7O7F6rJsi",
+     "fecha": "2026-11-26T09:44:45-03:00"
+    },
+    {
+     "medio": "Clarín",
+     "titulo": "Diputados hoy, EN VIVO: el oficialismo busca aprobar el Presupuesto 2027 y la reforma del BCRA",
+     "url": "https://www.clarin.com/politica/diputados-hoy-vivo-oficialismo-busca-aprobar-presupuesto-2027-reforma-bcra_0_RVGfeFcbW9.html",
+     "fecha": "2026-11-26T08:41:06-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "Los docentes universitarios marchan al Congreso contra el Presupuesto 2027 y por la Ley de Financiamiento Universitario.",
    "fuentes": [
     {
      "medio": "elDiarioAR",
@@ -21,7 +44,24 @@
    ]
   },
   {
-   "texto": "La economía registra dos trimestres seguidos de caída; Luis Caputo, ministro de Economía de la Nación, dice que la definición de recesión técnica es arbitraria.",
+   "texto": "La CGT marcha por la crisis de las obras sociales sindicales.",
+   "fuentes": [
+    {
+     "medio": "Perfil",
+     "titulo": "La CGT marcha este jueves por la crisis de las obras sociales",
+     "url": "https://www.perfil.com/politica/la-cgt-marcha-este-jueves-por-la-crisis-de-las-obras-sociales-a11I95Z6MBW4",
+     "fecha": "2026-11-26T08:50:59-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "La CGT se moviliza por el desfinanciamiento y la crisis financiera de las obras sociales sindicales",
+     "url": "https://www.eldiarioar.com/politica/cgt-moviliza-desfinanciamiento-crisis-financiera-obras-sociales-sindicales_1_13695441.html",
+     "fecha": "2026-11-26T09:05:59-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "La economía registra dos trimestres seguidos de caída y las ventas en supermercados bajaron 3% interanual en septiembre.",
    "fuentes": [
     {
      "medio": "Ámbito",
@@ -34,23 +74,12 @@
      "titulo": "La economía argentina entró en recesión técnica tras dos trimestres consecutivos en retroceso productivo",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0p3VFIxV3lYanZNOHlLeXJfVkgxM0puVDM2eWhoOTVUWnNja3B3UjNzcjVBQUdNYmJJbl9kMWtBT293ZEFfbDczVTFqbFVKNkhGX2pQUTh3VHpjNkZPWVNRbzY0N0pOYnZWVW4zNVJYdVlYUFhlbEZPWVpBQV92Q1dhTG5DNEdROVFfUE1YU1lBOWtQU1d3RVhiZ2hoaGJRVXdPZi1fQ2IyRVdjak5wRkhQbXI5X2FkeTNnQlg3amM4X1NYbHYwWE9UbW9oalZaN3NaVi1FV3F1LTFu?oc=5",
      "fecha": "2026-11-25T14:44:54-03:00"
-    }
-   ]
-  },
-  {
-   "texto": "El Senado de la Nación avanza con la ley contra la ludopatía y las apuestas online.",
-   "fuentes": [
-    {
-     "medio": "Perfil",
-     "titulo": "Comienza el debate de la ley contra la ludopatía en el Senado",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjJmV0lVbjFmS3AxM0lTbV84b3dDUVFuYi1QN2dZUnM4ZHd6djdSclduTWNOV1Nrak9jSGRveGloXzJBcjUtaWpIbEk1MjhhN2N2c0ZLeHdRTThIaUpZc1RidjYzc2g3RUttaXBFS1hsSmVoUHZ0ejlwUE5zYldaYWFXTDlxajE3RmpSTEVwRGY4SEVZejdydHZLVEFUQUhpSmx5WWx6NEVpQQ?oc=5",
-     "fecha": "2026-11-25T10:32:14-03:00"
     },
     {
-     "medio": "Página/12",
-     "titulo": "Ludopatía: el Senado acordó avanzar con la ley y Bullrich busca sumar cambios",
-     "url": "https://www.pagina12.com.ar/2026/11/25/ludopatia-el-senado-acordo-avanzar-con-la-ley-y-bullrich-busca-sumar-cambios/",
-     "fecha": "2026-11-25T15:44:53-03:00"
+     "medio": "El Cronista",
+     "titulo": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída",
+     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
+     "fecha": "2026-11-25T16:08:29-03:00"
     }
    ]
   },
@@ -68,23 +97,6 @@
      "titulo": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
      "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
      "fecha": "2026-11-25T20:29:45-03:00"
-    }
-   ]
-  },
-  {
-   "texto": "Las ventas en supermercados cayeron 3% interanual en septiembre.",
-   "fuentes": [
-    {
-     "medio": "El Cronista",
-     "titulo": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída",
-     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
-     "fecha": "2026-11-25T16:08:29-03:00"
-    },
-    {
-     "medio": "Clarín",
-     "titulo": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VMWlZyVUpzRnhYVkZ4TXhJNkt4WFpubE83NDdFLWZKZ2J3ZjVxLWNvVXlUQnRTdWdoZm1IWURYa2xjT19rX0VKR1FVQWFSbENfQTZxY3VSNnRIUUlWd2tRZmZuWDd3U05XMkpXQ3B5Q3ZadExPZF8xNEJkMks5Y0ZQcjZMdWZzNUdfOFpQelhXOFlpLWFfRzg2UUpsRTI5ZXJ4aVZ3NnhQQkxNQmZWYmtsbnh5c282WlZHSmhxWHJ4dw?oc=5",
-     "fecha": "2026-11-25T17:26:00-03:00"
     }
    ]
   }
@@ -152,7 +164,7 @@
    ],
    "alertas": [
     "Falta confirmar el horario y el recorrido de la marcha del jueves 26 de noviembre y qué universidades adhieren; los títulos hablan de paros de 24 y de 48 horas de acuerdo con cada casa de estudios.",
-    "El dictamen de Rodrigo Cuesta es una opinión fiscal y no una sentencia; falta la resolución de la Sala III de la Cámara en lo Contencioso Administrativo Federal."
+    "El dictamen de Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal, es una opinión fiscal y no una sentencia; falta la resolución de la Sala III de esa Cámara."
    ],
    "idea_carrusel": {
     "formato": "narrativo",
@@ -181,22 +193,34 @@
    "id": "ludopatia-senado",
    "seccion": "Sociedad y cultura",
    "semaforo": "🟢",
-   "titulo": "El Senado avanza con la ley contra la ludopatía y las apuestas online",
-   "resumen": "El Senado de la Nación inició el debate de la ley de prevención de la ludopatía y acordó avanzar con el proyecto; Patricia Bullrich busca sumar cambios al texto. Medios de provincias informan que la sesión para convertirla en ley sería este jueves 26 de noviembre.",
+   "titulo": "El Senado trata hoy la ley contra la ludopatía y las apuestas online",
+   "resumen": "El Senado de la Nación sesiona este jueves 26 de noviembre con la ley de prevención de la ludopatía en el temario, después de que el oficialismo y el peronismo acordaron sancionarla. Los títulos informan que el proyecto se encamina a aprobarse con ese acuerdo.",
    "por_que_importa": "Las apuestas online están al alcance de cualquier celular, y la regulación define qué protección tienen los y las jóvenes que apuestan.",
    "primaria": null,
    "fuentes": [
     {
-     "medio": "Perfil",
-     "titulo": "Comienza el debate de la ley contra la ludopatía en el Senado",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjJmV0lVbjFmS3AxM0lTbV84b3dDUVFuYi1QN2dZUnM4ZHd6djdSclduTWNOV1Nrak9jSGRveGloXzJBcjUtaWpIbEk1MjhhN2N2c0ZLeHdRTThIaUpZc1RidjYzc2g3RUttaXBFS1hsSmVoUHZ0ejlwUE5zYldaYWFXTDlxajE3RmpSTEVwRGY4SEVZejdydHZLVEFUQUhpSmx5WWx6NEVpQQ?oc=5",
-     "fecha": "2026-11-25T10:32:14-03:00"
+     "medio": "Infobae",
+     "titulo": "El Senado se encamina a aprobar este jueves la ley de ludopatía tras cerrar un acuerdo con la oposición",
+     "url": "https://www.infobae.com/politica/2026/11/26/el-senado-se-encamina-a-aprobar-este-jueves-la-ley-de-ludopatia-tras-cerrar-un-acuerdo-con-la-oposicion/",
+     "fecha": "2026-11-26T00:57:10-03:00"
     },
     {
      "medio": "Página/12",
-     "titulo": "Ludopatía: el Senado acordó avanzar con la ley y Bullrich busca sumar cambios",
-     "url": "https://www.pagina12.com.ar/2026/11/25/ludopatia-el-senado-acordo-avanzar-con-la-ley-y-bullrich-busca-sumar-cambios/",
-     "fecha": "2026-11-25T15:44:53-03:00"
+     "titulo": "El peronismo y Bullrich acordaron sancionar la ley de ludopatía",
+     "url": "https://www.pagina12.com.ar/2026/11/26/el-peronismo-y-bullrich-acordaron-sancionar-la-ley-de-ludopatia/",
+     "fecha": "2026-11-25T21:42:05-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "PASO, ludopatía y un temario cargado de acuerdos para la última sesión del Senado",
+     "url": "https://www.cronista.com/economia-politica/paso-ludopatia-y-un-temario-cargado-de-acuerdos-para-la-ultima-sesion-del-senado/",
+     "fecha": "2026-11-26T08:29:39-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "El Senado sesiona con el foco puesto en la suspensión de las PASO y la Ley de Ludopatía",
+     "url": "https://www.eldiarioar.com/politica/senado-sesiona-foco-puesto-suspension-paso-ley-ludopatia_1_13694917.html",
+     "fecha": "2026-11-26T07:33:26-03:00"
     }
    ],
    "otras": [
@@ -214,21 +238,160 @@
     }
    ],
    "alertas": [
-    "Falta confirmar con una fuente seria que la sesión de votación sea este jueves 26 de noviembre; solo lo informan portales fuera de la lista seria.",
-    "Falta el cargo de Patricia Bullrich en el Senado y qué cambios propone, que no figuran en los títulos.",
-    "Portales fuera de la lista seria informan que Victoria Villarruel, vicepresidenta de la Nación, exige aprobar el proyecto sin cambios; no está confirmado por una fuente seria.",
-    "Falta el texto del proyecto para detallar qué regula."
+    "La votación todavía no ocurrió; El Cronista informa que los números están al límite.",
+    "Falta el texto del proyecto para detallar qué regula y qué cambios se incorporaron.",
+    "Falta el cargo de Patricia Bullrich en el Senado, que no figura en los títulos."
+   ]
+  },
+  {
+   "id": "paso-senado",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "El Senado trata la reforma electoral que suspende las PASO en 2027",
+   "resumen": "El Senado de la Nación sesiona este jueves 26 de noviembre con la reforma electoral que suspende las Primarias Abiertas, Simultáneas y Obligatorias (PASO) para 2027 y que también elimina el debate presidencial obligatorio. Diego Santilli, jefe de Gabinete de Ministros de la Nación, afirmó que el oficialismo supera los 37 votos necesarios; si el Senado la aprueba, el proyecto pasa a la Cámara de Diputados de la Nación.",
+   "por_que_importa": "Las PASO definen cómo se eligen las candidaturas de 2027, y eso incluye a quienes votan por primera vez.",
+   "primaria": {
+    "nombre": "Declaración de Diego Santilli antes de la sesión del Senado",
+    "url": null
+   },
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "Antes de la sesión en el Senado, Diego Santilli afirmó que el oficialismo tiene los votos para suspender las PASO",
+     "url": "https://www.infobae.com/politica/2026/11/26/antes-de-la-sesion-en-el-senado-diego-santilli-afirmo-que-el-oficialismo-tiene-los-votos-para-suspender-las-paso/",
+     "fecha": "2026-11-26T08:56:30-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Santilli aseguró que el oficialismo supera los 37 votos para suspender las PASO en el Senado",
+     "url": "https://www.perfil.com/politica/santilli-aseguro-que-el-oficialismo-supera-los-37-votos-para-suspender-las-paso-en-el-senado-aQn7O7F6rJsi",
+     "fecha": "2026-11-26T09:44:45-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "Ni PASO ni debate obligatorio: qué cambiará la reforma electoral que busca la media sanción del Senado",
+     "url": "https://www.cronista.com/economia-politica/ni-paso-ni-debate-obligatorio-que-cambiara-la-reforma-electoral-que-busca-la-media-sancion-del-senado/",
+     "fecha": "2026-11-26T08:49:45-03:00"
+    },
+    {
+     "medio": "Clarín",
+     "titulo": "Con los votos justos, el Senado trata la reforma electoral que suspende las PASO en 2027",
+     "url": "https://www.clarin.com/politica/votos-justos-senado-trata-reforma-electoral-suspende-paso-2027_0_W0juBX2ccL.html",
+     "fecha": "2026-11-25T20:09:58-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Infobae",
+     "titulo": "Reforma electoral: los 8 cambios que incluye el proyecto además de la suspensión de las PASO",
+     "url": "https://www.infobae.com/politica/2026/11/26/reforma-electoral-los-8-cambios-que-incluye-el-proyecto-ademas-de-la-suspension-de-las-paso/",
+     "fecha": "2026-11-26T09:10:16-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "El Senado vuelve a sesionar para aprobar y girar a Diputados la eliminación de las PASO",
+     "url": "https://www.ambito.com/politica/el-senado-vuelve-sesionar-aprobar-y-girar-diputados-la-eliminacion-las-paso-n6349308",
+     "fecha": "2026-11-26T00:00:00-03:00"
+    }
+   ],
+   "alertas": [
+    "La votación todavía no ocurrió; los 37 votos son una declaración de Diego Santilli y no un resultado.",
+    "Ámbito habla de \"eliminación\" de las PASO y el resto de los medios de \"suspensión\" para 2027; hay que leer el texto del proyecto para confirmar el alcance.",
+    "Falta el detalle de los ocho cambios del proyecto, que Infobae enumera y los títulos no permiten verificar."
+   ]
+  },
+  {
+   "id": "presupuesto-diputados",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "Diputados busca aprobar el Presupuesto 2027 y la reforma del Banco Central",
+   "resumen": "La Cámara de Diputados de la Nación sesiona este jueves 26 de noviembre con el Presupuesto 2027 y la reforma de la Carta Orgánica del Banco Central de la República Argentina (BCRA) en el temario; el oficialismo busca aprobarlos sin nuevos cambios. Los títulos señalan puntos del Presupuesto y de la Carta Orgánica que traban la sesión.",
+   "por_que_importa": "El Presupuesto define los fondos para universidades, becas y programas sociales del año próximo.",
+   "primaria": null,
+   "fuentes": [
+    {
+     "medio": "Clarín",
+     "titulo": "Diputados hoy, EN VIVO: el oficialismo busca aprobar el Presupuesto 2027 y la reforma del BCRA",
+     "url": "https://www.clarin.com/politica/diputados-hoy-vivo-oficialismo-busca-aprobar-presupuesto-2027-reforma-bcra_0_RVGfeFcbW9.html",
+     "fecha": "2026-11-26T08:41:06-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "El oficialismo espera aprobar el Presupuesto 2027 y la reforma del BCRA en Diputados",
+     "url": "https://www.eldiarioar.com/politica/oficialismo-espera-aprobar-presupuesto-2027-reforma-bcra-diputados_1_13694881.html",
+     "fecha": "2026-11-26T07:18:57-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "Presupuesto 2027 y Carta Orgánica del BCRA: los puntos centrales que traban la sesión en Diputados",
+     "url": "https://www.cronista.com/economia-politica/presupuesto-2027-y-carta-organica-del-bcra-los-puntos-centrales-que-traban-la-sesion-en-diputados/",
+     "fecha": "2026-11-26T08:52:39-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "El Gobierno busca revancha en Diputados e intentará aprobar el Presupuesto 2027 sin nuevos cambios",
+     "url": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417",
+     "fecha": "2026-11-26T00:00:00-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Perfil",
+     "titulo": "Máxima tensión en el Congreso: Senado debate ludopatía y las PASO, mientras hay dudas por el Presupuesto en Diputados",
+     "url": "https://www.perfil.com/politica/maxima-tension-en-el-congreso-senado-debate-ludopatia-y-las-paso-mientras-hay-dudas-por-el-presupuesto-en-diputados-aB1eY9j8QSHs",
+     "fecha": "2026-11-26T05:30:00-03:00"
+    }
+   ],
+   "alertas": [
+    "La sesión no tiene resultado todavía; Perfil informa dudas sobre los votos.",
+    "Falta el detalle de qué puntos concretos traban la sesión, que El Cronista menciona y los títulos no permiten verificar.",
+    "Falta el texto del proyecto de Presupuesto para citar partidas de educación."
+   ]
+  },
+  {
+   "id": "cgt-obras-sociales",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "La CGT marcha por la crisis de las obras sociales sindicales",
+   "resumen": "La Confederación General del Trabajo (CGT) se moviliza este jueves 26 de noviembre por la crisis financiera de las obras sociales sindicales y exige una respuesta urgente al Gobierno nacional.",
+   "por_que_importa": "Las obras sociales sostienen la cobertura de salud de quienes tienen empleo registrado, incluidos los y las jóvenes que entran al mercado laboral.",
+   "primaria": null,
+   "fuentes": [
+    {
+     "medio": "Perfil",
+     "titulo": "La CGT marcha este jueves por la crisis de las obras sociales",
+     "url": "https://www.perfil.com/politica/la-cgt-marcha-este-jueves-por-la-crisis-de-las-obras-sociales-a11I95Z6MBW4",
+     "fecha": "2026-11-26T08:50:59-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "La CGT se moviliza por el desfinanciamiento y la crisis financiera de las obras sociales sindicales",
+     "url": "https://www.eldiarioar.com/politica/cgt-moviliza-desfinanciamiento-crisis-financiera-obras-sociales-sindicales_1_13695441.html",
+     "fecha": "2026-11-26T09:05:59-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "La CGT marcha por la \"situación crítica\" de las obras sociales y exige al Gobierno una respuesta",
+     "url": "https://www.ambito.com/politica/la-cgt-marcha-la-situacion-critica-las-obras-sociales-y-exige-al-gobierno-una-respuesta-n6349384",
+     "fecha": "2026-11-26T00:45:00-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Sonido Gremial informa que la marcha va a la Superintendencia de Servicios de Salud por una deuda del Gobierno con las obras sociales; ese medio no integra la lista seria y falta confirmar el destino y el monto.",
+    "Radio Gráfica informa un \"cese de tareas\" para diciembre; está sin confirmar por una fuente seria.",
+    "Falta el recorrido, el horario y la cifra de la deuda."
    ]
   },
   {
    "id": "recesion-tecnica",
    "seccion": "Economía",
    "semaforo": "🟢",
-   "titulo": "La economía entró en recesión técnica",
-   "resumen": "El Instituto Nacional de Estadística y Censos (INDEC) registró dos trimestres seguidos de caída de la actividad, lo que técnicamente se define como recesión, aunque en septiembre la actividad subió 1,1% respecto del mes anterior. Luis Caputo, ministro de Economía de la Nación, dijo que la definición de recesión técnica es \"arbitraria\" y que \"ya estamos con dos meses seguidos de crecimiento\".",
+   "titulo": "La economía entró en recesión técnica y las ventas en supermercados cayeron 3%",
+   "resumen": "El Instituto Nacional de Estadística y Censos (INDEC) registró dos trimestres seguidos de caída de la actividad, lo que se define como recesión técnica, aunque en septiembre la actividad subió 1,1% respecto de agosto. Las ventas en supermercados cayeron 3% interanual en septiembre. Luis Caputo, ministro de Economía de la Nación, dijo que \"ya estamos con dos meses seguidos de crecimiento\".",
    "por_que_importa": "Menos actividad suele traducirse en menos changas, menos primer empleo y salarios que rinden menos.",
    "primaria": {
-    "nombre": "INDEC (citado por Ámbito y Página/12)",
+    "nombre": "INDEC · Encuesta de supermercados. Septiembre de 2026",
     "url": null
    },
    "fuentes": [
@@ -245,10 +408,22 @@
      "fecha": "2026-11-25T14:44:54-03:00"
     },
     {
+     "medio": "Infobae",
+     "titulo": "Caputo relativizó la recesión técnica: “Es historia pasada, ya estamos con dos meses seguidos de crecimiento”",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZkVxVUlJdGRzLXVoOHE0Uzk3SzdORVRtYWFXcHlGTVJ3TkRycWJYc1YzUE0taV80cHJwb1otM21CU0VfY3M0T25QUUVoNWVrNkU3bHdDQjlNcktJRkRUZXRrWjdmVTdpR0FCc0FLSWlXSGRqb29iX2hPbEN5cl9UTWhLZTFVR2FLWC1mLU1PbjVuaVhXZXZkYlZ2VWdVN1NPQ1pyc3BVTFFwc3czTndUS2NqMERzbXdFU0V2THVKQjFSbm9LSElCRXdMNUhQMEI5OFFkQzQ4UmRDYUI1b2pBSW5BR0_SAf8BQVVfeXFMTTRndlZFTGVsckN0T3pzZkpvSFdLemg5d2E3SHNQSVJJOThCYk8xQXE5RlNjdzE5UkZ2V0JQNTB3RW1OY29DZVdVOWVUaUVMUlFCV1hvM25BZWw3dnJRSkdYZWR5c0hWSUhBMG9Cb1NDbmxMMmlON2FDanNmSVVHVk9fNjE3cFl6VnVyd0RmRk1UYzZzM1lIZ3IyNWcxWXdmamRldFJ5Y0E0RkdCUnJaY0VmblVMOW1XTF91X29qa0k3R09peFRldmYwbWFFR1dQc2tlMm5zN3kzSUhCeWVrN0d0WVVvRVd3bTVtZExpQjF2T3R1SXNLMU1DRzUxaXNZ?oc=5",
+     "fecha": "2026-11-25T16:51:19-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída",
+     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
+     "fecha": "2026-11-25T16:08:29-03:00"
+    },
+    {
      "medio": "Clarín",
-     "titulo": "Luis Caputo relativizó que Argentina haya entrado en recesión: \"Es una definición arbitraria\"",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGZkdG5tclVxR1RBRTlkMGZZYno3b1U4MFI1UUJMZTNaSFMzVi1QSlBYTFJaNlMtckhiR0NmNFduRzJJWjVXaHlXNENGQXBoZnNYeGNjMmtkcDYzeVhEd2RqSDBaSHZ5Z2NsU3FMd3BOdU5OcktVdjVWaWdoV3NRVDZSWTZoTnlZWV9WZnQxUEpNWnItY3N3SjcwRFFGSGxWUURtMWZ6RjY3eXV4bE45S09UTEhQVm9MVWVkSU9n?oc=5",
-     "fecha": "2026-11-25T09:04:58-03:00"
+     "titulo": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VMWlZyVUpzRnhYVkZ4TXhJNkt4WFpubE83NDdFLWZKZ2J3ZjVxLWNvVXlUQnRTdWdoZm1IWURYa2xjT19rX0VKR1FVQWFSbENfQTZxY3VSNnRIUUlWd2tRZmZuWDd3U05XMkpXQ3B5Q3ZadExPZF8xNEJkMks5Y0ZQcjZMdWZzNUdfOFpQelhXOFlpLWFfRzg2UUpsRTI5ZXJ4aVZ3NnhQQkxNQmZWYmtsbnh5c282WlZHSmhxWHJ4dw?oc=5",
+     "fecha": "2026-11-25T17:26:00-03:00"
     }
    ],
    "otras": [
@@ -257,8 +432,9 @@
     "Radio Profesional 89.9"
    ],
    "alertas": [
-    "Falta el link directo al informe del INDEC para citar el dato exacto de caída trimestral.",
-    "Los títulos mezclan la caída trimestral con la suba mensual de septiembre (1,1%); no confundir ambos datos."
+    "DISCREPANCIA DE CIFRAS: El Cronista y Clarín hablan de nueve meses de caída de las ventas en supermercados; Ámbito, de un cuarto mes seguido de caída con 2,9% acumulado. Hay que verificarlo en la Encuesta de Supermercados del INDEC.",
+    "Los títulos mezclan la caída trimestral con la suba mensual de septiembre (1,1%) y con el 3% interanual de supermercados; son datos distintos.",
+    "Falta el link directo al informe del INDEC."
    ],
    "idea_carrusel": {
     "formato": "satírico de lista",
@@ -283,11 +459,100 @@
    }
   },
   {
+   "id": "opus-dei-rafecas",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "El juez Rafecas cita a indagatoria al número dos del Opus Dei por presunta trata de personas",
+   "resumen": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei en la Argentina y a otros dos sacerdotes por presunta trata de mujeres y reducción a la servidumbre.",
+   "por_que_importa": "Es una causa judicial por explotación laboral y trata de mujeres que involucra a una institución religiosa con peso en la educación y la vida social del país.",
+   "primaria": null,
+   "fuentes": [
+    {
+     "medio": "elDiarioAR",
+     "titulo": "La Justicia argentina cita a indagatoria al número dos del Opus Dei por trata de mujeres y reducción a la servidumbre",
+     "url": "https://www.eldiarioar.com/sociedad/justicia-argentina-cita-indagatoria-numero-opus-dei-trata-mujeres-reduccion-servidumbre_1_13693832.html",
+     "fecha": "2026-11-25T15:52:33-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
+     "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
+     "fecha": "2026-11-25T20:29:45-03:00"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "Acusación: el juez Rafecas citó a indagatoria al número dos del Opus Dei por presunta trata de personas",
+     "url": "https://www.lanacion.com.ar/sociedad/acusacion-el-juez-rafecas-cito-a-declarar-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas-nid25112026/",
+     "fecha": "2026-11-25T22:21:06-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei y a otros dos sacerdotes por presunta trata de personas",
+     "url": "https://www.perfil.com/sociedad/el-juez-daniel-rafecas-cito-a-indagatoria-al-numero-dos-del-opus-dei-y-a-otros-dos-sacerdotes-por-presunta-trata-de-personas-aKhET8H9dvMO",
+     "fecha": "2026-11-26T07:44:05-03:00"
+    }
+   ],
+   "alertas": [
+    "Faltan el nombre y el cargo exacto de las tres personas citadas, el juzgado y la fecha de la indagatoria; no figuran en los títulos y los sitios de las notas completas no estaban accesibles.",
+    "Una citación a indagatoria no implica condena y las personas citadas tienen derecho a defensa. Falta la respuesta del Opus Dei."
+   ],
+   "otras": [
+    {
+     "medio": "Página/12",
+     "titulo": "Citan a declaración indagatoria a tres miembros del Opus Dei",
+     "url": "https://www.pagina12.com.ar/2026/11/26/citan-a-declaracion-indagatoria-a-tres-miembros-del-opus-dei/",
+     "fecha": "2026-11-25T21:22:11-03:00"
+    }
+   ]
+  },
+  {
+   "id": "rigi-argentina-lng",
+   "seccion": "Economía",
+   "semaforo": "🟢",
+   "titulo": "El Gobierno aprobó el ingreso de Argentina LNG al RIGI, la inversión más grande del régimen",
+   "resumen": "El Gobierno nacional aprobó el ingreso de Argentina LNG al Régimen de Incentivo para Grandes Inversiones (RIGI) con una inversión de US$ 50.750 millones, la más grande del régimen. Diario Río Negro ubica el proyecto en Vaca Muerta y el Golfo San Matías.",
+   "por_que_importa": "Es la mayor inversión anunciada del régimen y su impacto en empleo y exportaciones define oportunidades laborales para las generaciones jóvenes.",
+   "primaria": null,
+   "fuentes": [
+    {
+     "medio": "Ámbito",
+     "titulo": "El Gobierno aprobó el ingreso al RIGI de Argentina LNG, la inversión más grande del régimen, por u$s50.750 millones",
+     "url": "https://www.ambito.com/energia/el-gobierno-aprobo-el-ingreso-al-rigi-argentina-lng-la-inversion-mas-grande-del-regimen-us50750-millones-n6349475",
+     "fecha": "2026-11-26T07:30:00-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Argentina LNG: luz verde a la mayor inversión de la historia argentina por US$ 50.750 millones",
+     "url": "https://www.perfil.com/economia/argentina-lng-el-gobierno-aprobo-el-mayor-rigi-de-la-historia-por-us-50.750-millones-aVrp17T9SrNe",
+     "fecha": "2026-11-26T07:59:00-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "Oficializan el ingreso de Argentina LNG al RIGI, con una inversión histórica de u$s 50.750 millones",
+     "url": "https://www.cronista.com/economia-politica/oficializan-el-ingreso-de-argentina-lng-al-rigi-con-una-inversion-historica-de-us-50750-millones/",
+     "fecha": "2026-11-26T09:53:24-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Río Negro",
+     "titulo": "Argentina LNG entró al RIGI: invertirán US$ 50.750 millones en Vaca Muerta y el Golfo San Matías, los detalles",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3ZuOWxEY1FwLTkwMTh6OGdyZ2w4QzB2eHIwWDhZQ04zRmRkTGpnMVYyY1FNb1B6SllrdUQ5alFMaDNDQ0xfb2hlWWRDOFM3MXRkRFZnOUl2ZVcyM3I2MWx4WlJRRVpkMEJQTFlUY0Jhd3pidUxwTkdBUjRZS3ozWG1kbTFzRG44TWtPeDBiYTRhUXU3SWVzTnlEeWUwWXYtSTVta2NYZUp2Nmd2NHR0bVJuekhlczBQYkM3bHB5UGx6TUJnREdNVlFrUzh4VFI4T2FsVFZn0gHeAUFVX3lxTE96OVp2dVlBamM3QTVCb3ZCZEhLbENDX3dhbndUVEYxcUh0WFpwck8wbkZVSGw1T1VGV1RPOXQ4dTVFbGRIanFIeXJFVGdIYXBBUTdGamNiM1ZBQXM4WEV4UXR3cnRPUENIY3ROc3ZIRXRaY3pYTEkxTm54ZXhuWnFadmF1eUc1OVFfRGFPUnBwNzRZUmgwNVRWLTF2aEZIQU5pdk5VS3NfMFdBYXpJTURQWVJkbk4ybDU0WlVobnRKLVZEakptckd6S1BCbjVKY3JHS2VnNklIY25CZG95Zw?oc=5",
+     "fecha": "2026-11-26T09:13:10-03:00"
+    }
+   ],
+   "alertas": [
+    "Falta la resolución o el Boletín Oficial con el texto de la aprobación; El Cronista habla de \"oficialización\".",
+    "Faltan los datos de empleo, plazos y las empresas que integran el proyecto, que no figuran en los títulos.",
+    "El monto de US$ 50.750 millones es la inversión proyectada y no un desembolso confirmado."
+   ]
+  },
+  {
    "id": "terroristas-deportados",
    "seccion": "Política",
    "semaforo": "🟢",
    "titulo": "El Gobierno no registra los \"terroristas\" deportados que mencionó Milei",
-   "resumen": "El informe de gestión que la Jefatura de Gabinete de Ministros presentó ante el Senado de la Nación no registra los miles de \"terroristas\" deportados que había mencionado Javier Milei, presidente de la Nación; según ese informe, hubo 43.568 incidentes y ningún caso de terrorismo. Las expulsiones registradas equivalen apenas al 6% de la cifra que anunció el Presidente.",
+   "resumen": "El informe de gestión de la Jefatura de Gabinete de Ministros ante el Senado de la Nación registra 43.568 incidentes y ningún caso de terrorismo, mientras Javier Milei, presidente de la Nación, había hablado de miles de \"terroristas\" deportados. Las expulsiones registradas equivalen al 6% de la cifra anunciada por el Presidente.",
    "por_que_importa": "Es un caso de dato oficial que contradice lo dicho en un discurso: importa para saber con qué información se discuten migración y seguridad.",
    "primaria": {
     "nombre": "Informe de Jefatura de Gabinete al Senado (citado por La Nación y Ámbito)",
@@ -324,8 +589,8 @@
     "El Argentino Diario"
    ],
    "alertas": [
-    "DISCREPANCIA DE CIFRAS: los medios hablan de 20.000 y de 30.000 \"terroristas\", y de 43.568 incidentes registrados. Hay que leer el informe de Jefatura de Gabinete para confirmar qué cifra dijo exactamente Milei y qué dice el informe.",
-    "Atribuir adjetivos: \"mentiras\" es la lectura de Página/12."
+    "DISCREPANCIA DE CIFRAS: los medios hablan de 20.000 y de 30.000 \"terroristas\". Hay que ver el discurso original y el informe de la Jefatura de Gabinete para confirmar qué cifra dijo Milei.",
+    "Falta el link oficial del informe para citar la página exacta."
    ],
    "idea_carrusel": {
     "formato": "narrativo",
@@ -351,187 +616,64 @@
    }
   },
   {
-   "id": "santilli-informe-senado",
-   "seccion": "Política",
+   "id": "tren-mitre-incendio",
+   "seccion": "Sociedad y cultura",
    "semaforo": "🟢",
-   "titulo": "Santilli presentó su primer informe de gestión en el Senado",
-   "resumen": "Diego Santilli, jefe de Gabinete de Ministros de la Nación, defendió la gestión de Javier Milei ante el Senado de la Nación, dijo que el Presidente \"hoy va por la reelección\", relativizó la recesión y respaldó a Luis Caputo, ministro de Economía.",
-   "por_que_importa": "Es el Gobierno rindiendo cuentas ante el Congreso: lo que se dice ahí marca la agenda económica y electoral.",
-   "primaria": {
-    "nombre": "Declaración de Santilli en el Senado (citada por elDiarioAR y Página/12)",
-    "url": null
-   },
+   "titulo": "Evacuaron a más de 200 pasajeros del tren Mitre por un incendio bajo una formación",
+   "resumen": "Un incendio con chispazos y humo bajo una formación del tren Mitre obligó a evacuar a 219 pasajeros en Colegiales y el Sistema de Atención Médica de Emergencias (SAME) asistió a tres personas. El servicio quedó interrumpido y Perfil informa que algunos ramales lo reanudaron.",
+   "por_que_importa": "Es el tren que usan todos los días quienes viajan a estudiar o a trabajar, y el hecho muestra el estado del servicio.",
+   "primaria": null,
    "fuentes": [
     {
-     "medio": "elDiarioAR",
-     "titulo": "Santilli defendió la gestión de Milei en el Senado y aseguró que el Presidente \"hoy va por la reelección\"",
-     "url": "https://www.eldiarioar.com/politica/santilli-defendio-gestion-milei-senado-aseguro-presidente-hoy-reeleccion_1_13694089.html",
-     "fecha": "2026-11-25T17:17:58-03:00"
+     "medio": "Perfil",
+     "titulo": "Pánico en el tren Mitre: evacuaron 219 pasajeros por un incendio en una formación",
+     "url": "https://www.perfil.com/sociedad/panico-en-el-tren-mitre-evacuaron-219-pasajeros-por-un-incendio-en-una-formacion-ajdP39s5LI9F",
+     "fecha": "2026-11-26T07:57:27-03:00"
     },
     {
-     "medio": "Página/12",
-     "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
-     "url": "https://www.pagina12.com.ar/2026/11/25/santilli-fue-al-senado-a-defender-a-milei-relativizo-la-recesion-y-ya-habla-de-reeleccion/",
-     "fecha": "2026-11-25T17:17:21-03:00"
+     "medio": "Infobae",
+     "titulo": "No funciona el Tren Mitre: evacuaron a más de 200 pasajeros luego de un incendio debajo de una formación",
+     "url": "https://www.infobae.com/sociedad/2026/11/26/no-funciona-el-tren-mitre-una-formacion-quedo-detenida-entre-humo-y-chispazos/",
+     "fecha": "2026-11-26T08:15:48-03:00"
     },
     {
      "medio": "Ámbito",
-     "titulo": "Santilli brinda su informe de gestión y defiende el rumbo en una semana clave: \"Milei está cambiando el país para siempre\"",
-     "url": "https://www.ambito.com/politica/diego-santilli-debuta-su-informe-gestion-el-senado-y-defiende-el-rumbo-una-semana-clave-n6349044",
-     "fecha": "2026-11-25T15:22:00-03:00"
-    }
-   ],
-   "otras": [
-    "Letra P"
-   ],
-   "alertas": [
-    "Atribuir: \"cambia el país para siempre\" y \"va por la reelección\" son declaraciones de Santilli, no hechos."
-   ]
-  },
-  {
-   "id": "consumo-supermercados",
-   "seccion": "Economía",
-   "semaforo": "🟢",
-   "titulo": "Las ventas en supermercados cayeron 3% anual en septiembre",
-   "resumen": "Las ventas en supermercados cayeron 3% interanual en septiembre, de acuerdo con la Encuesta de Supermercados del INDEC, y el sector acumula meses de baja.",
-   "por_que_importa": "Si se compra menos, el comercio vende menos: se traduce en horas y empleo en rubros donde laburan muchos pibes.",
-   "primaria": {
-    "nombre": "INDEC · Encuesta de supermercados (citada por Cronista y Clarín)",
-    "url": null
-   },
-   "fuentes": [
-    {
-     "medio": "El Cronista",
-     "titulo": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída",
-     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
-     "fecha": "2026-11-25T16:08:29-03:00"
+     "titulo": "Incendio en el tren Mitre: evacuaron a 219 pasajeros y el servicio permanece interrumpido",
+     "url": "https://www.ambito.com/informacion-general/incendio-el-tren-mitre-evacuaron-219-pasajeros-y-el-servicio-permanece-interrumpido-n6349498",
+     "fecha": "2026-11-26T08:49:00-03:00"
     },
     {
      "medio": "Clarín",
-     "titulo": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VMWlZyVUpzRnhYVkZ4TXhJNkt4WFpubE83NDdFLWZKZ2J3ZjVxLWNvVXlUQnRTdWdoZm1IWURYa2xjT19rX0VKR1FVQWFSbENfQTZxY3VSNnRIUUlWd2tRZmZuWDd3U05XMkpXQ3B5Q3ZadExPZF8xNEJkMks5Y0ZQcjZMdWZzNUdfOFpQelhXOFlpLWFfRzg2UUpsRTI5ZXJ4aVZ3NnhQQkxNQmZWYmtsbnh5c282WlZHSmhxWHJ4dw?oc=5",
-     "fecha": "2026-11-25T17:26:00-03:00"
-    },
-    {
-     "medio": "Ámbito",
-     "titulo": "Consumo: las ventas en supermercados cayeron en septiembre por cuarto mes seguido y acumulan una baja del 2,9% en 2026",
-     "url": "https://www.ambito.com/economia/consumo-las-ventas-supermercados-cayeron-septiembre-cuarto-mes-seguido-y-acumulan-una-baja-del-29-2026-n6349311",
-     "fecha": "2026-11-25T18:16:00-03:00"
+     "titulo": "Incendio en un tren de la línea Mitre: evacúan a los pasajeros por chispazos y humo en las vías",
+     "url": "https://www.clarin.com/sociedad/incendio-tren-linea-mitre-evacuan-pasajeros-chispazos-humo-vias_0_3ZI4I3uSDO.html",
+     "fecha": "2026-11-26T07:41:24-03:00"
     }
    ],
    "otras": [
-    "Data eNe"
-   ],
-   "alertas": [
-    "DISCREPANCIA DE CIFRAS: El Cronista y Clarín hablan de nueve meses de caída; Ámbito, de un cuarto mes seguido de caída con una baja de 2,9% acumulada en 2026. Hay que verificarlo en la Encuesta de Supermercados del INDEC.",
-    "El 3% (septiembre, interanual) y el 2,9% (acumulado de 2026) son datos distintos."
-   ]
-  },
-  {
-   "id": "opus-dei-rafecas",
-   "seccion": "Sociedad y cultura",
-   "semaforo": "🟢",
-   "titulo": "El juez Rafecas cita a indagatoria al número dos del Opus Dei por presunta trata de personas",
-   "resumen": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei en la Argentina por presunta trata de mujeres y reducción a la servidumbre.",
-   "por_que_importa": "Es una causa judicial por explotación laboral y trata de mujeres que involucra a una institución religiosa con peso en la educación y la vida social del país.",
-   "primaria": null,
-   "fuentes": [
-    {
-     "medio": "elDiarioAR",
-     "titulo": "La Justicia argentina cita a indagatoria al número dos del Opus Dei por trata de mujeres y reducción a la servidumbre",
-     "url": "https://www.eldiarioar.com/sociedad/justicia-argentina-cita-indagatoria-numero-opus-dei-trata-mujeres-reduccion-servidumbre_1_13693832.html",
-     "fecha": "2026-11-25T15:52:33-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
-     "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
-     "fecha": "2026-11-25T20:29:45-03:00"
-    },
     {
      "medio": "La Nación",
-     "titulo": "Acusación: el juez Rafecas citó a indagatoria al número dos del Opus Dei por presunta trata de personas",
-     "url": "https://www.lanacion.com.ar/sociedad/acusacion-el-juez-rafecas-cito-a-declarar-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas-nid25112026/",
-     "fecha": "2026-11-25T22:21:06-03:00"
+     "titulo": "El servicio del tren Mitre está interrumpido por un problema eléctrico",
+     "url": "https://www.lanacion.com.ar/sociedad/el-servicio-del-tren-mitre-esta-interrumpido-por-un-problema-electrico-nid26112026/",
+     "fecha": "2026-11-26T08:06:58-03:00"
+    },
+    {
+     "medio": "Página/12",
+     "titulo": "Susto en el tren Mitre: evacuaron a pasajeros por chispazos y humo en las vías",
+     "url": "https://www.pagina12.com.ar/2026/11/26/susto-en-el-tren-mitre-evacuaron-a-pasajeros-por-chispazos-y-humo-en-las-vias/",
+     "fecha": "2026-11-26T07:37:08-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Así fue el relato de los pasajeros del tren Mitre que rompieron las puertas para salir tras el incendio en Colegiales",
+     "url": "https://www.perfil.com/sociedad/asi-fue-el-relato-de-los-pasajeros-del-tren-mitre-que-rompieron-las-puertas-para-salir-tras-el-incendio-en-colegiales-aJ0BK6I05Wv2",
+     "fecha": "2026-11-26T10:42:38-03:00"
     }
    ],
    "alertas": [
-    "Falta el nombre y el cargo exacto de la persona citada, la fecha de la indagatoria y el juzgado a cargo; no figuran en los títulos y no se pudo leer la nota completa.",
-    "Una citación a indagatoria no implica condena; la persona citada tiene derecho a defensa. Falta la respuesta del Opus Dei."
+    "DISCREPANCIA DE CIFRAS: Perfil, Ámbito y Cronista hablan de 219 pasajeros, Infobae de \"más de 200\" y un título de Perfil de 220.",
+    "La causa no está confirmada; La Nación habla de un problema eléctrico y el resto de chispazos y humo.",
+    "Falta el comunicado de la empresa operadora y de la Secretaría de Transporte."
    ]
-  },
-  {
-   "id": "viajes-milei",
-   "seccion": "Política",
-   "semaforo": "🟡",
-   "titulo": "Cuánto gastó Milei en viajes al exterior",
-   "resumen": "El gasto de Javier Milei, presidente de la Nación, en viajes al exterior durante 2026 supera los $4.000 millones en 17 viajes; la cifra tiene una sola fuente seria y otro cálculo da $2.737 millones entre abril y octubre.",
-   "por_que_importa": "Es plata pública: saber cuánto cuesta cada viaje permite discutir prioridades.",
-   "primaria": null,
-   "fuentes": [
-    {
-     "medio": "Letra P",
-     "titulo": "Javier Milei gastó más de 4 mil millones de pesos en 17 viajes al exterior durante 2026",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUNXT05hUXRjSHk3V0NkYk55U2ZVRFoxMlZIeVlSaU9VcFRtUEVIZHBsOVYzRFBmT2VyUlIxNUtoanpaSVJMLVZteHRiUUl0SWZWQXdlS1JRQ3prZHlDSnpSN1pJQkRPV2Q4M3NhZWJXbkk4alJ2NzFJaFhoQVJPX1pXMFhhWmtVYkM3dGJOOFVIaFB5TFlqQ0l6UklhUURfVVJiMzJLTWVRdHdneGRUMWdhRlfSAboBQVVfeXFMT25yVjZPc2JlQ2R5a3cwN01zbFVMbmJTMHdkaXdoMTBtRnZodlJsM0FUV3pUOC1FOEpTVGZabkN2bVAwdHZIYVVpNm1KNUYtV3dWcGdRNE02TGZQcXZjc2d5Q09PQUpxZi11MzM1ZlF6bzFKRkpzU2lJYlM0VEFBTnc4d3Jac29pSkdtLTd2aVRaWkZob0p6ZG1KYUZXNFNMSWJvNkxQYnI0U1hyS1lqYUJTeDh6SlpTSlN3?oc=5",
-     "fecha": "2026-11-25T08:40:00-03:00"
-    },
-    {
-     "medio": "En Boca de Todos HD",
-     "titulo": "Milei gastó $2.737 millones en viajes al exterior entre abril y octubre de 2026",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdFdwekxib1FNekcxbEJLbEZzTFN1VmVMejZMdDBkbVhVSnpITlV0RE9XeW9TV0l2aExlaDhlQnRSdjlpZ3djNlRISU5UNVFkSVJwUjI3QV90R0E4QTFaeFNQUFl5dnF3NjgzT0QtRU5SbDRiR0swNDNUZ0JxdlBlLTFZVEpnaEFzNjNfM3RfQ1J4WUh5cTFSV2d5NVpKUE5pRnViUFY2T0kxZlVYUXJ6dHM5dVVZc2RNWnU5Q0RZNnltTTVFUUhaQUFyV0FvOTdzRHNFX2ZpSENLM1pXOUhr?oc=5",
-     "fecha": "2026-11-25T20:34:08-03:00"
-    }
-   ],
-   "otras": [
-    "0264Noticias",
-    "El Zonda"
-   ],
-   "alertas": [
-    "DISCREPANCIA DE CIFRAS: $4.000 millones (17 viajes, todo 2026) vs $2.737 millones (abril a octubre). Los períodos son distintos y falta el origen de los datos.",
-    "Falta la fuente primaria (pedido de informes o documento oficial) que respalde el cálculo."
-   ],
-   "falta": "Origen del dato (pedido de acceso a la información u otro) y una segunda fuente seria."
-  },
-  {
-   "id": "perito-moreno-tierras",
-   "seccion": "Sociedad",
-   "semaforo": "🟡",
-   "titulo": "Polémica por la venta de tierras frente al Perito Moreno",
-   "resumen": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno que había habilitado el gobierno de la provincia de Santa Cruz a un grupo emiratí para construir un hotel, y la Corte Suprema de Justicia de la Nación debe definir el caso.",
-   "por_que_importa": "Es un debate sobre quién se queda con el patrimonio natural.",
-   "primaria": null,
-   "fuentes": [
-    {
-     "medio": "Infobae",
-     "titulo": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno: por qué debe definir la Corte",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUNRZmgzaHYxRmw3aEJyaEtPWmlLMmVYREx3RGk2Z01FVXB5NlZ5X19DMzZ5SXZSUG1RTGNCS0lGbUtRZ2NhVm9hZC1wZmc4dG1pMHk5YTBTTTR2U04xM1paUHFoMkM4Wl80RWJvRGFtNkR1QXVPZnpxTk1mY05GNWRIMzlsOVVHWURveHNWbG5yLUpONTgwdTNiVG9NSXdXWENRdzE1OUcwNV9EeVRkczFrVzgwa1puaGNSQkVkZWxBaEE3QWpUVEFFNUdQQ3pUeXBoejZBVjJWbFZoV09acngwRmTSAf8BQVVfeXFMT0xHZl90RHNJZG15SHJtQ1BkZEJsR2FnLTVGU0pSSkNJdHl2M0NWdF9mRkxRMEFQWUF1YlpwLUhScFV1R2Rna2lkaG5JMlh5amo2Nk1zQ1RPeU9TNHhtWFg5WGdwUElhTkhWY281S2R3TzdOVXFmM3NUT0YxQXZDN2dhLUZYY09sbm04aEJTaXZpRGh0NG56bnZCYXMxeGQ5Ry03a1RIVHd1MkczR1NyYmZiZ1FPT05iSlpERHlYMk1OSlRrWlM4a0dHQmVTcWZJSTY3UUVOYTRGWkljandHYWlXc29DckZxenozYktfLWhmMVlxTE54cThzeGNKRE0w?oc=5",
-     "fecha": "2026-11-25T17:34:00-03:00"
-    },
-    {
-     "medio": "Sitio Andino",
-     "titulo": "La venta de tierras frente al Glaciar Perito Moreno llegó a manos de la Corte Suprema de Justicia",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY09mSHNhNDdzeHRwelNSV2VYX3dCSEZWa01PQ3kzOGlFWGRJUEV4WTRCNm93UmhwVEp2SGJTTmtFeHA1TlA3WVNjRnBfbm9hUm5DVHRRcDZrbjNqVjQ5ZEgwcmxkRlI1ZUtzS2lsN3Zsby0wQ3FPTXU5T0hEaW1hbVlJSEFWUHBsZWd4Z0xYM2dlNFF4cklBblZDT3FBd21xYklSYWRhY2txLWZBRmt1QXZXS3k5Rl9pdnRpWE1YRmJmWFZIYjZhZUlOeVo1TXhB0gHWAUFVX3lxTE5qcmNua1JlblFSODJtSE9Ram51UWNwem5RLTVEX2NyQ2hNWW1rMmF4MHU5NGVBRG40aXFHRTV1eDZTMFYtWGNSeUp2bWdqNzJia1lvU0c0MGJNdE5JSWc3Q1BJYXdmV2xHajIzV0Z1aGNUeENHTkhReV9TT19wcHZ5a1JDX1J0UDJjbmp2ZW5nUmE1TGE1VmU4WkFVZTVEcU16ZzFZRUtRdmxkaXhSRFU2Ym45Z3RSMjJxUk84MGYwdDBZMFhuVkdQQ0ZGc2R1eHhSNmxYN0E?oc=5",
-     "fecha": "2026-11-25T19:43:46-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Polémica en Santa Cruz: el gobernador habilitó una venta de tierras frente al glaciar Perito Moreno a un grupo árabe",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMm9oSTEzRFlDZlQyay12S2Q0RnZlY05UR0VxWk1VMlRQZTB2QUw5MkdLVzRWeGg5WTdHekhwZ1YtVUVUV2VWYUNsN1ZsTXBFRFNmRzBFZERzUjFzUENGeGJGOGlQOU1PQ1pLNnV0Ny1iYmltT0hsNDJCd3luaVZzSkZWTjFXdlVxSy05SW16UUg5cnJVejJMTkRTMmpxNVh4M2Q1bklYTVhCYTRNNXpmM3BtLWJ6T3BfaWtIZUxfM2JkM1dwVzI5Tl92WDEwSHd6UlJFYlhWdjZOZFhPd2dKU1MwLVowSHVIWmxEaHlaMlRQZ9IBjAJBVV95cUxQYTE1aGJKdGZBYTU3bVNXWFUxVVNITFlZNVNmNEN2MVJPLWNPYXM4bEp2MjVnd2hqMDd3WTQ5VFVIMVZydTdqUWIyeXpDM0p6dzRzcE1wZ0xWTFIxLVZhX2huTWVBMXp5RUFlcVlBMDBGSlFtVVgtTTExN2JQWUhicWtTNWVxRFc3clY4b01lRzJyUnk3U2ZoTm80SjJNYUhsNXhaNTBxMDgwTl9RYWNNYmpjbEhRMVBScnY1aFVtLXM0RHFoX0lYLUpjbVktdWEydFdDcVVmNUhFeTczNEstc2cyaFR1RW5lNGthb0pHeHB3ektYVENCWUhDRDlCUE9Za1lhUWt5TjlyV2FC?oc=5",
-     "fecha": "2026-11-25T10:55:00-03:00"
-    },
-    {
-     "medio": "TN",
-     "titulo": "Polémica en Santa Cruz: el gobernador autorizó la venta de tierras frente al Perito Moreno a un magnate emiratí para construir un hotel",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTVp6Yi1wY0lXZlYwMUNVd3JINHdiZjUwMTdCaEQ1ajROMlNBM2xGOVZjaWtCazlCSjZvMUZ6eWYwNHA0WVpZNEpzeVNWNEtmQ0h1ako3YVB0QllqRUVYT0NVbThfbVRhUTlDaHpHSFZGN21sb0RXbW9kRDlUQV91SVlJMDhBbU1qYnZjRHNyUV84NHlTa29OWjNrS0lKMFB1a2VpQXRJdFM5QVVSZHJaanZTRUozZXpSSGZoVUs3LVQ3anFXRnBXc3R0eHh1MFpBMG15dFdHNjJwWXRMdEpoNzNlQ3UxSjYwWlNfLUNGSlFnWkh1Z3Nr0gGLAkFVX3lxTE1BNkZvR0NoQ2hObVItNmhtU0hiQW1KVDZ6TEtPV2x5WFprSXRxZ05qOTF2OXlQaUh6bmQyZ1MzNkdWQVJuYVkyTWNuMVc3VGxhSG9SUDFfWUpIcjNFcHdPdHZ4UUc3R254NnFfTkVQb296d1lGeU9iXzI5bFc4MlBVeHpTRVlLTmItaHlpb2syZzFFM0ktcWgxNk1pb0x5R25WSmFRYlJVOTZnRkhhZW9QMzFBeGExeXhZS2Y1dzhkRWl5ZEJvQmtiaHVabmpjVDQ5ZjRUUHNfQXd2MEJDTDFHZHBadE14bk9henVma3MxT2Z0a2JUbUdJT1BsNHhLYmlRcThkVkFreDdjdw?oc=5",
-     "fecha": "2026-11-25T11:26:30-03:00"
-    }
-   ],
-   "otras": [],
-   "alertas": [
-    "Falta el nombre del gobernador de Santa Cruz y del juzgado que suspendió la venta; no figuran en los títulos.",
-    "Infobae y TN publican la habilitación de la venta con distinta descripción del comprador (grupo árabe y magnate emiratí); falta el acto oficial."
-   ],
-   "falta": "Decreto o acto oficial del gobierno de Santa Cruz y la postura del gobernador."
   }
  ],
  "para_chequear": [
@@ -557,66 +699,48 @@
    ]
   },
   {
-   "id": "perito-moreno-tierras",
+   "id": "brasil-lula-milei",
    "semaforo": "🟡",
-   "titulo": "Polémica por la venta de tierras frente al Perito Moreno",
-   "resumen": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno que había habilitado el gobierno de la provincia de Santa Cruz a un grupo emiratí para construir un hotel, y la Corte Suprema de Justicia de la Nación debe definir el caso.",
-   "falta": "Falta el nombre del gobernador de Santa Cruz y del juzgado que suspendió la venta; no figuran en los títulos.; Infobae y TN publican la habilitación de la venta con distinta descripción del comprador (grupo árabe y magnate emiratí); falta el acto oficial.",
+   "titulo": "Brasil evalúa invitar a otra autoridad argentina a la asunción de Lula",
+   "resumen": "Infobae y la agencia EFE informan que el gobierno de Brasil analiza invitar a una autoridad argentina distinta de Javier Milei, presidente de la Nación, a la investidura de Luiz Inácio Lula da Silva, presidente de Brasil. MercoPress agrega que Brasil retiró a su embajador en Argentina.",
+   "falta": "Infobae reproduce el cable de EFE, por lo que cuenta como una sola fuente; falta la confirmación del Palacio del Planalto o de la Cancillería argentina y la fuente primaria sobre el retiro del embajador, que solo informa MercoPress.",
    "fuentes": [
     {
      "medio": "Infobae",
-     "titulo": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno: por qué debe definir la Corte",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUNRZmgzaHYxRmw3aEJyaEtPWmlLMmVYREx3RGk2Z01FVXB5NlZ5X19DMzZ5SXZSUG1RTGNCS0lGbUtRZ2NhVm9hZC1wZmc4dG1pMHk5YTBTTTR2U04xM1paUHFoMkM4Wl80RWJvRGFtNkR1QXVPZnpxTk1mY05GNWRIMzlsOVVHWURveHNWbG5yLUpONTgwdTNiVG9NSXdXWENRdzE1OUcwNV9EeVRkczFrVzgwa1puaGNSQkVkZWxBaEE3QWpUVEFFNUdQQ3pUeXBoejZBVjJWbFZoV09acngwRmTSAf8BQVVfeXFMT0xHZl90RHNJZG15SHJtQ1BkZEJsR2FnLTVGU0pSSkNJdHl2M0NWdF9mRkxRMEFQWUF1YlpwLUhScFV1R2Rna2lkaG5JMlh5amo2Nk1zQ1RPeU9TNHhtWFg5WGdwUElhTkhWY281S2R3TzdOVXFmM3NUT0YxQXZDN2dhLUZYY09sbm04aEJTaXZpRGh0NG56bnZCYXMxeGQ5Ry03a1RIVHd1MkczR1NyYmZiZ1FPT05iSlpERHlYMk1OSlRrWlM4a0dHQmVTcWZJSTY3UUVOYTRGWkljandHYWlXc29DckZxenozYktfLWhmMVlxTE54cThzeGNKRE0w?oc=5",
-     "fecha": "2026-11-25T17:34:00-03:00"
-    },
-    {
-     "medio": "Sitio Andino",
-     "titulo": "La venta de tierras frente al Glaciar Perito Moreno llegó a manos de la Corte Suprema de Justicia",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY09mSHNhNDdzeHRwelNSV2VYX3dCSEZWa01PQ3kzOGlFWGRJUEV4WTRCNm93UmhwVEp2SGJTTmtFeHA1TlA3WVNjRnBfbm9hUm5DVHRRcDZrbjNqVjQ5ZEgwcmxkRlI1ZUtzS2lsN3Zsby0wQ3FPTXU5T0hEaW1hbVlJSEFWUHBsZWd4Z0xYM2dlNFF4cklBblZDT3FBd21xYklSYWRhY2txLWZBRmt1QXZXS3k5Rl9pdnRpWE1YRmJmWFZIYjZhZUlOeVo1TXhB0gHWAUFVX3lxTE5qcmNua1JlblFSODJtSE9Ram51UWNwem5RLTVEX2NyQ2hNWW1rMmF4MHU5NGVBRG40aXFHRTV1eDZTMFYtWGNSeUp2bWdqNzJia1lvU0c0MGJNdE5JSWc3Q1BJYXdmV2xHajIzV0Z1aGNUeENHTkhReV9TT19wcHZ5a1JDX1J0UDJjbmp2ZW5nUmE1TGE1VmU4WkFVZTVEcU16ZzFZRUtRdmxkaXhSRFU2Ym45Z3RSMjJxUk84MGYwdDBZMFhuVkdQQ0ZGc2R1eHhSNmxYN0E?oc=5",
-     "fecha": "2026-11-25T19:43:46-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Polémica en Santa Cruz: el gobernador habilitó una venta de tierras frente al glaciar Perito Moreno a un grupo árabe",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMm9oSTEzRFlDZlQyay12S2Q0RnZlY05UR0VxWk1VMlRQZTB2QUw5MkdLVzRWeGg5WTdHekhwZ1YtVUVUV2VWYUNsN1ZsTXBFRFNmRzBFZERzUjFzUENGeGJGOGlQOU1PQ1pLNnV0Ny1iYmltT0hsNDJCd3luaVZzSkZWTjFXdlVxSy05SW16UUg5cnJVejJMTkRTMmpxNVh4M2Q1bklYTVhCYTRNNXpmM3BtLWJ6T3BfaWtIZUxfM2JkM1dwVzI5Tl92WDEwSHd6UlJFYlhWdjZOZFhPd2dKU1MwLVowSHVIWmxEaHlaMlRQZ9IBjAJBVV95cUxQYTE1aGJKdGZBYTU3bVNXWFUxVVNITFlZNVNmNEN2MVJPLWNPYXM4bEp2MjVnd2hqMDd3WTQ5VFVIMVZydTdqUWIyeXpDM0p6dzRzcE1wZ0xWTFIxLVZhX2huTWVBMXp5RUFlcVlBMDBGSlFtVVgtTTExN2JQWUhicWtTNWVxRFc3clY4b01lRzJyUnk3U2ZoTm80SjJNYUhsNXhaNTBxMDgwTl9RYWNNYmpjbEhRMVBScnY1aFVtLXM0RHFoX0lYLUpjbVktdWEydFdDcVVmNUhFeTczNEstc2cyaFR1RW5lNGthb0pHeHB3ektYVENCWUhDRDlCUE9Za1lhUWt5TjlyV2FC?oc=5",
-     "fecha": "2026-11-25T10:55:00-03:00"
+     "titulo": "Brasil piensa invitar a una autoridad argentina distinta a Milei a la investidura de Lula",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRXlCZG1tY2NsN25CckZiZGpaTjcwTXFTV2JwVExwejNROXl5ZFFtaFBaT0MwbUlRSHVfbDhhY3h4RGFmVlg5N18zNFpxVnFTaERDcXVuSm85R0FWOW5UQk00MUp4UDRVdDFmR1l1VDdBVzNQX3RpRXF6QjdUd3JkaEtUbDJGbzRyY0Vfb2dXOEppLWM1eGltLURHTUZBaWlqQ3NrM1RERjVrdTBXRG9pVFJqWllzM1lKN0xQdGt5MXlaWkhjbDREdDNVWmVCaU1LcHQyYVphSGVFUdIB9AFBVV95cUxPdnZCb2RldHBVaWVrVXFTUEFhY3NNSEZwZ2VRUkt2Q0dVWk1SZ1hXb1dRcnpfV28wdUxoemhnVVl5RjcteS1GZk5KUTJLNzRURGtjU0Y1eEhYNXYtSTVQTVFiVXVtUmRyWnJoUGZnd2hqbURCSlpxd0I3WDNQRDc3NlBsTzh0MVo3NmphejI4eHpCUTFTMm9jS2dYZUZhWi1ESkkwN01Dd3ZhdldFZEhvQzk5eXVzdjZqRVJLS2dOSTVPWm9nMmdfcjE3eFpqMzdneFFwWXpvWlZnTGFzTVFhM2VQanI4eEktSkJBWFJhZlM0WjhN?oc=5",
+     "fecha": "2026-11-25T16:16:00-03:00"
     },
     {
      "medio": "TN",
-     "titulo": "Polémica en Santa Cruz: el gobernador autorizó la venta de tierras frente al Perito Moreno a un magnate emiratí para construir un hotel",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTVp6Yi1wY0lXZlYwMUNVd3JINHdiZjUwMTdCaEQ1ajROMlNBM2xGOVZjaWtCazlCSjZvMUZ6eWYwNHA0WVpZNEpzeVNWNEtmQ0h1ako3YVB0QllqRUVYT0NVbThfbVRhUTlDaHpHSFZGN21sb0RXbW9kRDlUQV91SVlJMDhBbU1qYnZjRHNyUV84NHlTa29OWjNrS0lKMFB1a2VpQXRJdFM5QVVSZHJaanZTRUozZXpSSGZoVUs3LVQ3anFXRnBXc3R0eHh1MFpBMG15dFdHNjJwWXRMdEpoNzNlQ3UxSjYwWlNfLUNGSlFnWkh1Z3Nr0gGLAkFVX3lxTE1BNkZvR0NoQ2hObVItNmhtU0hiQW1KVDZ6TEtPV2x5WFprSXRxZ05qOTF2OXlQaUh6bmQyZ1MzNkdWQVJuYVkyTWNuMVc3VGxhSG9SUDFfWUpIcjNFcHdPdHZ4UUc3R254NnFfTkVQb296d1lGeU9iXzI5bFc4MlBVeHpTRVlLTmItaHlpb2syZzFFM0ktcWgxNk1pb0x5R25WSmFRYlJVOTZnRkhhZW9QMzFBeGExeXhZS2Y1dzhkRWl5ZEJvQmtiaHVabmpjVDQ5ZjRUUHNfQXd2MEJDTDFHZHBadE14bk9henVma3MxT2Z0a2JUbUdJT1BsNHhLYmlRcThkVkFreDdjdw?oc=5",
-     "fecha": "2026-11-25T11:26:30-03:00"
+     "titulo": "El gobierno de Brasil analiza invitar a la asunción de Lula a otra autoridad argentina en lugar de Javier Milei",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeklCWmFfdlctRkl0RWtKeGt0am5udnkxQkVnZnVtYWI5Q0JOT0xIQ1QzV0pXQWczY2w5V1FLX0tnU09hMU8zSXZKN0NzRWRjOGhlT2NMVUFidGdBaXRDVFZNNkVNOE9xbmxjVktFWlcxdXJ0MzF6S2Zmb1hYY0dVQjlDZnFkWUkwRk4yMnhYUElwamJrWkV6dGJFY2hlVk1Heno1bTY5N0R1VGVUaHNFTGE2dTFnMGNyWWZORWdWNlFfTnh1cU5VckZrQzdCSC0wQnRLUUVPdGtzNmdWV3kwdm9uVzB1M1UwT0lV0gH_AUFVX3lxTE1KLVYyZlZidXVGM092WTQzcnNyVTcwWkZZRm91VzA0QU40WVdJLTJfbWg3azlNOFNTdnhtRDRrMHRoOEVmSi1aWU9ZVjV4VFJVX3NoMHRPV1JNYzh1emt5SFZReEJQSzR6OThKaVVqelQtU1lXYThiRi1nU2dfSE4zQVZhTzljTlA5M0VTV1pMaXZxQm9hQVZhY0RiekluVkFjU0o4S2p3UTNEZXp5VFJFbkRod0l0bmtrVzEtSnFwajJNN1JUTG9tU1lLWG5zUXE5QnBzT3B6emUxYW5UYzR2Zk1XeWhBUGc2RlBYdUNmejhvS1hsam1hZ3dvT1ZBRQ?oc=5",
+     "fecha": "2026-11-25T17:28:29-03:00"
     }
    ]
   }
  ],
  "seguimiento": [
   {
-   "titulo": "Paro docente de 48 horas en Entre Ríos con cifras opuestas",
+   "titulo": "Milei viaja a Paraguay para reunirse con Pedro Alliana, que asumió tras la destitución de Santiago Peña",
    "semaforo": "🟠",
-   "dicen": "Portales fuera de la lista seria informan 75% de adhesión por parte del gremio Agmer y 83,4% de presencialidad por parte del gobierno provincial.",
+   "dicen": "TN, A24 e Infobae informan el viaje y la reunión; los demás títulos son de portales fuera de la lista seria o repiten la misma noticia.",
+   "falta": "Confirmación de la Presidencia de la Nación y de la Presidencia de Paraguay, y las razones de la destitución de Santiago Peña, que los títulos no detallan."
+  },
+  {
+   "titulo": "Paro docente en Entre Ríos con cifras opuestas",
+   "semaforo": "🟠",
+   "dicen": "Portales fuera de la lista seria informan 83,4% de presencialidad por parte del gobierno provincial.",
    "falta": "Confirmación de un medio de la lista seria y de las cifras con una fuente primaria."
-  },
-  {
-   "titulo": "La CGT marcha por la crisis de las obras sociales sindicales",
-   "semaforo": "🟠",
-   "dicen": "Portales fuera de la lista seria informan la convocatoria.",
-   "falta": "Confirmación de un medio de la lista seria."
-  },
-  {
-   "titulo": "Torturas en Malvinas: la Corte Suprema sortea conjueces para definir si los crímenes prescribieron",
-   "semaforo": "🟠",
-   "dicen": "Perfil informa el sorteo de conjueces; Crítica Sur lo replica.",
-   "falta": "Una segunda fuente seria independiente y el expediente."
   }
  ],
  "nota_x": "X todavía no está conectado.",
  "metricas": {
-  "notas_analizadas": 1705,
-  "grupos": 1136,
-  "temas": 9
+  "notas_analizadas": 2781,
+  "grupos": 1836,
+  "temas": 10
  },
- "nota": "Edición armada sin acceso directo a las notas completas de varios medios; los datos faltantes figuran en alertas.",
+ "nota": "Edición armada sin acceso directo a las notas completas de los medios (los sitios no estaban accesibles); los datos faltantes figuran en alertas.",
  "periodistas": [
   {
    "nombre": "Carlos Pagni",
@@ -631,11 +755,6 @@
      "titulo": "Los frentes abiertos del Gobierno: las claves del análisis de Carlos Pagni sobre la coyuntura política",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY05mSVQ5bFBEWjVBSVlCalFkQUdTWk9qY2MtWnhrdEYwLVdIMS14MTVvV3E3Z1pwMWs3bThIelU3VjlpUXF3S0tBdDNLUVJpQUNzcnF5WjVlbTM1SERsR1gwVEs3M0tnT09NYnNFUzM1OFExcTN0SmJGX0U3bFZNa1pXV0V0TFU2SkxYMEY0ODNtZzZDODZDOUtyckZDdVlWd1pLMkhHS2xOei16bXV3M21WTWlWWW9GdUkyclI4MDB0N0QyS09PWA?oc=5",
      "fecha": "2026-11-24T18:20:24-03:00"
-    },
-    {
-     "titulo": "Milei ante senderos que se bifurcan - Por Carlos Pagni (Imperdible)",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORE9rWVVXUEJ5dWt5M2xMU01iM3pmbVdnUHdoSWZSLXNtR2hiclBET1h4Tm5EbjBfRFdyMVc1RVNGM29JQXdGTFFYQVlrYzhLR3ZpT19TWG51OVZramwzNEVyaWZJX2tUcmNNTlpJT3dyTi1wVXpVTGZkZmFzY2xPeXhXS2Y3REV2Sl9pOG9KNWhrN3FqYnNkdk1qTmZDS0M2eXdZZjZtRHZYbzY0Z0lESw?oc=5",
-     "fecha": "2026-11-24T10:17:00-03:00"
     }
    ],
    "temas": [
@@ -664,7 +783,8 @@
     }
    ],
    "temas": [
-    "recesión"
+    "recesión",
+    "PAMI"
    ],
    "posicion": "Reynaldo Sietecase dedicó su editorial al interrogante \"¿Recesión o ilusión?\" y trató la crisis del PAMI en su programa; el contenido completo no se pudo leer, por lo que su posición exacta queda por confirmar."
   },
@@ -681,15 +801,11 @@
      "titulo": "VACA MUERTA, LEY MALVINAS Y EXPLOSIÓN EN METROGAS | NICO GANDINI CON BERCOVICH",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JsYld4LUd5TkRuVEx1QnNQbUpMTVNWZ0RJSGRCWm1ILUprWHBuWTV2SWlVXzNlX3VmVnluOUVhN09GSl8wYmFicWNHRXNKR1hlNTN4VHdKZ1VBV3pnNV9aaEYxWl9YN2xDNk1kQXR1WE1QZ1lkS0lucjhtVmVZMnRabXBIU3hkaDAxRlFWLVJXa0hJREhSYWVFZUxqTDhrLWV4OXhERGJmNkQ2NHpsWkI4RGpWU184Mm5JYTNUb2dyNWFM?oc=5",
      "fecha": "2026-11-25T17:59:57-03:00"
-    },
-    {
-     "titulo": "ALERTA POR EL DÓLAR: DEBATEN ECHAR A CAPUTO | Editorial de BERCOVICH",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJUSjBjeXA1Sk1Xc01ST2dMM19rZnluU2RhVEpmcWotQXF6VG9FYllWbDVnUlVMWVQyekZncnFzZTVZN0RkZURSdW5ROHpJRGJnLXBia0ZaZmI3WHZDWkVFVmFjZWxfOHVyc092a1JGa2RnZE1DWjg0UVVKSnhxZDBHeTFrNkYxbzdkOVl2S092bzRoQzd3OF8xQ0Eyako5X0RYc2ZMQUNEVGRLVnB0TXN3?oc=5",
-     "fecha": "2026-11-24T07:37:20-03:00"
     }
    ],
    "temas": [
-    "economía y tarifas"
+    "economía y tarifas",
+    "RIGI"
    ],
    "posicion": "Alejandro Bercovich, periodista económico, entrevistó a Kohan, cuyo nombre completo y cargo no figuran en el título, bajo la frase \"Se bajó impuestos al RIGI y no a las tarifas de la clase media\"; su posición exacta queda por confirmar."
   },
@@ -706,11 +822,6 @@
      "titulo": "“Yo no haré nada, todo lo harán mis enemigos”",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2M0NGaWF2cEVkb1dFRTd0MG42cEQ4UDlSMU1sc3RkSl9LaG9jZjVhdnJ1LTZpMFVVS0dMT01sN0VVTlBOXzBXbUh3ZU5RZGZLQUdNbjhKS2tadWZrbzlXUlpXNDNoX3p6dlhCTXNGMEc?oc=5",
      "fecha": "2026-11-24T11:17:23-03:00"
-    },
-    {
-     "titulo": "Sebastián Ceria: «El discurso violento y agresivo no es parte de nuestra cotidianeidad»",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNS1xS24zTkowNTg0UUgtVWRVZW13bmhMOUt4Q3c1N2lOSVZzVUNaM1lhSER4T0R3OW1KeWdubW1aaU5lVzBxaFRSY1FnTk8yUlVnUXVzRmZVLTJDVWxkMnUtb1lxRnVDUkh3bktLNmFldkdxOUx2UDI5SDQtTURpUnMxU0poUzhkUHRQakp2dkNnTlpfSDdFeXkyZ2RSMGVjWWVGVkNHa24?oc=5",
-     "fecha": "2026-11-24T10:12:18-03:00"
     }
    ],
    "temas": [
@@ -731,11 +842,6 @@
      "titulo": "A seis años de la muerte de Maradona, Víctor Hugo Morales lo recordó con una carta",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXdsT3J0RENyVkJxd1F3U1BNMVppLU5LZVBuVXlOXzJTZUxjZzY1YW9sc240RV9XbnJhOXV3b2ZUSjFhaUtmZFByLWhkNUZfYVZQZXBScWJiT0I2ZTc5THBDTVZ4MUp5RjBIejJWVUs3MFNBYmtYbktoVzk1dHpCdVZWekJ5M1FBRkQ2RnpxSWZQVUxhNUJGeDE0LTI4VEY0bnNoOF9zdG5sNlFxWnJORFludHdUU1I2VEHSAboBQVVfeXFMT1F3bE9ydERDclZCcXdRd1NQTTFaaS1OS2VQblV5Tl8yU2VMY2c2NWFvbHNuNEVfV25yYTl1d29mVEoxYWlLZmRQci1oZDVGX2FWUGVwUnFiYk9CNmU3OUxwQ01WeDFKeUYwSHoyVlVLNzBTQWJrWG5LaFc5NXR6QnVWVnpCeTNRQUZENkZ6cUlmUFVMYTVCRngxNC0yOFRGNG5zaDhfc3RubDZRcVpyTkRZbnR3VFNSNlRB?oc=5",
      "fecha": "2026-11-25T08:06:46-03:00"
-    },
-    {
-     "titulo": "“Enfermos de desprecio y egoísmo”: duro diagnóstico del periodista Víctor Hugo Morales",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaW1UVGRsWjhNTVlTb2V6ckMyNHhWQkRNcXpVa01abm5BWFFsTFJhQkJ2d21Lck5GVEp4cjRyWTZaRkw2azlxYkVVcTRnMnRLeXFiU3BrNm5BbHB2ZXNxS1p0YURLQ2FhZDdTY2Fja1k5a1RNb2RZSmtqM291UTlRR3NXNE1RWTBMQUpHVFo5NDd1VmJENFBQQ2tfWUE4SlQ3QVVibGRhaTFKWnVpQ2V3bV9uMnMwU1QzWEh4QjdR?oc=5",
-     "fecha": "2026-11-24T09:43:41-03:00"
     }
    ],
    "temas": [

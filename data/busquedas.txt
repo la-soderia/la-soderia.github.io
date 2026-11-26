@@ -1,0 +1,34 @@
+# Búsquedas de Google Noticias (una por línea). Se les agrega when:1d solas.
+# Líneas con # se ignoran. Con "!" al principio la búsqueda es específica:
+# acepta medios de cualquier dominio (incluso del exterior).
+# Sin "!", solo entran medios .ar o los de fuentes.json.
+política Argentina
+Gobierno nacional Milei
+Congreso Diputados Senado
+Casa Rosada
+gobernadores Argentina
+elecciones Argentina
+Justicia Corte Suprema
+economía Argentina
+inflación INDEC
+dólar blue cotización
+riesgo país
+BCRA reservas tasas
+FMI Argentina
+salarios paritarias
+jubilaciones ANSES
+presupuesto déficit superávit
+universidad financiamiento universitario
+educación Argentina escuelas
+docentes paro
+jóvenes empleo Argentina
+desempleo empleo registrado
+pobreza indigencia
+reforma laboral
+CGT sindicatos
+seguridad narcotráfico Argentina
+salud pública hospitales
+cultura Argentina
+medio ambiente clima Argentina
+Boletín Oficial decreto
+!Argentina Milei

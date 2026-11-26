@@ -38,23 +38,6 @@
    ]
   },
   {
-   "texto": "Dólar oficial en $1.630 y blue sobre $1.700; riesgo país volátil con cierre en 1.067.",
-   "fuentes": [
-    {
-     "medio": "Clarín",
-     "titulo": "El dólar trepó a $ 1.630 y el riesgo país se dio vuelta: cedió a 1.067 puntos",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcklENnpJTHNGdkJSNktRclBpX0RrZXNadmE3cVRzM05EeHlDYlhtMVNlZkt3Z1VDT1RJQ2hkQ2dhQTZJcW5oSGJUbTJCQmtvdEZqb0RlVWNlV2VSMHlBYllYSFRrZVJoNlZuU2ZTVTR5Q2FPeldEQWpxbVZ4T1pWOE9jNXBpbmxpdjRMYlRpS29SQ2FjN21CanFhR1pRTUtTM0dfaE16WjFoWWs1Y28wM0E0N0FZZGJPVnRYU2hmb0dPQQ?oc=5",
-     "fecha": "2026-11-25T10:29:46-03:00"
-    },
-    {
-     "medio": "Ámbito",
-     "titulo": "El dólar blue marcó otro máximo nominal y superó por primera vez los $1.700",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbU1FdUEwV1FST3BrdlF3Zm91YkxQVnpENlUySHhVSkdNZTB4SGZmYzQzMlMzX1lwRnRreVpEbjI1M3p4YjliSlNvNVVxMEJNWkNsRWpZVzgzR2MtQ2c5akFWZE5paUNyMXE2VU1lbzdxcXk0dU9KQ013bnIzNmdqeGQ1MFRzSnBUSXl6dDQzZTU2UXFZMU1wMHJoV3l1LURtTzNuTHhqUl9NOUJqRmxZ0gG0AUFVX3lxTE1VNjYxSm1Cb1pMdEszZjR3UkVwR0psRmJocHM3Ull2dXdsNW9KNDYwVnFyaTQ2Q013VXJaczJUODIzRXM2NXJzSE9remhBajJpbjhEenNTd0NiM2NWV1JqdU9jZGg2ejQ3Z2d4aGtCZHQ2QWMtZTFsTzNSX3BxRUhoaDRMSHByamRMVWFxUVNUZURWRkdiaVAxOWZ3OEliV3RjTTRLcW5LdVZUZ2Zod1NvR3Y0aQ?oc=5",
-     "fecha": "2026-11-25T17:54:00-03:00"
-    }
-   ]
-  },
-  {
    "texto": "El informe de Jefatura de Gabinete al Senado no registra los \"terroristas\" deportados que citó Milei.",
    "fuentes": [
     {
@@ -238,48 +221,6 @@
      "Confirmar que la apelación del Estado nacional sigue en curso ante la Sala III antes de publicar."
     ]
    }
-  },
-  {
-   "id": "dolar-riesgo-pais",
-   "seccion": "Economía",
-   "semaforo": "🟢",
-   "titulo": "Dólar oficial en $1.630, blue sobre $1.700 y riesgo país volátil",
-   "resumen": "El dólar oficial llegó a un máximo de $1.630 y el blue superó por primera vez los $1.700. El riesgo país pasó los 1.100 puntos durante la rueda y cerró en 1.067 tras un rebote de los bonos, con una suba acumulada de 35% en noviembre. Luis Caputo, ministro de Economía de la Nación, dijo que no le preocupan, y Axel Kicillof, gobernador de la provincia de Buenos Aires, le respondió \"Háganse cargo\".",
-   "por_que_importa": "Si el dólar sube, suben los precios de lo que se importa y se pone en riesgo el valor de lo que ahorrás o alquilás.",
-   "primaria": {
-    "nombre": "BCRA / cotizaciones de mercado",
-    "url": null
-   },
-   "fuentes": [
-    {
-     "medio": "Clarín",
-     "titulo": "El dólar trepó a $ 1.630 y el riesgo país se dio vuelta: cedió a 1.067 puntos",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcklENnpJTHNGdkJSNktRclBpX0RrZXNadmE3cVRzM05EeHlDYlhtMVNlZkt3Z1VDT1RJQ2hkQ2dhQTZJcW5oSGJUbTJCQmtvdEZqb0RlVWNlV2VSMHlBYllYSFRrZVJoNlZuU2ZTVTR5Q2FPeldEQWpxbVZ4T1pWOE9jNXBpbmxpdjRMYlRpS29SQ2FjN21CanFhR1pRTUtTM0dfaE16WjFoWWs1Y28wM0E0N0FZZGJPVnRYU2hmb0dPQQ?oc=5",
-     "fecha": "2026-11-25T10:29:46-03:00"
-    },
-    {
-     "medio": "Ámbito",
-     "titulo": "El dólar blue marcó otro máximo nominal y superó por primera vez los $1.700",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbU1FdUEwV1FST3BrdlF3Zm91YkxQVnpENlUySHhVSkdNZTB4SGZmYzQzMlMzX1lwRnRreVpEbjI1M3p4YjliSlNvNVVxMEJNWkNsRWpZVzgzR2MtQ2c5akFWZE5paUNyMXE2VU1lbzdxcXk0dU9KQ013bnIzNmdqeGQ1MFRzSnBUSXl6dDQzZTU2UXFZMU1wMHJoV3l1LURtTzNuTHhqUl9NOUJqRmxZ0gG0AUFVX3lxTE1VNjYxSm1Cb1pMdEszZjR3UkVwR0psRmJocHM3Ull2dXdsNW9KNDYwVnFyaTQ2Q013VXJaczJUODIzRXM2NXJzSE9remhBajJpbjhEenNTd0NiM2NWV1JqdU9jZGg2ejQ3Z2d4aGtCZHQ2QWMtZTFsTzNSX3BxRUhoaDRMSHByamRMVWFxUVNUZURWRkdiaVAxOWZ3OEliV3RjTTRLcW5LdVZUZ2Zod1NvR3Y0aQ?oc=5",
-     "fecha": "2026-11-25T17:54:00-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El riesgo país de Argentina supera la barrera de los 1.100 puntos ante la amenaza de una posible recesión",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTUJVbHJFZWZLNENwVENVWmx3NVJKLXFydU5xOGlxcm50eW55YUdrMWc0X3hqRzBIazAyVGNUVWNCcEhjSXFKVDZkSmVyUFVORnAxQzNlTDZQWVRxSUdYSl8xcE9pNk5LMVlaOVRYS2s2VjRDeVZZY2s0V0JkNFVnZ1JHMUh3Nk1XUWNxY3hVb2NtN1FQREJBVXB3ZWdPMEFrNUVSYVRtTmtSUzhSbjVOa1VSMDN4WjhiTWVDaWNVMElLem44c3R5SmpCOWJDSFF4VFZlb2FlSnJSSWlJY1RUTzRMVVVSVTZJMzFkYTZ30gGIAkFVX3lxTFBMMHpSZ2luTXVReURfbjdBR1VHaGFIQXNiaTFRSnNyM3hWS3Q0eGVxR3B5MmhLa3RPUjNiV0NaZThOTEFEbUpLUDlIVE1sTVdFQUMwVDhyeER2SlVSbjdRci1HUzh0X2hyVGkxS0JjcHhOTGhzV3I1NXM0VHp4ZGVHcUxxRmVSZXVXVG9MdnZJd3BiUktLR3gyT2lJcUtwSC1JTExJMzJNZUplMWxPS01wVHJBdFpleGdXSWIxb3JYY2tnM01qVUxtM3FTS3czNEFKN1E3UXhQT19BbG5ZY2Q4eXl5TzVKUkdxQVFBUXY4SnY5LXZfc0FWc0ZLQkRURjBIWkhva01nXw?oc=5",
-     "fecha": "2026-11-25T17:31:00-03:00"
-    }
-   ],
-   "otras": [
-    "Perfil",
-    "elDiarioAR",
-    "La Nación",
-    "La Política Online"
-   ],
-   "alertas": [
-    "DISCREPANCIA DE CIFRAS: los máximos del riesgo país varían entre 1.121, 1.128, 1.131 y 1.139 puntos de acuerdo con el medio y la hora; el cierre informado es 1.067. Usar el dato de cierre y aclarar la hora.",
-    "Dólar oficial: 1.630 en la mayoría; un portal chico dice 1.625. Confirmar con el cierre del BCRA/Banco Nación."
-   ]
   },
   {
    "id": "terroristas-deportados",
@@ -652,7 +593,7 @@
  "metricas": {
   "notas_analizadas": 1514,
   "grupos": 1026,
-  "temas": 10
+  "temas": 9
  },
  "nota": "Edición hipotética de prueba: la oficial arranca el 26/11 a las 11 h."
 }

@@ -169,7 +169,7 @@ def indice_seccion(t):
     return MAPA_SECCION.get(sin_tildes(t.get("seccion")), 2)
 
 
-RUIDO_AGENDA = re.compile(r"a cuanto (cerro|cotiza|se vende|esta)|cotiza(n)? (hoy|este)|(dolar|euro|real) (blue|oficial|hoy).{0,25}(hoy|lunes|martes|miercoles|jueves|viernes|sabado|domingo)|euro blue|cuando cobro|que jubilados cobran|cronograma de pago|fecha de cobro|horoscopo|clima (para|en)")
+RUIDO_AGENDA = re.compile(r"\bdolar|riesgo pais|\bbonos?\b|\bacciones\b|\badrs?\b|merval|wall street|mercados?\b|cotiza|brecha cambiaria|plazo fijo|a cuanto (cerro|cotiza|se vende|esta)|cotiza(n)? (hoy|este)|(dolar|euro|real) (blue|oficial|hoy).{0,25}(hoy|lunes|martes|miercoles|jueves|viernes|sabado|domingo)|euro blue|cuando cobro|que jubilados cobran|cronograma de pago|fecha de cobro|horoscopo|clima (para|en)")
 COMUNES = {"Milei", "Javier", "Gobierno", "Argentina", "Presidente", "Senado", "Congreso", "Nación", "Estado", "Buenos", "Aires", "Hoy", "Cómo", "Qué", "Quién", "Toto", "Luis"}
 
 
@@ -322,6 +322,7 @@ def seccion_ultima(cand):
         return '<section class="panel s-violeta"><div class="phead"><h2 class="chip violeta">Última hora</h2><span class="pside">Automático, sin curar</span></div><p class="lead">Sin datos por ahora.</p></section>'
     lim = (dt.datetime.now(AR) - dt.timedelta(hours=12)).isoformat(timespec="minutes")
     gs = [g for g in cand["candidatos"] if g.get("ultima", "") >= lim] or cand["candidatos"]
+    gs = [g for g in gs if g.get("notas") and not RUIDO_AGENDA.search(sin_tildes(g["notas"][0].get("titulo", "")))]
     gs = sorted(gs, key=lambda g: (g["cant_medios"], len(g.get("medios_serios") or [])), reverse=True)[:15]
     items = ""
     for g in gs:

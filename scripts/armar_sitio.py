@@ -16,66 +16,71 @@ DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "doming
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
 
 CSS = r"""
-/* Layout: banda celeste de marca con logo y navegación; debajo una columna de lectura con fichas por tema.
-   Paleta e identidad: Manual de Identidad de Soda (celeste #0A7DC8, cian #05B2E8, rojo #D8230B, naranja #E65019, amarillo #F9B233, celeste claro #BCE3F9, azul #144488, gris #4D5B59).
-   Tipografía de marca: Right Grotesk; en la web se usa Archivo (ancho variable) como reemplazo libre. */
-:root{--brand:#097DC8;--cian:#05B2E8;--rojo:#D8230B;--naranja:#E65019;--amarillo:#F9B233;--navy:#144488;--gris:#4D5B59;
---bg:#F2F8FC;--surface:#ffffff;--fg:#0F2440;--muted:#4D5B59;--line:#D4E7F4;--accent:#0A7DC8;--soft:#E3F2FC;
---ok:#1d7f46;--mid:#8a6300;--warn:#b5520f;--bad:#D8230B;--okbg:#e2f3e8;--midbg:#FDF0D3;--warnbg:#fde7d6;--badbg:#fbe1df;
---display:'Archivo',system-ui,sans-serif;--body:'Archivo',system-ui,sans-serif}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0B1830;--surface:#12264A;--fg:#EAF4FB;--muted:#A9BCC9;--line:#21406B;--accent:#05B2E8;--soft:#173560;--ok:#5fd08e;--mid:#F9B233;--warn:#f0955a;--bad:#FF6B52;--okbg:#173527;--midbg:#3a3015;--warnbg:#3d2617;--badbg:#45201b;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#0B1830;--surface:#12264A;--fg:#EAF4FB;--muted:#A9BCC9;--line:#21406B;--accent:#05B2E8;--soft:#173560;--ok:#5fd08e;--mid:#F9B233;--warn:#f0955a;--bad:#FF6B52;--okbg:#173527;--midbg:#3a3015;--warnbg:#3d2617;--badbg:#45201b;color-scheme:dark}
+/* Layout: estética minimalista de los documentos internos de Soda (Estructura de roles).
+   Fondo blanco, wordmark "soda." en celeste con punto naranja, título en mayúsculas con filete celeste,
+   secciones como paneles gris claro con franja de color a la izquierda y chip de área, fichas blancas con borde fino y etiquetas grises. */
+:root{--brand:#0A7DC8;--naranja:#E65019;--rojo:#D8230B;--amarilloT:#B7791F;--verde:#2F855A;--violeta:#7B3FB8;
+--bg:#ffffff;--panel:#F7F9FB;--surface:#ffffff;--fg:#1E2A36;--muted:#5F6B78;--line:#DDE3EA;--tag:#EEF2F6;--accent:#0A7DC8;--soft:#F1F7FC;
+--azulbg:#E3F0FB;--naranjabg:#FDEBDD;--amarillobg:#FDF3D8;--violetabg:#F3EAFB;
+--ok:#2F855A;--mid:#9A6700;--warn:#C2410C;--bad:#D8230B;--okbg:#E6F4EC;--midbg:#FDF3D8;--warnbg:#FDEBDD;--badbg:#FBE4E1;
+--display:'Noto Sans',system-ui,sans-serif;--body:'Noto Sans',system-ui,sans-serif;color-scheme:light}
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--fg);font:16px/1.55 var(--body);font-variation-settings:"wdth" 100;margin:0}
-.band{background:var(--brand);color:#fff;margin-top:calc(-1 * env(safe-area-inset-top,0px));padding-top:calc(env(safe-area-inset-top,0px) + 20px);padding-bottom:26px}
-.band-in,main{max-width:720px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-.band-in{display:flex;flex-direction:column;gap:10px}
-.logo{display:block;width:150px;height:auto}
-.band h1{color:#fff;font-size:clamp(1.9rem,6vw,2.7rem);line-height:1;font-weight:900;font-stretch:75%;font-variation-settings:"wdth" 75;text-transform:uppercase;letter-spacing:-.005em}
-.band .lead{color:#E3F2FC;margin:0}
-.eyebrow{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;font-weight:600;font-variation-settings:"wdth" 125;color:#BCE3F9}
-main{display:flex;flex-direction:column;gap:32px;padding-top:26px;padding-bottom:64px}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--body);margin:0}
+.band-in,main{max-width:900px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.band{padding-top:28px}
+.band-in{display:flex;flex-direction:column;gap:6px}
+.topline{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;border-bottom:3px solid var(--brand);padding-bottom:10px}
+.wm{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;text-decoration:none}
+.wordmark{font-weight:800;font-size:2.3rem;line-height:1;color:var(--brand);letter-spacing:-.02em}
+.wordmark span{color:var(--naranja)}
+.band h1{font-size:1.15rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--fg)}
+.eyebrow{font-size:.85rem;color:var(--muted)}
+.band .lead{color:var(--muted);margin:8px 0 0}
+main{display:flex;flex-direction:column;gap:20px;padding-top:20px;padding-bottom:56px}
 h1,h2,h3{font-family:var(--display);margin:0;text-wrap:balance}
-h2{font-size:1.35rem;margin-bottom:12px;font-weight:900;font-variation-settings:"wdth" 75;text-transform:uppercase;color:var(--accent);letter-spacing:.01em}
-h3{font-size:1.22rem;line-height:1.2;font-weight:800;font-variation-settings:"wdth" 85}
+h3{font-size:1.02rem;line-height:1.3;font-weight:700}
 p{margin:0}
 a{color:var(--accent)}
-.lead{color:var(--muted);margin-top:8px}
-.stats{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:14px;font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.stats b{color:var(--fg)}
-.claves{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
-.claves li{background:var(--surface);border-left:4px solid var(--rojo);border-radius:4px 10px 10px 4px;padding:12px 14px;display:flex;flex-direction:column;gap:4px}
-.cf{font-size:.82rem}
-.cf a{text-decoration:none;font-weight:600}
-.temas{display:flex;flex-direction:column;gap:14px}
-.tema{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.lead{color:var(--muted);margin-top:6px}
+.panel{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--stripe,var(--brand));border-radius:10px;padding:14px 16px 16px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.s-azul{--stripe:var(--brand)}.s-naranja{--stripe:var(--naranja)}.s-amarillo{--stripe:#F9B233}.s-violeta{--stripe:var(--violeta)}
+.phead{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
+.pside{font-size:.8rem;font-weight:600;color:var(--muted)}
+.chip{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:4px}
+.chip.azul{background:var(--azulbg);color:var(--brand)}.chip.naranja{background:var(--naranjabg);color:var(--warn)}.chip.amarillo{background:var(--amarillobg);color:var(--mid)}.chip.violeta{background:var(--violetabg);color:var(--violeta)}
+.claves{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.claves li{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;gap:6px}
+.cf{display:flex;flex-wrap:wrap;gap:4px;font-size:0}
+.cf a{font-size:.75rem;text-decoration:none;color:var(--muted);background:var(--tag);border:1px solid var(--line);border-radius:4px;padding:1px 7px}
+.temas{display:flex;flex-direction:column;gap:10px}
+.tema{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.tema>p:not([class]){color:var(--muted)}
 .meta{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
-.sec{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--naranja);font-weight:700;font-variation-settings:"wdth" 125}
-.pill{font-size:.78rem;font-weight:700;padding:3px 10px;border-radius:99px;white-space:nowrap}
+.sec{font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.pill{font-size:.74rem;font-weight:700;padding:2px 8px;border-radius:4px;white-space:nowrap;border:1px solid currentColor}
 .pill.ok{background:var(--okbg);color:var(--ok)}.pill.mid{background:var(--midbg);color:var(--mid)}.pill.warn{background:var(--warnbg);color:var(--warn)}.pill.bad{background:var(--badbg);color:var(--bad)}
-.lbl{display:block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700;color:var(--muted);margin-bottom:2px;font-variation-settings:"wdth" 125}
-.pq,.prim,.idea{font-size:.94rem}
-.idea{background:var(--soft);border-radius:10px;padding:12px 14px}
-.idea .lbl{color:var(--accent)}
-.alert{background:var(--midbg);border-radius:10px;padding:10px 12px;font-size:.9rem}
+.lbl{display:block;font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--muted);margin-bottom:2px}
+.pq,.prim,.idea{font-size:.9rem}
+.idea{background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.idea .lbl{color:var(--brand)}
+.alert{background:var(--midbg);border-radius:8px;padding:8px 12px;font-size:.86rem}
 .alert .lbl{color:var(--mid)}
-.alert ul,.fu{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px}
-.fu{margin-top:8px;font-size:.88rem}
+.alert ul,.fu{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
+.fu{margin-top:6px;font-size:.85rem}
 .fu a{text-decoration:none;color:var(--fg)}.fu a b{color:var(--accent)}
-.otras{font-size:.82rem;color:var(--muted);margin-top:6px}
-details summary{cursor:pointer;font-weight:700;font-size:.88rem;color:var(--accent);min-height:32px;display:flex;align-items:center}
+.otras{font-size:.8rem;color:var(--muted);margin-top:6px}
+details summary{cursor:pointer;font-weight:600;font-size:.84rem;color:var(--accent);min-height:30px;display:flex;align-items:center}
 details summary:focus-visible,a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.nota{font-size:.85rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+.ley{display:block}
 .leyenda{display:flex;flex-wrap:wrap;gap:6px}
-.ult{display:flex;flex-direction:column;gap:10px}
-.g{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:6px;min-width:0}
-.g h3{font-size:1.02rem}
-.g .sub{font-size:.8rem;color:var(--muted)}
-.aviso{background:var(--midbg);color:var(--fg);border-radius:10px;padding:10px 12px;font-size:.88rem}
-.ideaobj{display:flex;flex-direction:column;gap:8px}
-.ideaobj ol,.ideaobj ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:4px}
-footer{font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;display:flex;flex-direction:column;gap:4px}
-@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+.ult{display:flex;flex-direction:column;gap:8px}
+.g{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;gap:4px;min-width:0}
+.g h3{font-size:.95rem;font-weight:600}
+.g .sub{font-size:.78rem;color:var(--muted)}
+.aviso{background:var(--amarillobg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:.86rem}
+.ideaobj{display:flex;flex-direction:column;gap:6px}
+.ideaobj ol,.ideaobj ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:3px}
+footer{font-size:.8rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px;display:flex;flex-direction:column;gap:2px}
 """
 
 
@@ -158,11 +163,11 @@ def _seccion_edicion(ed):
     pc = "".join(f'''<article class="tema chk"><div class="meta"><span class="pill mid">🟡 Parcial</span></div><h3>{e(p.get("titulo"))}</h3><p>{e(p.get("resumen"))}</p>{f'<div class="alert"><span class="lbl">Qué falta</span><p>{e(p["falta"])}</p></div>' if p.get("falta") else ""}{f'<details><summary>Fuentes ({len(p["fuentes"])})</summary><ul class="fu">{fuentes(p["fuentes"])}</ul></details>' if p.get("fuentes") else ""}</article>''' for p in ed.get("para_chequear") or [])
     out = ""
     if claves:
-        out += f'<section><h2>Lo que tenés que saber</h2><ol class="claves">{claves}</ol></section>\n'
+        out += f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Lo que tenés que saber</h2><span class="pside">Claves de la edición</span></div><ol class="claves">{claves}</ol></section>\n'
     if temas:
-        out += f'<section><h2>Temas del día</h2><div class="temas">{temas}</div></section>\n'
+        out += f'<section class="panel s-naranja"><div class="phead"><h2 class="chip naranja">Temas del día</h2><span class="pside">Chequeados con semáforo</span></div><div class="temas">{temas}</div></section>\n'
     if pc:
-        out += f'<section><h2>Para chequear</h2><div class="temas">{pc}</div></section>\n'
+        out += f'<section class="panel s-amarillo"><div class="phead"><h2 class="chip amarillo">Para chequear</h2><span class="pside">Una sola fuente</span></div><div class="temas">{pc}</div></section>\n'
     return out or '<section><p class="lead">Todavía no hay edición curada.</p></section>'
 
 
@@ -176,7 +181,7 @@ def hora(iso):
 
 def seccion_ultima(cand):
     if not cand or not cand.get("candidatos"):
-        return '<section><h2>Última hora (automático)</h2><p class="lead">Sin datos por ahora.</p></section>'
+        return '<section class="panel s-violeta"><div class="phead"><h2 class="chip violeta">Última hora</h2><span class="pside">Automático, sin curar</span></div><p class="lead">Sin datos por ahora.</p></section>'
     lim = (dt.datetime.now(AR) - dt.timedelta(hours=12)).isoformat(timespec="minutes")
     gs = [g for g in cand["candidatos"] if g.get("ultima", "") >= lim] or cand["candidatos"]
     gs = sorted(gs, key=lambda g: (g["cant_medios"], len(g.get("medios_serios") or [])), reverse=True)[:15]
@@ -189,7 +194,7 @@ def seccion_ultima(cand):
         items += f'''<article class="g"><div class="meta"><span class="pill {cls}">{e(lab)}</span><span class="sub">{g["cant_medios"]} medios · {g["cant_notas"]} notas</span></div>
 <h3>{e(titulo)}</h3><span class="sub">Pre-chequeo automático, sin revisar</span>
 <details><summary>Links ({len(ns[:5])})</summary><ul class="fu">{lis}</ul></details></article>'''
-    return f'''<section><h2>Última hora (automático)</h2>
+    return f'''<section class="panel s-violeta"><div class="phead"><h2 class="chip violeta">Última hora</h2><span class="pside">Automático, sin curar</span></div>
 <p class="aviso">Esto no está curado: lo arma un script con los temas más cubiertos de las últimas 12 horas. El semáforo es un pre-chequeo automático, sin revisar por una persona.</p>
 <div class="ult" style="margin-top:12px">{items}</div></section>'''
 
@@ -225,26 +230,23 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 <meta name="description" content="{desc}">
 <link rel="icon" href="{prefijo}img/logo-color.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700;800&display=swap">
 <style>{CSS}
-.nav{{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}}
-.btn{{font:inherit;font-weight:700;font-size:.9rem;background:none;cursor:pointer;display:inline-flex;align-items:center;min-height:42px;padding:8px 18px;border-radius:99px;border:2px solid var(--accent);color:var(--accent);text-decoration:none}}
-.btn.on{{background:var(--accent);color:var(--surface)}}
-.band .btn{{border-color:#fff;color:#fff}}
-.band .btn.on{{background:#fff;color:var(--brand)}}
-.dia{{font-size:1.6rem;color:var(--fg);border-bottom:3px solid var(--rojo);padding-bottom:6px}}
+.nav{{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}}
+.btn{{font:inherit;font-weight:600;font-size:.85rem;background:var(--surface);cursor:pointer;display:inline-flex;align-items:center;min-height:38px;padding:6px 14px;border-radius:6px;border:1px solid var(--line);color:var(--fg);text-decoration:none}}
+.btn:hover{{border-color:var(--brand)}}
+.btn.on{{background:var(--brand);border-color:var(--brand);color:#fff}}
+.dia{{font-size:1.05rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;border-bottom:2px solid var(--brand);padding-bottom:6px}}
 .rojo{{color:var(--bad);font-weight:800}}
-.ed-sep{{font-family:var(--display);font-size:1.05rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}}
+.ed-sep{{font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}}
 </style></head><body>
 <header class="band"><div class="band-in">
-  <a href="{prefijo}index.html" aria-label="Soda, ir a hoy"><img class="logo" src="{prefijo}img/logo-blanco.png" alt="Soda" width="585" height="245"></a>
-  <div class="eyebrow">Motor de relevamiento · La Sodería</div>
-  <h1>{titulo_h1}</h1>
+  <div class="topline"><a class="wm" href="{prefijo}index.html" aria-label="Soda, ir a hoy"><span class="wordmark">soda<span>.</span></span><h1>{titulo_h1}</h1></a><span class="eyebrow">Motor de relevamiento • La Sodería</span></div>
   <p class="lead">{lead}</p>
   <nav class="nav">{nav}</nav>
 </div></header>
 <main>
-<section><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
+<section class="ley"><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
 {cuerpo}
 <footer><span><b>Actualizado:</b> {e(ahora_txt)}</span><span>{notas} notas leídas de {medios} medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
 </main></body></html>
@@ -327,7 +329,7 @@ document.querySelectorAll('.dias .btn').forEach(function(b){{
         (BASE / f"archivo/{fecha}.html").write_text(pagina(f"Edición del {fecha_larga(fecha)}", f"{len(eds)} edición(es) curada(s).", bloque_ediciones(eds), nav("archivo", "../"), ahora_txt, len(notas), medios, prefijo="../"))
         temas = sum(len(x.get("temas") or []) for x in eds)
         items += f'<li><a href="archivo/{fecha}.html"><b>{e(fecha_larga(fecha).capitalize())}</b></a> · {len(eds)} edición(es), {temas} temas</li>'
-    cuerpo = f'<section><h2>Todas las ediciones</h2><ul class="fu">{items or "<li>Todavía no hay ediciones.</li>"}</ul></section>'
+    cuerpo = f'<section class="panel s-azul"><div class="phead"><h2 class="chip azul">Todas las ediciones</h2></div><ul class="fu">{items or "<li>Todavía no hay ediciones.</li>"}</ul></section>'
     (BASE / "archivo.html").write_text(pagina("Archivo", "Todas las ediciones curadas, por día.", cuerpo, nav("archivo"), ahora_txt, len(notas), medios))
     print(f"ok | hoy {len(eds_hoy)} | ayer {len(eds_ayer)} | días en archivo {len(por_fecha)}")
 

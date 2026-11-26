@@ -1,6 +1,6 @@
 # Cómo se arma cada edición del Motor Soda
 
-Hay 2 ediciones por día, a las **11 h** y a las **15 h** (hora argentina). El objetivo es dejarle a J los temas del día **chequeados** para que redacte los carruseles de Soda.
+Hay 2 ediciones por día, a las **11 h** y a las **15 h** (hora argentina). El objetivo es dejarle a la redacción los temas del día **chequeados** para armar los carruseles de Soda.
 Soda es un medio hecho por y para jóvenes. **No defiende a ningún sector**: informa con datos y con fuentes.
 
 ## Material disponible
@@ -42,19 +42,19 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
    - `fuentes`: 2 o 3 notas principales, de líneas distintas si se puede, con medio y url. El resto va en `otras`.
    - `primaria`: si existe.
    - `alertas`: discrepancias, datos a verificar o el "ojo con".
-   - `idea_carrusel`: para los 2 o 3 temas con más potencial, un objeto `{formato, enfoque, portada, placas[], copy, audiovisual[], a_chequear[]}` según `CRITERIO-SODA.md` (formato narrativo, como el carrusel del tren San Martín, o satírico de lista, como "Crímenes graves en la Argentina libertaria"). Sin gráficos; los carruseles llevan archivos audiovisuales o fotografías. **El carrusel lo redacta J.**
+   - `idea_carrusel`: para los 2 o 3 temas con más potencial, un objeto `{formato, enfoque, portada, placas[], copy, audiovisual[], a_chequear[]}` según `CRITERIO-SODA.md` (formato narrativo, como el carrusel del tren San Martín, o satírico de lista, como "Crímenes graves en la Argentina libertaria"). Sin gráficos; los carruseles llevan archivos audiovisuales o fotografías. **El carrusel lo redacta la redacción de Soda.**
 5. `claves`: 4 o 5 puntos de "Lo que tenés que saber", cada uno con sus fuentes.
 6. `para_chequear`: los temas 🟡, con lo que falta para confirmarlos.
 7. `seguimiento`: los 🟠, con lo que se dice y dónde.
 8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si resultó falso, se pasa a 🔴 Falso.
 9. Antes de guardar, revisar: ¿cada tema tiene semáforo y fuentes? ¿Hay alguna cifra sin fuente? ¿Se marcaron las discrepancias?
 
-## Precisión periodística (regla de J, obligatoria)
+## Precisión periodística (regla de la redacción, obligatoria)
 - **Jamás "un" o "una" para algo identificable.** Nada de "una fiscalía", "un juez", "un informe", "una encuesta", "un funcionario". Siempre se dice qué o quién es: "Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal", "Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11", "el Decreto 759/2025".
 - Si el dato no está en los títulos, **hay que buscarlo**: leer la nota completa (los links directos se pueden leer con curl) o buscar en las otras notas del crudo. Si aun así no aparece, esa mención se saca del texto y el dato faltante va a `alertas` o `a_chequear`; nunca queda la mención genérica.
 - Siglas desarrolladas la primera vez y personas con nombre completo y cargo la primera vez.
 
-## Estilo de redacción (pedido de J)
+## Estilo de redacción (pedido de la redacción)
 Esto vale para los resúmenes, las claves, el "por qué importa" y las ideas de carrusel.
 - Escribir de forma directa, afirmativa y fluida. Si algo se puede afirmar en positivo, se afirma; no usar contrastes innecesarios del tipo "no es X, sino Y" o "no se trata de X, sino de Y".
 - No usar dos puntos dentro de los textos redactados. Los títulos de los medios citados se copian tal cual.

@@ -286,7 +286,7 @@ def main():
     eds_hoy = por_fecha.get(hoy, [])
     if eds_hoy:
         txt, _ = hora(eds_hoy[0].get("generado"))
-        lead = f"Última edición curada: {e(txt)}. Los carruseles los redacta J."
+        lead = f"Última edición curada: {e(txt)}."
         cuerpo = seccion_edicion(eds_hoy[0])
         if len(eds_hoy) > 1:
             cuerpo += '<details class="ed-sep"><summary>Ver también las ediciones anteriores de hoy</summary>' + bloque_ediciones(eds_hoy[1:]) + "</details>"

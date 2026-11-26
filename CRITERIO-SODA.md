@@ -1,6 +1,6 @@
 # Criterio Soda para recomendar carruseles
 
-Este archivo guía la `idea_carrusel` de cada edición. **El carrusel lo redacta J**; el motor solo recomienda un enfoque y un borrador de placas. Se actualiza cada vez que J comparte carruseles nuevos o corrige el criterio.
+Este archivo guía la `idea_carrusel` de cada edición. **El carrusel lo redacta la redacción de Soda**; el motor solo recomienda un enfoque y un borrador de placas. Se actualiza cada vez que la redacción comparte carruseles nuevos o corrige el criterio.
 
 ## Referencia principal: "Cómo garcar a un tren lleno de gente" (tren San Martín)
 Las placas están en `criterio/2026-carrusel-tren-san-martin/`, en la carpeta del proyecto. Este es el modelo a seguir.
@@ -34,13 +34,13 @@ Las placas están en `criterio/2026-carrusel-crimenes-argentina-libertaria/`, en
 
 **Lo visual.** Fotos reales en blanco y negro (la represión a jubilados, el Congreso, un vendedor ambulante), con círculos y flechas dibujados a mano en rojo que señalan el detalle; un panel gris pizarra con el título en rosa salmón, "Acciones a tomar" en amarillo y casillas rojas.
 
-**Regla clave del formato satírico.** La ironía está en la justificación; **los hechos de "Acciones a tomar" y los datos que se cuelan tienen que ser reales y chequeados** (🟢), con la fuente anotada para J. Si un ítem no está confirmado, no entra.
+**Regla clave del formato satírico.** La ironía está en la justificación; **los hechos de "Acciones a tomar" y los datos que se cuelan tienen que ser reales y chequeados** (🟢), con la fuente anotada. Si un ítem no está confirmado, no entra.
 
 ## Qué formato proponer
 - **Narrativo (modelo tren San Martín)** cuando hay una historia con promesa, datos, giro y responsable, por ejemplo una obra frenada, un fondo desviado o una ley incumplida.
 - **Satírico de lista (modelo "Crímenes graves")** cuando varios temas de la semana comparten un mismo patrón del Gobierno y se pueden juntar bajo una consigna irónica.
 
-## Reglas de precisión (pedidas por J)
+## Reglas de precisión (pedidas por la redacción)
 - **Jamás "un" o "una" para algo identificable** (una fiscalía, un juez, un informe). Siempre se dice cuál y quién ("Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal"). Si no está en los títulos se busca en la nota completa; si no aparece, se saca la mención y va a `a_chequear`.
 - **Nunca "según [medio]"** en las placas; el dato chequeado se afirma. "Según" solo vale para un informe, un paper o un documento.
 - **Siglas desarrolladas** la primera vez ("el Consejo Interuniversitario Nacional (CIN)").
@@ -55,6 +55,6 @@ Para los 2 o 3 temas con más potencial, un objeto con
 - `placas`, con 4 a 6 textos ya redactados que siguen el arco del formato elegido. En el narrativo van problema cotidiano, promesa o contexto con datos, giro, responsable con su decisión y cierre que interpela. En el satírico van el "crimen", la justificación irónica y las "Acciones a tomar" reales. Cada placa puede marcar entre asteriscos la frase que iría destacada.
 - `copy`, con el texto del posteo que abre con preguntas a quien vive el tema.
 - `audiovisual`, que indica la foto de fondo, la foto del responsable y los videos o capturas que suman (la declaración original, el documento oficial).
-- `a_chequear`, con lo que J tiene que confirmar antes de publicar.
+- `a_chequear`, con lo que hay que confirmar antes de publicar.
 
 Todo lo que se afirme tiene que estar 🟢 o figurar en `a_chequear`; el tono filoso nunca reemplaza al dato.

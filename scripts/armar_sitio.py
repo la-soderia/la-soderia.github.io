@@ -83,17 +83,23 @@ def fuentes(fs):
     return "".join(f'<li>{link(f.get("url"), "<b>" + e(f.get("medio")) + "</b> · " + e(f.get("titulo")))}</li>' for f in fs or [])
 
 
+def rojo(s):
+    """Escapa el texto y pasa *así* a destacado en rojo, como en las placas de Soda."""
+    import re as _re
+    return _re.sub(r"\*(.+?)\*", r'<span class="rojo">\1</span>', e(s))
+
+
 def idea(i):
     if not i:
         return ""
     if isinstance(i, str):
         return f'<p class="idea"><span class="lbl">Idea de carrusel</span> {e(i)}</p>'
     partes = []
-    for k, lab in (("enfoque", "Enfoque"), ("gancho", "Gancho")):
+    for k, lab in (("enfoque", "Enfoque"), ("portada", "Portada"), ("gancho", "Gancho"), ("copy", "Copy del posteo")):
         if i.get(k):
-            partes.append(f'<p><b>{lab}.</b> {e(i[k])}</p>')
+            partes.append(f'<p><b>{lab}.</b> {rojo(i[k])}</p>')
     if i.get("placas"):
-        partes.append("<div><b>Placas</b><ol>" + "".join(f"<li>{e(p)}</li>" for p in i["placas"]) + "</ol></div>")
+        partes.append("<div><b>Placas</b><ol>" + "".join(f"<li>{rojo(p)}</li>" for p in i["placas"]) + "</ol></div>")
     if i.get("audiovisual"):
         av = i["audiovisual"]
         av = "".join(f"<li>{e(x)}</li>" for x in av) if isinstance(av, list) else f"<li>{e(av)}</li>"
@@ -214,6 +220,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 .btn{{font:inherit;background:none;cursor:pointer;display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}}
 .btn.on{{background:var(--accent);color:var(--surface)}}
 .dia{{font-size:1.5rem;border-bottom:2px solid var(--accent);padding-bottom:6px}}
+.rojo{{color:var(--bad);font-weight:700}}
 .ed-sep{{font-family:var(--display);font-size:1.05rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}}
 </style></head><body>
 <main>

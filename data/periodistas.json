@@ -1,4 +1,72 @@
 [
- {"nombre": "Hugo Alconada Mon", "medio": "La Nación", "dominio": "lanacion.com.ar", "rol": "periodista de investigación de La Nación", "x": "halconada"},
- {"nombre": "Carlos Pagni", "medio": "La Nación", "dominio": "lanacion.com.ar", "rol": "columnista político de La Nación", "x": ""}
+ {
+  "nombre": "Hugo Alconada Mon",
+  "medio": "La Nación",
+  "dominio": "lanacion.com.ar",
+  "rol": "periodista de investigación de La Nación",
+  "x": "halconada"
+ },
+ {
+  "nombre": "Carlos Pagni",
+  "medio": "La Nación",
+  "dominio": "lanacion.com.ar",
+  "rol": "columnista político de La Nación",
+  "x": ""
+ },
+ {
+  "nombre": "Alejandro Bercovich",
+  "medio": "",
+  "dominio": "",
+  "rol": "periodista económico",
+  "x": "",
+  "a_confirmar": true
+ },
+ {
+  "nombre": "Iván Schargrodsky",
+  "medio": "Cenital",
+  "dominio": "cenital.com",
+  "rol": "periodista, editor de Cenital",
+  "x": "",
+  "a_confirmar": true
+ },
+ {
+  "nombre": "Reynaldo Sietecase",
+  "medio": "",
+  "dominio": "",
+  "rol": "periodista",
+  "x": "",
+  "a_confirmar": true
+ },
+ {
+  "nombre": "Ingrid Beck",
+  "medio": "",
+  "dominio": "",
+  "rol": "periodista",
+  "x": "",
+  "a_confirmar": true
+ },
+ {
+  "nombre": "Víctor Hugo Morales",
+  "medio": "",
+  "dominio": "",
+  "rol": "periodista",
+  "x": "",
+  "a_confirmar": true
+ },
+ {
+  "nombre": "Julia Mengolini",
+  "medio": "Futurock",
+  "dominio": "futurock.fm",
+  "rol": "periodista, fundadora de Futurock",
+  "x": "",
+  "a_confirmar": true
+ },
+ {
+  "nombre": "Estefanía Pozzo",
+  "medio": "",
+  "dominio": "",
+  "rol": "periodista económica",
+  "x": "",
+  "a_confirmar": true
+ }
 ]

@@ -109,7 +109,7 @@ def idea(i):
     if isinstance(i, str):
         return f'<p class="idea"><span class="lbl">Idea de carrusel</span> {e(i)}</p>'
     partes = []
-    for k, lab in (("enfoque", "Enfoque"), ("portada", "Portada"), ("gancho", "Gancho"), ("copy", "Copy del posteo")):
+    for k, lab in (("formato", "Formato"), ("enfoque", "Enfoque"), ("portada", "Portada"), ("gancho", "Gancho"), ("copy", "Copy del posteo")):
         if i.get(k):
             partes.append(f'<p><b>{lab}.</b> {rojo(i[k])}</p>')
     if i.get("placas"):

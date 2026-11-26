@@ -155,6 +155,7 @@
     "El dictamen fiscal es una opinión del fiscal, no una sentencia: falta la resolución del tribunal."
    ],
    "idea_carrusel": {
+    "formato": "narrativo",
     "enfoque": "La historia de una ley que garantizaba la plata de las universidades públicas, el decreto que la frenó y el aviso de que en 2027 no van a poder funcionar; le habla a quienes estudian y cursan entre paros.",
     "portada": "Cómo *apagar* la universidad pública sin cerrarla",
     "placas": [
@@ -217,24 +218,24 @@
     "Los títulos mezclan la caída trimestral con la suba mensual de septiembre (1,1%); no confundir ambos datos."
    ],
    "idea_carrusel": {
-    "enfoque": "Explicar qué es la recesión técnica que confirmó el dato oficial y cómo la relativizó el ministro de Economía; le habla a quienes buscan su primer trabajo o viven de changas.",
-    "portada": "*Recesión*, la palabra que el Gobierno no quiere escuchar",
+    "formato": "satírico de lista",
+    "enfoque": "Tres temas del día (la universidad, la recesión y la cifra de \"terroristas\" que el propio Gobierno no registra) comparten un patrón; en formato de lista irónica, cada reclamo legítimo de los y las jóvenes aparece como un \"delito\", y las acciones a tomar son lo que el Gobierno nacional hizo de verdad.",
+    "portada": "Delitos *graves* de la juventud *argentina* (y cómo lidiar con ellos)",
     "placas": [
-     "*Menos laburo, menos changas, menos guita.* Si estás buscando tu primer trabajo o vivís de changas, cuando la economía se achica lo sentís antes que nadie.",
-     "El Instituto Nacional de Estadística y Censos (INDEC) mide la actividad con el Estimador Mensual de Actividad Económica (EMAE); el último dato mostró *dos trimestres seguidos de caída*, que es lo que en economía se llama recesión técnica.",
-     "En septiembre la actividad subió 1,1% respecto de agosto y el Gobierno se agarró de ese número; *pero, pero, pero…* dos trimestres en baja siguen siendo recesión.",
-     "*Llegó este señor y dijo que era arbitrario.* Luis Caputo, ministro de Economía de la Nación, calificó la definición de recesión técnica como \"arbitraria\".",
-     "La próxima vez que te digan que no están tomando gente, acordate de que la economía se achicó dos trimestres seguidos, por más que el ministro diga que es una cuestión de definiciones."
+     "*Estudiar en una universidad pública.* Una persona de bien se forma sola, sin pedirle nada a nadie; si encima quiere que el Congreso de la Nación le garantice la plata con una ley, ya es demasiado. *Acciones a tomar* ☑ Frenar la Ley de Financiamiento Universitario (Ley 27.795) con el Decreto 759/2025. ☑ Apelar el fallo de Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11, que ordenó aplicarla.",
+     "*Buscar laburo en plena recesión.* El Instituto Nacional de Estadística y Censos (INDEC) dice que la economía cayó dos trimestres seguidos, pero eso es solo una forma de verlo. *Acciones a tomar* ☑ Que Luis Caputo, ministro de Economía de la Nación, diga que la recesión técnica es una definición \"arbitraria\".",
+     "*Pedir que los datos sean ciertos.* Desconfiar de una cifra del Presidente es casi un acto de sabotaje. *Acciones a tomar* ☑ Que Javier Milei, presidente de la Nación, anuncie miles de \"terroristas\" deportados. ☑ Que el informe de gestión de la Jefatura de Gabinete de Ministros registre 43.568 incidentes y ningún caso de terrorismo.",
+     "*¿Qué otro delito detectaste?* Avisanos en comentarios así te damos un cargo en el Ministerio de Cosplay."
     ],
-    "copy": "¿Estás buscando laburo? ¿Te cuesta llegar a fin de mes? ¿Escuchaste hablar de recesión y no sabés bien qué es? Esta historia es para vos.",
+    "copy": "El que las hace, las paga 🤬 En la Argentina libertaria no hay lugar para jóvenes que estudian, buscan laburo o piden datos ciertos, así que el Gobierno nacional ya tiene la solución para cada caso.",
     "audiovisual": [
-     "Foto de fondo de un comercio con cartel de liquidación o de una fila de búsqueda laboral, repetida en todas las placas.",
-     "Foto de Luis Caputo recortada en círculo para la placa de la declaración.",
-     "Video de la declaración de Caputo sobre la definición \"arbitraria\" y captura del informe del EMAE en el sitio del INDEC."
+     "Portada con una foto en blanco y negro de Javier Milei y Luis Caputo, intervenida con dibujos en rojo.",
+     "Fotos en blanco y negro de la marcha universitaria, de una fila de búsqueda laboral y del Senado de la Nación, con círculos y flechas rojas a mano.",
+     "Panel gris pizarra con el título en rosa salmón, \"Acciones a tomar\" en amarillo y casillas rojas, y el logo de Soda en la última placa."
     ],
     "a_chequear": [
-     "Los porcentajes exactos del informe del INDEC, incluido si el 1,1% mensual es desestacionalizado.",
-     "Dónde y cuándo hizo Caputo la declaración, para citar el video original."
+     "La cifra exacta de \"terroristas\" que dio Milei (20.000 o 30.000) por si se quiere citar.",
+     "Confirmar que la apelación del Estado nacional sigue en curso ante la Sala III antes de publicar."
     ]
    }
   },
@@ -326,6 +327,7 @@
     "Atribuir adjetivos: \"mentiras\" es la lectura de Página/12."
    ],
    "idea_carrusel": {
+    "formato": "narrativo",
     "enfoque": "Una cifra de Javier Milei, presidente de la Nación, contradicha por el informe de gestión de la Jefatura de Gabinete de Ministros; sirve para mostrar cómo se chequea un discurso con una fuente primaria.",
     "portada": "Los *terroristas* que el Gobierno no encuentra",
     "placas": [

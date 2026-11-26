@@ -4,7 +4,7 @@
 Usa data/edicion.json (o data/edicion-prueba.json si no existe) y data/candidatos.json.
 Uso: python3 scripts/armar_sitio.py
 """
-import json, html, datetime as dt
+import json, re, html, datetime as dt
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
@@ -169,13 +169,58 @@ def indice_seccion(t):
     return MAPA_SECCION.get(sin_tildes(t.get("seccion")), 3)
 
 
+RUIDO_AGENDA = re.compile(r"a cuanto (cerro|cotiza|se vende|esta)|cotiza(n)? (hoy|este)|(dolar|euro|real) (blue|oficial|hoy).{0,25}(hoy|lunes|martes|miercoles|jueves|viernes|sabado|domingo)|euro blue|cuando cobro|que jubilados cobran|cronograma de pago|fecha de cobro|horoscopo|clima (para|en)")
+COMUNES = {"Milei", "Javier", "Gobierno", "Argentina", "Presidente", "Senado", "Congreso", "Nación", "Estado", "Buenos", "Aires", "Hoy", "Cómo", "Qué", "Quién", "Toto", "Luis"}
+
+
+def _propios(g):
+    """Nombres propios de los títulos del grupo, sin los muy comunes."""
+    out = set()
+    for n in g.get("notas", [])[:8]:
+        out |= {w for w in re.findall(r"[A-ZÁÉÍÓÚÑ][a-záéíóúñ]{3,}", n.get("titulo", "")) if w not in COMUNES}
+    return out
+
+
+def _palabras(g):
+    out = set()
+    for n in g.get("notas", [])[:8]:
+        out |= {w for w in re.findall(r"[a-z0-9]{4,}", sin_tildes(n.get("titulo", "")))}
+    return out
+
+
+def _argentino(g):
+    """Al menos una nota de un medio serio o de un dominio .ar."""
+    return any(n.get("lista_seria") or str(n.get("dominio", "")).endswith(".ar") for n in g.get("notas", []))
+
+
+def fusionar_agenda(gs):
+    """Junta grupos del mismo tema (nombre propio en común y vocabulario parecido) para que la agenda no repita."""
+    res = []
+    for g in gs:
+        pg, wg = _propios(g), _palabras(g)
+        destino = None
+        for r in res:
+            if pg & r["_prop"] and len(wg & r["_pal"]) / max(1, len(wg | r["_pal"])) >= 0.12:
+                destino = r
+                break
+        if destino:
+            urls = {x.get("url") for x in destino["notas"]}
+            destino["notas"] = destino["notas"] + [n for n in g["notas"] if n.get("url") not in urls]
+            destino["cant_notas"] += g["cant_notas"]
+            destino["cant_medios"] = max(destino["cant_medios"], g["cant_medios"], len({n.get("dominio") for n in destino["notas"]}))
+        else:
+            res.append({**g, "notas": list(g["notas"]), "_prop": pg, "_pal": wg})
+    return sorted(res, key=lambda g: (g["cant_medios"], g["cant_notas"]), reverse=True)
+
+
 def panel_agenda(cand):
     """Los 10 grupos de las últimas 24 h cubiertos por más medios distintos."""
     gs = []
     if cand and cand.get("candidatos"):
         lim = (dt.datetime.now(AR) - dt.timedelta(hours=24)).isoformat(timespec="minutes")
-        gs = [g for g in cand["candidatos"] if g.get("ultima", "") >= lim and g.get("notas")]
-        gs = sorted(gs, key=lambda g: (g["cant_medios"], g["cant_notas"]), reverse=True)[:10]
+        gs = [g for g in cand["candidatos"] if g.get("ultima", "") >= lim and g.get("notas")
+              and not RUIDO_AGENDA.search(sin_tildes(g["notas"][0].get("titulo", ""))) and _argentino(g)]
+        gs = fusionar_agenda(sorted(gs, key=lambda g: (g["cant_medios"], g["cant_notas"]), reverse=True))[:10]
     if not gs:
         cuerpo = '<p class="lead">Sin datos por ahora.</p>'
     else:

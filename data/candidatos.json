@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-25T22:10-03:00",
+ "generado": "2026-11-25T22:11-03:00",
  "horas": 12,
- "notas_ventana": 1121,
+ "notas_ventana": 1174,
  "descartadas": {
-  "ruido": 56,
-  "exterior": 58
+  "ruido": 65,
+  "exterior": 65
  },
- "grupos": 787,
+ "grupos": 820,
  "candidatos": [
   {
    "id": "22decc0281",
@@ -163,6 +163,64 @@
    ]
   },
   {
+   "id": "4aa3d1ada6",
+   "pre_semaforo": "verde?",
+   "medios_serios": [
+    "infobae.com",
+    "senado.gob.ar"
+   ],
+   "cant_medios": 5,
+   "cant_notas": 5,
+   "ultima": "2026-11-25T21:54:47-03:00",
+   "notas": [
+    {
+     "titulo": "Diego Santilli presenta ante el Senado su primer informe como jefe de Gabinete: “Valió la pena ordenar las cuentas”",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/politica/2026/11/25/diego-santilli-presentara-ante-el-senado-su-primer-informe-como-jefe-de-gabinete/",
+     "fecha": "2026-11-25T21:16:26-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "EL JEFE DE GABINETE, DIEGO SANTILLI, BRINDÓ SU PRIMER INFORME DE GESTIÓN",
+     "medio": "Congreso (Senado)",
+     "dominio": "senado.gob.ar",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUzVBTmRKOFJIOWtnbWJVYmxpdU1HYXhHSVpMNE5DdUxudVo1RThfZGdhcllrUWxXZHhUZ0ptT3NrckNvTGltTHRaWnNVcTFyNy1VMzNkeWViV1k?oc=5",
+     "fecha": "2026-11-25T21:54:47-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "oficial"
+    },
+    {
+     "titulo": "Diego Santilli presentó su primer informe en el Congreso: “Valió la pena ordenar las cuentas”",
+     "medio": "qpasó",
+     "dominio": "qpaso.ar",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFRnVUVMcWkteld2ZndIOGxKSVliY09acTRrZ2ItZDNYbE9TaDRuQzI3dHJzVEJObEdUYjJNYzJCdWlpUDVmSk0wVWNpT3FFanZZN2xLSFpET0x1X2tIX1kweHUzcEcxZElpRmhyeEhvZlRPeUhNWEV0dUpJOEU5b0piZXhBdzRwN0dWUWQwdlNjSkYzdV9jS1hJMXg2REJHTE5IbTBWRXVXeWd4TGFSVS1DaEFwNmtEMklvOUNkMVJCczN3?oc=5",
+     "fecha": "2026-11-25T18:46:02-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Santilli defendió la gestión de Milei en su primer informe ante el Senado",
+     "medio": "Radio 3 Cadena Patagonia",
+     "dominio": "radio3cadenapatagonia.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjM3WUhNLVpkX1M0YkRlSVphZHNiOGx1NkpZSkpnRmhINEdMR2wxQ1J5eHM2WGM3NGdsWnU2Rkw3ZzFIcWQwNXFfZXg1QkR1T1A1NUgzeU1sMFVVY3BQR21pajdWU2Q3aWZ0ZklvM1kwQjRzN0RQS01wcDhGQ04yUGlFN0Rpa2hfWld5Rll6SlVzWktDU0RwaVRWVENvNm4zX24wSmRsdHY5RWNHWlZFNw?oc=5",
+     "fecha": "2026-11-25T19:45:37-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Diego Santilli defendió la gestión de Milei ante el Senado: “Valió la pena ordenar las cuentas”",
+     "medio": "Diario Neuquino",
+     "dominio": "diarioneuquino.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDBzR0xEMEppbGVpZzBBTlN0V240U1ZpMk9nNU9OVUlGbUxkZUdIQ3dGWlllSjRrOXRoM05ySHFpWUpBTjR5ZVRkZnNrdVJzdkZuVmR4aEY0Y194OW51dC04aUd2aklwSzZub0lCREZEWi1nUmt2Yll1UG1hUkNNUlVmRTd5OU1VdzVVcVhBTEdGSTlHc3dxLXBwUFNpem1ubFBZdGpHUU9fM09LY29GbXZjdjh2VHJvdUdROEpQS2g?oc=5",
+     "fecha": "2026-11-25T20:32:29-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "11da32e3dc",
    "pre_semaforo": "verde?",
    "medios_serios": [
@@ -286,46 +344,6 @@
      "dominio": "cholilaonline.ar",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUFVdGRwOXhXWVVNVWFTdEEtN0h5Z3VXWFZLbElQQzY0Y3FGSU5vNk95RS12NmdQRUJSS2xJOE84aDFQdUUtU3lzcm1LY1k0YVg2MlIxNEF1UDEzOUxCaWxXWlRHVncwQllLUF92MWdKQUhPbzdOTDJacWhmcjlQaU9uYktCZVEyUTJ2Z2NJYi1ZNVlNN01wRmh4MTBZN1Vxck9ReGE4ZjFrVWFmZk1Xcg?oc=5",
      "fecha": "2026-11-25T16:10:42-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "d551371832",
-   "pre_semaforo": "verde?",
-   "medios_serios": [
-    "clarin.com",
-    "infobae.com"
-   ],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T14:56:12-03:00",
-   "notas": [
-    {
-     "titulo": "Elecciones en España 2026: cómo votar en Argentina y todo lo que hay que saber",
-     "medio": "Infobae",
-     "dominio": "infobae.com",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0FJa3Z5ckVSUXdPMFhyZGVScVJYUlBnd1JHYVNvNDJCRWtjakhUZ0hYX0VHWEljNTdVLUZsOVBUNnFndWVnS2dkYllrZDdBRVhnbkdrSUV0cjQxSF9IcTBNUnczV1JRUWZOZy1HWXdmeENVM1FUVnRiWm9tdUF6dWo0Mk1NMWppQ0xER042a2w4d3VTMmw4blFxc0NIYjREQXJJSEFHUm0zVkVaWURwVmMxUmJiNHJIMWVMYTFlSdIB2gFBVV95cUxNTWdFSk9zVEdsSXQyRlhTTGR3RXV0OEZNRG9ibkFJWTdkdkJIWEFLOXNocjBYWHNha3BaUlhCMlBmc29OWVB6Sk5DazhadEpVMGt6Z2hOZG5pU1VtNWZnUEI3UFBzQlZuRkJJb05BR0NGX0R5bDFGWmZZelpFQWIxYWVMRTk1Tks2cVFQWkVfVnVZLXFocWNFMzNIb3FlcWNCbWtOVmF5Sk4yaV85ODg5ZnhOV0Jlb0IxcTZZNlZEODZBT2lxeFVLTkFvdEowWTJvcWpXejdLdExZZw?oc=5",
-     "fecha": "2026-11-25T11:32:00-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Dónde voto en Argentina para las elecciones de España 2026: sedes y horarios",
-     "medio": "Clarín",
-     "dominio": "clarin.com",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0U4UXdtdmNQRk5JWXlBelgtdXFTQmsxemFwZm5qejROeld6eldYMUVid3F0dTN2eVc0ZWhueDVPYTJ5NDlFQXphNDcwdU9CYlJrSWFVZmc4SGJNX1oyNjdQRTQ1TUxfYkRlNFNMQWNEU0pNeVhxODVjU3ZfQVFGZkRvQlRqVUtJQjZyQzBiY21zLW54VkhqekxsbjVzTDhMamhLZE12b1B5clhkR1owUEhjSjhrZG150gG4AUFVX3lxTE93RThRd212Y1BGTklZeUF6WC11cVNCazF6YXBmbmp6NE56V3p6V1gxRWJ3cXR1M3Z5VzRlaG54NU9hMnk0OUVBemE0NzB1T0JiUmtJYVVmZzhIYk1fWjI2N1BFNDVNTF9iRGU0U0xBY0RTSk15WHE4NWNTdl9BUUZmRG9CVGpVS0lCNnJDMGJjbXMtbnhWSGp6TGxuNXNMOExqaEtkTXZvUHlyWGRHWjBQSGNKOGtkbXk?oc=5",
-     "fecha": "2026-11-25T14:56:12-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Elecciones en España 2026: dónde votar en Argentina, cuáles son los horarios y hasta cuándo hay tiempo",
-     "medio": "El Economista - Últimas noticias económicas y financieras",
-     "dominio": "eleconomista.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHJQRmJPYnVTYm9peGl5WUVCLUtYMU54U0RCQ2Y3UmRORGQ4VXdBNnR0MDl4eVhRVXdTTEl1X0hDSGpjT3NZVWFTRHJPWWx5X0V4QklyR2plOTRIV2dTZkRsX3hJelBhVkliOElHT3VCQ25HaXBqVXlKU2JmdHJNcUdMZDhSNGVZSGtIU0JfOTlLdTNMMGpZUEp0N1c4LUE0WG5uNXN1TS1sNzZaOGx1MFF5MWxZMDFVN1FMb3ZnZUlxY3lL0gHKAUFVX3lxTE5UMGJBUFZiV1B0ckU1S0w2a0JMNlA3eG9kLUtFVFVDN2FrYXpIeDhJOUVzN3VsVF9Ra2t4VnAyeFZQUGhZN1Z0YTVTUUEtanZEejlDaFZReG94eUNUTFN4OXpOQUdyMnVPZUR4TElGUE1Xbkw4bnlTLUgtNTJrUnZyd1Z0X05NZ3NFRnZFZWJtbzJPRkdVTDNnTjRnWkRScUdDSWhOcDFJZ3UzUzdGU1JlWk16QzYzSl9lXzVOb3hUa0k2UGlRbVd3V3c?oc=5",
-     "fecha": "2026-11-25T10:10:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -505,6 +523,37 @@
    ]
   },
   {
+   "id": "d551371832",
+   "pre_semaforo": "verde?",
+   "medios_serios": [
+    "clarin.com",
+    "infobae.com"
+   ],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T14:56:12-03:00",
+   "notas": [
+    {
+     "titulo": "Elecciones en España 2026: cómo votar en Argentina y todo lo que hay que saber",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0FJa3Z5ckVSUXdPMFhyZGVScVJYUlBnd1JHYVNvNDJCRWtjakhUZ0hYX0VHWEljNTdVLUZsOVBUNnFndWVnS2dkYllrZDdBRVhnbkdrSUV0cjQxSF9IcTBNUnczV1JRUWZOZy1HWXdmeENVM1FUVnRiWm9tdUF6dWo0Mk1NMWppQ0xER042a2w4d3VTMmw4blFxc0NIYjREQXJJSEFHUm0zVkVaWURwVmMxUmJiNHJIMWVMYTFlSdIB2gFBVV95cUxNTWdFSk9zVEdsSXQyRlhTTGR3RXV0OEZNRG9ibkFJWTdkdkJIWEFLOXNocjBYWHNha3BaUlhCMlBmc29OWVB6Sk5DazhadEpVMGt6Z2hOZG5pU1VtNWZnUEI3UFBzQlZuRkJJb05BR0NGX0R5bDFGWmZZelpFQWIxYWVMRTk1Tks2cVFQWkVfVnVZLXFocWNFMzNIb3FlcWNCbWtOVmF5Sk4yaV85ODg5ZnhOV0Jlb0IxcTZZNlZEODZBT2lxeFVLTkFvdEowWTJvcWpXejdLdExZZw?oc=5",
+     "fecha": "2026-11-25T11:32:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Dónde voto en Argentina para las elecciones de España 2026: sedes y horarios",
+     "medio": "Clarín",
+     "dominio": "clarin.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0U4UXdtdmNQRk5JWXlBelgtdXFTQmsxemFwZm5qejROeld6eldYMUVid3F0dTN2eVc0ZWhueDVPYTJ5NDlFQXphNDcwdU9CYlJrSWFVZmc4SGJNX1oyNjdQRTQ1TUxfYkRlNFNMQWNEU0pNeVhxODVjU3ZfQVFGZkRvQlRqVUtJQjZyQzBiY21zLW54VkhqekxsbjVzTDhMamhLZE12b1B5clhkR1owUEhjSjhrZG150gG4AUFVX3lxTE93RThRd212Y1BGTklZeUF6WC11cVNCazF6YXBmbmp6NE56V3p6V1gxRWJ3cXR1M3Z5VzRlaG54NU9hMnk0OUVBemE0NzB1T0JiUmtJYVVmZzhIYk1fWjI2N1BFNDVNTF9iRGU0U0xBY0RTSk15WHE4NWNTdl9BUUZmRG9CVGpVS0lCNnJDMGJjbXMtbnhWSGp6TGxuNXNMOExqaEtkTXZvUHlyWGRHWjBQSGNKOGtkbXk?oc=5",
+     "fecha": "2026-11-25T14:56:12-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "33c98f06fd",
    "pre_semaforo": "verde?",
    "medios_serios": [
@@ -567,14 +616,14 @@
    ]
   },
   {
-   "id": "c55e7da5c9",
+   "id": "c68564a08b",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
     "eldiarioar.com"
    ],
    "cant_medios": 13,
    "cant_notas": 14,
-   "ultima": "2026-11-25T20:59:00-03:00",
+   "ultima": "2026-11-25T20:22:09-03:00",
    "notas": [
     {
      "titulo": "Santilli defendió la gestión de Milei en el Senado y aseguró que el Presidente \"hoy va por la reelección\"",
@@ -622,6 +671,24 @@
      "fuente_tipo": "medio"
     },
     {
+     "titulo": "“Milei no se cayó y va por la reelección”: la desafiante frase de Santilli en el Senado",
+     "medio": "ANDigital",
+     "dominio": "andigital.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnc2Z1piZXRYc1EtSWctVnlMbmJuNGI4NjJFcldTX0NIaTJ0TkNpU29iYm5OYjNpOFVsbXpXVzRVdGhlNGhyOERhVERkWE9GMzNGdnhFT0dvVFZEczZIRjUtN1VsMTZ3TDRSd2dEZnZFUS1HVUdCU2E4bXl3Y19KUW5sRldWUzM2aWtiTnIxY0hpM1o1N2loZG1reUtRV3JMU25jMUlic25PMmxWS2taYmxJR2dBTExSbnBkTXFrRQ?oc=5",
+     "fecha": "2026-11-25T17:45:14-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Diego Santilli defendió la gestión de Milei y afirmó que el Gobierno va por la reelección",
+     "medio": "617 News",
+     "dominio": "617.news",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTGF5NUJqMlZ4bEJGZHBMajhyM1JXNWNReGtjRmh6eVFTdnJ1X2ZqdTIwZ1BScEg2LXNBOUJmeVljWXdIWmVwVHZrZTZIdXU4YXZTRnVKaDNJVkdrTE5CaE81LW5GQUJGTkt3dl91TUtiOU0?oc=5",
+     "fecha": "2026-11-25T18:33:37-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
      "titulo": "Santilli defendió al Gobierno en el Senado: “Milei no se cayó a los seis meses y va por la reelección”",
      "medio": "www.diarioya.ar",
      "dominio": "diarioya.ar",
@@ -629,44 +696,35 @@
      "fecha": "2026-11-25T18:48:56-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Diego Santilli defendió a Milei en el Senado: “No se cayó a los seis meses y hoy va por la reelección”",
-     "medio": "Data Diario",
-     "dominio": "datadiario.com",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaEhtSkdmbG4xYVRtM0h3S1BVMlA5RHR3TkU5Z2dMeDBQZVlrU05lVWt5S0lsX1ZsUUtmQ1BNV0lqNTdBQWtUV0FIVWZxNEVqUVdZZGE1dVhsc3dWTVgxU0p2bUg3VHFEVHVfaFdLa0wzMmZ1QTJnVUpHQlJhTG5BWWF2YlFKSmI4V0tuZ1N1ekF0b0NGMGxodzZsQ1l1czZsQzdqbnozYUtsUWFoak01LVFPVWtzVk52RFVOd0J1ZDg4UHVDTDBMZTh0RGMyNUkyXzNWbTBmc1E?oc=5",
-     "fecha": "2026-11-25T19:36:22-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Santilli defendió al Gobierno de Milei en el Senado y aseguró que el Presidente \"va por la reelección\"",
-     "medio": "Diario Uno Santa Fe",
-     "dominio": "unosantafe.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR01KblN6a3Y5LWRMY240Wl9obEI1c1M2d0x3TTZQa0F2TUk2X3NSYXplS2VNdVBDTjFyY1RSejhCb3BHcXFFd1JTWVc3bWVXWGhkcHNONjVpU1RyeFljSks2YlQwN1FLV3pZM2ZxOUo4cl9SdXkwem40bldGY1lXNEs0RDA4dzc5b0U4eDJxeHEwNlNtTHNjT1JqOEk3UjlTTmxaWmhjZ3JoWlkwcmtNYWNBWWJyXzhGeUQzWC1MdmQyclZMZk5qd3ZwTmI5d3RtbHVzTld4dnl4SWPSAeABQVVfeXFMT3h6cFp1MlhpYldkai1USWtvSkhDVW1WQV9DWVRNYkhvaTlSdWdCTkk2MnRxWHBpODlnRER4LWs4N2RZZjBHaTc1Szl5R3QtSWs5SVF0THJmaUs1Q3BKM3FOTnVIbndvanU3UVdtdjFQeXBjZnZvd1hmNklHN3h4dVRvMTJ6d3JoQXdGTnVra1JmTmVxQk9DQ1dHQ0tjaGdZSFpTN3JOZENMc2hLTGkwNmpaaF9yV21PUFNPTnFwZktTSXhaX21PYVFzQzNlQ09TQllsV3VLdUZQNlYzTVFYQms?oc=5",
-     "fecha": "2026-11-25T19:40:29-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
     }
    ]
   },
   {
-   "id": "7338fb5cc2",
+   "id": "3a08501c21",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
-    "infobae.com"
+    "letrap.com.ar"
    ],
-   "cant_medios": 6,
-   "cant_notas": 6,
-   "ultima": "2026-11-25T21:16:26-03:00",
+   "cant_medios": 5,
+   "cant_notas": 5,
+   "ultima": "2026-11-25T21:04:00-03:00",
    "notas": [
     {
-     "titulo": "Diego Santilli presenta ante el Senado su primer informe como jefe de Gabinete: “Valió la pena ordenar las cuentas”",
-     "medio": "Infobae",
-     "dominio": "infobae.com",
-     "url": "https://www.infobae.com/politica/2026/11/25/diego-santilli-presentara-ante-el-senado-su-primer-informe-como-jefe-de-gabinete/",
-     "fecha": "2026-11-25T21:16:26-03:00",
+     "titulo": "En su primer informe de gestión, Diego Santilli respaldó a Toto Caputo y pidió la reelección de Milei",
+     "medio": "Letra P",
+     "dominio": "letrap.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVRyMDdrWVVUUkhlYzRMVDdJWkVWdk4ydWFELWFxNjUtRjZtXzE1bGlGLXlBZnh4bjVjUlhvNjhuY0Vqd1E0YTdmZzBGYnZqYmlOYldqM0RkRFpNMWRTYmFuLTN5a1ZIWDJYT2NoRUl4a2FpZWc5bmI4OF9PSC00Wjd0TWEwU0JVVXhRZmd4WDgyVGpwdlo0Ujl5TU5XcDVYTzBUOWFXNDc0MUdQS292T3pWeEsyM2JxdVl3dGJwZGRfSnV6VGRMTm1tcGhRbXA5dkHSAdcBQVVfeXFMUHJnQzJkMGZOV3dBUk5XTDhsOERxSkItR1FJVnFQb3FFY1NKWi05NTNWRHdObDl2bDZwZFhOMDFVWGtNRWhmWjZvdjU4Qm1fLTZYVGNaX0Q0WmJSSlUtOENscUx4MUZMRWk3NE9fNDNsTFZEckM3TGd2RHlFM2w0T3FET1NLdnY3S1hOTHJCTWpSbDA0Y2JfaVBPNWF6TUFsZXJDZkxFSDV0azNleV9OUmVhN3pQeElDNnRpRTJrSmhUUHBxaERqUXdmMm8tUGNnSUd0cXBROWM?oc=5",
+     "fecha": "2026-11-25T21:04:00-03:00",
      "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Santilli presentó su primer informe en el Senado: Los argentinos eligieron a Milei y hoy va por la reelección",
+     "medio": "Los Andes",
+     "dominio": "losandes.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM3RtT2xNeVlGSklvWEpidlhiMkpqM1pxaEFnZC1yR0tnZUlDeVVwSFU1UTVxbG1LMTFTZ0RiRDdZX2w4cjJnNVBnaFFsX1NVTGJETi0zdDJOaE93NTZKVFdpUmFGTC14WW1ITVk2T0dtU3BHQklYbHZncFJqUm1qd2dmdHh4ZEdIXzF6R3g0V2J5ME1sZFhvQnVZRGd4SmZpVTJDdVZLcTRCeE1qanVoOUM3SExDSmJlYjZMX1ZkaFdmenNUWWZFU3Y1LVJxN0hRYzJkX09FZkhCQm1neFE?oc=5",
+     "fecha": "2026-11-25T18:08:00-03:00",
+     "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
@@ -688,29 +746,11 @@
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Diego Santilli presentó su primer informe en el Congreso: “Valió la pena ordenar las cuentas”",
-     "medio": "qpasó",
-     "dominio": "qpaso.ar",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFRnVUVMcWkteld2ZndIOGxKSVliY09acTRrZ2ItZDNYbE9TaDRuQzI3dHJzVEJObEdUYjJNYzJCdWlpUDVmSk0wVWNpT3FFanZZN2xLSFpET0x1X2tIX1kweHUzcEcxZElpRmhyeEhvZlRPeUhNWEV0dUpJOEU5b0piZXhBdzRwN0dWUWQwdlNjSkYzdV9jS1hJMXg2REJHTE5IbTBWRXVXeWd4TGFSVS1DaEFwNmtEMklvOUNkMVJCczN3?oc=5",
-     "fecha": "2026-11-25T18:46:02-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Santilli defendió la gestión de Milei en su primer informe ante el Senado",
-     "medio": "Radio 3 Cadena Patagonia",
-     "dominio": "radio3cadenapatagonia.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjM3WUhNLVpkX1M0YkRlSVphZHNiOGx1NkpZSkpnRmhINEdMR2wxQ1J5eHM2WGM3NGdsWnU2Rkw3ZzFIcWQwNXFfZXg1QkR1T1A1NUgzeU1sMFVVY3BQR21pajdWU2Q3aWZ0ZklvM1kwQjRzN0RQS01wcDhGQ04yUGlFN0Rpa2hfWld5Rll6SlVzWktDU0RwaVRWVENvNm4zX24wSmRsdHY5RWNHWlZFNw?oc=5",
-     "fecha": "2026-11-25T19:45:37-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Diego Santilli defendió la gestión de Milei ante el Senado: “Valió la pena ordenar las cuentas”",
-     "medio": "Diario Neuquino",
-     "dominio": "diarioneuquino.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDBzR0xEMEppbGVpZzBBTlN0V240U1ZpMk9nNU9OVUlGbUxkZUdIQ3dGWlllSjRrOXRoM05ySHFpWUpBTjR5ZVRkZnNrdVJzdkZuVmR4aEY0Y194OW51dC04aUd2aklwSzZub0lCREZEWi1nUmt2Yll1UG1hUkNNUlVmRTd5OU1VdzVVcVhBTEdGSTlHc3dxLXBwUFNpem1ubFBZdGpHUU9fM09LY29GbXZjdjh2VHJvdUdROEpQS2g?oc=5",
-     "fecha": "2026-11-25T20:32:29-03:00",
+     "titulo": "Diego Santilli presentó su informe en el Senado: \"Milei no se cayó y hoy va por la reelección\"",
+     "medio": "Lmneuquen.com",
+     "dominio": "lmneuquen.com",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTZMMVpvTGt4b25YMTN4cEY4UC1Ra3hmOExfb1c0OE1UTDEtYnhFMFFnQlJTc1hYSW1CX2ZSanAtVEVQemRwQVhmbmljN1VqTy1TUmhKdzhvVFg5Rm5lTlJsdTN5M2ZGRXZqMDE0Zy1XbEcyZ0ZhMmZCTFhBeXZFaHVn0gGHAUFVX3lxTE12a3VtalVLbmtTNFAtYmZhM1FRN1dyX2xoS05ldzBzNFU4R09Vb2pPME9Ic2VZZkFMcU9MRnFiRGx4ckRMUm45N1hFUjROVDA5QzZUSFhqQ0JuQVh0bEJ0YzNienQ2ZXZhYUFqcGdkb3FoQ2VvRTJDZWI1MDBWZGdNbXBBS0tlMA?oc=5",
+     "fecha": "2026-11-25T20:00:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -873,6 +913,54 @@
      "dominio": "conclusion.com.ar",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObTJ5OVFBaGU1aWc4NjNJRFZrTGVmam1QNXNSc1dfa1VkbTdOdmQxa0h6Rl85M0oyZ1NhNFpTZEU1YzBBdUZYMWtxZndBaEFiWGlNTlJ2bi1IQ1pDZGFmeHliVU1GZC1SSDhVVmRNR3NaWmZXSVVtRkVJZDlTZjVNOVgxdUk1MFFod3JGTVY3Z0R4Qmw3alRwYU1CT2FYbnZJV2JORGliM2JNU2NzclBKUFNwQ0xOc2JBbS1CZTIwa0xtNG1DSkxGYm1xSWxUWU5lYXlYbWdWdmlEb3o2Q0d5LTdoaGV2WDZjZndmZ1dnUEhtUEROT3J3Nm13dGFJa2gzX3lkWEZrWQ?oc=5",
      "fecha": "2026-11-25T21:41:40-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "7e491d3106",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "pagina12.com.ar"
+   ],
+   "cant_medios": 4,
+   "cant_notas": 4,
+   "ultima": "2026-11-25T19:38:00-03:00",
+   "notas": [
+    {
+     "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
+     "medio": "Página/12",
+     "dominio": "pagina12.com.ar",
+     "url": "https://www.pagina12.com.ar/2026/11/25/santilli-fue-al-senado-a-defender-a-milei-relativizo-la-recesion-y-ya-habla-de-reeleccion/",
+     "fecha": "2026-11-25T17:17:21-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Santilli en el Senado: “Milei hoy va por la reelección”",
+     "medio": "Comercio y Justicia",
+     "dominio": "comercioyjusticia.info",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXRDM2lGRmN3MmxObGYwNktjTURHaUphbk5POHZGV2dOVzFaYnFTY2NOd2thSWlzTXBNQkhRN0pBUDk2MndhWGdTUER3RnF5LWRPQVVkdWc4dlZtcHRTMUMtRGVXLXBoOGVKMkh2b0wwNWdZYmFPd3NxN2FBWExBM3gxTmkyc3h4V1NydnRhRXNjNXlrcUx3Yw?oc=5",
+     "fecha": "2026-11-25T17:57:21-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Santilli reivindicó los resultados de Milei y lanzó un mensaje electoral ante el Senado",
+     "medio": "ADNSUR",
+     "dominio": "adnsur.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcS1Uc1ptdzZGSDlaQjQ5Um80Zi0zSzdNWUdfa3VUWkJrWmt5UE54bG1JMzRXRWxXQjNMc25ibEJqN2dhV29maVlhU3ZXZFI2Y201Snl2Mm9YclZaNmNPWGM4cElmNTI3eWxEQzJaYmw2b2dJRWQ4RzhGRHRNT0ZwVXFNMVRMVUhmOThoNHVQVzVOTkRIZGk0MHNVQ0hHTGFLRE1yaUktbWxNaGNfc25WNzV5Z2xnNFZocFF1c2ktZmpLOEVzU0lvRjFxZ01KY3NTMkZQMFhxSk5hbXdPWE10R3Jn?oc=5",
+     "fecha": "2026-11-25T18:29:15-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Santilli lanzó la campaña por la reelección de Milei: “Hoy va por la reelección”",
+     "medio": "En Agenda",
+     "dominio": "enagenda.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzBFRDlhalZ0dHd3OFVoQlZoc0ZHMHdqUnU0R3JfaXozS0p4ZG1aRzFxbGRUVUZkcFpKUTNRODE4aWRwa2VXNDBWQU9ncDVQWlAtYTdWNHR0TDFwc1NiMV9IQmVudUk1eXkwN0t3aDRfaTFiVUxJVC1Ib0VmTnJaNmdEYUxwYnNIUnplU1R0LVFBTk5MZElBakRsSWpMWmxXS1JHTU15RE9CSFpYblZzWXM0RQ?oc=5",
+     "fecha": "2026-11-25T19:38:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -1056,45 +1144,6 @@
      "dominio": "diariopopular.com.ar",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzhicDJoMncwX2xYOVVCeG9Gb2xQU1lRVEtDNXcxZzNWRGd5dF93UVI0R1YyZGhDT1VHUjd0cG8zakg0NGJoOVdna1d4T0hHR20zc1k5NmdraGNZU055eFpJVjNhckhrRDRKWlNlNmhwcnMzZ0FCaGxVcGdrQi1qMEpLd3JMVldlY3ZMLUtXcmxSdHZzTVhnZHE2ZlMtZVlTWGRCc21fQXBvQnlxZm5oekhPTDd6VWFJb1g3Vw?oc=5",
      "fecha": "2026-11-25T21:30:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "3a08501c21",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "letrap.com.ar"
-   ],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T21:04:00-03:00",
-   "notas": [
-    {
-     "titulo": "En su primer informe de gestión, Diego Santilli respaldó a Toto Caputo y pidió la reelección de Milei",
-     "medio": "Letra P",
-     "dominio": "letrap.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVRyMDdrWVVUUkhlYzRMVDdJWkVWdk4ydWFELWFxNjUtRjZtXzE1bGlGLXlBZnh4bjVjUlhvNjhuY0Vqd1E0YTdmZzBGYnZqYmlOYldqM0RkRFpNMWRTYmFuLTN5a1ZIWDJYT2NoRUl4a2FpZWc5bmI4OF9PSC00Wjd0TWEwU0JVVXhRZmd4WDgyVGpwdlo0Ujl5TU5XcDVYTzBUOWFXNDc0MUdQS292T3pWeEsyM2JxdVl3dGJwZGRfSnV6VGRMTm1tcGhRbXA5dkHSAdcBQVVfeXFMUHJnQzJkMGZOV3dBUk5XTDhsOERxSkItR1FJVnFQb3FFY1NKWi05NTNWRHdObDl2bDZwZFhOMDFVWGtNRWhmWjZvdjU4Qm1fLTZYVGNaX0Q0WmJSSlUtOENscUx4MUZMRWk3NE9fNDNsTFZEckM3TGd2RHlFM2w0T3FET1NLdnY3S1hOTHJCTWpSbDA0Y2JfaVBPNWF6TUFsZXJDZkxFSDV0azNleV9OUmVhN3pQeElDNnRpRTJrSmhUUHBxaERqUXdmMm8tUGNnSUd0cXBROWM?oc=5",
-     "fecha": "2026-11-25T21:04:00-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Santilli presentó su primer informe en el Senado: Los argentinos eligieron a Milei y hoy va por la reelección",
-     "medio": "Los Andes",
-     "dominio": "losandes.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM3RtT2xNeVlGSklvWEpidlhiMkpqM1pxaEFnZC1yR0tnZUlDeVVwSFU1UTVxbG1LMTFTZ0RiRDdZX2w4cjJnNVBnaFFsX1NVTGJETi0zdDJOaE93NTZKVFdpUmFGTC14WW1ITVk2T0dtU3BHQklYbHZncFJqUm1qd2dmdHh4ZEdIXzF6R3g0V2J5ME1sZFhvQnVZRGd4SmZpVTJDdVZLcTRCeE1qanVoOUM3SExDSmJlYjZMX1ZkaFdmenNUWWZFU3Y1LVJxN0hRYzJkX09FZkhCQm1neFE?oc=5",
-     "fecha": "2026-11-25T18:08:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Diego Santilli presentó su informe en el Senado: \"Milei no se cayó y hoy va por la reelección\"",
-     "medio": "Lmneuquen.com",
-     "dominio": "lmneuquen.com",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTZMMVpvTGt4b25YMTN4cEY4UC1Ra3hmOExfb1c0OE1UTDEtYnhFMFFnQlJTc1hYSW1CX2ZSanAtVEVQemRwQVhmbmljN1VqTy1TUmhKdzhvVFg5Rm5lTlJsdTN5M2ZGRXZqMDE0Zy1XbEcyZ0ZhMmZCTFhBeXZFaHVn0gGHAUFVX3lxTE12a3VtalVLbmtTNFAtYmZhM1FRN1dyX2xoS05ldzBzNFU4R09Vb2pPME9Ic2VZZkFMcU9MRnFiRGx4ckRMUm45N1hFUjROVDA5QzZUSFhqQ0JuQVh0bEJ0YzNienQ2ZXZhYUFqcGdkb3FoQ2VvRTJDZWI1MDBWZGdNbXBBS0tlMA?oc=5",
-     "fecha": "2026-11-25T20:00:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -1413,45 +1462,6 @@
    ]
   },
   {
-   "id": "0e58a7caae",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "infobae.com"
-   ],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T17:28:29-03:00",
-   "notas": [
-    {
-     "titulo": "Brasil piensa invitar a una autoridad argentina distinta a Milei a la investidura de Lula",
-     "medio": "Infobae",
-     "dominio": "infobae.com",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRXlCZG1tY2NsN25CckZiZGpaTjcwTXFTV2JwVExwejNROXl5ZFFtaFBaT0MwbUlRSHVfbDhhY3h4RGFmVlg5N18zNFpxVnFTaERDcXVuSm85R0FWOW5UQk00MUp4UDRVdDFmR1l1VDdBVzNQX3RpRXF6QjdUd3JkaEtUbDJGbzRyY0Vfb2dXOEppLWM1eGltLURHTUZBaWlqQ3NrM1RERjVrdTBXRG9pVFJqWllzM1lKN0xQdGt5MXlaWkhjbDREdDNVWmVCaU1LcHQyYVphSGVFUdIB9AFBVV95cUxPdnZCb2RldHBVaWVrVXFTUEFhY3NNSEZwZ2VRUkt2Q0dVWk1SZ1hXb1dRcnpfV28wdUxoemhnVVl5RjcteS1GZk5KUTJLNzRURGtjU0Y1eEhYNXYtSTVQTVFiVXVtUmRyWnJoUGZnd2hqbURCSlpxd0I3WDNQRDc3NlBsTzh0MVo3NmphejI4eHpCUTFTMm9jS2dYZUZhWi1ESkkwN01Dd3ZhdldFZEhvQzk5eXVzdjZqRVJLS2dOSTVPWm9nMmdfcjE3eFpqMzdneFFwWXpvWlZnTGFzTVFhM2VQanI4eEktSkJBWFJhZlM0WjhN?oc=5",
-     "fecha": "2026-11-25T16:16:00-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Brasil piensa invitar a una autoridad de Argentina distinta a Milei a la investidura de Lula",
-     "medio": "EFE - Agencia de noticias",
-     "dominio": "efe.com",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2R1UFNSdmwtNE9FTTJTOTZWRUhCMTZtVEZna1YwUlJoaWprXzZPVWs0Uk9ReE5vRUUyVG9sNjFhV3FsRWFaeHJlOEJBVmEwajlYSURZc0wxMmNmX3EtbnJqZHNabk1ySXNxM1dKLW1zSlMtLWpjRWJHY0UxbFVFTEhKOXgtZnE5cFNRcEt3?oc=5",
-     "fecha": "2026-11-25T16:32:48-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El gobierno de Brasil analiza invitar a la asunción de Lula a otra autoridad argentina en lugar de Javier Milei",
-     "medio": "TN",
-     "dominio": "tn.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeklCWmFfdlctRkl0RWtKeGt0am5udnkxQkVnZnVtYWI5Q0JOT0xIQ1QzV0pXQWczY2w5V1FLX0tnU09hMU8zSXZKN0NzRWRjOGhlT2NMVUFidGdBaXRDVFZNNkVNOE9xbmxjVktFWlcxdXJ0MzF6S2Zmb1hYY0dVQjlDZnFkWUkwRk4yMnhYUElwamJrWkV6dGJFY2hlVk1Heno1bTY5N0R1VGVUaHNFTGE2dTFnMGNyWWZORWdWNlFfTnh1cU5VckZrQzdCSC0wQnRLUUVPdGtzNmdWV3kwdm9uVzB1M1UwT0lV0gH_AUFVX3lxTE1KLVYyZlZidXVGM092WTQzcnNyVTcwWkZZRm91VzA0QU40WVdJLTJfbWg3azlNOFNTdnhtRDRrMHRoOEVmSi1aWU9ZVjV4VFJVX3NoMHRPV1JNYzh1emt5SFZReEJQSzR6OThKaVVqelQtU1lXYThiRi1nU2dfSE4zQVZhTzljTlA5M0VTV1pMaXZxQm9hQVZhY0RiekluVkFjU0o4S2p3UTNEZXp5VFJFbkRod0l0bmtrVzEtSnFwajJNN1JUTG9tU1lLWG5zUXE5QnBzT3B6emUxYW5UYzR2Zk1XeWhBUGc2RlBYdUNmejhvS1hsam1hZ3dvT1ZBRQ?oc=5",
-     "fecha": "2026-11-25T17:28:29-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "d831eb257f",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -1536,7 +1546,7 @@
     "lanacion.com.ar"
    ],
    "cant_medios": 3,
-   "cant_notas": 4,
+   "cant_notas": 3,
    "ultima": "2026-11-25T12:08:54-03:00",
    "notas": [
     {
@@ -1546,15 +1556,6 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkxZYU5qQWNmWUVjMmVMOTVvY0VJbTdRb1ZzUHRlYXVGangtNWdkLWhnZS1oLW00Y3p6MG5GMnc2M0l3eXdoa1pORUtlQjRNSGxwN3l6R1ZadVBqQUE2WEpUZUI1bWlVb0kteDEwbUNIUncyeGg5ZTVWMHpDR3dNVDRPd3lxQWlTcFNhQnl2a3Q3SHQySXlQNHd2ek42WjBEc0ttSGhSc3RhdWJYRl9kSUln?oc=5",
      "fecha": "2026-11-25T11:38:00-03:00",
      "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Dólar blue: a cuánto cotizan hoy en Córdoba 25 noviembre 2026",
-     "medio": "Infocampo",
-     "dominio": "infocampo.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOazRtMGJVeUdTdy0xRUhxR0F2MjJ6bWVtRFdPNllGMk9aZ2xYcEVFTXRpdkoybVJzZjYwT2ZJZWI1Uzd6OTRialZsOXlQZlQtTG10NnNCbU8xel9fM2E0cnhaV2Fab091ck5FWFBiOVEtUzFmbmVGZ0ZXVzhnUnl4dWZVWkdoRU1rb2ZCY2JCb3I3RkU?oc=5",
-     "fecha": "2026-11-25T10:10:06-03:00",
-     "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
@@ -1917,36 +1918,6 @@
    ]
   },
   {
-   "id": "43c5a796e6",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "pagina12.com.ar"
-   ],
-   "cant_medios": 2,
-   "cant_notas": 2,
-   "ultima": "2026-11-25T17:17:21-03:00",
-   "notas": [
-    {
-     "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
-     "medio": "Página/12",
-     "dominio": "pagina12.com.ar",
-     "url": "https://www.pagina12.com.ar/2026/11/25/santilli-fue-al-senado-a-defender-a-milei-relativizo-la-recesion-y-ya-habla-de-reeleccion/",
-     "fecha": "2026-11-25T17:17:21-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Elogios a Milei, seguridad y reelección: los puntos clave del cierre de Diego Santilli en el Senado",
-     "medio": "MinutoUno",
-     "dominio": "minutouno.com",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzZyU0F2MmY0ZHdPTXhXMVBpWFRXTFRnZ3djbmRMSWhKSk4zUHdjY29hZ0NJMVl6eW1ocE8wdmVVUEFCMlF2RTBYTXg2X1RqYnBYVWk5RHJLYUU3Rk1OWVZfVXUxS2lFcER0VEZ1XzZtSWdEbUVUeEJvcXlndlJOWW1USnZiYVZlNWlCRUtzcHo5X0NqU1JjYVZGVU1LSHhTeEptWi1vcjNrWGFreE1oYXI4VjRkQV9GcjFacUY1VXltUk9RYWN1aFdMb09lUdIBzgFBVV95cUxONzZyU0F2MmY0ZHdPTXhXMVBpWFRXTFRnZ3djbmRMSWhKSk4zUHdjY29hZ0NJMVl6eW1ocE8wdmVVUEFCMlF2RTBYTXg2X1RqYnBYVWk5RHJLYUU3Rk1OWVZfVXUxS2lFcER0VEZ1XzZtSWdEbUVUeEJvcXlndlJOWW1USnZiYVZlNWlCRUtzcHo5X0NqU1JjYVZGVU1LSHhTeEptWi1vcjNrWGFreE1oYXI4VjRkQV9GcjFacUY1VXltUk9RYWN1aFdMb09lUQ?oc=5",
-     "fecha": "2026-11-25T16:34:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "652619e2ba",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -1971,6 +1942,36 @@
      "dominio": "codigobaires.com.ar",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNlctX295SWFGbWU5WVc4OXNzWnVnSUpxSTVJT19NWjluUTh6SHlhbl9uTDd0YjlCZ0s1QTRPZnU3U3hPemR1SDNqOVAtd3NrRmpYQ2ZERzF5WWdkdk94MUpZdzViYi04N3dwSjRNc3lCTDZYdUJlSWVtM3drQmNkSDNrX3NSeng0ZVpWWkNJWHdTRXdidVZDMnpJYVAtamszcHBZVDFlMjRQZkhGTDZ2MXNFTS1QMkdjdGhZUWJtNFjSAcQBQVVfeXFMT0d0eUpKU19JZGJwUWwxbldEdmh3b3N4NHBsamV4N3BldncyOWktWTNSZ2dqbl9rZlJUNi02dzVBQ2xGWGFTbHFuRzRyZjVoZWpIUzF6TDVFWkkwcC1aanhmcEc1bHFhMURKV3FKWlprM3JNZFkzTFdTVTVuQ0VnNDN0TEdrSUVxR1RGT1NhRXRvQnl1R0lLenpDQ3JOOThWcHVQT2xsWTJTamczV1RaTTZ0VlZhb3FYblZiTGlWR3N1UEk0Qw?oc=5",
      "fecha": "2026-11-25T15:06:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "3f005073b1",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T16:32:48-03:00",
+   "notas": [
+    {
+     "titulo": "Brasil piensa invitar a una autoridad argentina distinta a Milei a la investidura de Lula",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRXlCZG1tY2NsN25CckZiZGpaTjcwTXFTV2JwVExwejNROXl5ZFFtaFBaT0MwbUlRSHVfbDhhY3h4RGFmVlg5N18zNFpxVnFTaERDcXVuSm85R0FWOW5UQk00MUp4UDRVdDFmR1l1VDdBVzNQX3RpRXF6QjdUd3JkaEtUbDJGbzRyY0Vfb2dXOEppLWM1eGltLURHTUZBaWlqQ3NrM1RERjVrdTBXRG9pVFJqWllzM1lKN0xQdGt5MXlaWkhjbDREdDNVWmVCaU1LcHQyYVphSGVFUdIB9AFBVV95cUxPdnZCb2RldHBVaWVrVXFTUEFhY3NNSEZwZ2VRUkt2Q0dVWk1SZ1hXb1dRcnpfV28wdUxoemhnVVl5RjcteS1GZk5KUTJLNzRURGtjU0Y1eEhYNXYtSTVQTVFiVXVtUmRyWnJoUGZnd2hqbURCSlpxd0I3WDNQRDc3NlBsTzh0MVo3NmphejI4eHpCUTFTMm9jS2dYZUZhWi1ESkkwN01Dd3ZhdldFZEhvQzk5eXVzdjZqRVJLS2dOSTVPWm9nMmdfcjE3eFpqMzdneFFwWXpvWlZnTGFzTVFhM2VQanI4eEktSkJBWFJhZlM0WjhN?oc=5",
+     "fecha": "2026-11-25T16:16:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Brasil piensa invitar a una autoridad de Argentina distinta a Milei a la investidura de Lula",
+     "medio": "EFE - Agencia de noticias",
+     "dominio": "efe.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2R1UFNSdmwtNE9FTTJTOTZWRUhCMTZtVEZna1YwUlJoaWprXzZPVWs0Uk9ReE5vRUUyVG9sNjFhV3FsRWFaeHJlOEJBVmEwajlYSURZc0wxMmNmX3EtbnJqZHNabk1ySXNxM1dKLW1zSlMtLWpjRWJHY0UxbFVFTEhKOXgtZnE5cFNRcEt3?oc=5",
+     "fecha": "2026-11-25T16:32:48-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -2217,6 +2218,300 @@
    ]
   },
   {
+   "id": "7eb2ba2d53",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "ambito.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:07:43-03:00",
+   "notas": [
+    {
+     "titulo": "Diego Santilli evidenció su oficio político en un Senado que sólo puede pensar en la reforma electoral",
+     "medio": "Ámbito",
+     "dominio": "ambito.com",
+     "url": "https://www.ambito.com/politica/diego-santilli-evidencio-su-oficio-politico-un-senado-que-solo-puede-pensar-la-reforma-electoral-n6349365",
+     "fecha": "2026-11-25T22:07:43-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "d32f93402d",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:06:22-03:00",
+   "notas": [
+    {
+     "titulo": "Sentencian a un hombre por violar a su hija de 13 años en la CDMX: fue detenido en flagrancia",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/mexico/2026/11/26/sentencian-a-un-hombre-por-violar-a-su-hija-de-13-anos-en-la-cdmx-fue-detenido-en-flagrancia/",
+     "fecha": "2026-11-25T22:06:22-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "740d931abf",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:05:30-03:00",
+   "notas": [
+    {
+     "titulo": "Analistas urgen al gobierno aplicar una reforma fiscal para aumentar los ingresos tributarios",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/mexico/2026/11/26/analistas-urgen-al-gobierno-aplicar-una-reforma-fiscal-para-aumentar-los-ingresos-tributarios/",
+     "fecha": "2026-11-25T22:05:30-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "963d60767e",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:04:12-03:00",
+   "notas": [
+    {
+     "titulo": "Cómo evitar que Chrome siga consumiendo memoria RAM cuando está cerrado",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/tecno/2026/11/26/como-evitar-que-chrome-siga-consumiendo-memoria-ram-cuando-esta-cerrado/",
+     "fecha": "2026-11-25T22:04:12-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "dc26139a02",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:01:19-03:00",
+   "notas": [
+    {
+     "titulo": "Taxista es asesinado en Villa El Salvador: sicarios llegaron en motocicleta, le dieron 10 disparos y huyeron",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/peru/2026/11/26/taxista-es-asesinado-en-villa-el-salvador-sicarios-llegaron-en-motocicleta-le-dieron-10-disparos-y-huyeron/",
+     "fecha": "2026-11-25T22:01:19-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "aa0a2c4beb",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:00:33-03:00",
+   "notas": [
+    {
+     "titulo": "Feijóo: \"El cambio es recuperar la ambición del país y la esperanza de los jóvenes\"",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/espana/agencias/2026/11/26/feijoo-el-cambio-es-recuperar-la-ambicion-del-pais-y-la-esperanza-de-los-jovenes/",
+     "fecha": "2026-11-25T22:00:33-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "3cfe599243",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:00:20-03:00",
+   "notas": [
+    {
+     "titulo": "Un petrolero denuncia una explosión causada por un proyectil no identificado 92 kilómetros al oeste de Dubái",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/un-petrolero-denuncia-una-explosion-causada-por-un-proyectil-no-identificado-92-kilometros-al-oeste-de-dubai/",
+     "fecha": "2026-11-25T22:00:20-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "8d5b122e0b",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "lanacion.com.ar"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T22:00:00-03:00",
+   "notas": [
+    {
+     "titulo": "Mel Robbins, sobre los vínculos familiares cuando los padres no quieren ir a terapia",
+     "medio": "La Nación",
+     "dominio": "lanacion.com.ar",
+     "url": "https://www.lanacion.com.ar/sociedad/mel-robbins-sobre-los-vinculos-familiares-cuando-los-padres-no-quieren-ir-a-terapia-nid25112026/",
+     "fecha": "2026-11-25T22:00:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "3d81727f58",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "lanacion.com.ar"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:57:56-03:00",
+   "notas": [
+    {
+     "titulo": "Franco Yan presentó su primer corto en Buenos Aires y contó cómo reaccionaron Cris Morena y Gustavo Yankelevich al verlo",
+     "medio": "La Nación",
+     "dominio": "lanacion.com.ar",
+     "url": "https://www.lanacion.com.ar/espectaculos/personajes/franco-yan-presento-su-primer-corto-en-buenos-aires-y-conto-como-reaccionaron-cris-morena-y-gustavo-nid25112026/",
+     "fecha": "2026-11-25T21:57:56-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "ec3ea8917f",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:55:48-03:00",
+   "notas": [
+    {
+     "titulo": "Atentado contra la Gobernación del Meta: cuatro personas permanecen en UCI y otras siete están hospitalizadas",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/colombia/2026/11/26/atentado-contra-la-gobernacion-del-meta-cuatro-personas-permanecen-en-uci-y-otras-siete-estan-hospitalizadas/",
+     "fecha": "2026-11-25T21:55:48-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "14fe921d8e",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "cronista.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:53:13-03:00",
+   "notas": [
+    {
+     "titulo": "¿Por qué dormimos peor cuando hace calor? Qué dice la ciencia y cómo mejorar el descanso",
+     "medio": "El Cronista",
+     "dominio": "cronista.com",
+     "url": "https://www.cronista.com/contenido-patrocinado/por-que-dormimos-peor-cuando-hace-calor-que-dice-la-ciencia-y-como-mejorar-el-descanso/",
+     "fecha": "2026-11-25T21:53:13-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "9b4dd8e536",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:51:40-03:00",
+   "notas": [
+    {
+     "titulo": "Adrián Ugarriza reveló los detalles de su charla con Matteo Pérez Vinlöf tras chocar en la Europa League: “Lo tiene en consideración”",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/peru/deportes/2026/11/19/adrian-ugarriza-revelo-los-detalles-de-su-charla-con-matteo-perez-vinlof-tras-chocar-en-la-europa-league-lo-tiene-en-consideracion/",
+     "fecha": "2026-11-25T21:51:40-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "2ec3e03858",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:48:42-03:00",
+   "notas": [
+    {
+     "titulo": "Una coalición de 22 estados demandó al Departamento de Vivienda por una regla que afectará a hogares con estatus migratorio mixto",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/25/una-coalicion-de-22-estados-demando-al-departamento-de-vivienda-por-una-regla-que-dejara-sin-ayuda-a-hogares-con-estatus-migratorio-mixto/",
+     "fecha": "2026-11-25T21:48:42-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "ecd65ed54f",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:47:11-03:00",
+   "notas": [
+    {
+     "titulo": "Nueva Jersey declara el estado de emergencia ante una tormenta durante el Día de Acción de Gracias",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/25/nueva-jersey-declara-el-estado-de-emergencia-ante-una-tormenta-el-dia-de-accion-de-gracias/",
+     "fecha": "2026-11-25T21:47:11-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "91c662728c",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -2259,6 +2554,48 @@
    ]
   },
   {
+   "id": "c6ce409719",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:46:27-03:00",
+   "notas": [
+    {
+     "titulo": "”Ceder la gobernanza a la IA es una mala idea”: CEO de Anthropic aclara su postura sobre el poder de las máquinas",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/tecno/2026/11/26/ceder-la-gobernanza-a-la-ia-es-una-mala-idea-ceo-de-anthropic-aclara-su-postura-sobre-el-poder-de-las-maquinas/",
+     "fecha": "2026-11-25T21:46:27-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "aa5653f8f1",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:46:02-03:00",
+   "notas": [
+    {
+     "titulo": "Cierre de la mezcla mexicana de petróleo de este miércoles 25 de noviembre",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/mexico/2026/11/26/cierre-de-la-mezcla-mexicana-de-petroleo-de-este-miercoles-25-de-noviembre/",
+     "fecha": "2026-11-25T21:46:02-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "838e49a5ff",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -2274,6 +2611,69 @@
      "dominio": "lanacion.com.ar",
      "url": "https://www.lanacion.com.ar/sociedad/dario-sztajnszrajber-explica-por-que-la-filosofia-cuestiona-la-idea-de-que-todo-tiene-que-ser-util-nid25112026/",
      "fecha": "2026-11-25T21:46:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "9818f4e218",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:45:52-03:00",
+   "notas": [
+    {
+     "titulo": "Piojo Alvarado regala jersey autografiado a María Antonieta de las Nieves tras disfrazarse de la Chilindrina",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/mexico/deportes/2026/11/26/piojo-alvarado-regala-jersey-autografiado-a-maria-antonieta-de-las-nieves-tras-disfrazarse-de-la-chilindrina/",
+     "fecha": "2026-11-25T21:45:52-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "b5e34ca1cb",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:45:15-03:00",
+   "notas": [
+    {
+     "titulo": "Patronal mexicana alerta del deterioro económico en Sinaloa tras aumento de la violencia",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/patronal-mexicana-alerta-del-deterioro-economico-en-sinaloa-tras-aumento-de-la-violencia/",
+     "fecha": "2026-11-25T21:45:15-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "75fa69f671",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:44:44-03:00",
+   "notas": [
+    {
+     "titulo": "Comando FEN pone en alerta al norte peruano por cinco días de lluvias",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/peru/2026/11/26/comando-fen-pone-en-alerta-al-norte-peruano-por-cinco-dias-de-lluvias/",
+     "fecha": "2026-11-25T21:44:44-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -2589,6 +2989,27 @@
      "dominio": "infobae.com",
      "url": "https://www.infobae.com/guatemala/2026/11/26/el-clan-lorenzana-como-medio-siglo-de-pactos-terror-y-cooptacion-social-forjo-el-cartel-mas-arraigado-de-guatemala/",
      "fecha": "2026-11-25T21:31:27-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "8c3f4c6310",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "lapoliticaonline.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:31:08-03:00",
+   "notas": [
+    {
+     "titulo": "La Corte busca en el Congreso una salida a la contradicción constitucional para elegir al sucesor de Aguilar",
+     "medio": "La Política Online",
+     "dominio": "lapoliticaonline.com",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0FTcmZIbGNWU0UzSmpZOE02MW1KLW5BV3ZWWkszRlBTTXJ0LUZNZzhLbWpZdGVGLXZ1MU1IZjJWM0Utc09qYXNRdE1oNUp1bXdVZENuVHFOVVdfbjhJaEFRdXhjcElGTWc4UkpoaU01Nzgzem8zT25KeXVQb0kyQ1R0WDhnWjVmSEhreVh2R00zSWlnaXNrbXdyNzBHcHJUZk1fQ0JiX1BBTFR2dEJBUlpvQ0Q0c243cW01NGxlcDNBVlpLVnpSR3A2dVdrdDE3cE1KckFFREpjMC1CRHB2ZXlRLUY5QXFLX0NoakJUMTlqTEnSAegBQVVfeXFMTjh1bTlFOVlBNmRRMjI4a0dqak5rNkNpQ2JkZ0pDR1NvdFFNVWE0Qi1kOUYybkdkZDhPSXZ1c0FOdjhqVzdvZC1kdzByZkllQU1CdDM1LXJUaUpndzdqZUZ2bDBrQVF3eWVsRlJtM2ZLemFqN09JT214SDduQ2NUckFKdlFjTGp6OG54QlJEZXN4U1FROHEyZEdiU1BkUDBQbXNGQm1zS0Z0NDRmTEV0UGlxUEFPT0syMmxOY3Bfb2YwR1M0YTRiWEV4c0Q0OHFBMHhWTlBzYmsxZWxPcnhyVHpnbXpDa1dNTQ?oc=5",
+     "fecha": "2026-11-25T21:31:08-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -7167,6 +7588,27 @@
    ]
   },
   {
+   "id": "0f5e6a3737",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "letrap.com.ar"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:51:00-03:00",
+   "notas": [
+    {
+     "titulo": "El PRO revalidó su respaldo a Figueroa, pero en la capital de Neuquén enfrentará a Gaido",
+     "medio": "Letra P",
+     "dominio": "letrap.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaExpSXFaU0RrcG1hakYtZXZmUU05ak5lamQweThwYXoxZVVVTUhLR190RDgwUTVpWFdNY1c0NTZPREg5c3FFQVpncVNMSXRtd0pkN2JpTWt5WXRYQTl3Ry1YYnNleEIwdzZvejduUEJsQXhrUGxta2RzcU9Gb1g3bFNOQVBZSjdKaVRaMmMyOVpjY2lNM2lTajlPV3lxMUU4akFYZUV5Tk1BX3pIaDNfRmE3RkdlWGPSAbcBQVVfeXFMUGhMaUlxWlNEa3BtYWpGLWV2ZlFNOWpOZWpkMHk4cGF6MWVVVU1IS0dfdEQ4MFE1aVhXTWNXNDU2T0RIOXNxRUFaZ3FTTEl0bXdKZDdiaU1reVl0WEE5d0ctWGJzZXhCMHc2b3o3blBCbEF4a1BsbWtkc3FPRm9YN2xTTkFQWUo3SmlUWjJjMjlaY2NpTTNpU2o5T1d5cTFFOGpBWGVFeU5NQV96SGgzX0ZhN0ZHZVhj?oc=5",
+     "fecha": "2026-11-25T18:51:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "8e763764fe",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -7791,6 +8233,27 @@
      "dominio": "perfil.com",
      "url": "https://www.perfil.com/sociedad/division-palermo-gano-un-emmy-y-korovsky-ironizo-sobre-el-ajuste-de-milei-aCgKq9Z1M1Y3",
      "fecha": "2026-11-25T18:16:38-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "f2d7cd3eda",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:16:00-03:00",
+   "notas": [
+    {
+     "titulo": "El estado del tiempo en Chiclayo del miércoles 25 de noviembre",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeE1VRER6Tk1xZXRJbzZ1R0lXVlUtSzBVSC12Zk9nLU93aDVDbGdfTTBrRTZDVjFtS0FXek92SXc3MGd3TFFxa1VGSW8zWmxSZWNoNVF0MXNUbV9mNU9WZTRaTnVWdVQ1dWhvd282bzd4aEItYURwRkg5RWlJaHJSQzMyWFNqOFpWZ3B5dVc1dXJIY2RkelhMRmlkNkU0alRIM1hqMDBB0gHAAUFVX3lxTE5SZjM3UTVWQlpSc2pwUHFMNGlsRmx6NG90T1draEZObXZFT1JSOC1naVRGb1lhZjNtLW5kUmpUS21rYWhyVi1mUVlUQW1qQnBiaWNEa1VwNldmT2ZWelNxN0tudExFNzFiRkdSTXc3VTlub1Z6X2J4V3d6dG1GaTRERE9GQ3BndkNpdG5RRFd0R2dPXzJMdHlLTDN5ekFHOU1uLUtvbFhZeVgzVDN2VmhwS2xjUW5IdjNFSHVsZjlFWg?oc=5",
+     "fecha": "2026-11-25T18:16:00-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -9180,6 +9643,27 @@
    ]
   },
   {
+   "id": "7755e19460",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T16:31:43-03:00",
+   "notas": [
+    {
+     "titulo": "Es argentina, vive en Estados Unidos, comparó las diferencias laborales y se viralizó",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTZka1QzNTdHMjdOeXo0OUh1TmUzMm1rcGhqNXNPQUZnNmNsTmVmMFJ1TFg1WWpqLVR2VHVmZGdEb25aZ2xpbkZhT3dsS2h5VWFFd2l1NTBqZFRjc0xXTUgxU1lHTGdoRGdidDV0SUNrcWcxR1V6aWdNamhyZGpnajhQYXl6TjBVMXExZmx6Z2N5dDZyaUJnSTRKWXY2X3AzanBxampqbHVuTk5tWTNFOWVlUDNOaV9jSU9oQllJWk8zZ3VhNFVITXVMWDg?oc=5",
+     "fecha": "2026-11-25T16:31:43-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "f1d0bf3602",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -10086,6 +10570,27 @@
      "dominio": "letrap.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzZISDZZUjA5QjJYb0xjS2VQUGRWS3hoMjVlaXA0VHhuY3JaWVJsV2kxaFdILUI2TEplbjVFWmRjdnFjVDU2RmhFY09HQm1KN0R3bXV6OXVVS1lGNHN6NlhTSHhKRVcyc3NYeUl0bC1CRloxWEJkX3ZHZ1c4SEgtVTdtUVJfamM2SkZJUXAyZHNRX3ZFZl9qZDRDcERqU2tlc2lFanpQYmMzMzJEbGtkNUdvNGh2Q0VCbWFJRWo3ZmFpM0x6a3lQb1VCaW1GX1BEeV9GVzZkTk1NMm_SAeABQVVfeXFMT2g0NHpwcUd2Zk1BaHEtSDFiSG56WkozR3VZY1BxUXJJTURqYVJRdmN2VUhGZGJ3RWVIVThMUzJnaWxwWE5lZ1k2ald6TzNUTDRIUDYyTVNJclpnX2tnZ0tuWFE3a0pRYUJqQ0F2RmxYMlFtWkJkZEpfLXF5cGJzcTRIY0tnd3dXYU13cHc4bDNtbC1XaWVTd3Mxdy1lQUJKSmoxUkM5b01aTWNGZDhOTXVJUnh4dEhManVZemI0Ry1BbGxZNWxnbC1wa1c3ZlN4UlVwaWxEem4wc1dIUDB1U3g?oc=5",
      "fecha": "2026-11-25T15:11:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "56ca4fcdc1",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "perfil.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T15:02:51-03:00",
+   "notas": [
+    {
+     "titulo": "Ricardo Delgado: “El mejor escenario económico es que la situación no empeore más“",
+     "medio": "Perfil",
+     "dominio": "perfil.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSW5mSTZnSl9PbHYzeURzM05hT2o3VG5UbnkzT1k4cDdhZ0NHZFkweENvdjhKVS1tMWF3MHV1T3RMaU1DVUJGU19vcE91Y3B4YjFpWWl0OTA1WUYyTldfMXZRNDduOE03SlBNeGxDaWNJcDNqRDh6TGdPSkNrZkJZSFpQcnlvWVAzZ2NJaVJKb1QxZVBkVHVEeU1wa2xGMjdVZDZDRlZLcXI2dHBLSjkwbzh6Nk1Bc3VueTU1ajctcHJYRnRDOUZBdg?oc=5",
+     "fecha": "2026-11-25T15:02:51-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -11235,55 +11740,92 @@
    ]
   },
   {
-   "id": "08741fa7ec",
+   "id": "a6efa2f313",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
-   "cant_medios": 5,
-   "cant_notas": 5,
-   "ultima": "2026-11-25T19:19:05-03:00",
+   "cant_medios": 4,
+   "cant_notas": 4,
+   "ultima": "2026-11-25T22:03:41-03:00",
    "notas": [
     {
-     "titulo": "Santilli defendió el rumbo económico del Gobierno: “No hubo estallido, hubo crecimiento”",
-     "medio": "Diputados Bonaerenses",
-     "dominio": "diputadosbsas.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ma25obG1NVGNXdHlHTzdjT2lvTXpkWERXSThkb21vT19MWTZ3N0s5eGFnRXlVTGVva1Y5MmFibjAxTE5QaUYwcTNnWnBEYUVxV0s4bmdPNkhDQmFRV2xfX2JKWWZXd0JkU3ZHa2Zn?oc=5",
-     "fecha": "2026-11-25T17:55:00-03:00",
+     "titulo": "El gobierno de Brasil analiza invitar a la asunción de Lula a otra autoridad argentina en lugar de Javier Milei",
+     "medio": "TN",
+     "dominio": "tn.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeklCWmFfdlctRkl0RWtKeGt0am5udnkxQkVnZnVtYWI5Q0JOT0xIQ1QzV0pXQWczY2w5V1FLX0tnU09hMU8zSXZKN0NzRWRjOGhlT2NMVUFidGdBaXRDVFZNNkVNOE9xbmxjVktFWlcxdXJ0MzF6S2Zmb1hYY0dVQjlDZnFkWUkwRk4yMnhYUElwamJrWkV6dGJFY2hlVk1Heno1bTY5N0R1VGVUaHNFTGE2dTFnMGNyWWZORWdWNlFfTnh1cU5VckZrQzdCSC0wQnRLUUVPdGtzNmdWV3kwdm9uVzB1M1UwT0lV0gH_AUFVX3lxTE1KLVYyZlZidXVGM092WTQzcnNyVTcwWkZZRm91VzA0QU40WVdJLTJfbWg3azlNOFNTdnhtRDRrMHRoOEVmSi1aWU9ZVjV4VFJVX3NoMHRPV1JNYzh1emt5SFZReEJQSzR6OThKaVVqelQtU1lXYThiRi1nU2dfSE4zQVZhTzljTlA5M0VTV1pMaXZxQm9hQVZhY0RiekluVkFjU0o4S2p3UTNEZXp5VFJFbkRod0l0bmtrVzEtSnFwajJNN1JUTG9tU1lLWG5zUXE5QnBzT3B6emUxYW5UYzR2Zk1XeWhBUGc2RlBYdUNmejhvS1hsam1hZ3dvT1ZBRQ?oc=5",
+     "fecha": "2026-11-25T17:28:29-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Diego Santilli defendió la gestión de Milei y afirmó que el Gobierno va por la reelección",
-     "medio": "617 News",
-     "dominio": "617.news",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTGF5NUJqMlZ4bEJGZHBMajhyM1JXNWNReGtjRmh6eVFTdnJ1X2ZqdTIwZ1BScEg2LXNBOUJmeVljWXdIWmVwVHZrZTZIdXU4YXZTRnVKaDNJVkdrTE5CaE81LW5GQUJGTkt3dl91TUtiOU0?oc=5",
-     "fecha": "2026-11-25T18:33:37-03:00",
+     "titulo": "Tras cancelar la invitación a Javier Milei, Lula evalúa convocar a otro dirigente argentino a su asunción",
+     "medio": "Nexofin",
+     "dominio": "nexofin.com",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXZUanE4UTJ5UW9CZjJhQmRGMWpJZ1RzTzVxc0VDR1pGSERJN3hYU2pzZnJsUkpwM2hQWDdPVC03UkI5UVVHc3dmT1lidFdBMFdMTE9GUk52SjQxNlJMUlYyYWdRYWtjc3RpYXBScnNQa1QxYlQyNE1yTTVkWXBNVEJ0QkJmMldnMEd6c0p3Vk5tN1dyYWtOd2xFeHc5RkZ3RUZPS2RzVTcya1dyWWl3THpIZThscUJrdHhIbzFkLVpWMXpWZmRUSXhWX040ZXd1cFRZQ0RJYXNUY0hLRjBGNmdkUELSAeQBQVVfeXFMTnV2VGpxOFEyeVFvQmYyYUJkRjFqSWdUc081cXNFQ0daRkhESTd4WFNqc2ZybFJKcDNoUFg3T1QtN1JCOVFVR3N3Zk9ZYnRXQTBXTExPRlJOdko0MTZSTFJWMmFnUWFrY3N0aWFwUnJzUGtUMWJUMjRNck01ZFlwTVRCdEJCZjJXZzBHenNKd1ZObTdXcmFrTndsRXh3OUZGd0VGT0tkc1U3MmtXcllpd0x6SGU4bHFCa3R4SG8xZC1aVjF6VmZkVEl4Vl9ONGV3dXBUWUNESWFzVGNIS0YwRjZnZFBC?oc=5",
+     "fecha": "2026-11-25T19:46:39-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Como fiel escudero de Javier Milei, Diego Santilli defendió la gestión en el Senado",
-     "medio": "Urgente24",
-     "dominio": "urgente24.com",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2ZLVkc5Zzd0eUYwSzhZM1RKcEdVbHFtYk14bFdSUDh2SzBNU2wxRDNzVTVQdmFnYU9tVl9md1VvazRWNVBfd1BlMWd4MVlEYjZCM2Z2bnpuVGhCclRDd2dwbjRoWmw5ZTh3U3JtLTdWVDdLdnVDZFdnQU4zQnZuN1o4aFo0ZENhQlZMa1dCeDRVLXdUWjNkTVR6OXREZnR1d3FSTlRqZ2dSYnhmNllrVEhBcW9SMktj0gG-AUFVX3lxTE1URTRzS1pvbW5Oa3pGVjV5U01hY3MyN2puNDFSTF82RjJRc2RIdTBzNTNHV1dRZ2hHek5KLUlRMWZ3bnJjS19WMEFodVZpUkdrUGtfbDNWWm1mRkpxN2NvN1ZkVDh4dHFqaTJvSnppMDYyVzFPVjFEYWNJQ1pPVFp0cGVYWVBZd0ItZlU3a2hrVkVfcXVJMHZEZVBSd0ZtTFlGZnpiRURuMGttMEFSNGhPRnNGOXVQQWxiTVBLSFE?oc=5",
-     "fecha": "2026-11-25T18:59:43-03:00",
+     "titulo": "Brasil evalúa invitar a otro representante argentino a la asunción de Lula en lugar de Milei",
+     "medio": "DameNoticias",
+     "dominio": "damenoticias.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlpXN1RQMnZQNnJVZDN5RExIeVMtZWltZ1lFWEJGYWY0bS01Y2VITHZsLXJMczg5M0U4emhKSEwxVUJORXFDWUxfUTdsM3ZwbjhPMDY1LTUtR085RDNIQ0I4WE1DMnZOQlRKUVhZZmI1RkVWYnJET2VWTFd6YXNtZHdWYzl2eVc0Smk5UGRQY3RQeVIzbHpCYU1oSjFfa2ZVNDU1WUV5TTZPaU1ra0k2cDExWHJ4eDVWVXc2RU5ldzk3RWJuWlNlSTRObWhJdw?oc=5",
+     "fecha": "2026-11-25T21:59:19-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Santilli defendió al Gobierno en el Senado: “Milei hoy va por la reelección”",
-     "medio": "MendoVoz",
-     "dominio": "mendovoz.com",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQejIwbWhaMEhEY1N1R1dwc1lwTWtBY3JfbnVBRlBGeTM3Uk9ka0k0Uk9MMFRjU0duNGhscmw4Y0lxMU5ZNVdDM2I3Y1o0UzJHZ19PeWNPZUx3VFlfd2o1Wm1wbFNlLWxhakd6d0V1bUVNZXk2OHMxN0ZRMDUtTU1nZUpmVV80UDZ1ZGFUT292YUVUd0Y0TC15aUtQTE4tcHBsTkJKUnVLYWN6em54TFJSQ2xnN0dKS053OThWRjg2RDFrREdkRWJqSFpSc05vdnRZcm9VYjQ0Nzl4YjA?oc=5",
-     "fecha": "2026-11-25T19:00:00-03:00",
+     "titulo": "Brasil contempla invitar a otra autoridad argentina en lugar de Milei a la asunción de Lula",
+     "medio": "Radiofonica 100.7",
+     "dominio": "radiofonica.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmtsQzdSRVQ2V2pVZkhBOVhVc0E3Q1Vsemh6eGhPaldMeGJyNm1ETmQ1UmI0WlFtY0txMTg0OGNpaVVDMDdJYjlQTjNDcjJwY0FuWTZjQ3FDbzNYQWtyYnd1djFUaTF6VHM5T3lDc0ZVb3lYam44TmFMemtpTmRzRm9QWF9KUEVZdzNQbUpVUzc5TXdKYlBoM0ZIMVU5OGhVLVJXaXdodUtuOTc3YXVuNTdta0VZa0k?oc=5",
+     "fecha": "2026-11-25T22:03:41-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "05cf6a8ee7",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 4,
+   "cant_notas": 4,
+   "ultima": "2026-11-25T21:50:47-03:00",
+   "notas": [
+    {
+     "titulo": "Santilli: “El presidente Milei está cambiando el país para siempre. Esta vez, la Argentina no vuelve para atrás”",
+     "medio": "Zona Norte Diario Online",
+     "dominio": "zonanortediario.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnJyZmp4S3NicUt4aEpVQnAxODRKRTNWVE9mMk5JMHlRSHR4WDQ5WlBad0FuNXZsUHdNaC1LcVU0c0IySkkwYzlIUFI0RUF6M3d4b2phcWFJMExsemozR0liVlNrbjNOZS1LOUF1cm1hN0N0bXN6Nzh2RWFUYllObDJ1anBSMWVBdFprVjNYNWVSdml4TnR3aXYzQVo0TEtDaHJIc0JVZTNtc0RLS3RaN0E2aUZ1TkkzbmJVdEFKbGNoaG1XUDF5WG5XbFQ4Y2JnLTlJZURfbnhTY3JfbnFxNkNDREhhN1FtRkE?oc=5",
+     "fecha": "2026-11-25T17:06:23-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Santilli defendió la gestión de Milei en el Senado: “No hubo estallido, hubo crecimiento”",
-     "medio": "La Gaceta",
-     "dominio": "lagaceta.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSnhUUE54dERkcmkza0I3dDFrS2ZLNUg4TlEzaHdHREtRZ2V2UU9LQWlxeDI4anNReUdWcFlNRTQ1UkJHU1lMbUZ2cFlfdklRMUd0NUNIeGJPNWlWVF9YYmt5WEVoWXNJUEVZTXgtVFNfSkl2N0U3dmNsclFHT1BzdDVlOEdOQ2dnaWNqeVdzd2Vad210cFJVenhoSEFpZlBVdGU3TFJ4Z0tNT0FpTnplZ3RpUldBc3I1Z2lzVU0zWm91c2dLS0hz0gHMAUFVX3lxTFB6T04tU1NrdHlhZmlPT3dFQzFfZ1lFbWVnaFNTbmxKamVBUEg0RlJaOUNNOGNSWVdSWnhoel9UcGpiY0ZwYTJqZENPTE9TblpqSE9jUmlrNjh0MTNLT1pPZUM1SlBiMXcyNXNkV2JOUHRsNnpZR3FwUzVRb2J5SVNKTk9rQUdXRjh1cjNPSVB1YmtTM1A3b2VLVXhPX0RwYmdaR0tranlLMno4TTdUSTlRckVDLTdDZzVuQTd5dUg3VzV4UkVOODdJNW15cw?oc=5",
-     "fecha": "2026-11-25T19:19:05-03:00",
+     "titulo": "Diego Santilli defendió a Javier Milei en el Senado y ratificó el rumbo económico",
+     "medio": "Diario Popular",
+     "dominio": "diariopopular.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUFQS21jMTRsYXJjUjNmejNsUkhsaWlFc2Q4Y002R1ZWamFCNmt0YWlDSXdiNEUxMF9vUHBTekMwRU9XYVhHS3RwenpxOHNFdHdQeVhMN1R4ODRaeWFHQ0MyOTlPUUJ1aXh1Q1RWOXNDMTBSdkl0WEtDQ1AxazZKaXFtbTd4SkhnOVdMeG1RU3paZzh5YmE1OGR0allhWmtIQlk3aVpkR2JxeXJVWk9kVEtuYUtFdHdObnBDWlJwYnk3bk5T?oc=5",
+     "fecha": "2026-11-25T20:27:05-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Diego Santilli defendió a Javier Milei en el Senado y aseguró que el Presidente irá por la reelección",
+     "medio": "0221",
+     "dominio": "0221.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPakRfcUxwWnVxcTFNRzNSN1BJZ0pmZWtDbjlEdllBbzRaV1RZX0xSWUViZnZfcFRCSnFaeHZ3T0NsRUV0S2lTUFZ2LWFUY2JPakcxYzZlQ1F3Sld5S1lua3FGU1pvTk4zTmlCOGZTUGprTXVwaEplT3p1YXdzTURVd0tORnpMTHRuV0Exb0hCYkZWVUpJdGhicE1Walg1UTRCODNpOER6RDlneE1VOGItbnpFZWd1T19CektSd0NtSVBsTXBWRzdtLVRqMkR5d9IB0wFBVV95cUxON2IxUzVqa3hVdkhJNWxDbW54c3hCLU8tR2ZMX1VTc0NJMk9xQXJLM2R4TUZ5M29mR004dUNRS3pQZ05menVJT0ItNkZwMXN1UzI0a0RYUEozQVBSdm1vMDlqYWR2X01rTVV1QVRUaWUzTkh0S3A2NXgxRDVDMkJLWE9GLXlSTF9pTGZJSEdDY3pEc2pJSnZPSE4zc0J0Q0dhdXdOakJNVzRDWV9NUnplMUlGdFM0X0ZYZzlKYkluWENZSnJWQVNRR0dkeDF0NDQyYkYw?oc=5",
+     "fecha": "2026-11-25T20:59:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Diego Santilli defendió el rumbo económico en el Senado y aseguró que \"Milei está cambiando la Argentina para siempre\"",
+     "medio": "HOY ROJAS",
+     "dominio": "hoyrojas.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RWnF3M19RbDVZNER3LXFZendDSnhGMHZKNWQ2em45ZUVFQTNQdWoyaDdBVzFfWHNVMjdlc2EwQ09qcHBjdmZiZjRGVzdmTElTMzBoMjBkU1FNdFpWbWJqWkpaUW4yNjg?oc=5",
+     "fecha": "2026-11-25T21:50:47-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -11336,6 +11878,52 @@
    ]
   },
   {
+   "id": "2a44d57481",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 4,
+   "cant_notas": 4,
+   "ultima": "2026-11-25T20:57:04-03:00",
+   "notas": [
+    {
+     "titulo": "Como fiel escudero de Javier Milei, Diego Santilli defendió la gestión en el Senado",
+     "medio": "Urgente24",
+     "dominio": "urgente24.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2ZLVkc5Zzd0eUYwSzhZM1RKcEdVbHFtYk14bFdSUDh2SzBNU2wxRDNzVTVQdmFnYU9tVl9md1VvazRWNVBfd1BlMWd4MVlEYjZCM2Z2bnpuVGhCclRDd2dwbjRoWmw5ZTh3U3JtLTdWVDdLdnVDZFdnQU4zQnZuN1o4aFo0ZENhQlZMa1dCeDRVLXdUWjNkTVR6OXREZnR1d3FSTlRqZ2dSYnhmNllrVEhBcW9SMktj0gG-AUFVX3lxTE1URTRzS1pvbW5Oa3pGVjV5U01hY3MyN2puNDFSTF82RjJRc2RIdTBzNTNHV1dRZ2hHek5KLUlRMWZ3bnJjS19WMEFodVZpUkdrUGtfbDNWWm1mRkpxN2NvN1ZkVDh4dHFqaTJvSnppMDYyVzFPVjFEYWNJQ1pPVFp0cGVYWVBZd0ItZlU3a2hrVkVfcXVJMHZEZVBSd0ZtTFlGZnpiRURuMGttMEFSNGhPRnNGOXVQQWxiTVBLSFE?oc=5",
+     "fecha": "2026-11-25T18:59:43-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Santilli defendió la gestión de Milei en el Senado: “No hubo estallido, hubo crecimiento”",
+     "medio": "La Gaceta",
+     "dominio": "lagaceta.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSnhUUE54dERkcmkza0I3dDFrS2ZLNUg4TlEzaHdHREtRZ2V2UU9LQWlxeDI4anNReUdWcFlNRTQ1UkJHU1lMbUZ2cFlfdklRMUd0NUNIeGJPNWlWVF9YYmt5WEVoWXNJUEVZTXgtVFNfSkl2N0U3dmNsclFHT1BzdDVlOEdOQ2dnaWNqeVdzd2Vad210cFJVenhoSEFpZlBVdGU3TFJ4Z0tNT0FpTnplZ3RpUldBc3I1Z2lzVU0zWm91c2dLS0hz0gHMAUFVX3lxTFB6T04tU1NrdHlhZmlPT3dFQzFfZ1lFbWVnaFNTbmxKamVBUEg0RlJaOUNNOGNSWVdSWnhoel9UcGpiY0ZwYTJqZENPTE9TblpqSE9jUmlrNjh0MTNLT1pPZUM1SlBiMXcyNXNkV2JOUHRsNnpZR3FwUzVRb2J5SVNKTk9rQUdXRjh1cjNPSVB1YmtTM1A3b2VLVXhPX0RwYmdaR0tranlLMno4TTdUSTlRckVDLTdDZzVuQTd5dUg3VzV4UkVOODdJNW15cw?oc=5",
+     "fecha": "2026-11-25T19:19:05-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Diego Santilli defendió la gestión en el Senado",
+     "medio": "Economis",
+     "dominio": "economis.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oWE92Y1h5dlJVVzBzcU5vb0dzaHYzenNxck54UVNFbW56bzZHdmxOc0tKTjFoc2pBVW41NDZ6R1VaQ193WHN2MkhiME9DQlZKSlBVZ0hnVU42U1ZuSEhnNmZsMVNyaC1YSWwteURIdEp3dTJNUUpWcXUxTC0?oc=5",
+     "fecha": "2026-11-25T20:35:30-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "José Mayans acusó a Diego Santilli de concurrir al Senado para \"versearnos\"",
+     "medio": "El Comercial",
+     "dominio": "elcomercial.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnZ0T0tYelUzQVpHZjRwaUNqMzh3djdDNWJDNkRNeE5TZEhGN1dNMlI0NDRQSTFVeFNJdndDbGV6ZHBCcU1Zc3NpOHFkdE9RRGphQzJ4b2NXZzV0Y0RzQS1tX3U4VmJCd2R3YVB6b2pRRFNwR1plRm1sVnhlb2pFWFNZeUlRbzBYa2g1Vm9lSDRZMmR4bHpsR1NWSG5zZnNVT0x3MlVKTkExanZDUmNj?oc=5",
+     "fecha": "2026-11-25T20:57:04-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "c64179cd25",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -11382,46 +11970,92 @@
    ]
   },
   {
-   "id": "7e491d3106",
+   "id": "71ff47e8ac",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
    "cant_medios": 4,
    "cant_notas": 4,
-   "ultima": "2026-11-25T19:38:00-03:00",
+   "ultima": "2026-11-25T20:03:05-03:00",
    "notas": [
     {
-     "titulo": "“Milei no se cayó y va por la reelección”: la desafiante frase de Santilli en el Senado",
-     "medio": "ANDigital",
-     "dominio": "andigital.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnc2Z1piZXRYc1EtSWctVnlMbmJuNGI4NjJFcldTX0NIaTJ0TkNpU29iYm5OYjNpOFVsbXpXVzRVdGhlNGhyOERhVERkWE9GMzNGdnhFT0dvVFZEczZIRjUtN1VsMTZ3TDRSd2dEZnZFUS1HVUdCU2E4bXl3Y19KUW5sRldWUzM2aWtiTnIxY0hpM1o1N2loZG1reUtRV3JMU25jMUlic25PMmxWS2taYmxJR2dBTExSbnBkTXFrRQ?oc=5",
-     "fecha": "2026-11-25T17:45:14-03:00",
+     "titulo": "La economía argentina entró en recesión, confirma el INDEC",
+     "medio": "El Resaltador",
+     "dominio": "elresaltador.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnRrZV81b1RpVUxuV2NtMHJ0akNqMldOMm8tZnVITDNScDZQckxDWGlYUWNVbW5GcXoxR2dWWjEydHhheUFRUUVuRWU0RzZaWldpOVpiSUUtUVI1MmpKeVAxOFVvaTdIa0UyOUk5clhTaWlVVDY4M0N3S0pqb3ROSjhLcTEteGY3VnY1ck5Gdw?oc=5",
+     "fecha": "2026-11-25T11:03:55-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Santilli en el Senado: “Milei hoy va por la reelección”",
-     "medio": "Comercio y Justicia",
-     "dominio": "comercioyjusticia.info",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXRDM2lGRmN3MmxObGYwNktjTURHaUphbk5POHZGV2dOVzFaYnFTY2NOd2thSWlzTXBNQkhRN0pBUDk2MndhWGdTUER3RnF5LWRPQVVkdWc4dlZtcHRTMUMtRGVXLXBoOGVKMkh2b0wwNWdZYmFPd3NxN2FBWExBM3gxTmkyc3h4V1NydnRhRXNjNXlrcUx3Yw?oc=5",
-     "fecha": "2026-11-25T17:57:21-03:00",
+     "titulo": "¿Qué significa la recesión técnica en la que entró Argentina según el INDEC?",
+     "medio": "El Argentino Diario",
+     "dominio": "elargentinodiario.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVlEUFNfU2FwZkl4WVRreWlVVDEwbllHc1hjZ0hUVldpRTNwYW5oUnRoTXFtX1ZUMEFSRDVCV0kxZ0NDMUlZdWJHMmhYai1fdHZFWXhmcmlxZXJibUJpaVRoWUEzVjlGdk15UkVwenpBaEVYMm1PMzRnVzhsX3NTT1JtMnFOanBmaDhNQm1ZSi15eDZJMF9oeUFpN0EzY1liMWNpb1VBazZtQlpqY1Y3QXdIZmZUXzc4V3pRR3VGRVhaZlRlbE50VzE5dlpnVGJMeXc?oc=5",
+     "fecha": "2026-11-25T12:08:48-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Santilli reivindicó los resultados de Milei y lanzó un mensaje electoral ante el Senado",
-     "medio": "ADNSUR",
-     "dominio": "adnsur.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcS1Uc1ptdzZGSDlaQjQ5Um80Zi0zSzdNWUdfa3VUWkJrWmt5UE54bG1JMzRXRWxXQjNMc25ibEJqN2dhV29maVlhU3ZXZFI2Y201Snl2Mm9YclZaNmNPWGM4cElmNTI3eWxEQzJaYmw2b2dJRWQ4RzhGRHRNT0ZwVXFNMVRMVUhmOThoNHVQVzVOTkRIZGk0MHNVQ0hHTGFLRE1yaUktbWxNaGNfc25WNzV5Z2xnNFZocFF1c2ktZmpLOEVzU0lvRjFxZ01KY3NTMkZQMFhxSk5hbXdPWE10R3Jn?oc=5",
-     "fecha": "2026-11-25T18:29:15-03:00",
+     "titulo": "Qué es una \"recesión técnica\" y qué significado tiene para la economía argentina",
+     "medio": "El Destape",
+     "dominio": "eldestapeweb.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmpRNnpsQjd1V0J2S1F4U1kyWG5RY2xCZk93MEZGb3pndHc0Y0FMa2xZak1WZzNRdG80MnQ1bk1VM1otNXFSZkVmaHduZ3dZT3NRN2l1alBtZDVyR0NXc0ZxZklGUnNneVpHUC1EazFWVFF2djBJZlJzVHRMYllaR01LYjg3a3JudGhrQzNidmZFYjVrU3ZzTnBpeW1Sd2ZZRTlNYXFqOXl5QdIBvgFBVV95cUxOUWRCQXN3UVBSdUZTS3Y5T3NmVUxLTThxYXdjekdTQlRJOFNQTjYyM2dSelFBR2RGdElzNV9UQnVyVkt1VG9PbmJyNDNzRE56M2tPTkR0UktKR1J4cVFrMTdCRzJqU1FBYXB1S3NDYnRTX1V5SzRfYTRMOXZaTXU2UWI5clRvNVpPaHVTbkJZVXFiMUNvazBsMFRJSnhQS0hKaWVON0UxalRXVEhhT1ROQ21DbFNBQllSVDdWT293?oc=5",
+     "fecha": "2026-11-25T19:56:41-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     },
     {
-     "titulo": "Santilli lanzó la campaña por la reelección de Milei: “Hoy va por la reelección”",
-     "medio": "En Agenda",
-     "dominio": "enagenda.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzBFRDlhalZ0dHd3OFVoQlZoc0ZHMHdqUnU0R3JfaXozS0p4ZG1aRzFxbGRUVUZkcFpKUTNRODE4aWRwa2VXNDBWQU9ncDVQWlAtYTdWNHR0TDFwc1NiMV9IQmVudUk1eXkwN0t3aDRfaTFiVUxJVC1Ib0VmTnJaNmdEYUxwYnNIUnplU1R0LVFBTk5MZElBakRsSWpMWmxXS1JHTU15RE9CSFpYblZzWXM0RQ?oc=5",
-     "fecha": "2026-11-25T19:38:00-03:00",
+     "titulo": "La economía argentina ingresó en cuadro de \"recesión técnica\": qué significa y qué esperar",
+     "medio": "AHORA Mar del Plata",
+     "dominio": "ahoramardelplata.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2hSY0xJZTlZRzNPSHRPRS1mV1BxbHR3ZzRUeC1QWXlEcS1DRFJ0VTFTZWlHN0gxZU5XbUl3cmpOZWZjR0VibzRLOEs3RlJCa2h2OXNWdk9KVHBHaU1rS2FGNHNOcXhxa1FCY0hzbVJvd1lqeTFOSHdoY2UyZk1aNW5tSFRmOTUtRjNnS3VVOUtjT0F0ZGZjcm43NkpBV1RsSk9kNVhtQmgwT1VYQmtPY1VFN3RaUHpfSjdXT1ZTcVp5YzA?oc=5",
+     "fecha": "2026-11-25T20:03:05-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "a80973a361",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 4,
+   "cant_notas": 4,
+   "ultima": "2026-11-25T20:02:08-03:00",
+   "notas": [
+    {
+     "titulo": "El riesgo país superó los 1100 puntos y el dólar oficial tocó un nuevo máximo de $ 1630",
+     "medio": "La Opinión | Pergamino",
+     "dominio": "laopinionline.ar",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmJNRVdYbjl4MVRIS251bkZ3NmRlMWxRZGpid1RDZThPTHR1Q3gzYUNqU3lVMmxqRUYtUFRfOWNsRFdsNVhOaXdrODVUcDQybU0zT2ttZEgyRGxVVUhsMS12d09Iems0dEhtdTJWUEtROTJCUFllTnpxX1U5Qjd0emExcFYwdG1jVzN0RDJURkotbWRYeVZuanFqZ2RLUGFXMmNMbm0wV0lSRmVDUzg1Wkk1RUZQbkVzSFc4?oc=5",
+     "fecha": "2026-11-25T14:52:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "El riesgo país supera los 1.100 puntos y el dólar alcanza un nuevo récord histórico",
+     "medio": "La Gaceta",
+     "dominio": "lagaceta.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSV9HRTV6cldpZFY5YjljM1hQek1DS3IzMlhkUnJIaUFkaG52V2VQUHczZUlhS0FsVmFjTXBZUW14bE5YR3dxc3V5WF9tUzZkYlM4VE5YUm5rSDRWZnIxS1hHMktEbjhIU0tyUjFJX3loMk1yeTBVMWdyb2JkWU1Zak1McTg2dVltZUlSTGVOdGFBZUpyaTk5MjhiTXl0WHl6ZmFITXlJZXJRSHBGQXQ4Z2hSTFJIWjBNYlB5amx1Z9IBxAFBVV95cUxOV0FoWlRJMVE2T21hbk1jWDNTT1JpbEZTTG9McUVucmZuYTZHYlpPVVRNblp2N0VhdVg2LVRYejliYXdJUjlsMHdhZ2lzcndHQ3Q0QmMxRG93QlhYTVg5VG1xN1pWdFlJaXNsVjFGR3BwLTlXVE9PZ1ZmQUU5ZzFzVEpPendZaktGVHJTaU5OTXYtYW5DS3NFYl9EcUVBU3BRNkZ3Y0RlWi1PTG9RZ09HendKNHJ2WVp3cTRYY3ZLSjRfTjVW?oc=5",
+     "fecha": "2026-11-25T16:10:15-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "El riesgo país vuelve a subir y supera los 1.100 puntos: el dólar alcanzó un nuevo récord",
+     "medio": "La Arena",
+     "dominio": "laarena.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMlQ1WVRsejdMVy1JUEtPekRpckU4c2pFQlpnUTNjQVllanVLcjI0R1dJM251N1BvMlZlNnlTOFRaT0ZWOHppOVE2OEthTVA1SnFTNEg1eW81eG9ZOUNPT0JqbDhMekdXU0hKNDdTb21VRHBSSGtvRjNvU1lsVWNKUDhCUzRaRy02WkY5R3ZCYU9FRjVMSlBlZXI1Qm1XeVpmcXc1NEJZNGhxdjJjSWRXNnNrVTcwckROWDJ1TGYzTmYzVnh0andWVG1McnNzUkFBbUJV?oc=5",
+     "fecha": "2026-11-25T16:17:36-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "El riesgo país supera otra vez los 1100 puntos y el dólar cotiza en un máximo de $1630",
+     "medio": "Radio Profesional 89.9",
+     "dominio": "fm899.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTNjVE8wOEJpWVhFZkd0N0ZYbTRDV2dhYkRvc3JXT3h2SjFkTlpCMWJYYW9INGtuNm1zREEyYnJwRWxHdnlZUDA1c21VNVdyVkhEWks2dUdnZkxVX0VDZVlhWDdKYzFqZHNvd2VlZTlNeUs2UXc5NUs5ZHJwV3ozMmpEWDhpcGRxZDRzN0RTcjh5TFhzelJmMWJEdmdVS2RDdkxNNlhSVFhRdXc?oc=5",
+     "fecha": "2026-11-25T20:02:08-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -11606,80 +12240,6 @@
      "dominio": "unoentrerios.com.ar",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWkhLaWlJMmV1aTNaRjdBYzlReFJZUl9FY3NObl9uMy1mNTdfYlNUMlIwUnJfRGRKcGtCWkZwUXp6RGpDam80NHFvQWdRX01kaTlTdFZOSHc0empmcFFVXzJlQ040NDAyUDROTXRIeFZfX1BYaUQ2SW5DMUl1bW5uTkJucHkzZnJGSFdUQzRrSnZHRjRQRXdPLXRLTmlad0pGbzhRSVl3ZDlHRzhVYWNmcDNEdmtjRklxaEdjQkxic0dFZGJzUHlOcGQxa9IB0AFBVV95cUxONUk1SmpMT1JwWVZ1LW5pcFVUQVBtMGRkaWxTcUk2YkFBN1dELWZYQ0pEcHVQM05nbUN5OVNibzltM2hncG0xekNibXdGNXJBUG5SYnpHWEMxU0NJMzVBcEVoUXNmRF9GMWF0OWhCWHRqMTlMTk1MU3cwVXBSclhZYzRUeHJqNFotYnZnSE9sWmJWNkJ3N3NvWW44ZEtfaVoxNzY2S2ZyeHJPNzdyUVA2S005bEJZS2RMOWpVaWhaQnlNbmx5LWQ5WHBfam52LU9E?oc=5",
      "fecha": "2026-11-25T17:06:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "71ff47e8ac",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T20:03:05-03:00",
-   "notas": [
-    {
-     "titulo": "Recesión técnica en Argentina: qué significa para el ciclo económico",
-     "medio": "LT10",
-     "dominio": "lt10.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjItcDBwdE45ZldLMXkzTXNqaVdzaFhaMUN4U25mQzA0T0pKeVVRS3dWZlp3cy04T0Y3SmZ0aE5WTHJkcHl1bjhVelpfLUtReGIzX0dtNno4YUo5MnEtRVF4TThDcUVHbnA1ZHBLdG83Z0lla0I3SE5MMnhyWHhVclBlc0MzczN2X3JrYUtKSkdXdmxucDJ2NV8tYkxIYWMxZXI3azM1LWszLXfSAasBQVVfeXFMUG4yLXAwcHROOWZXSzF5M01zamlXc2hYWjFDeFNuZkMwNE9KSnlVUUt3VmZad3MtOE9GN0pmdGhOVkxyZHB5dW44VXpaXy1LUXhiM19HbTZ6OGFKOTJxLUVReE04Q3FFR25wNWRwS3RvN2dJZWtCN0hOTDJ4clh4VXJQZXNDM3Mzdl9ya2FLSkpHV3ZsbnAydjVfLWJMSGFjMWVyN2szNS1rMy13?oc=5",
-     "fecha": "2026-11-25T10:54:13-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Qué es una \"recesión técnica\" y qué significado tiene para la economía argentina",
-     "medio": "El Destape",
-     "dominio": "eldestapeweb.com",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmpRNnpsQjd1V0J2S1F4U1kyWG5RY2xCZk93MEZGb3pndHc0Y0FMa2xZak1WZzNRdG80MnQ1bk1VM1otNXFSZkVmaHduZ3dZT3NRN2l1alBtZDVyR0NXc0ZxZklGUnNneVpHUC1EazFWVFF2djBJZlJzVHRMYllaR01LYjg3a3JudGhrQzNidmZFYjVrU3ZzTnBpeW1Sd2ZZRTlNYXFqOXl5QdIBvgFBVV95cUxOUWRCQXN3UVBSdUZTS3Y5T3NmVUxLTThxYXdjekdTQlRJOFNQTjYyM2dSelFBR2RGdElzNV9UQnVyVkt1VG9PbmJyNDNzRE56M2tPTkR0UktKR1J4cVFrMTdCRzJqU1FBYXB1S3NDYnRTX1V5SzRfYTRMOXZaTXU2UWI5clRvNVpPaHVTbkJZVXFiMUNvazBsMFRJSnhQS0hKaWVON0UxalRXVEhhT1ROQ21DbFNBQllSVDdWT293?oc=5",
-     "fecha": "2026-11-25T19:56:41-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "La economía argentina ingresó en cuadro de \"recesión técnica\": qué significa y qué esperar",
-     "medio": "AHORA Mar del Plata",
-     "dominio": "ahoramardelplata.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2hSY0xJZTlZRzNPSHRPRS1mV1BxbHR3ZzRUeC1QWXlEcS1DRFJ0VTFTZWlHN0gxZU5XbUl3cmpOZWZjR0VibzRLOEs3RlJCa2h2OXNWdk9KVHBHaU1rS2FGNHNOcXhxa1FCY0hzbVJvd1lqeTFOSHdoY2UyZk1aNW5tSFRmOTUtRjNnS3VVOUtjT0F0ZGZjcm43NkpBV1RsSk9kNVhtQmgwT1VYQmtPY1VFN3RaUHpfSjdXT1ZTcVp5YzA?oc=5",
-     "fecha": "2026-11-25T20:03:05-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "a80973a361",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T20:02:08-03:00",
-   "notas": [
-    {
-     "titulo": "El riesgo país supera los 1.100 puntos y el dólar alcanza un nuevo récord histórico",
-     "medio": "La Gaceta",
-     "dominio": "lagaceta.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSV9HRTV6cldpZFY5YjljM1hQek1DS3IzMlhkUnJIaUFkaG52V2VQUHczZUlhS0FsVmFjTXBZUW14bE5YR3dxc3V5WF9tUzZkYlM4VE5YUm5rSDRWZnIxS1hHMktEbjhIU0tyUjFJX3loMk1yeTBVMWdyb2JkWU1Zak1McTg2dVltZUlSTGVOdGFBZUpyaTk5MjhiTXl0WHl6ZmFITXlJZXJRSHBGQXQ4Z2hSTFJIWjBNYlB5amx1Z9IBxAFBVV95cUxOV0FoWlRJMVE2T21hbk1jWDNTT1JpbEZTTG9McUVucmZuYTZHYlpPVVRNblp2N0VhdVg2LVRYejliYXdJUjlsMHdhZ2lzcndHQ3Q0QmMxRG93QlhYTVg5VG1xN1pWdFlJaXNsVjFGR3BwLTlXVE9PZ1ZmQUU5ZzFzVEpPendZaktGVHJTaU5OTXYtYW5DS3NFYl9EcUVBU3BRNkZ3Y0RlWi1PTG9RZ09HendKNHJ2WVp3cTRYY3ZLSjRfTjVW?oc=5",
-     "fecha": "2026-11-25T16:10:15-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El riesgo país vuelve a subir y supera los 1.100 puntos: el dólar alcanzó un nuevo récord",
-     "medio": "La Arena",
-     "dominio": "laarena.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMlQ1WVRsejdMVy1JUEtPekRpckU4c2pFQlpnUTNjQVllanVLcjI0R1dJM251N1BvMlZlNnlTOFRaT0ZWOHppOVE2OEthTVA1SnFTNEg1eW81eG9ZOUNPT0JqbDhMekdXU0hKNDdTb21VRHBSSGtvRjNvU1lsVWNKUDhCUzRaRy02WkY5R3ZCYU9FRjVMSlBlZXI1Qm1XeVpmcXc1NEJZNGhxdjJjSWRXNnNrVTcwckROWDJ1TGYzTmYzVnh0andWVG1McnNzUkFBbUJV?oc=5",
-     "fecha": "2026-11-25T16:17:36-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El riesgo país supera otra vez los 1100 puntos y el dólar cotiza en un máximo de $1630",
-     "medio": "Radio Profesional 89.9",
-     "dominio": "fm899.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeTNjVE8wOEJpWVhFZkd0N0ZYbTRDV2dhYkRvc3JXT3h2SjFkTlpCMWJYYW9INGtuNm1zREEyYnJwRWxHdnlZUDA1c21VNVdyVkhEWks2dUdnZkxVX0VDZVlhWDdKYzFqZHNvd2VlZTlNeUs2UXc5NUs5ZHJwV3ozMmpEWDhpcGRxZDRzN0RTcjh5TFhzelJmMWJEdmdVS2RDdkxNNlhSVFhRdXc?oc=5",
-     "fecha": "2026-11-25T20:02:08-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -12023,34 +12583,6 @@
      "dominio": "elargentinodiario.com.ar",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTBJQjBHV2RUdFFpRUpVbnltcG1tRlB0WkFZZmp5VDctTEd1VnFqbWczQ1NTOGJpdHdleGY5NVRnRmVKaXVtTHQ4U1BOT1pWMUtoaURlVTl0MDNfNzFvUkF6TVJ2RWNQTVJMaUhzX093RC00Mk41UUlTeGt5cl8wUDhFQkpDY0ZaZVpvZl9oejFUVDN3RC11MVYwdXFpU3h2M185R0l1ZUdJYUZDek9GWVBvWDY4cHk3UmJ3?oc=5",
      "fecha": "2026-11-25T20:58:28-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "2a44d57481",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 2,
-   "cant_notas": 2,
-   "ultima": "2026-11-25T20:57:04-03:00",
-   "notas": [
-    {
-     "titulo": "Mayans cuestiona discurso de Santilli en el Senado",
-     "medio": "Novedades del Sur",
-     "dominio": "novedadesdelsur.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTc4UFBSWW5wcmRNTjhZaFppS3h1S1RlUWVNQ2std1AwUXpEWnBCNy01RVQxTnJaWEQxQXp2YU5RcVR3N2ZWUmpIbW9JZm1jb2JFaHNmdDlhZmxWczJuQ1hPNHdkRXBkdEVTVFJ5RGNPRlhYZV9mSGZUVkMtVFVPeTRQQS14QU1nalp6azN3UzN3N0lNUnfSAZYBQVVfeXFMT3E3OFBQUllucHJkTU44WWhaaUt4dUtUZVFlTUNrLXdQMFF6RFpwQjctNUVUMU5yWlhEMUF6dmFOUXFUdzdmVlJqSG1vSWZtY29iRWhzZnQ5YWZsVnMybkNYTzR3ZEVwZHRFU1RSeURjT0ZYWGVfZkhmVFZDLVRVT3k0UEEteEFNZ2paemszd1MzdzdJTVJ3?oc=5",
-     "fecha": "2026-11-25T18:03:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "José Mayans acusó a Diego Santilli de concurrir al Senado para \"versearnos\"",
-     "medio": "El Comercial",
-     "dominio": "elcomercial.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnZ0T0tYelUzQVpHZjRwaUNqMzh3djdDNWJDNkRNeE5TZEhGN1dNMlI0NDRQSTFVeFNJdndDbGV6ZHBCcU1Zc3NpOHFkdE9RRGphQzJ4b2NXZzV0Y0RzQS1tX3U4VmJCd2R3YVB6b2pRRFNwR1plRm1sVnhlb2pFWFNZeUlRbzBYa2g1Vm9lSDRZMmR4bHpsR1NWSG5zZnNVT0x3MlVKTkExanZDUmNj?oc=5",
-     "fecha": "2026-11-25T20:57:04-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -12822,34 +13354,6 @@
    ]
   },
   {
-   "id": "7bfd7c33f2",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 2,
-   "cant_notas": 2,
-   "ultima": "2026-11-25T12:11:52-03:00",
-   "notas": [
-    {
-     "titulo": "La economía argentina entró en recesión, confirma el INDEC",
-     "medio": "El Resaltador",
-     "dominio": "elresaltador.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnRrZV81b1RpVUxuV2NtMHJ0akNqMldOMm8tZnVITDNScDZQckxDWGlYUWNVbW5GcXoxR2dWWjEydHhheUFRUUVuRWU0RzZaWldpOVpiSUUtUVI1MmpKeVAxOFVvaTdIa0UyOUk5clhTaWlVVDY4M0N3S0pqb3ROSjhLcTEteGY3VnY1ck5Gdw?oc=5",
-     "fecha": "2026-11-25T11:03:55-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El INDEC aclaró que no le corresponde determinar si la Argentina está en recesión",
-     "medio": "El Diario de Carlos Paz",
-     "dominio": "eldiariodecarlospaz.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWVVkeFMyYkZkRTRLUUFmUVhUelZJM3gzN0wxY3FPZEFtVy1mNHc3RlVkeXA2ZHo5Q0Q0Skg1Z1A3c2Q1VDc4SlVKTGdIVzBGSkdlNUJCbW1IRWZGbWM0VU91alNub2ZnOEZhOXhGdzQ1MkJGTWpQUl9Lcnc0Uk1XenhpRUlicGFBR2dLUVYtX21FbVF2enZ4Z25UbXlPa3NmVEp3VG13WkFudmh3NnZEcnJoeTB6NG1SQkRIWnV5RUxEb2otUFk3VDVxODhoVjhHSDFBSkR0RXp1VlFVQnhZSEhBcWp0WjA?oc=5",
-     "fecha": "2026-11-25T12:11:52-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "c6fa128f7c",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -12934,6 +13438,91 @@
    ]
   },
   {
+   "id": "a08df7df4a",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T10:54:13-03:00",
+   "notas": [
+    {
+     "titulo": "El plan económico de Milei y Caputo llevó a la Argentina a la recesión técnica, según consultoras privadas",
+     "medio": "25 se Informa",
+     "dominio": "25seinforma.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3lCR3lVMmxNUm5nSVk3bW5lYS1LbnNZQy04MktFY1JfaFJFZ3lDS1lmVjUxWWcyR2plWVY3WTdOOHA4bGQ4UFU2ckhGeXBOczlwNWJpeW9vakF0NEUxN3M0aVlQNzd6cm4yZS1BRVNjQ3RIT2RGS1o0cVlBcmJ3NEdQZmM4ZndNZmN4anJrY0VCbUtHaHUwdUdrZmRxWFAyRkFpVTRHWF91VEFrbUstaDRaS1UyUm14RUJvRXNqdV9QQmo5U2EwVElPQzV5dw?oc=5",
+     "fecha": "2026-11-25T10:15:49-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Recesión técnica en Argentina: qué significa para el ciclo económico",
+     "medio": "LT10",
+     "dominio": "lt10.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbjItcDBwdE45ZldLMXkzTXNqaVdzaFhaMUN4U25mQzA0T0pKeVVRS3dWZlp3cy04T0Y3SmZ0aE5WTHJkcHl1bjhVelpfLUtReGIzX0dtNno4YUo5MnEtRVF4TThDcUVHbnA1ZHBLdG83Z0lla0I3SE5MMnhyWHhVclBlc0MzczN2X3JrYUtKSkdXdmxucDJ2NV8tYkxIYWMxZXI3azM1LWszLXfSAasBQVVfeXFMUG4yLXAwcHROOWZXSzF5M01zamlXc2hYWjFDeFNuZkMwNE9KSnlVUUt3VmZad3MtOE9GN0pmdGhOVkxyZHB5dW44VXpaXy1LUXhiM19HbTZ6OGFKOTJxLUVReE04Q3FFR25wNWRwS3RvN2dJZWtCN0hOTDJ4clh4VXJQZXNDM3Mzdl9ya2FLSkpHV3ZsbnAydjVfLWJMSGFjMWVyN2szNS1rMy13?oc=5",
+     "fecha": "2026-11-25T10:54:13-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "37de4a415b",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:59:19-03:00",
+   "notas": [
+    {
+     "titulo": "El plan de Caputo para afrontar los vencimientos de enero y su advertencia sobre el futuro político de Milei",
+     "medio": "DameNoticias",
+     "dominio": "damenoticias.com",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUxJZDVNOHRnYldnN1JrdDRRQXp2YnBrV0dUdjVtVF93aXp5LTJxeW9CMEpwbEVacE9lbEdlMGRpUkQxR09KWWktbjl6MG1lb0hHcEpUZ0JjOXl2TUtudkFXYVhHVzVxUHJBYU5JTFN6ZHNjakFZVzlRN1hEdWkwZHdsN2cxNVoxa2ZwWFowNTRIa25hQ21TZ2g0cTJXZEdTUDFaT3FJYmRrSEw2UmVwbzA4NUwtaTQ3LTNsVlFMVWllR1hVQWtSMGVjSWRNQ3NZeDVzWjVBMzd0RllFa3NMVllPWQ?oc=5",
+     "fecha": "2026-11-25T21:59:19-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "fc40b31c01",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:56:15-03:00",
+   "notas": [
+    {
+     "titulo": "MERCOSUR: Argentina destaca los resultados con la Unión Europea y avanza en negociaciones con Japón y Vietnam",
+     "medio": "Escenario Mundial",
+     "dominio": "escenariomundial.com",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcy01LUpONndGcllfNEpIdEpFdXJEemFNTzRzcGwwaWZkeVZHNGFlU20zdjJnMG5YM3NOWU1KdDhmS1JmMF85b3B3aEVOU2w3YnRILU9hMUJBOUxZNmdiM0RXWjRBem1hMUktVVVMaVRmcDJxLVB1MWMtbjNxbW81UWtDQ0VQUFZJT21BMHZxVTZvbVZZbENVOTdaOXhRMFQwU1AzUkdTLUMteE1OWU1JT2NoUTkwU21rejYxbkJuNDF5MnF5U3R4c3lOc2o2UW1IVG9sbk1GZk5WcjItVlJXX1dic0NWQndH0gHwAUFVX3lxTE91T0o0alRnSlFseWRhblQ5TGV2ZzRrZzBxOXU2TS1TclZFNDh6c1FQdHFnSWpMMWZuc29yTlVNazNQQWcxdG1ObzhqNVFsZjN6cEZaRDFSVndUQ3dOYU9GSWc5SVhtbVFNUHhyYTQzRmJzTXdIdXhtbkJodzBIbVhzS3VDSmtGckloM1kwRjYzMXZWcVJYNTR4X2dMVEF2eGpQQ3AxR281WXBIeG9KV1M5UEY0aFBhckZrajJzU292RWxMTXRrdkFVekNxNHFvNndZNzVVQUNRN1d3Wjd1ZnlUVXl2azVremlneDlBd19Kdw?oc=5",
+     "fecha": "2026-11-25T21:56:15-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "8cde3bb583",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:55:26-03:00",
+   "notas": [
+    {
+     "titulo": "Pequeño alivio de los mercados: bajó el riesgo país y repunte en los bonos",
+     "medio": "Alerta Urbana",
+     "dominio": "alertaurbana.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpmdlRvenpNanRrX0RYb3NjX2YxeTF1dVVBR1pyczRHVm9UdDJzWkNyNGJUYjB1N3FPSXdYb3pONzlyZXIzbm92RUlDbTRUR21IMnVRcjVoWmJITWtGeV9aUmZ1SkxxY3VLNC1IbkxzeU1OUWUwYjRuU1lGSFhmaHRFRlR4bGxkdUYxczRhLXM2SWJEV3FsZlJkLXE2ekpfaGlwSFJfc2J4OERxT3Fiakxn?oc=5",
+     "fecha": "2026-11-25T21:55:26-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "0909d49c18",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -12966,6 +13555,25 @@
      "dominio": "tn.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSzBXMUVFNGdCSS1aN1JqbG4yUkJGR1NBbzR1dThPRmcyUFdIZFlvWEpGTmlzZnBjcXloOEhsYlhJUFBTQlZiMDdDWnFibWRHa1VuY01KRjQwRko5V2VWcDdfdXk1Wmg1OUZWSkxsX1BCYmlxOEp2TVI3MmdoVG5mb0djRFVIMWR4LVZueU1paEIybEVNZ1JiRXhNVzZlNWtzSUFBVGd4M1BIdHprOXRSWktFRWUzS2ZhY3hHV1p6QlN3U1NleGw4cVhhUUUyaWliUU1tcDQtd09Lb1dObmNfNDhHejlhSjRtZ0xpUVE2dEVESEZuNkV1eNIBjAJBVV95cUxPN2RVUHp3cldwMUpnZVlGTkZqWGNwTXEyZ2FOZjFYWDlkY1Etc295X1NlY1Z1SUZPZlNWZGVHX2VNNGRmNmIxTUUyNlZtWWtvZkFvWlkyVzRYTjI3d0VQdkFYRGY2SVlkaWRkOUkxYnR5ekd0bUR1Nk0xd0pzdHJhRFozM19MYnQ3T2VRSVFyYUxaRmxVSWVtLWNnd2htU0E4aVk1clZaUzg5YTR6R1ZGZ0RFSkJ3TWRnNV9JTU1xaE5LRkl5bVBER2thSkdxc202VDJ5OW11d2htakh6aGZ6OHZHY0xrV2t4Z3Fsc2REWFFERVZvaUVabmtObmJXV29oOGJKeUZySkdYSU1m?oc=5",
      "fecha": "2026-11-25T21:21:11-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "15b6509408",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T21:16:00-03:00",
+   "notas": [
+    {
+     "titulo": "Cinco nombres en carrera para identificar al Secundario N° 46 de El Calafate",
+     "medio": "Ahora Calafate",
+     "dominio": "ahoracalafate.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWRfTFcxM05UaXU2NHZMTFVXLThDRV9YeTc2UG9IVEE0Y3I1OEpqMXc4eS1mWFRXYTFJdHE5cm1aTF9HRG5OZU5DVlhKY0VvVEV3RDZLSWJFdDVPdkU4T2pLVm1NQkRrdDNWSWFNX2xJV2xvbm9ydTcyeUw0NTVzMHZhVW9EQWtTNUZBU0ZnOGJJV3dVQ1ItaVhoTG14SDZNNjZqM3M1TVVFSzJmQl9OWUd4NEhnaGZodnN4WtIBtAFBVV95cUxON1F0d0VqdHVENEFpbWFhLVJRQXBCa0tRbHkzenhWYS1Udk5DSVZQcm93azNuc1dpcmkwU05XRWI3LUlpT2t5Tll2NkJreC1Xc1hIYkRleURQRWFkRzJpamYweUhHTW1na3pxWVlVNHhxZDBJS00tOUpsNnE5ZnM4R0YxcmZCd1U0TnRsYkFscWpjZGpWbXV2WU9uVUZrcWFCX3puNkxtbFRqTEZ1SDRuMFpBU2I?oc=5",
+     "fecha": "2026-11-25T21:16:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -13409,6 +14017,25 @@
    ]
   },
   {
+   "id": "872a64ad06",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T20:00:00-03:00",
+   "notas": [
+    {
+     "titulo": "El dólar sigue subiendo en Rosario en un contexto financiero tenso a nivel nacional",
+     "medio": "Rosario la Ciudad",
+     "dominio": "rosariolaciudad.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2pjYmp5Vnlxemk3MERIaVhkNGh3S1dHREd1a0thQ1RWa3BJVUtIcXhvMEZNMDliajltVUFzYTRYdDNYNVJzU0F6Ym9uR3RBS0R4bHgzZ1JPbmFMckpRSTdfLUxpMXd6UE9HeGp5VzYtXy1NY3BES3Z0UGNsbFdWaTd5Rjh4d3JvVmNhc29yWUpDN3lEc1FqVEdrRnoxcTVrX1hyUFhqZXNTVVdlSUdVQ0dwaGRDdw?oc=5",
+     "fecha": "2026-11-25T20:00:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "1b2acda7c7",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -13422,25 +14049,6 @@
      "dominio": "inforama.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnVPOWw5Mk9ZOU9USkFtSXZzM2dCMWQyUDZ4YnV0bXBmaFhEczhuaTBfb2o5bjRXRkVyS0ppb25IREFqd0xWVGUtWm8xV0tQUjR1S2lMUERvQkdGQS04SWpUZWhRX1VUUmxVZDI2VFVyUEFVUGVvT250c0l4dlNxNzNfSFFMTkttXzVrYUgzZXh0ZW82VFJSZEFwaVpVMEI3NFN5LU1qeC16aG45UjdXU0U3Vl96NTZXQzhmbTdrUmNvTnVlTTNOdGRGNXZjV0xCdzZPRg?oc=5",
      "fecha": "2026-11-25T19:51:47-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "26fb7d6bcd",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T19:46:39-03:00",
-   "notas": [
-    {
-     "titulo": "Tras cancelar la invitación a Javier Milei, Lula evalúa convocar a otro dirigente argentino a su asunción",
-     "medio": "Nexofin",
-     "dominio": "nexofin.com",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdXZUanE4UTJ5UW9CZjJhQmRGMWpJZ1RzTzVxc0VDR1pGSERJN3hYU2pzZnJsUkpwM2hQWDdPVC03UkI5UVVHc3dmT1lidFdBMFdMTE9GUk52SjQxNlJMUlYyYWdRYWtjc3RpYXBScnNQa1QxYlQyNE1yTTVkWXBNVEJ0QkJmMldnMEd6c0p3Vk5tN1dyYWtOd2xFeHc5RkZ3RUZPS2RzVTcya1dyWWl3THpIZThscUJrdHhIbzFkLVpWMXpWZmRUSXhWX040ZXd1cFRZQ0RJYXNUY0hLRjBGNmdkUELSAeQBQVVfeXFMTnV2VGpxOFEyeVFvQmYyYUJkRjFqSWdUc081cXNFQ0daRkhESTd4WFNqc2ZybFJKcDNoUFg3T1QtN1JCOVFVR3N3Zk9ZYnRXQTBXTExPRlJOdko0MTZSTFJWMmFnUWFrY3N0aWFwUnJzUGtUMWJUMjRNck01ZFlwTVRCdEJCZjJXZzBHenNKd1ZObTdXcmFrTndsRXh3OUZGd0VGT0tkc1U3MmtXcllpd0x6SGU4bHFCa3R4SG8xZC1aVjF6VmZkVEl4Vl9ONGV3dXBUWUNESWFzVGNIS0YwRjZnZFBC?oc=5",
-     "fecha": "2026-11-25T19:46:39-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -13789,6 +14397,25 @@
    ]
   },
   {
+   "id": "d00280d8e1",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:34:53-03:00",
+   "notas": [
+    {
+     "titulo": "La economía no crece y el consumo sigue en caída libre: otro dato del INDEC que incomoda a Milei",
+     "medio": "Infocielo",
+     "dominio": "infocielo.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXM0ejlIT2V0Y1lfLXhVWG05dHpwWDZzbkdvTVpFNWdHYUNFX09UOFJVaU5nSTlUMlJHM1NhMHQyZFJHZTJUZl80QTRGaGFqYVVhOE11aGVkMXlWQlhBMHhDSHE0Y1NOZmZVVm5EN2RpWmZ1U3VkNFlCd1lVVXJHTlRsVkZPYzlQanQzaG9NYm1meGVzcXQteXNaQXk5amd6N1ZLZzNORnAxZWlwMGN6cTlBaHZ1MEtHR0d3LXV1d3pwanJSWXV0ZEJmZ1lmdkkwT2pnRGY0OXo?oc=5",
+     "fecha": "2026-11-25T18:34:53-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "1eaf59354c",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -13992,6 +14619,44 @@
      "dominio": "infozona.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdU85aEhOeTRJUnFYTVdZZW1tSDFaSE8zNndDVGRhQUc5WkpXNndGY0lpN2NRNmJCNEdra09fbGRaVG5QbGRuazROcFMwOFJUWUswSzFuaUdYUm5nSVhRWWpRcjdqbUpOZXJuMzlXc1MyaG1uLVVmYjM2Z3o3LUJHaGE4RHpvdGlzc2FqLTVrTzN2N3FlbzA1TU85RWdheU5OMTFucDNSSWM5WlpkcTFHRXNjRnNDV1BZeFh2aVNJX2U4SG42QTR5M19hYmgtcnFrM2dkU1ZnRVU2UWlmaUU5SUlLOTgzY0FrWF81VFVIMjQ?oc=5",
      "fecha": "2026-11-25T18:03:43-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "cab7d6c945",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:03:00-03:00",
+   "notas": [
+    {
+     "titulo": "Mayans cuestiona discurso de Santilli en el Senado",
+     "medio": "Novedades del Sur",
+     "dominio": "novedadesdelsur.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTc4UFBSWW5wcmRNTjhZaFppS3h1S1RlUWVNQ2std1AwUXpEWnBCNy01RVQxTnJaWEQxQXp2YU5RcVR3N2ZWUmpIbW9JZm1jb2JFaHNmdDlhZmxWczJuQ1hPNHdkRXBkdEVTVFJ5RGNPRlhYZV9mSGZUVkMtVFVPeTRQQS14QU1nalp6azN3UzN3N0lNUnfSAZYBQVVfeXFMT3E3OFBQUllucHJkTU44WWhaaUt4dUtUZVFlTUNrLXdQMFF6RFpwQjctNUVUMU5yWlhEMUF6dmFOUXFUdzdmVlJqSG1vSWZtY29iRWhzZnQ5YWZsVnMybkNYTzR3ZEVwZHRFU1RSeURjT0ZYWGVfZkhmVFZDLVRVT3k0UEEteEFNZ2paemszd1MzdzdJTVJ3?oc=5",
+     "fecha": "2026-11-25T18:03:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "b9f89ffb09",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T17:55:00-03:00",
+   "notas": [
+    {
+     "titulo": "Santilli defendió el rumbo económico del Gobierno: “No hubo estallido, hubo crecimiento”",
+     "medio": "Diputados Bonaerenses",
+     "dominio": "diputadosbsas.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ma25obG1NVGNXdHlHTzdjT2lvTXpkWERXSThkb21vT19MWTZ3N0s5eGFnRXlVTGVva1Y5MmFibjAxTE5QaUYwcTNnWnBEYUVxV0s4bmdPNkhDQmFRV2xfX2JKWWZXd0JkU3ZHa2Zn?oc=5",
+     "fecha": "2026-11-25T17:55:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -14473,25 +15138,6 @@
    ]
   },
   {
-   "id": "064fc97b6c",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T17:06:23-03:00",
-   "notas": [
-    {
-     "titulo": "Santilli: “El presidente Milei está cambiando el país para siempre. Esta vez, la Argentina no vuelve para atrás”",
-     "medio": "Zona Norte Diario Online",
-     "dominio": "zonanortediario.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnJyZmp4S3NicUt4aEpVQnAxODRKRTNWVE9mMk5JMHlRSHR4WDQ5WlBad0FuNXZsUHdNaC1LcVU0c0IySkkwYzlIUFI0RUF6M3d4b2phcWFJMExsemozR0liVlNrbjNOZS1LOUF1cm1hN0N0bXN6Nzh2RWFUYllObDJ1anBSMWVBdFprVjNYNWVSdml4TnR3aXYzQVo0TEtDaHJIc0JVZTNtc0RLS3RaN0E2aUZ1TkkzbmJVdEFKbGNoaG1XUDF5WG5XbFQ4Y2JnLTlJZURfbnhTY3JfbnFxNkNDREhhN1FtRkE?oc=5",
-     "fecha": "2026-11-25T17:06:23-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "708d4ecd12",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -14695,6 +15341,25 @@
      "dominio": "nuevodiariodesalta.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkZ5MlpKM05kRE81UmNxWmlCS1FZUFA3LXZISzFVN0xDR0NRekZKTXE1d2tpZkJHZktRZFRTdW5nYVR1U3RncnQ4Q3I1R1BLWFNDbnN1LUZ3Q253UHRNUWJBaHhjSzRteXg2ZXhIZ1ZLd2hBczlvVnY2UmFSX3FwRVZLNk1kSjJoUTA2TE5oM1NPMkxPQjZwbWp6aVk1ajRRYl9JRG1OZXdHRzk2ZUF3WVZuUFpiMklqRWVVUG1DYlhGUjM4MGdBaUQyVjBRS0JyRWpuVGtsd1g?oc=5",
      "fecha": "2026-11-25T16:35:37-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "1c2a09ccc0",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T16:34:00-03:00",
+   "notas": [
+    {
+     "titulo": "Elogios a Milei, seguridad y reelección: los puntos clave del cierre de Diego Santilli en el Senado",
+     "medio": "MinutoUno",
+     "dominio": "minutouno.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzZyU0F2MmY0ZHdPTXhXMVBpWFRXTFRnZ3djbmRMSWhKSk4zUHdjY29hZ0NJMVl6eW1ocE8wdmVVUEFCMlF2RTBYTXg2X1RqYnBYVWk5RHJLYUU3Rk1OWVZfVXUxS2lFcER0VEZ1XzZtSWdEbUVUeEJvcXlndlJOWW1USnZiYVZlNWlCRUtzcHo5X0NqU1JjYVZGVU1LSHhTeEptWi1vcjNrWGFreE1oYXI4VjRkQV9GcjFacUY1VXltUk9RYWN1aFdMb09lUdIBzgFBVV95cUxONzZyU0F2MmY0ZHdPTXhXMVBpWFRXTFRnZ3djbmRMSWhKSk4zUHdjY29hZ0NJMVl6eW1ocE8wdmVVUEFCMlF2RTBYTXg2X1RqYnBYVWk5RHJLYUU3Rk1OWVZfVXUxS2lFcER0VEZ1XzZtSWdEbUVUeEJvcXlndlJOWW1USnZiYVZlNWlCRUtzcHo5X0NqU1JjYVZGVU1LSHhTeEptWi1vcjNrWGFreE1oYXI4VjRkQV9GcjFacUY1VXltUk9RYWN1aFdMb09lUQ?oc=5",
+     "fecha": "2026-11-25T16:34:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -15176,6 +15841,25 @@
    ]
   },
   {
+   "id": "5a39543fa2",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T15:16:41-03:00",
+   "notas": [
+    {
+     "titulo": "El Centro Cultural Borges inauguró seis nuevas exposiciones",
+     "medio": "Argentina.gob.ar",
+     "dominio": "argentina.gob.ar",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNmEybFRJSU9GbF9qZXBjVFRDbzJGT1BOQjR5a2E1S1Y2OVc1YkZNVGRYdWdJVjVoYUl6ZU1wMlJwMk9iZjh5TlBOV1Y5d1VTV0JYUG5jNHpMUEJVN21Mcm9FdFNwNEU2OVZxTUdUZTh6Ul9WMzJPYmp5VktlTndEa2dhOWM5bVFSanIxOFBCZGsyc3B1cEw2U2N6MFdLZw?oc=5",
+     "fecha": "2026-11-25T15:16:41-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "f8d347baec",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -15626,6 +16310,34 @@
      "dominio": "noticias.santacruz.gob.ar",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeFU3ZUhGYkZaaWtqYTBCZGdHWFJ0UlloTUdVZ0VvWklHb1VmQ3FjbUxldmdJeHRWOEVuYjd0dkgtVFVFZ0tzS1NBTmlVM2RUTkNRODUtbm1HVGlrQnEwc0FKY3h5cldsOE81WDhZTy1PaEhJWG9vUG9qWFZPNzdMRmRWeGhzbGNLMHFzRmR0V1VPa0t0cTlLWDVudko5bzZEMnR6MWNXWlM3RF85cHhDcE5LLUxlTGdyX3BaQzRfWm5QWExYZmc5ZUlLM1F1NlRDWFFEZkMyUEZENWVJa0JQUTVibzRBc2RiOUdqUTFsT0RkZng1dXJwVlBB?oc=5",
      "fecha": "2026-11-25T14:30:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "c6ccef2b91",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T14:28:00-03:00",
+   "notas": [
+    {
+     "titulo": "González cuestionó el modelo de Milei y convocó al movimiento obrero a protagonizar la disputa política de 2027",
+     "medio": "Diario Jornada",
+     "dominio": "diariojornada.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2lRbnFaeVl0YnJEQlhXNmRXRklxQkFQMUVscDdZQkk5Tl9oNFBZQm5OWjBXVHktdzRoUDNFLUNqYkNwSDh2UTA3QTBKcjB6VG9ORWRXOUtsRVBGUS1kRmstdk9ZZnNBUUJKc3NYVXp5amFWWjdLa3huaUs5VTdEbWZKTEFfZURHLXkxTTg0UnlBUWk2YktsOVFtbWd2OEgtQURTaTJzSGI0Z0NSUk5XbTU3dXU0UUJXSDl0VjFucl9MdjJYVkRTNmF2Y0Z2aWYxd3drLXRuR1Q4RlBtaE4xYjVkanFVSzRLTjZybjUyTnBDUQ?oc=5",
+     "fecha": "2026-11-25T13:32:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "González cuestionó el modelo de Milei y convocó al movimiento obrero a la disputa política de 2027",
+     "medio": "Diario Jornada",
+     "dominio": "diariojornada.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMnF1MVFybklncjJ5YnFZNHBPWFJUNHZycHNESldqYXhLVzhTaFhWTVpmVGNYUWVjYVlLSXlMdkprZ2c1em05Vm82WFJObE5Gb05CQ0Rxa0FfdUI2LXJja08tZVdzcGxLY2FBLVQ1RzZWYW40d002cDh1VU5ERmtqNXFrUUh4TjN2VjlsZ2FYeGdWY0R3WlZsamNXblZZS3piNjhCTWR5ZktQWEh0MGtVREcwVXpFdnhqcWsybk9PcTdYWjF1b3hpNld5ay11UlprSEQxeGhWVmluZTdQWS1lZA?oc=5",
+     "fecha": "2026-11-25T14:28:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -16126,25 +16838,6 @@
    ]
   },
   {
-   "id": "cefa8382aa",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T13:32:00-03:00",
-   "notas": [
-    {
-     "titulo": "González cuestionó el modelo de Milei y convocó al movimiento obrero a protagonizar la disputa política de 2027",
-     "medio": "Diario Jornada",
-     "dominio": "diariojornada.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS2lRbnFaeVl0YnJEQlhXNmRXRklxQkFQMUVscDdZQkk5Tl9oNFBZQm5OWjBXVHktdzRoUDNFLUNqYkNwSDh2UTA3QTBKcjB6VG9ORWRXOUtsRVBGUS1kRmstdk9ZZnNBUUJKc3NYVXp5amFWWjdLa3huaUs5VTdEbWZKTEFfZURHLXkxTTg0UnlBUWk2YktsOVFtbWd2OEgtQURTaTJzSGI0Z0NSUk5XbTU3dXU0UUJXSDl0VjFucl9MdjJYVkRTNmF2Y0Z2aWYxd3drLXRuR1Q4RlBtaE4xYjVkanFVSzRLTjZybjUyTnBDUQ?oc=5",
-     "fecha": "2026-11-25T13:32:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "de0ee77e0f",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -16234,6 +16927,25 @@
      "dominio": "airedesantafe.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa3Z5RkNxYWNMVFVjR2Nia2Jqd1lYWV9aOWdVZkp6YmFpREVSTFZRbXNxSng2ZnZlRWtKY2hLMlBCREVaZ2N0Qjd0SnZ5MHVLLVBoOXdEbHVwQkZFZlY4SER2cFVDcjVzYWIwME1lZF91LWtjQkNWVmpDNjBPVVRuRHZ5dDZ3ZmNUbV8xOUlfeG5rSTRNQzB0ejBwZm1jLWRndmtUNnM2VlpnUklkLUJ5bUhDQXJNU2QweUFuVjdESVoxYkhZTmdwLV9lU2E3YWtrX1JPNUI2aEw1blN4Tnc?oc=5",
      "fecha": "2026-11-25T13:25:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "0858438cbc",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T13:10:41-03:00",
+   "notas": [
+    {
+     "titulo": "Casino online en Argentina: impacto económico y regulación del juego responsable",
+     "medio": "Economis",
+     "dominio": "economis.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0pVdGxhQWlBTWpFY2NhSEpDTlh4WFRwa2IwZXQ1SHQ4aVV3eUU5WG04RzhfY2tLQUhZRzF0R3BMamZtQXpKVU9meHgwUjg1WWg1MndIN19Gay0tUk5UUl8yZldYdmNEYUk5SUV0U1V5b3gtSG9oRnBqN1A3OTNXaF9sVlZ4MGVCNU5NckxSUlUwX2d5NUU2OVZVdXVERUxralF6RTU5RQ?oc=5",
+     "fecha": "2026-11-25T13:10:41-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -16728,6 +17440,25 @@
      "dominio": "argentina.gob.ar",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdm1yQmIyVmR3djh2NW1OQjk2OHBhRXV0WnlMVl9veDdiOENiVTdVMjN2cU9kSmhaczVGaHdtRXVkZGpJUEhWcjZ2RlBtb0lpX195NXNYYjM3UkZJSXN4U1dmQWRDNzR4bWhhdUM3c0ltTWpNeEVCLW5DdUtLdlk1VXRXZmNzS3N2YWRoam9BRWdmS1c0VU56WklqRGU1cVBBU2ZxN1pmd3FXZG1vb3EyWmdlTGV2S2ZiazhHa3FB?oc=5",
      "fecha": "2026-11-25T12:12:57-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "7bfd7c33f2",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T12:11:52-03:00",
+   "notas": [
+    {
+     "titulo": "El INDEC aclaró que no le corresponde determinar si la Argentina está en recesión",
+     "medio": "El Diario de Carlos Paz",
+     "dominio": "eldiariodecarlospaz.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWVVkeFMyYkZkRTRLUUFmUVhUelZJM3gzN0wxY3FPZEFtVy1mNHc3RlVkeXA2ZHo5Q0Q0Skg1Z1A3c2Q1VDc4SlVKTGdIVzBGSkdlNUJCbW1IRWZGbWM0VU91alNub2ZnOEZhOXhGdzQ1MkJGTWpQUl9Lcnc0Uk1XenhpRUlicGFBR2dLUVYtX21FbVF2enZ4Z25UbXlPa3NmVEp3VG13WkFudmh3NnZEcnJoeTB6NG1SQkRIWnV5RUxEb2otUFk3VDVxODhoVjhHSDFBSkR0RXp1VlFVQnhZSEhBcWp0WjA?oc=5",
+     "fecha": "2026-11-25T12:11:52-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -17659,25 +18390,6 @@
      "dominio": "catamarcactual.com.ar",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeS1ad0o5ckhXSUViZXMyay1pa3FtNXBUcnRUbF8xNV9OU1VFa2dMcGpxQ2tUdWE0ejMzMDUwSEhjdjFVLW5ZRUFoWEMzS200dWZaZFNIb3M4RVdfSVV4VS1md25EWFo2bVBKQi1iV0JTRU5RNGk0Mm42Rnp5amJ2d0FBT2ZZczhrR2FJYTJSRTkwUkRyNE1vdnA4eXo2VU9SUXB3SXo5SFpyclczdUYwTXhSN2lKekp3?oc=5",
      "fecha": "2026-11-25T10:19:32-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "ad402bd962",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T10:15:49-03:00",
-   "notas": [
-    {
-     "titulo": "El plan económico de Milei y Caputo llevó a la Argentina a la recesión técnica, según consultoras privadas",
-     "medio": "25 se Informa",
-     "dominio": "25seinforma.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3lCR3lVMmxNUm5nSVk3bW5lYS1LbnNZQy04MktFY1JfaFJFZ3lDS1lmVjUxWWcyR2plWVY3WTdOOHA4bGQ4UFU2ckhGeXBOczlwNWJpeW9vakF0NEUxN3M0aVlQNzd6cm4yZS1BRVNjQ3RIT2RGS1o0cVlBcmJ3NEdQZmM4ZndNZmN4anJrY0VCbUtHaHUwdUdrZmRxWFAyRkFpVTRHWF91VEFrbUstaDRaS1UyUm14RUJvRXNqdV9QQmo5U2EwVElPQzV5dw?oc=5",
-     "fecha": "2026-11-25T10:15:49-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }

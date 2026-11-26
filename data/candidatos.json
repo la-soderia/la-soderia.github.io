@@ -1,12 +1,12 @@
 {
- "generado": "2026-11-25T23:35-03:00",
+ "generado": "2026-11-25T23:36-03:00",
  "horas": 12,
- "notas_ventana": 1260,
+ "notas_ventana": 1281,
  "descartadas": {
-  "ruido": 90,
-  "exterior": 81
+  "ruido": 94,
+  "exterior": 84
  },
- "grupos": 867,
+ "grupos": 878,
  "candidatos": [
   {
    "id": "22decc0281",
@@ -436,6 +436,37 @@
    ]
   },
   {
+   "id": "8414dfd0c4",
+   "pre_semaforo": "verde?",
+   "medios_serios": [
+    "clarin.com",
+    "infobae.com"
+   ],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T23:31:47-03:00",
+   "notas": [
+    {
+     "titulo": "Amenaza de muerte contra Gastón Gaudio y sus hijos a menos de tres semanas de las elecciones en Independiente",
+     "medio": "Clarín",
+     "dominio": "clarin.com",
+     "url": "https://www.clarin.com/deportes/amenaza-muerte-gaston-gaudio-hijos-semanas-elecciones-independiente_0_vVpqQ2s4n6.html",
+     "fecha": "2026-11-25T22:05:10-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Amenazaron de muerte a Gastón Gaudio y a sus hijos en la previa de las elecciones de Independiente: “Cruzaron un límite”",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/deportes/2026/11/26/amenazaron-de-muerte-a-gaston-gaudio-y-a-sus-hijos-en-la-previa-de-las-elecciones-de-independiente-cruzaron-un-limite/",
+     "fecha": "2026-11-25T23:31:47-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "ee264d7613",
    "pre_semaforo": "verde?",
    "medios_serios": [
@@ -492,37 +523,6 @@
      "dominio": "lanacion.com.ar",
      "url": "https://www.lanacion.com.ar/espectaculos/migue-granados-revelo-el-habito-que-cambio-su-vida-tras-bajar-mas-de-20-kilos-te-sentis-muy-bien-nid25112026/",
      "fecha": "2026-11-25T19:42:49-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "7ebe265def",
-   "pre_semaforo": "verde?",
-   "medios_serios": [
-    "ambito.com",
-    "pagina12.com.ar"
-   ],
-   "cant_medios": 2,
-   "cant_notas": 2,
-   "ultima": "2026-11-25T14:44:54-03:00",
-   "notas": [
-    {
-     "titulo": "La economía entró en recesión técnica: sumó dos trimestres seguidos de caída pese a crecer 1,1% mensual en septiembre",
-     "medio": "Ámbito",
-     "dominio": "ambito.com",
-     "url": "https://www.ambito.com/la-economia-entro-recesion-tecnica-sumo-dos-trimestres-seguidos-caida-pese-crecer-11-mensual-septiembre-n6348824",
-     "fecha": "2026-11-25T11:35:00-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "La economía argentina entró en recesión técnica tras dos trimestres consecutivos en retroceso productivo",
-     "medio": "Página/12",
-     "dominio": "pagina12.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0p3VFIxV3lYanZNOHlLeXJfVkgxM0puVDM2eWhoOTVUWnNja3B3UjNzcjVBQUdNYmJJbl9kMWtBT293ZEFfbDczVTFqbFVKNkhGX2pQUTh3VHpjNkZPWVNRbzY0N0pOYnZWVW4zNVJYdVlYUFhlbEZPWVpBQV92Q1dhTG5DNEdROVFfUE1YU1lBOWtQU1d3RVhiZ2hoaGJRVXdPZi1fQ2IyRVdjak5wRkhQbXI5X2FkeTNnQlg3amM4X1NYbHYwWE9UbW9oalZaN3NaVi1FV3F1LTFu?oc=5",
-     "fecha": "2026-11-25T14:44:54-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -1180,45 +1180,6 @@
    ]
   },
   {
-   "id": "c28c60ecfa",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "ambito.com"
-   ],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T17:54:00-03:00",
-   "notas": [
-    {
-     "titulo": "El dólar blue marcó otro máximo nominal y superó por primera vez los $1.700",
-     "medio": "Ámbito",
-     "dominio": "ambito.com",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbU1FdUEwV1FST3BrdlF3Zm91YkxQVnpENlUySHhVSkdNZTB4SGZmYzQzMlMzX1lwRnRreVpEbjI1M3p4YjliSlNvNVVxMEJNWkNsRWpZVzgzR2MtQ2c5akFWZE5paUNyMXE2VU1lbzdxcXk0dU9KQ013bnIzNmdqeGQ1MFRzSnBUSXl6dDQzZTU2UXFZMU1wMHJoV3l1LURtTzNuTHhqUl9NOUJqRmxZ0gG0AUFVX3lxTE1VNjYxSm1Cb1pMdEszZjR3UkVwR0psRmJocHM3Ull2dXdsNW9KNDYwVnFyaTQ2Q013VXJaczJUODIzRXM2NXJzSE9remhBajJpbjhEenNTd0NiM2NWV1JqdU9jZGg2ejQ3Z2d4aGtCZHQ2QWMtZTFsTzNSX3BxRUhoaDRMSHByamRMVWFxUVNUZURWRkdiaVAxOWZ3OEliV3RjTTRLcW5LdVZUZ2Zod1NvR3Y0aQ?oc=5",
-     "fecha": "2026-11-25T17:54:00-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El dólar oficial supera los $1.600 por primera vez",
-     "medio": "iProfesional",
-     "dominio": "iprofesional.com",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdXE1VDlOOVJ3MU00VWNhN2kwb3VuT19faFVXZ1N5UmdWU3JIYUgwTWN0TzdjUENDc2RIZkI2Y0xrRk93c29WNW56V056ZFVBN0ZhNXFjZkxWYnloNEdVdzNmRXlKUWw2NjVkcG4yNlZJRndpNjc5TVZCb3BxQnhJaVZNYklKdVAwZURna3Juei1BWm15d1BvdDZreWNCa195XzZ5MFUwOHFIeTBQNTI3Z09BUHZhRmpRcnRIRWFLMlExX0XSAcgBQVVfeXFMT0ZVNXVORFZmWFgyTUFaX1pTREthRzY5dmtpQ1VJMGR4Snc5RFFDMFFsMWFvWEhCai1qZGZOV0l2ZXJaRGJqRnVlUHJKamlVclFBTEdIT1E5VnJuOEZWTGY3RFc3bUNXSDIxa2g2MEljRTlRU3hzbW9WbHd0NVk2T2tJOC1PSDRZT1FuYWw3cmc4Z1RoSG1HT01oRWR1Wnd5N191VmVDZXVZU0R1TUZ4dlJWSm1lOWc3bGJvRjB1cU9KeXJPT1RRVVU?oc=5",
-     "fecha": "2026-11-25T11:35:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "El dólar blue marcó un nuevo récord y el oficial superó los $1.600",
-     "medio": "Diario El Sol Mendoza",
-     "dominio": "elsol.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWJ6NkZBcGxtNmF1SW9GdTVGbFdhQnVHRjAwSzR2blhjdWY5WTVoT0FRYkFlS0FNck9ZS0ozNUVGZl9TMzhxai1wZE5FZzlER21vay1jbGxPWXRjYXBKd1FldU5INkJhLTdkWm1tUW9KOW9USFpSRjVnRjhlMWJGYmtILW5oNzc5ZWNVR1JHcTVTRk0yblVUM3RuT2xuTy1s?oc=5",
-     "fecha": "2026-11-25T12:30:43-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "71b9eeaa94",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -1291,45 +1252,6 @@
      "dominio": "estadodealerta.com.ar",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS01FSnBpVlIzVmRuODRPYVBpSmNNXzBVdHJiYlNobTJZbENPSno3NnVqYTk3T2g2blc5R1c2TXJIWmtVaDF6R2dfemtvRl9KakQ1ZTlsQlpPNkVqV29KbGhmdlV3WlliOXluRlA0RTZUdk91Y1lJVkswd3pBai0zLVRSeWZWWjZ4b3ZUSEQ1WVNCdlBGdzFuZnRsbjkyMC1xSk1uODBzQnJVczdETTVQZzRhb0pLbWphdncwdGRNTdIBxAFBVV95cUxNUXdoTFhPQmdRYjNMSUhwSXRGUnJzQTktclNwektac3ZXM3BmNWYtX0RHSVBhb3EzWm56R2s5QzNBMGpnU2tELWRwc1VDRkk2bnpZM1JNNjBOMVQyS0VyRm5QV1F5QW5UdnRxWG43dG1EcFhoYlFyWUdhRDJyaXhMRS1ydVk2aURTWW4tN3RJUWNYZVBHTUFoZHhRVFdqc2dUeV9RZVcyeUg5d0xfUktvRk1iMUNFVkZ0TzQyTGdEOExZSS1H?oc=5",
      "fecha": "2026-11-25T14:25:14-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "b9c14bc503",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "lanacion.com.ar"
-   ],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-25T12:08:54-03:00",
-   "notas": [
-    {
-     "titulo": "A cuánto se vende el dólar blue este miércoles 25 de noviembre",
-     "medio": "La Nación",
-     "dominio": "lanacion.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkxZYU5qQWNmWUVjMmVMOTVvY0VJbTdRb1ZzUHRlYXVGangtNWdkLWhnZS1oLW00Y3p6MG5GMnc2M0l3eXdoa1pORUtlQjRNSGxwN3l6R1ZadVBqQUE2WEpUZUI1bWlVb0kteDEwbUNIUncyeGg5ZTVWMHpDR3dNVDRPd3lxQWlTcFNhQnl2a3Q3SHQySXlQNHd2ek42WjBEc0ttSGhSc3RhdWJYRl9kSUln?oc=5",
-     "fecha": "2026-11-25T11:38:00-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Dólar blue: a cuánto cotizan hoy en Mendoza 25 noviembre 2026",
-     "medio": "Infocampo",
-     "dominio": "infocampo.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXc5cVBTYzliTG5ka1hYMkl1UWQwbmNkaTIxOVBOQjY4X1AyWVBuZFdtd29LaDJxekRPTDFGU0xKVUlxTUhWQjhjYjRHVC1NWmFDN3RYVzE5cnNHMkFZT1ZrNXBELWZtQjAxTVBwbHg1VEw0ZHZwb296ZmV5cVVHdGxZOEd0UDZYVGlGc0VEU2QxREE?oc=5",
-     "fecha": "2026-11-25T11:35:06-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    },
-    {
-     "titulo": "Dólar blue: a cuánto se vende este miércoles 25 de noviembre, con suba a $1725",
-     "medio": "Rosario Finanzas",
-     "dominio": "rosariofinanzas.ar",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3RESDRVMUNjaFB1SWZaektDZnVuT1lteng4cUtJSU43NGwtcmdQc2RQalpyakJwdS1vTllma3E2alk1SkZjUjhMUU9rai1PTjJ2MUZpU0hnSml5clZYTU0weVpGc0pabjFPeUJhbnlESVR5U0FsWVRXWFkyVlV0OG1WOW9maFlIM24ySXBaVWtZNlBKdjlVTGdkb0xsbUZXX3dpSW5oR2hyaWQ5MzlSMQ?oc=5",
-     "fecha": "2026-11-25T12:08:54-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -1735,6 +1657,36 @@
    ]
   },
   {
+   "id": "c28c60ecfa",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "ambito.com"
+   ],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T17:54:00-03:00",
+   "notas": [
+    {
+     "titulo": "El dólar blue marcó otro máximo nominal y superó por primera vez los $1.700",
+     "medio": "Ámbito",
+     "dominio": "ambito.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbU1FdUEwV1FST3BrdlF3Zm91YkxQVnpENlUySHhVSkdNZTB4SGZmYzQzMlMzX1lwRnRreVpEbjI1M3p4YjliSlNvNVVxMEJNWkNsRWpZVzgzR2MtQ2c5akFWZE5paUNyMXE2VU1lbzdxcXk0dU9KQ013bnIzNmdqeGQ1MFRzSnBUSXl6dDQzZTU2UXFZMU1wMHJoV3l1LURtTzNuTHhqUl9NOUJqRmxZ0gG0AUFVX3lxTE1VNjYxSm1Cb1pMdEszZjR3UkVwR0psRmJocHM3Ull2dXdsNW9KNDYwVnFyaTQ2Q013VXJaczJUODIzRXM2NXJzSE9remhBajJpbjhEenNTd0NiM2NWV1JqdU9jZGg2ejQ3Z2d4aGtCZHQ2QWMtZTFsTzNSX3BxRUhoaDRMSHByamRMVWFxUVNUZURWRkdiaVAxOWZ3OEliV3RjTTRLcW5LdVZUZ2Zod1NvR3Y0aQ?oc=5",
+     "fecha": "2026-11-25T17:54:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "El dólar blue marcó un nuevo récord y el oficial superó los $1.600",
+     "medio": "Diario El Sol Mendoza",
+     "dominio": "elsol.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWJ6NkZBcGxtNmF1SW9GdTVGbFdhQnVHRjAwSzR2blhjdWY5WTVoT0FRYkFlS0FNck9ZS0ozNUVGZl9TMzhxai1wZE5FZzlER21vay1jbGxPWXRjYXBKd1FldU5INkJhLTdkWm1tUW9KOW9USFpSRjVnRjhlMWJGYmtILW5oNzc5ZWNVR1JHcTVTRk0yblVUM3RuT2xuTy1s?oc=5",
+     "fecha": "2026-11-25T12:30:43-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "43c5a796e6",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -2000,6 +1952,99 @@
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYnN5dXU1R0l2MzFTQmlzT05Yc0UyRVI4SVg2d1djeTVuZWVkM0pNeXZzbWl1d0NQMzBNaE1oZjdMNVNtQjZ6b05ERzNXUDhnS2tkZkg0UXlvTkpDREphX0s2YlV4a3ZHSEtDSl9mZm1GOTduTy1YSXZaQ2ZweXExdWFXZkdtWGlSWmp0TkhSMVlELWFaZWxJdjU4WUtxWDI5NWhraVdndG1HeWlyeDFBUEE3blFMQTdMVm1B0gHPAUFVX3lxTFBfWWwtU01LUFdBRmNtX3lEZXNHRmRIa1diSXpsUnF1RlJSWHZTVmVIZ3VIU1VQLUhaeHJhWjVJMUYzV2VueW5nTnpsWjFoRnJBV1lETWhJXzAtTXBDYV9tTzdmQTNuRVBtOGFzMXJMOVdWWktzOXdVNWp1X0xyZ1pkX0NTbEcxVjdiMnM1cmtrX2s2ZW9uU1J5bEEwNDFNNUt4LVZiVHpwa1gwc0l1LTdxaFlITXdjQlNLOUNueTM3RTJCNTlhd2diTHlJU0RiOA?oc=5",
      "fecha": "2026-11-25T13:35:42-03:00",
      "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "b9c14bc503",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "lanacion.com.ar"
+   ],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T12:08:54-03:00",
+   "notas": [
+    {
+     "titulo": "A cuánto se vende el dólar blue este miércoles 25 de noviembre",
+     "medio": "La Nación",
+     "dominio": "lanacion.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONkxZYU5qQWNmWUVjMmVMOTVvY0VJbTdRb1ZzUHRlYXVGangtNWdkLWhnZS1oLW00Y3p6MG5GMnc2M0l3eXdoa1pORUtlQjRNSGxwN3l6R1ZadVBqQUE2WEpUZUI1bWlVb0kteDEwbUNIUncyeGg5ZTVWMHpDR3dNVDRPd3lxQWlTcFNhQnl2a3Q3SHQySXlQNHd2ek42WjBEc0ttSGhSc3RhdWJYRl9kSUln?oc=5",
+     "fecha": "2026-11-25T11:38:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Dólar blue: a cuánto se vende este miércoles 25 de noviembre, con suba a $1725",
+     "medio": "Rosario Finanzas",
+     "dominio": "rosariofinanzas.ar",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3RESDRVMUNjaFB1SWZaektDZnVuT1lteng4cUtJSU43NGwtcmdQc2RQalpyakJwdS1vTllma3E2alk1SkZjUjhMUU9rai1PTjJ2MUZpU0hnSml5clZYTU0weVpGc0pabjFPeUJhbnlESVR5U0FsWVRXWFkyVlV0OG1WOW9maFlIM24ySXBaVWtZNlBKdjlVTGdkb0xsbUZXX3dpSW5oR2hyaWQ5MzlSMQ?oc=5",
+     "fecha": "2026-11-25T12:08:54-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "d8b88308f0",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T23:32:23-03:00",
+   "notas": [
+    {
+     "titulo": "Alejandra Guzmán sufre golpe en el rostro con utilería durante show en Edomex",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/mexico/2026/11/26/alejandra-guzman-sufre-golpe-en-el-rostro-con-utileria-durante-show-en-edomex/",
+     "fecha": "2026-11-25T23:32:23-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "54c10dd896",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T23:32:10-03:00",
+   "notas": [
+    {
+     "titulo": "Camila Domínguez ya está en Bogotá para llevar la banda peruana al Miss Teen Supreme 2026",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/peru/2026/11/26/camila-dominguez-ya-esta-en-bogota-para-llevar-la-banda-peruana-al-miss-teen-supreme-2026/",
+     "fecha": "2026-11-25T23:32:10-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "8edf6c5b97",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T23:30:52-03:00",
+   "notas": [
+    {
+     "titulo": "El banco central surcoreano eleva al 3,25 % los tipos ante mayor crecimiento e inflación",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/el-banco-central-surcoreano-eleva-al-325-los-tipos-ante-mayor-crecimiento-e-inflacion/",
+     "fecha": "2026-11-25T23:30:52-03:00",
+     "lista_seria": true,
      "fuente_tipo": "medio"
     }
    ]
@@ -3739,27 +3784,6 @@
      "dominio": "infobae.com",
      "url": "https://www.infobae.com/mexico/2026/11/26/analistas-urgen-al-gobierno-aplicar-una-reforma-fiscal-para-aumentar-los-ingresos-tributarios/",
      "fecha": "2026-11-25T22:05:30-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "30e311bfac",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "clarin.com"
-   ],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T22:05:10-03:00",
-   "notas": [
-    {
-     "titulo": "Amenaza de muerte contra Gastón Gaudio y sus hijos a menos de tres semanas de las elecciones en Independiente",
-     "medio": "Clarín",
-     "dominio": "clarin.com",
-     "url": "https://www.clarin.com/deportes/amenaza-muerte-gaston-gaudio-hijos-semanas-elecciones-independiente_0_vVpqQ2s4n6.html",
-     "fecha": "2026-11-25T22:05:10-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -10813,6 +10837,36 @@
    ]
   },
   {
+   "id": "2c31561566",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infobae.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T16:50:00-03:00",
+   "notas": [
+    {
+     "titulo": "Es argentina, vive en Estados Unidos, comparó las diferencias laborales y se viralizó",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTZka1QzNTdHMjdOeXo0OUh1TmUzMm1rcGhqNXNPQUZnNmNsTmVmMFJ1TFg1WWpqLVR2VHVmZGdEb25aZ2xpbkZhT3dsS2h5VWFFd2l1NTBqZFRjc0xXTUgxU1lHTGdoRGdidDV0SUNrcWcxR1V6aWdNamhyZGpnajhQYXl6TjBVMXExZmx6Z2N5dDZyaUJnSTRKWXY2X3AzanBxampqbHVuTk5tWTNFOWVlUDNOaV9jSU9oQllJWk8zZ3VhNFVITXVMWDg?oc=5",
+     "fecha": "2026-11-25T16:31:43-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Es argentina, vive en Estados Unidos, comparó las diferencias laborales entre los dos países y se viralizó",
+     "medio": "Infobae",
+     "dominio": "infobae.com",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS2NuOW5HaGJzNHd0QnRxTVB0RlA5ZlZfcm9aYnQxZlJnMkIwcWpLOG96NWYxcGVMaEZjRFl6azg4emlYdUZEN19aTUtmZHdFNjdxMzB2T18wbjNzNkYyVW1aNGFnVHR2NHZ2TWUydjg5aHB0UjJRT2l2amc3NVBaLTRBdXhiUTJ1WW5lcEdBYVJGRE1RUHhjeEs2YjR5MTNQa0hZa2FyV2Z5N0R4aDZfN3JSLVk2STJUSVVPVEl6ZzhwSUIzRFk1U3pHSnlsTTUzMEw3YjJGVTJaYU1DQVd0YW1zQdIB_gFBVV95cUxQeTRoV0pBRWs1WXZ0M01Xa3NfaktpQzBNUm9UQjdtNllXRmN6TExYYlVjSHhYRGhsVF82RTdDU3V1OFdOM2lLT3JxcVcxMkJmN3JfWW5KVHNLS1hUOU91SkNiZ0doRzh2Qk8xbnh5Q3AzSHBtMjJfdldmTkFwZDd3Sl9lTWVmNlY2NUYydWZRcnlJMF8tZXlFVF9DaVNGVjh1eHNiSlh2TVpZdTh4cU1ZS3E1blZra09BSElUa1RYbW01eFB1MGxEOG0xNVdLZHIwcy1sS0tFZGxkSkZBMVg0VFNnaHhyTDE3SDE3YS1rQWcwdHBwczNDY0JZaDB5QQ?oc=5",
+     "fecha": "2026-11-25T16:50:00-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "03df466939",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -11143,27 +11197,6 @@
      "dominio": "cronista.com",
      "url": "https://www.cronista.com/protagonistas/el-cielo-perdio-el-control-hana-explora-nuevos-sonidos-en-su-quinto-disco/",
      "fecha": "2026-11-25T16:33:24-03:00",
-     "lista_seria": true,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "7755e19460",
-   "pre_semaforo": "amarillo?",
-   "medios_serios": [
-    "infobae.com"
-   ],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T16:31:43-03:00",
-   "notas": [
-    {
-     "titulo": "Es argentina, vive en Estados Unidos, comparó las diferencias laborales y se viralizó",
-     "medio": "Infobae",
-     "dominio": "infobae.com",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTZka1QzNTdHMjdOeXo0OUh1TmUzMm1rcGhqNXNPQUZnNmNsTmVmMFJ1TFg1WWpqLVR2VHVmZGdEb25aZ2xpbkZhT3dsS2h5VWFFd2l1NTBqZFRjc0xXTUgxU1lHTGdoRGdidDV0SUNrcWcxR1V6aWdNamhyZGpnajhQYXl6TjBVMXExZmx6Z2N5dDZyaUJnSTRKWXY2X3AzanBxampqbHVuTk5tWTNFOWVlUDNOaV9jSU9oQllJWk8zZ3VhNFVITXVMWDg?oc=5",
-     "fecha": "2026-11-25T16:31:43-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
     }
@@ -11821,6 +11854,27 @@
    ]
   },
   {
+   "id": "9412277300",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "perfil.com"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T15:26:34-03:00",
+   "notas": [
+    {
+     "titulo": "En helicóptero y en pleno centro: la inesperada aparición de Joe Lewis en Bariloche",
+     "medio": "Perfil",
+     "dominio": "perfil.com",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZm9IV2xMOFh4VzBQRTN0ZnY3T0tpN1c5UXJiTHluaWMwbTFGbFI0U1pfMmlBMU44RENoWXBjM0x6cTJsakFXTnVSaHNReUJfVXRyUmJQU21tQ3hsQUs5YnNsSW0zdWhhWEpVby1KcWFRTFBySzdObG1vTlpackxteVYzTmxKMng3OURMM1htSmpSQkxJY2hwSnZscmR3aldfbTZKWk5ucEFMa290T1RLY2I0NnQ5WVctMFpmb2NLdzQ3VERBY0E?oc=5",
+     "fecha": "2026-11-25T15:26:34-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "e13f5738c7",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -12180,6 +12234,27 @@
      "medio": "Página/12",
      "dominio": "pagina12.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXE3ajB2MFBBY2dvdHJVM2dXaU9KOHVJRV92QU1KOEk1QUJJZm9mbnBrNUlUamZ1cjlFdDFFbjQ1eDAxRkkxdVNONWFrV3RuLXcxZUMyblAydkZpUGRycWp3TmNELW5ERWpiVjg1eHFBd3kyTV9ubFFkTzQzLVFqM0M3Z3F0VWh6V2ZfZzdRQWVsQVhiNlZEYVIyV3RuTEZhLV9WOHZERDZtSkxqYUZTUmR3X21CZTN5emhobmhsU3lKTC03WlN1SzhNalU0Rmo5ZTZaYzBB?oc=5",
+     "fecha": "2026-11-25T14:44:54-03:00",
+     "lista_seria": true,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "7ebe265def",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "pagina12.com.ar"
+   ],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T14:44:54-03:00",
+   "notas": [
+    {
+     "titulo": "La economía argentina entró en recesión técnica tras dos trimestres consecutivos en retroceso productivo",
+     "medio": "Página/12",
+     "dominio": "pagina12.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0p3VFIxV3lYanZNOHlLeXJfVkgxM0puVDM2eWhoOTVUWnNja3B3UjNzcjVBQUdNYmJJbl9kMWtBT293ZEFfbDczVTFqbFVKNkhGX2pQUTh3VHpjNkZPWVNRbzY0N0pOYnZWVW4zNVJYdVlYUFhlbEZPWVpBQV92Q1dhTG5DNEdROVFfUE1YU1lBOWtQU1d3RVhiZ2hoaGJRVXdPZi1fQ2IyRVdjak5wRkhQbXI5X2FkeTNnQlg3amM4X1NYbHYwWE9UbW9oalZaN3NaVi1FV3F1LTFu?oc=5",
      "fecha": "2026-11-25T14:44:54-03:00",
      "lista_seria": true,
      "fuente_tipo": "medio"
@@ -12955,8 +13030,8 @@
    "id": "feb7726ec1",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
-   "cant_medios": 9,
-   "cant_notas": 9,
+   "cant_medios": 10,
+   "cant_notas": 10,
    "ultima": "2026-11-25T23:26:44-03:00",
    "notas": [
     {
@@ -13790,6 +13865,34 @@
    ]
   },
   {
+   "id": "8e8fe62f97",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T21:11:00-03:00",
+   "notas": [
+    {
+     "titulo": "Argentina en recesión: se dispara el dólar y sube el riesgo país; ministro defiende plan de Milei",
+     "medio": "EL PAÍS Uruguay",
+     "dominio": "elpais.com.uy",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZnROT0Y4OW40UFp3UElUeFd5UVlDZFM2X1pCUzdPb1NiSUcxc0I0QnJ1N1ZhNnBHVWd3b09iNU56NlprWUVHdFF4azFWMGdrMHBzWDd0NDBRTmFxeDZGbXp5MjBpS29pT0xQbHZrZ0VxekhSbUZRcng5Q2R2ZHFHaXVKeVllVkppRzk2N2lkMjZpeXVpa0t1STdXcHNmeDE0QVB0bVRoenA3VklrLUtMaGwzQ25LX1RCblVSdjYweE9tc0Z3VUlWZUVpMHBSdzN3bzZR?oc=5",
+     "fecha": "2026-11-25T12:40:34-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Recesión, dólar y riesgo país: la tormenta que pone a prueba el contrato electoral de Milei",
+     "medio": "TN",
+     "dominio": "tn.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUThPMnVCakRCUzhWdXQwTlh1ODhUU0U3YUp4VHBTOHk0ekROanZlXzhxMWhKQ3FwMUZyUEdSaFdoU1czRFRZRVdHUHhMakJ6X3d6NEtOSnlmNGkxOURQMWxWeUNWMHdtZUNsRmNDVkVvdXlMMFNwQWs5OUZLOTVhUnM0TmVEQ0tvVnRwQUw0V2tHdGMzNEMzWGRBRmJYQng2MkV1S21jSWV4VTJSMDlRTm1WV3ZfUU9ibGw0a0JHNlV0a3JWdnfSAdoBQVVfeXFMTzNpQWFnWkhxNVJucjBGRnIyWkljN2xNQXhXQjUyQ3d4SlN6TzhQczVibFdsVW9maTliN2FIMENIdVRlYjhpaDZqUGg2WFR2b2lrelJLXzFSVllmc1B6TzBvM2tRVlFJRnVfd2gzTVNkNlQxT1Zqd25BMFJvM2N1ZW15czR1Mk9jdjlyV3YwQmhkNUFIWHVJVlFibHN5SnNocDdFZlk3ZXJQSVp6UnhHbjNvVE1iNFc5VDA1cml2NXN2SWpGXy1HWVM2U19hUVVFRWdibWEzcXQ2SkE?oc=5",
+     "fecha": "2026-11-25T21:11:00-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "42079e0cb2",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -14471,6 +14574,34 @@
    ]
   },
   {
+   "id": "5ceb11e0a1",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-25T15:48:11-03:00",
+   "notas": [
+    {
+     "titulo": "\"Milei es un sepulturero, para él toda la industria nacional tiene que morir\"",
+     "medio": "La Brújula 24",
+     "dominio": "labrujula24.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHFJa2hWa1VtQktzZDR6WkNCWkpSQTFZeWt3OG9ILXRXU2J0YndIRUJ5eUg1LWhneW94MzVVQ0FOZGpqbGNGS0NDemtwNnVkZ0diN2NURHhYOU1lbGpwYUZxc0w2SDJLZ3Bjc3lZX0xJcmlkUDh6QjlGSXFFUy1zdUpYN29YQldoT25acGktNEhUMVZUYnNOUGx6TUUxTXJlcXFEMjB6WlBMLXJETGdEX3lDMHc0RWE2aWpkREJ3bUR1LVRsZktJ?oc=5",
+     "fecha": "2026-11-25T11:55:46-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    },
+    {
+     "titulo": "Kicillof apuntó contra Milei y lo calificó de “sepulturero” de la industria nacional",
+     "medio": "El Eco",
+     "dominio": "eleco.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0RBUnFQZ3I0RVRWalRNSXBGX0dIdGs1djVyNEI3bUFjWDhtNmxVT0ktNUNWOWdxbWVDRmFoT2RFSzhaTmhhZHQwTGRMckUyMEduR25UT25SSDBFaWloOHB3LU5QR3ZCcGY5Xzl1d0hWSjRmM1JoemdwbnRQRXNNa1NlZW56NUtxaW9IUTVteUJ4bTdMSDdFSTZ2ejN6c3dCUnJHYng4T0QxZlR0NlhiN1d3cVR2ZlZ2RFE?oc=5",
+     "fecha": "2026-11-25T15:48:11-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "8ff694dba2",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -14993,25 +15124,6 @@
      "dominio": "ahoracalafate.com.ar",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWRfTFcxM05UaXU2NHZMTFVXLThDRV9YeTc2UG9IVEE0Y3I1OEpqMXc4eS1mWFRXYTFJdHE5cm1aTF9HRG5OZU5DVlhKY0VvVEV3RDZLSWJFdDVPdkU4T2pLVm1NQkRrdDNWSWFNX2xJV2xvbm9ydTcyeUw0NTVzMHZhVW9EQWtTNUZBU0ZnOGJJV3dVQ1ItaVhoTG14SDZNNjZqM3M1TVVFSzJmQl9OWUd4NEhnaGZodnN4WtIBtAFBVV95cUxON1F0d0VqdHVENEFpbWFhLVJRQXBCa0tRbHkzenhWYS1Udk5DSVZQcm93azNuc1dpcmkwU05XRWI3LUlpT2t5Tll2NkJreC1Xc1hIYkRleURQRWFkRzJpamYweUhHTW1na3pxWVlVNHhxZDBJS00tOUpsNnE5ZnM4R0YxcmZCd1U0TnRsYkFscWpjZGpWbXV2WU9uVUZrcWFCX3puNkxtbFRqTEZ1SDRuMFpBU2I?oc=5",
      "fecha": "2026-11-25T21:16:00-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "8e8fe62f97",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T21:11:00-03:00",
-   "notas": [
-    {
-     "titulo": "Recesión, dólar y riesgo país: la tormenta que pone a prueba el contrato electoral de Milei",
-     "medio": "TN",
-     "dominio": "tn.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUThPMnVCakRCUzhWdXQwTlh1ODhUU0U3YUp4VHBTOHk0ekROanZlXzhxMWhKQ3FwMUZyUEdSaFdoU1czRFRZRVdHUHhMakJ6X3d6NEtOSnlmNGkxOURQMWxWeUNWMHdtZUNsRmNDVkVvdXlMMFNwQWs5OUZLOTVhUnM0TmVEQ0tvVnRwQUw0V2tHdGMzNEMzWGRBRmJYQng2MkV1S21jSWV4VTJSMDlRTm1WV3ZfUU9ibGw0a0JHNlV0a3JWdnfSAdoBQVVfeXFMTzNpQWFnWkhxNVJucjBGRnIyWkljN2xNQXhXQjUyQ3d4SlN6TzhQczVibFdsVW9maTliN2FIMENIdVRlYjhpaDZqUGg2WFR2b2lrelJLXzFSVllmc1B6TzBvM2tRVlFJRnVfd2gzTVNkNlQxT1Zqd25BMFJvM2N1ZW15czR1Mk9jdjlyV3YwQmhkNUFIWHVJVlFibHN5SnNocDdFZlk3ZXJQSVp6UnhHbjNvVE1iNFc5VDA1cml2NXN2SWpGXy1HWVM2U19hUVVFRWdibWEzcXQ2SkE?oc=5",
-     "fecha": "2026-11-25T21:11:00-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -16091,6 +16203,25 @@
    ]
   },
   {
+   "id": "e2d1990632",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:12:57-03:00",
+   "notas": [
+    {
+     "titulo": "¿RECESIÓN O ILUSIÓN? I SIETECASE EDITORIAL",
+     "medio": "Flipr.news",
+     "dominio": "flipr.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJkaXBOTkNDOHB5SVpmcDRNd094Q1dja25XRGtrZ1JZOC0yTHFPNk5VS2lfUllTVzhKLVc3eFV2UU5yYkJjYWtQUjc3cXQ1eDhzbmJtamxYbmJDNmwweF9DNzBTU0tMUEtvQk1KdDVQNU85dHhUNl9KcFE1YnJrS1JaUGo5M3dmc1ZENEZaYWR3RmRYY3c?oc=5",
+     "fecha": "2026-11-25T18:12:57-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "45b0936ea4",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -16110,6 +16241,25 @@
    ]
   },
   {
+   "id": "916239cd93",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:06:57-03:00",
+   "notas": [
+    {
+     "titulo": "VETERANOS ARGENTINO y BRITÁNICO de MALVINAS mano a mano con TENEMBAUM y SIETECASE",
+     "medio": "Flipr.news",
+     "dominio": "flipr.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWF1bllBd3RJOFd0Sml0eGtEM3JSYUNrZGthVHdZdlhlM3NySm9sb2hUOURFVWNnajRlWGRrSnpSRlpiaHBSelNZUk1DNE5IMmpPUW83QUp5elJhQ2wyRUxWQVM1MHRMY2pFUWRPYWdhZVZFMVJOVW1ickc2TkZSODdIU2JsQWdnV0hZVkxGbk5jN2pLclA5UC13M094TTZQZzlOa0hTZHdjWm9nU184N3o3WWdZOFV4THh0eWxtRmcwUWJpdUdsZEJOREM?oc=5",
+     "fecha": "2026-11-25T18:06:57-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "7a282751be",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -16123,6 +16273,44 @@
      "dominio": "infozona.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdU85aEhOeTRJUnFYTVdZZW1tSDFaSE8zNndDVGRhQUc5WkpXNndGY0lpN2NRNmJCNEdra09fbGRaVG5QbGRuazROcFMwOFJUWUswSzFuaUdYUm5nSVhRWWpRcjdqbUpOZXJuMzlXc1MyaG1uLVVmYjM2Z3o3LUJHaGE4RHpvdGlzc2FqLTVrTzN2N3FlbzA1TU85RWdheU5OMTFucDNSSWM5WlpkcTFHRXNjRnNDV1BZeFh2aVNJX2U4SG42QTR5M19hYmgtcnFrM2dkU1ZnRVU2UWlmaUU5SUlLOTgzY0FrWF81VFVIMjQ?oc=5",
      "fecha": "2026-11-25T18:03:43-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "d1668600d7",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T18:00:57-03:00",
+   "notas": [
+    {
+     "titulo": "«Se bajó impuestos al RIGI y no a las tarifas de la clase media» I KOHAN CON BERCOVICH",
+     "medio": "Flipr.news",
+     "dominio": "flipr.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0hHWHNJbnRaUkRBWWNJdjdwX1poZHpJU1JFU2huNFNwZDhSbENBc1FWSzJhWXNXT0FlUzRCeEhJUjNqNVEtXzYzeVJkRTdzRDV5UmNMbmw5LXdmWkx3QzdMaDhyMjYwSERNOVpEd29VVGF0NmRaVGVmOVg1b2RBV2VobFpydGZQWGt2a3hFU1ZhRDgzOWZuOVV1T29GS1JWZXV6ekNqMWd1MTdaNW9Ecm5MVjk5TUlFeVl2OXlOem9xbXpDcDJ5X1cwV1E0TTJq?oc=5",
+     "fecha": "2026-11-25T18:00:57-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "2cfd9eae63",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T17:59:57-03:00",
+   "notas": [
+    {
+     "titulo": "VACA MUERTA, LEY MALVINAS Y EXPLOSIÓN EN METROGAS | NICO GANDINI CON BERCOVICH",
+     "medio": "Flipr.news",
+     "dominio": "flipr.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JsYld4LUd5TkRuVEx1QnNQbUpMTVNWZ0RJSGRCWm1ILUprWHBuWTV2SWlVXzNlX3VmVnluOUVhN09GSl8wYmFicWNHRXNKR1hlNTN4VHdKZ1VBV3pnNV9aaEYxWl9YN2xDNk1kQXR1WE1QZ1lkS0lucjhtVmVZMnRabXBIU3hkaDAxRlFWLVJXa0hJREhSYWVFZUxqTDhrLWV4OXhERGJmNkQ2NHpsWkI4RGpWU184Mm5JYTNUb2dyNWFM?oc=5",
+     "fecha": "2026-11-25T17:59:57-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -16408,6 +16596,25 @@
      "dominio": "enteratenoticias.com.ar",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2JnXzFnQkNJZ1d2cEF4VkU4UWtfN0R2OUF6TkRvWGVZaTF4Qkx0MnBPUlBjdGVIdWtfZUlTMTBZMUtPYVdXWFZyRDMtTDdUMGt2c0U0cEV0SjNpMDkxdl9nTHFQeEhmczE2ZG02NVBsXzAwRWZNLUxkTmt4dkc4TFc0aWM2MUpsTk5FUWZsWTJiOGpPMGsyRmhONHJCUHYxMEVFdEt5SVNaZUlUczJTRlJfSHNENXczS3BXRTlkVFVoZFNDUHRUMXhVa2d0NVFndkpvUE44Y0lTWXNYXzNoVnYyZ3VUdw?oc=5",
      "fecha": "2026-11-25T17:25:06-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "c295083229",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T17:22:53-03:00",
+   "notas": [
+    {
+     "titulo": "Aníbal Fernández agitó la interna peronista: «No hay más lugar para el dedo»",
+     "medio": "InfoBaires24",
+     "dominio": "infobaires24.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQclF5M25lV2RsUEZTMnVuNW1xa1VQM1FSSEUxaWN5cUktWWtZZHg4azdjNmZYSlVIOXhDQmxGUnNiS0pZcmdBMjFYSXZkbV9pdmV2enhmOTA4YXVFekt0NWQ1TWc4Wnl1NjY5anNENWgtUG9teEtMOGgxRl8xOUlHajNTaUhqM3FGVVZOX2ZfUFlhR3Jjd2RYQWRDQWNoWWJFSFVtbg?oc=5",
+     "fecha": "2026-11-25T17:22:53-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -17231,25 +17438,6 @@
    ]
   },
   {
-   "id": "5ceb11e0a1",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T15:48:11-03:00",
-   "notas": [
-    {
-     "titulo": "Kicillof apuntó contra Milei y lo calificó de “sepulturero” de la industria nacional",
-     "medio": "El Eco",
-     "dominio": "eleco.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0RBUnFQZ3I0RVRWalRNSXBGX0dIdGs1djVyNEI3bUFjWDhtNmxVT0ktNUNWOWdxbWVDRmFoT2RFSzhaTmhhZHQwTGRMckUyMEduR25UT25SSDBFaWloOHB3LU5QR3ZCcGY5Xzl1d0hWSjRmM1JoemdwbnRQRXNNa1NlZW56NUtxaW9IUTVteUJ4bTdMSDdFSTZ2ejN6c3dCUnJHYng4T0QxZlR0NlhiN1d3cVR2ZlZ2RFE?oc=5",
-     "fecha": "2026-11-25T15:48:11-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
    "id": "9888b33293",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -17478,6 +17666,44 @@
    ]
   },
   {
+   "id": "d0a00cad12",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T14:58:26-03:00",
+   "notas": [
+    {
+     "titulo": "La CGT Ushuaia prepara denuncias penales por la intervención del puerto y apunta contra dirigentes libertarios",
+     "medio": "Red 23 Noticias",
+     "dominio": "red23noticias.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2ZUNFFaaEt0MFNyeE9OZ0E4RW11ZlV2SklGS2JaOFZ0aW81ZUhCT0ZfM2FIR2YxX1ZFQlVYVmxrWTNVa2VyX1B0SmE1UTlhbDhJM0JTZF82RFZUOXQ5X0Znd3VoOWpVQlNtQWZUck9CenpGcjY1aDFYbG5oQ09TR1lUZzliT0Q4TU8wMndOOFRqR0E4WkZSZk9kaVJtbEV0MGRfaVdDZHFOanBBY1drZmhDbU96ZkVNdTFDU2NQT0xUaDZjbGZuUWdHVENaU1E2TVRzX05Vem9LMVRYSld2aHR1ZDNvQQ?oc=5",
+     "fecha": "2026-11-25T14:58:26-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "a2a72426bb",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T14:57:48-03:00",
+   "notas": [
+    {
+     "titulo": "Jorge Rial reveló quién sería el millonario interesado en comprar OLGA y anticipó una definición en 15 días",
+     "medio": "Tribuna de Periodistas",
+     "dominio": "periodicotribuna.com.ar",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSTBHWjhQb3NoSTBNZUtHOG5ieE54LTE4TXNoajVIVDlUV0pUX1FUb2h3bnNqcHhKQUhOV19pdENveHNIWE1QejZWeWxBN0VlUmk0T3ZueDZfNGwwQXluMXZGTnNVNWUwS19ya1lpbzdTYjJFV2hvOVZGOEl3NktrcUo2VEVHZV9Kdl9WSDllYlhPd1A2SldzdFc1Tm54dVRBT0Rrb2xieTRxbmNlZWluYUZCWXRhc2pOZFVTVzBKUjUtc3FPQUpXcW1POWcwa05wV1d4Rm03Yw?oc=5",
+     "fecha": "2026-11-25T14:57:48-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
    "id": "7e57e509da",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -17605,6 +17831,25 @@
      "dominio": "izquierdasocialista.org.ar",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPazFjMm1TUVk5QUV6bHluME83bDdCSXJRTDlkZG1KOGhSTHBKNmtEb0FhcjVXM2lxRE9IcWdDc2JoX2FIRG1XcC1GTEdWLVk4aGxDSDVTVkRtZHpiTWlaOGRTSnh1NWlTN1V3cnJMaHdwampBYTBLNHpYeVdVU1VhbWtJcWFrbFVZM0t1VnYtbG83eV9pRGpoZXNlaVdONzM0dmRKTUJVVFVtM2FPR0IweHhWeUlsZGlfWlZaOFhoaU1wWDY2cmZtTE9xRl91djhvdE5lU0plRmFHdw?oc=5",
      "fecha": "2026-11-25T14:46:05-03:00",
+     "lista_seria": false,
+     "fuente_tipo": "medio"
+    }
+   ]
+  },
+  {
+   "id": "962987e3ba",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-25T14:43:46-03:00",
+   "notas": [
+    {
+     "titulo": "El Niño 2026/2027: claves para planificar la próxima campaña agrícola en San Luis",
+     "medio": "Argentina.gob.ar",
+     "dominio": "argentina.gob.ar",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQjRBbHdUc1o1ang1Y3QyWnhTN21zcDVjT2FuNG9INW1ZWnlONnlnempLNmpmSGpOYVZ6LWZMTjIxQlpSd2NIRklUelNkN1ROM1BoQ0F6Q1U2VGlscWpNMkZfZE5qTVBNdlVJWE9mZ2I5aGhnVGFobmNfeEc1cm9NWG1hVHVkTnNXRDY0OC12TTRpdE1lS1VZU0dBbEJETkxyMXl6Zml0czFJX25IbVR3QVhqcHFFN1pk?oc=5",
+     "fecha": "2026-11-25T14:43:46-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }
@@ -19438,25 +19683,6 @@
      "dominio": "eldestapeweb.com",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWxOXy11NHdoSlJadUs1V05CdnZWVlQzZHBIV1hualhhZllXcUphVXA5aDdqSUZMTUdTOXhWNEhMelc0WmtvaHp4NzV5c21IVzZvMGtuM0E3ZGsyR3l1bG11c082b2haYUhScGx3dGlsajBVbWszRDFoZmhwTU5QaWR1bllhLW9Hd0JaNDlZZlFJY2VsQkZzZWpNV00zWUZpT0oxYTNtV0NMZ1FTTTVV0gHDAUFVX3lxTE9ibVBwd3lmZXM2V2NKUUh4cjd3S3RwNFBSMFdicFJiSEtUcEpUY2J2N2NTQTJEclh2VHZsSXNBcWlHeC1yUVFLNm5wc1k3U0tzNmJ6NXg5ZEU0ekMySkFWOXhBZmFFRGo1bTZwOG1FaXBaWTJCYXBHekpwYXBoSGpjYWswa1FnNEdBT2tCeEpoQlpEMzlROWUyaFFyOWJNSzBCV3ZuajVFRF9rZjdHVXpoV0RZb2YtU3VnWm5TeUxMMEdFdw?oc=5",
      "fecha": "2026-11-25T11:36:57-03:00",
-     "lista_seria": false,
-     "fuente_tipo": "medio"
-    }
-   ]
-  },
-  {
-   "id": "96a164331a",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-25T11:35:02-03:00",
-   "notas": [
-    {
-     "titulo": "Euro BLUE HOY: precio y cotización de este 25 noviembre 2026",
-     "medio": "Infocampo",
-     "dominio": "infocampo.com.ar",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGpjWUI3ZnRKWHh4b09QX0tkeU9UbUtWbDY3Wk5tSFJMN0stSmprNzJ1NEZQREgzT3k4Z29FQ19IdXNsNkNXU19uMTFoN2dycVVZU1ZKMWpWdmkwZURFd0ZkOENrcWNFZ1l6dXoxN0o1c09OZ0MwbzVVZnNZUWlaUmwxZ0JyZw?oc=5",
-     "fecha": "2026-11-25T11:35:02-03:00",
      "lista_seria": false,
      "fuente_tipo": "medio"
     }

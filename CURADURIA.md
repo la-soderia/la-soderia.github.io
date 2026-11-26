@@ -49,6 +49,13 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
 8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si resultó falso, se pasa a 🔴 Falso.
 9. Antes de guardar, revisar: ¿cada tema tiene semáforo y fuentes? ¿Hay alguna cifra sin fuente? ¿Se marcaron las discrepancias?
 
+## Estilo de redacción (pedido de J)
+Esto vale para los resúmenes, las claves, el "por qué importa" y las ideas de carrusel.
+- Escribir de forma directa, afirmativa y fluida. Si algo se puede afirmar en positivo, se afirma; no usar contrastes innecesarios del tipo "no es X, sino Y" o "no se trata de X, sino de Y".
+- No usar dos puntos dentro de los textos redactados. Los títulos de los medios citados se copian tal cual.
+- Preferir oraciones conectadas, con punto y coma cuando unen ideas de la misma explicación, a una seguidilla de frases cortas.
+- No cerrar con fórmulas como "en resumen" o "en definitiva", ni con una frase que repita lo ya dicho.
+
 ## Límites
 - No reproducir notas completas: solo resúmenes propios con link.
 - No usar fotos de personas sacadas de la web.

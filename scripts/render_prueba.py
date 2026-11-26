@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera una vista HTML de una edición (para revisión de J)."""
+"""Genera una vista HTML de una edición (para revisión interna)."""
 import json, sys, html
 from pathlib import Path
 from urllib.parse import urlparse
@@ -87,7 +87,7 @@ details summary:focus-visible,a:focus-visible{{outline:2px solid var(--accent);o
 <header>
   <div class="eyebrow">Motor Soda · edición de prueba</div>
   <h1>Lo que pasó hoy, chequeado</h1>
-  <p class="lead">Miércoles 25 de noviembre de 2026. Es una prueba para que la corrijas: los carruseles los redactás vos.</p>
+  <p class="lead">Miércoles 25 de noviembre de 2026. </p>
   <div class="stats"><span><b>{m["notas_analizadas"]}</b> notas leídas</span><span><b>{m["grupos"]}</b> grupos</span><span><b>{m["temas"]}</b> temas elegidos</span></div>
 </header>
 <section><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>

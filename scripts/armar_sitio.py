@@ -200,6 +200,7 @@ def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
 .nav{{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}}
 .btn{{display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}}
 .btn.on{{background:var(--accent);color:var(--surface)}}
+.dia{{font-size:1.5rem;border-bottom:2px solid var(--accent);padding-bottom:6px}}
 .ed-sep{{font-family:var(--display);font-size:1.05rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}}
 </style></head><body>
 <main>
@@ -259,14 +260,15 @@ def main():
     cuerpo += seccion_ultima(cand)
     (BASE / "index.html").write_text(pagina("Lo que pasó hoy, chequeado", lead, cuerpo, nav("hoy"), ahora_txt, len(notas), medios))
 
-    # Ayer.
+    # Ayer y anteayer (para el lunes: sábado y domingo relevados).
     eds_ayer = por_fecha.get(ayer, [])
-    if eds_ayer:
-        cuerpo = bloque_ediciones(eds_ayer)
-        lead = f"Ediciones curadas del {fecha_larga(ayer)}."
-    else:
-        cuerpo = '<section><p class="lead">No hay ediciones curadas de ayer.</p></section>'
-        lead = f"{fecha_larga(ayer).capitalize()}."
+    anteayer = (ahora.date() - dt.timedelta(days=2)).isoformat()
+    cuerpo = ""
+    for etiqueta, fecha in (("Ayer", ayer), ("Anteayer", anteayer)):
+        eds = por_fecha.get(fecha, [])
+        cuerpo += f'<section><h2 class="dia">{etiqueta} · {e(fecha_larga(fecha))}</h2></section>\n'
+        cuerpo += bloque_ediciones(eds) if eds else '<section><p class="lead">No hay ediciones curadas de ese día.</p></section>\n'
+    lead = f"Ediciones curadas de ayer ({fecha_larga(ayer)}) y anteayer ({fecha_larga(anteayer)})."
     (BASE / "ayer.html").write_text(pagina("Noticias de ayer", lead, cuerpo, nav("ayer"), ahora_txt, len(notas), medios))
 
     # Archivo: una página por día + índice.

@@ -95,7 +95,7 @@
    "seccion": "Juventud y educación",
    "semaforo": "🟢",
    "titulo": "Paro universitario y marcha al Congreso contra el Presupuesto 2027",
-   "resumen": "Docentes universitarios hicieron paro y marchan al Congreso contra el Presupuesto 2027 y por el cumplimiento de la Ley de Financiamiento Universitario. El CIN advirtió que las universidades no podrán funcionar en 2027 si el Presupuesto no contempla los fondos de la ley. Además, según Clarín y Página/12, una fiscalía dictaminó que la suspensión de la ley es inconstitucional.",
+   "resumen": "Docentes universitarios hicieron paro y marchan al Congreso contra el Presupuesto 2027 y por el cumplimiento de la Ley de Financiamiento Universitario. El Consejo Interuniversitario Nacional (CIN) advirtió que las universidades no podrán funcionar en 2027 si el Presupuesto no contempla los fondos de la ley. Además, según Clarín y Página/12, una fiscalía dictaminó que la suspensión de la ley es inconstitucional.",
    "por_que_importa": "Si no hay fondos, lo que se pone en juego es cursar, becas e investigación en la universidad pública el año que viene.",
    "primaria": {
     "nombre": "Ley de Financiamiento Universitario / comunicado del CIN (citado por Clarín y TN)",
@@ -143,16 +143,23 @@
     "El dictamen fiscal es una opinión del fiscal, no una sentencia: falta la resolución del tribunal."
    ],
    "idea_carrusel": {
-    "gancho": "¿Viste el riesgo país y el dólar en todos los títulos? Seguro que sí. Lo que no vas a ver tanto es que los rectores dicen que las universidades no van a poder funcionar en 2027.",
+    "enfoque": "Las universidades públicas advierten que en 2027 no van a poder funcionar si el Presupuesto no incluye los fondos de la Ley de Financiamiento Universitario; es un tema que le pega directo a quienes estudian y que llega a la calle con la marcha al Congreso.",
     "placas": [
-     "Dato: el CIN advirtió que sin los fondos de la Ley de Financiamiento en el Presupuesto 2027 las universidades no podrán funcionar (Clarín, TN).",
-     "Contexto: una fiscalía dictaminó que la suspensión de la ley es inconstitucional (Clarín, Página/12). A chequear: la resolución final del tribunal.",
-     "Pregunta: ¿qué le pasa a tu cursada, a tu beca o a tu carrera si el Presupuesto no incluye la ley?",
-     "Hoy hay paro y marcha al Congreso: ¿cuánta atención recibe frente a la timba del dólar?"
+     "El Consejo Interuniversitario Nacional (CIN), que reúne a los rectores y las rectoras de las universidades públicas, advirtió que el año próximo las universidades no podrán funcionar si el Presupuesto 2027 no incorpora los fondos de la Ley de Financiamiento Universitario.",
+     "La ley fue aprobada por el Congreso y el Gobierno nacional suspendió su aplicación; según Clarín y Página/12, una fiscalía dictaminó que esa suspensión es inconstitucional, aunque la decisión final todavía está en manos de la Justicia.",
+     "Los gremios docentes universitarios pararon y marchan al Congreso de la Nación este jueves 26 de noviembre, con la concentración prevista a partir de las 13 h.",
+     "Lo que está en juego es la cursada, los salarios docentes y el funcionamiento de los hospitales universitarios; si estudiás en una universidad pública, este Presupuesto define tu 2027."
     ],
-    "grafico": "Menciones en títulos, últimos 7 días (rastrillo al 25/11): \"riesgo país\" 97 títulos en 64 medios vs \"financiamiento universitario\" 15 títulos en 15 medios. Rehacer con scripts/menciones.py antes de publicar.",
-    "audiovisual": "Capturas de las notas de Clarín y TN sobre la advertencia del CIN; clip o fotos de la marcha al Congreso; el dictamen de la fiscalía si se consigue.",
-    "cierre": "Respetamos que el mercado preocupe. Pero: ¿por qué lo que define si podés estudiar el año que viene recibe seis veces menos títulos?"
+    "audiovisual": [
+     "Fotografías o video de la marcha al Congreso del jueves 26.",
+     "Captura del comunicado del CIN sobre el Presupuesto 2027.",
+     "Captura del dictamen fiscal, si está disponible en el sitio del Ministerio Público Fiscal."
+    ],
+    "a_chequear": [
+     "Qué fiscalía firmó el dictamen y en qué juzgado tramita la causa.",
+     "Qué gremios convocan a la marcha (por ejemplo la Federación Nacional de Docentes Universitarios, CONADU, y CONADU Histórica) y el horario y el recorrido confirmados.",
+     "Si el comunicado es del CIN como cuerpo o de rectores en particular."
+    ]
    }
   },
   {
@@ -196,16 +203,21 @@
     "Los títulos mezclan la caída trimestral con la suba mensual de septiembre (1,1% según Ámbito): no confundir ambos datos."
    ],
    "idea_carrusel": {
-    "gancho": "¿Te enteraste que Argentina entró en recesión técnica? Seguro que sí. Pero ¿sabés qué significa y qué dijo el ministro para relativizarla?",
+    "enfoque": "El dato oficial confirma que la economía entró en recesión técnica y el Gobierno la relativiza; conviene explicar qué significa el término y cómo se traduce en el día a día de los y las jóvenes que buscan trabajo.",
     "placas": [
-     "Dato: dos trimestres seguidos de caída = recesión técnica (Ámbito, Página/12).",
-     "Contraste: septiembre creció 1,1% mensual (Ámbito). Dos datos, dos lecturas.",
-     "Caputo: la definición es \"arbitraria\" (Clarín, Ámbito). ¿Y para quien busca laburo?",
-     "Pregunta: ¿cuánto nos cambia a nosotros que sea técnica o no?"
+     "El Estimador Mensual de Actividad Económica (EMAE), que elabora el Instituto Nacional de Estadística y Censos (INDEC), mostró dos trimestres seguidos de caída de la actividad; eso es lo que en economía se llama recesión técnica.",
+     "Según Ámbito, en septiembre la actividad subió 1,1% respecto de agosto, un dato que el Gobierno nacional usa para relativizar la caída.",
+     "Luis Caputo, ministro de Economía de la Nación, calificó la definición de recesión técnica como \"arbitraria\".",
+     "Cuando la economía se achica, suele haber menos contrataciones y menos changas, y quienes buscan su primer empleo son de los primeros en sentirlo."
     ],
-    "grafico": "Menciones en títulos, 7 días: \"recesión\" 89 títulos en 65 medios vs \"terroristas\" 14 títulos en 14 medios (o vs \"riesgo país\" 97/64). Rehacer con menciones.py.",
-    "audiovisual": "Captura del informe del INDEC; clip de Caputo diciendo \"definición arbitraria\".",
-    "cierre": "Si el dato oficial dice una cosa y el Gobierno dice otra, ¿con qué te quedás para planificar tu año?"
+    "audiovisual": [
+     "Captura del informe del EMAE en el sitio del INDEC.",
+     "Video de la declaración de Luis Caputo sobre la definición \"arbitraria\"."
+    ],
+    "a_chequear": [
+     "El porcentaje exacto de la caída interanual y del dato mensual desestacionalizado en el informe del INDEC.",
+     "Dónde y cuándo hizo Caputo la declaración, para citar el video original."
+    ]
    }
   },
   {
@@ -296,16 +308,21 @@
     "Atribuir adjetivos: \"mentiras\" es la lectura de Página/12."
    ],
    "idea_carrusel": {
-    "gancho": "¿Te enteraste de la recesión y del dólar? Seguro que sí. Pero ¿sabés que el propio Gobierno dijo que no tiene registro de los \"20.000 terroristas\" que anunció el Presidente?",
+    "enfoque": "Un documento oficial del propio Gobierno contradice una cifra que dio el Presidente; es un chequeo con fuente primaria y un buen ejemplo de cómo contrastar lo que dicen las autoridades con lo que registra el Estado.",
     "placas": [
-     "Dato: el informe de Jefatura de Gabinete al Senado no registra esa cifra (La Nación, Ámbito).",
-     "Cifras: 20.000, 30.000, 43.568 incidentes. ¿Cuál es cuál? (a chequear contra el informe).",
-     "Preguntas: ¿cómo se contrasta lo que dice un presidente con lo que dice el Estado?",
-     "Atribución: Letra P cuenta apenas 6% de expulsiones sobre lo anunciado."
+     "Javier Milei, presidente de la Nación, aseguró que el Gobierno había deportado a miles de \"terroristas\".",
+     "El informe de gestión que Diego Santilli, jefe de Gabinete de Ministros de la Nación, presentó ante el Senado no registra esa cifra; según La Nación, el documento contabiliza 43.568 incidentes y ningún caso de terrorismo.",
+     "Según Letra P, la cantidad de personas expulsadas equivale apenas al 6% de lo que había anunciado el Presidente.",
+     "El dato del Presidente quedó contradicho por un documento oficial de su propio Gobierno."
     ],
-    "grafico": "Menciones en títulos, 7 días: \"Santilli\" 84 títulos en 70 medios vs \"terroristas\" 14 títulos en 14 medios. Rehacer con menciones.py.",
-    "audiovisual": "El informe en PDF; clip del discurso original de Milei con la cifra.",
-    "cierre": "Si un dato oficial desmiente a una autoridad, ¿por qué se habla tan poco?"
+    "audiovisual": [
+     "Video de la declaración original de Javier Milei con la cifra.",
+     "Captura de la página del informe de gestión de la Jefatura de Gabinete donde figura el dato."
+    ],
+    "a_chequear": [
+     "La cifra exacta que dio Milei; La Nación y Ámbito hablan de 20.000 y Página/12 y Letra P de 30.000. Hay que verla en el video original.",
+     "El número de página del informe de la Jefatura de Gabinete y el link oficial en el sitio del Senado."
+    ]
    }
   },
   {

@@ -1,7 +1,7 @@
 {
  "id": "2026-11-25-15",
  "tipo": "curada",
- "generado": "2026-11-26T01:17:21-03:00",
+ "generado": "2026-11-25T22:17-03:00",
  "claves": [
   {
    "texto": "Las universidades advierten que no podrán funcionar en 2027 sin los fondos de la ley; hay paro y marcha al Congreso.",
@@ -611,5 +611,6 @@
   "notas_analizadas": 1514,
   "grupos": 1026,
   "temas": 10
- }
+ },
+ "nota": "Corrida de prueba (22 h)."
 }

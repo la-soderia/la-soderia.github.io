@@ -166,40 +166,119 @@ def seccion_ultima(cand):
 <div class="ult" style="margin-top:12px">{items}</div></section>'''
 
 
-def main():
-    ed = leer("data/edicion.json") or leer("data/edicion-prueba.json") or {}
-    cand = leer("data/candidatos.json")
-    crudo = leer("data/crudo.json") or {}
-    notas = crudo.get("notas") or []
-    medios = len({n.get("dominio") for n in notas})
-    ahora = dt.datetime.now(AR)
-    ed_txt, _ = hora(ed.get("generado"))
-    es_prueba = ed.get("tipo") == "prueba"
+def ediciones_por_fecha():
+    """Lee data/ediciones/*.json y las agrupa por fecha (AAAA-MM-DD), de la más nueva a la más vieja."""
+    out = {}
+    carpeta = BASE / "data/ediciones"
+    for f in sorted(carpeta.glob("*.json")) if carpeta.exists() else []:
+        ed = leer(f"data/ediciones/{f.name}")
+        if not ed or ed.get("tipo") == "prueba":
+            continue
+        fecha = (ed.get("id") or f.stem)[:10]
+        out.setdefault(fecha, []).append(ed)
+    for v in out.values():
+        v.sort(key=lambda x: x.get("id", ""), reverse=True)
+    return dict(sorted(out.items(), reverse=True))
+
+
+def fecha_larga(fecha):
+    d = dt.date.fromisoformat(fecha)
+    return f"{DIAS[d.weekday()]} {d.day} de {MESES[d.month - 1]}"
+
+
+def pagina(titulo_h1, lead, cuerpo, nav, ahora_txt, notas, medios, prefijo=""):
     titulo = "La Sodería · Motor Soda"
     desc = "Lo que pasó, chequeado: temas del día con semáforo de fuentes y última hora automática."
-    ahora_txt, _ = hora(ahora.isoformat())
-    page = f'''<!doctype html>
+    return f'''<!doctype html>
 <html lang="es-AR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="robots" content="noindex">
 <title>{titulo}</title>
 <meta property="og:title" content="{titulo}"><meta property="og:description" content="{desc}"><meta property="og:type" content="website">
 <meta name="description" content="{desc}">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap">
-<style>{CSS}</style></head><body>
+<style>{CSS}
+.nav{{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}}
+.btn{{display:inline-flex;align-items:center;min-height:40px;padding:8px 16px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;font-weight:600;font-size:.9rem}}
+.btn.on{{background:var(--accent);color:var(--surface)}}
+.ed-sep{{font-family:var(--display);font-size:1.05rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}}
+</style></head><body>
 <main>
 <header>
   <div class="eyebrow">Motor Soda · La Sodería</div>
-  <h1>Lo que pasó, chequeado</h1>
-  <p class="lead">Edición curada: {e(ed_txt)}{" (edición de prueba)" if es_prueba else ""}. Los carruseles los redacta J.</p>
+  <h1>{titulo_h1}</h1>
+  <p class="lead">{lead}</p>
+  <nav class="nav">{nav}</nav>
 </header>
 <section><div class="leyenda"><span class="pill ok">🟢 2+ fuentes serias o primaria</span><span class="pill mid">🟡 una sola fuente</span><span class="pill warn">🟠 solo X: no se publica</span><span class="pill bad">🔴 falso</span></div></section>
-{seccion_edicion(ed)}
-{seccion_ultima(cand)}
-<footer><span><b>Actualizado:</b> {e(ahora_txt)}</span><span>{len(notas)} notas leídas de {medios} medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
+{cuerpo}
+<footer><span><b>Actualizado:</b> {e(ahora_txt)}</span><span>{notas} notas leídas de {medios} medios.</span><span>Los links de Google Noticias redirigen a la nota original.</span></footer>
 </main></body></html>
 '''
-    (BASE / "index.html").write_text(page)
-    print(f"ok index.html | edición {ed.get('id')} | {len(page)//1024} KB")
+
+
+def bloque_ediciones(eds):
+    """Una o más ediciones del mismo día: la más nueva arriba."""
+    out = ""
+    for k, ed in enumerate(eds):
+        txt, _ = hora(ed.get("generado"))
+        hh = (ed.get("id") or "")[11:13]
+        if len(eds) > 1:
+            out += f'<p class="ed-sep">Edición de las {e(hh)} h</p>\n'
+        out += seccion_edicion(ed)
+    return out
+
+
+def main():
+    cand = leer("data/candidatos.json")
+    crudo = leer("data/crudo.json") or {}
+    notas = crudo.get("notas") or []
+    medios = len({n.get("dominio") for n in notas})
+    ahora = dt.datetime.now(AR)
+    ahora_txt, _ = hora(ahora.isoformat())
+    hoy = ahora.date().isoformat()
+    ayer = (ahora.date() - dt.timedelta(days=1)).isoformat()
+    por_fecha = ediciones_por_fecha()
+
+    def nav(activo, prefijo=""):
+        b = f'<a class="btn{" on" if activo == "hoy" else ""}" href="{prefijo}index.html">Hoy</a>'
+        b += f'<a class="btn{" on" if activo == "ayer" else ""}" href="{prefijo}ayer.html">Noticias de ayer</a>'
+        b += f'<a class="btn{" on" if activo == "archivo" else ""}" href="{prefijo}archivo.html">Archivo</a>'
+        return b
+
+    # Hoy: solo ediciones de hoy + última hora automática.
+    eds_hoy = por_fecha.get(hoy, [])
+    if eds_hoy:
+        txt, _ = hora(eds_hoy[0].get("generado"))
+        lead = f"Última edición curada: {e(txt)}. Los carruseles los redacta J."
+        cuerpo = seccion_edicion(eds_hoy[0])
+        if len(eds_hoy) > 1:
+            cuerpo += '<details class="ed-sep"><summary>Ver también las ediciones anteriores de hoy</summary>' + bloque_ediciones(eds_hoy[1:]) + "</details>"
+    else:
+        lead = "La edición curada de hoy sale a las 11 h. Mientras tanto, abajo tenés la última hora automática."
+        cuerpo = ""
+    cuerpo += seccion_ultima(cand)
+    (BASE / "index.html").write_text(pagina("Lo que pasó hoy, chequeado", lead, cuerpo, nav("hoy"), ahora_txt, len(notas), medios))
+
+    # Ayer.
+    eds_ayer = por_fecha.get(ayer, [])
+    if eds_ayer:
+        cuerpo = bloque_ediciones(eds_ayer)
+        lead = f"Ediciones curadas del {fecha_larga(ayer)}."
+    else:
+        cuerpo = '<section><p class="lead">No hay ediciones curadas de ayer.</p></section>'
+        lead = f"{fecha_larga(ayer).capitalize()}."
+    (BASE / "ayer.html").write_text(pagina("Noticias de ayer", lead, cuerpo, nav("ayer"), ahora_txt, len(notas), medios))
+
+    # Archivo: una página por día + índice.
+    (BASE / "archivo").mkdir(exist_ok=True)
+    items = ""
+    for fecha, eds in por_fecha.items():
+        (BASE / f"archivo/{fecha}.html").write_text(pagina(f"Edición del {fecha_larga(fecha)}", f"{len(eds)} edición(es) curada(s).", bloque_ediciones(eds), nav("archivo", "../"), ahora_txt, len(notas), medios))
+        temas = sum(len(x.get("temas") or []) for x in eds)
+        items += f'<li><a href="archivo/{fecha}.html"><b>{e(fecha_larga(fecha).capitalize())}</b></a> · {len(eds)} edición(es), {temas} temas</li>'
+    cuerpo = f'<section><h2>Todas las ediciones</h2><ul class="fu">{items or "<li>Todavía no hay ediciones.</li>"}</ul></section>'
+    (BASE / "archivo.html").write_text(pagina("Archivo", "Todas las ediciones curadas, por día.", cuerpo, nav("archivo"), ahora_txt, len(notas), medios))
+    print(f"ok | hoy {len(eds_hoy)} | ayer {len(eds_ayer)} | días en archivo {len(por_fecha)}")
 
 
 if __name__ == "__main__":

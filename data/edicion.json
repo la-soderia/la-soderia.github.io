@@ -1,10 +1,10 @@
 {
- "id": "2026-11-25-15",
- "tipo": "hipotetica",
- "generado": "2026-11-25T22:17-03:00",
+ "id": "2026-11-25-23",
+ "tipo": "curada",
+ "generado": "2026-11-25T23:50-03:00",
  "claves": [
   {
-   "texto": "Las universidades advierten que no podrán funcionar en 2027 sin los fondos de la ley; hay paro y marcha al Congreso.",
+   "texto": "Los docentes universitarios marchan al Congreso este jueves 26 de noviembre contra el Presupuesto 2027 y por la Ley de Financiamiento Universitario.",
    "fuentes": [
     {
      "medio": "elDiarioAR",
@@ -21,7 +21,7 @@
    ]
   },
   {
-   "texto": "La economía entró en recesión técnica y Caputo la llamó \"definición arbitraria\".",
+   "texto": "La economía registra dos trimestres seguidos de caída; Luis Caputo, ministro de Economía de la Nación, dice que la definición de recesión técnica es arbitraria.",
    "fuentes": [
     {
      "medio": "Ámbito",
@@ -38,36 +38,53 @@
    ]
   },
   {
-   "texto": "El informe de Jefatura de Gabinete al Senado no registra los \"terroristas\" deportados que citó Milei.",
+   "texto": "El Senado de la Nación avanza con la ley contra la ludopatía y las apuestas online.",
    "fuentes": [
     {
-     "medio": "La Nación",
-     "titulo": "43.568 incidentes, cero terrorismo: el Gobierno desconoció los “20.000 terroristas” deportados que denunció Milei",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkRLaEF2OHFUVWVSUVo5QXVfNEFrVndObWxTNy1Tb0FBdXF1S3JoUTZWMmZRMHY4TC1xblY4TVFYNVI2OG9lckYwTHZ2cHJtUFFNXzZPcTNJaXloT1JuNUNhQkYyMGpsanNFVlhjSlF0ZlJXSTVkYXB6UlcxYlVpSkw5Smk3MWJJNnIxTVhoVTBFYXVBQnZfc3RwbWF5cDdqRUY5cnRORG5RbzkweG9UUU0wS0FiN1k5TDNHLXJfU0J6MDBBR1lVdFhGQWIwN1FVWnFkT3d5b1FTZw?oc=5",
-     "fecha": "2026-11-25T13:23:00-03:00"
+     "medio": "Perfil",
+     "titulo": "Comienza el debate de la ley contra la ludopatía en el Senado",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjJmV0lVbjFmS3AxM0lTbV84b3dDUVFuYi1QN2dZUnM4ZHd6djdSclduTWNOV1Nrak9jSGRveGloXzJBcjUtaWpIbEk1MjhhN2N2c0ZLeHdRTThIaUpZc1RidjYzc2g3RUttaXBFS1hsSmVoUHZ0ejlwUE5zYldaYWFXTDlxajE3RmpSTEVwRGY4SEVZejdydHZLVEFUQUhpSmx5WWx6NEVpQQ?oc=5",
+     "fecha": "2026-11-25T10:32:14-03:00"
     },
     {
      "medio": "Página/12",
-     "titulo": "Ni el Gobierno puede sostener las mentiras de Milei: confirmaron que no hubo 30 mil terroristas deportados",
-     "url": "https://www.pagina12.com.ar/2026/11/26/ni-el-gobierno-puede-sostener-las-mentiras-de-milei-confirmaron-que-no-hubo-30-mil-terroristas-deportados/",
-     "fecha": "2026-11-25T21:07:43-03:00"
+     "titulo": "Ludopatía: el Senado acordó avanzar con la ley y Bullrich busca sumar cambios",
+     "url": "https://www.pagina12.com.ar/2026/11/25/ludopatia-el-senado-acordo-avanzar-con-la-ley-y-bullrich-busca-sumar-cambios/",
+     "fecha": "2026-11-25T15:44:53-03:00"
     }
    ]
   },
   {
-   "texto": "Santilli presentó su primer informe en el Senado y dijo que Milei \"va por la reelección\".",
+   "texto": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei por presunta trata de personas.",
    "fuentes": [
     {
      "medio": "elDiarioAR",
-     "titulo": "Santilli defendió la gestión de Milei en el Senado y aseguró que el Presidente \"hoy va por la reelección\"",
-     "url": "https://www.eldiarioar.com/politica/santilli-defendio-gestion-milei-senado-aseguro-presidente-hoy-reeleccion_1_13694089.html",
-     "fecha": "2026-11-25T17:17:58-03:00"
+     "titulo": "La Justicia argentina cita a indagatoria al número dos del Opus Dei por trata de mujeres y reducción a la servidumbre",
+     "url": "https://www.eldiarioar.com/sociedad/justicia-argentina-cita-indagatoria-numero-opus-dei-trata-mujeres-reduccion-servidumbre_1_13693832.html",
+     "fecha": "2026-11-25T15:52:33-03:00"
     },
     {
-     "medio": "Página/12",
-     "titulo": "Santilli fue al Senado a defender a Milei, relativizó la recesión y ya habla de reelección",
-     "url": "https://www.pagina12.com.ar/2026/11/25/santilli-fue-al-senado-a-defender-a-milei-relativizo-la-recesion-y-ya-habla-de-reeleccion/",
-     "fecha": "2026-11-25T17:17:21-03:00"
+     "medio": "Infobae",
+     "titulo": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
+     "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
+     "fecha": "2026-11-25T20:29:45-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "Las ventas en supermercados cayeron 3% interanual en septiembre.",
+   "fuentes": [
+    {
+     "medio": "El Cronista",
+     "titulo": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída",
+     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
+     "fecha": "2026-11-25T16:08:29-03:00"
+    },
+    {
+     "medio": "Clarín",
+     "titulo": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VMWlZyVUpzRnhYVkZ4TXhJNkt4WFpubE83NDdFLWZKZ2J3ZjVxLWNvVXlUQnRTdWdoZm1IWURYa2xjT19rX0VKR1FVQWFSbENfQTZxY3VSNnRIUUlWd2tRZmZuWDd3U05XMkpXQ3B5Q3ZadExPZF8xNEJkMks5Y0ZQcjZMdWZzNUdfOFpQelhXOFlpLWFfRzg2UUpsRTI5ZXJ4aVZ3NnhQQkxNQmZWYmtsbnh5c282WlZHSmhxWHJ4dw?oc=5",
+     "fecha": "2026-11-25T17:26:00-03:00"
     }
    ]
   }
@@ -134,8 +151,8 @@
     "Diario Río Negro"
    ],
    "alertas": [
-    "Confirmar fecha y lugar exactos de la marcha y qué universidades adhieren: los títulos hablan de paros de 24 y de 48 horas según la casa de estudios.",
-    "El dictamen fiscal es una opinión del fiscal, no una sentencia: falta la resolución del tribunal."
+    "Falta confirmar el horario y el recorrido de la marcha del jueves 26 de noviembre y qué universidades adhieren; los títulos hablan de paros de 24 y de 48 horas de acuerdo con cada casa de estudios.",
+    "El dictamen de Rodrigo Cuesta es una opinión fiscal y no una sentencia; falta la resolución de la Sala III de la Cámara en lo Contencioso Administrativo Federal."
    ],
    "idea_carrusel": {
     "formato": "narrativo",
@@ -146,7 +163,7 @@
      "Hubo una salida pensada para eso, la *Ley de Financiamiento Universitario* (Ley 27.795), que el Congreso de la Nación volvió a imponer con dos tercios después del veto de Javier Milei, presidente de la Nación; el Gobierno nacional la promulgó con el Decreto 759/2025, que frenó su aplicación hasta definir de dónde saldría la plata.",
      "*Pero, pero, pero…* Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11, declaró inconstitucional ese freno y ordenó aplicar la ley; ahora Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal, pidió confirmar ese fallo, y la última palabra la tiene la Sala III de esa Cámara.",
      "Mientras tanto, el Consejo Interuniversitario Nacional (CIN), que reúne a los rectores y las rectoras de las universidades públicas, avisó que *en 2027 las universidades no van a poder funcionar* si el Presupuesto no incluye los fondos de la ley.",
-     "Por eso este jueves 26 de noviembre los docentes universitarios marchan al Congreso, con la concentración prevista a partir de las 13 h. La próxima vez que te suspendan una clase, acordate de que tu 2027 se está decidiendo ahora en el Presupuesto."
+     "Por eso este jueves 26 de noviembre los docentes universitarios marchan al Congreso. La próxima vez que te suspendan una clase, acordate de que tu 2027 se está decidiendo ahora en el Presupuesto."
     ],
     "copy": "¿Estudiás en una universidad pública? ¿Te suspendieron clases este año? ¿Querés recibirte? Esta historia es para vos.",
     "audiovisual": [
@@ -161,11 +178,54 @@
    }
   },
   {
+   "id": "ludopatia-senado",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "El Senado avanza con la ley contra la ludopatía y las apuestas online",
+   "resumen": "El Senado de la Nación inició el debate de la ley de prevención de la ludopatía y acordó avanzar con el proyecto; Patricia Bullrich busca sumar cambios al texto. Medios de provincias informan que la sesión para convertirla en ley sería este jueves 26 de noviembre.",
+   "por_que_importa": "Las apuestas online están al alcance de cualquier celular, y la regulación define qué protección tienen los y las jóvenes que apuestan.",
+   "primaria": null,
+   "fuentes": [
+    {
+     "medio": "Perfil",
+     "titulo": "Comienza el debate de la ley contra la ludopatía en el Senado",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjJmV0lVbjFmS3AxM0lTbV84b3dDUVFuYi1QN2dZUnM4ZHd6djdSclduTWNOV1Nrak9jSGRveGloXzJBcjUtaWpIbEk1MjhhN2N2c0ZLeHdRTThIaUpZc1RidjYzc2g3RUttaXBFS1hsSmVoUHZ0ejlwUE5zYldaYWFXTDlxajE3RmpSTEVwRGY4SEVZejdydHZLVEFUQUhpSmx5WWx6NEVpQQ?oc=5",
+     "fecha": "2026-11-25T10:32:14-03:00"
+    },
+    {
+     "medio": "Página/12",
+     "titulo": "Ludopatía: el Senado acordó avanzar con la ley y Bullrich busca sumar cambios",
+     "url": "https://www.pagina12.com.ar/2026/11/25/ludopatia-el-senado-acordo-avanzar-con-la-ley-y-bullrich-busca-sumar-cambios/",
+     "fecha": "2026-11-25T15:44:53-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Diario Crónica",
+     "titulo": "Con cruces políticos y tensiones internas, el Senado avanza con la ley contra la ludopatía",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLXdjM2E4NGhKM00tdFZVQ2wxZU5ISW15YmJsbWVQYUNNUmlqZ2xENHR1QVlRNlhJdk56Z3lKdVhZMmJrVVJ1Nms0T21na0pwdDRFbUhmMHpuRUhnX1ZrbDBfaF9zY3p4NjdQZm9qUnVmVW9LVHVhajNMTWtHY2hIUTFQM25LZmJ5M1QzamNPbEhmWkUxblkwRnNtLU9vTGRBN3RqcWgtV3d1bnNBUmVkOXNWdDM2a0wzTmxvZ2tPS21BSkRlX1YtUkd6eFJWMVJySVBzYmo5dk1mQUJpN2lzS2ZqYlJmbVA30gHoAUFVX3lxTE4td2MzYTg0aEozTS10VlVDbDFlTkhJbXliYmxtZVBhQ01SaWpnbEQ0dHVBWVE2WEl2TnpneUp1WFkyYmtVUnU2azRPbWdrSnB0NEVtSGYwem5FSGdfVmtsMF9oX3Njeng2N1Bmb2pSdWZVb0tUdWFqM0xNa0djaEhRMVAzbktmYnkzVDNqY09sSGZaRTFuWTBGc20tT29MZEE3dGpxaC1Xd3Vuc0FSZWQ5c1Z0MzZrTDNObG9na09LbUFKRGVfVi1SR3p4UlYxUnJJUHNiajl2TWZBQmk3aXNLZmpiUmZtUDc?oc=5",
+     "fecha": "2026-11-25T18:00:46-03:00"
+    },
+    {
+     "medio": "YaTeCuento",
+     "titulo": "Congreso Nacional: el Senado convertirá en ley este jueves el proyecto sobre Ludopatía y debatirá medidas contra el juego ilegal",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSmN2LVBFSl8tYXRDVDdHT2kybXZkUDZlVE9JdTMySTlmQlFyeWxScjMzQnJPMEVZRVloaG5UeEQ3Q2FTVlZrVVNmUWplaUF4Q0ExUTJYMlVHRF9JZ2J5eVpZclZ5UWFlX3ZJQTl4ZHo5SEZNb3g0MHF6dmJwWVRZNERMRWpGNlR2V2JyM3FDLXlVWl9PazhSd2h5MWpfeVBISkxGd0ZvdG5BaExScjJEMDkyOXFqc0tSMjhrOHVDN2NvWWgweERLcUdKMThmaXpIc2d0YmVfU29uUXVQVlZWTVhyaGpjby1HSnY5QjU2QmMwQ1JaQmJ3Wg?oc=5",
+     "fecha": "2026-11-25T19:20:00-03:00"
+    }
+   ],
+   "alertas": [
+    "Falta confirmar con una fuente seria que la sesión de votación sea este jueves 26 de noviembre; solo lo informan portales fuera de la lista seria.",
+    "Falta el cargo de Patricia Bullrich en el Senado y qué cambios propone, que no figuran en los títulos.",
+    "Portales fuera de la lista seria informan que Victoria Villarruel, vicepresidenta de la Nación, exige aprobar el proyecto sin cambios; no está confirmado por una fuente seria.",
+    "Falta el texto del proyecto para detallar qué regula."
+   ]
+  },
+  {
    "id": "recesion-tecnica",
    "seccion": "Economía",
    "semaforo": "🟢",
    "titulo": "La economía entró en recesión técnica",
-   "resumen": "El Estimador Mensual de Actividad Económica (EMAE) del Instituto Nacional de Estadística y Censos (INDEC) mostró dos trimestres seguidos de caída, lo que técnicamente se define como recesión, aunque en septiembre la actividad subió 1,1% respecto del mes anterior. Luis Caputo, ministro de Economía de la Nación, dijo que la definición de recesión técnica es \"arbitraria\" y descartó que la suba del dólar pase a los precios.",
+   "resumen": "El Instituto Nacional de Estadística y Censos (INDEC) registró dos trimestres seguidos de caída de la actividad, lo que técnicamente se define como recesión, aunque en septiembre la actividad subió 1,1% respecto del mes anterior. Luis Caputo, ministro de Economía de la Nación, dijo que la definición de recesión técnica es \"arbitraria\" y que \"ya estamos con dos meses seguidos de crecimiento\".",
    "por_que_importa": "Menos actividad suele traducirse en menos changas, menos primer empleo y salarios que rinden menos.",
    "primaria": {
     "nombre": "INDEC (citado por Ámbito y Página/12)",
@@ -363,78 +423,49 @@
     "Data eNe"
    ],
    "alertas": [
-    "DISCREPANCIA: algunos medios hablan de nueve meses de caída y otros de cuatro meses seguidos, con 2,9% acumulado en 2026; verificarlo en la Encuesta de Supermercados del INDEC.",
-    "DISCREPANCIA: nueve meses de caída (Cronista, Clarín) vs cuarto mes seguido (Ámbito). Confirmar con la Encuesta de Supermercados del INDEC.",
-    "3% (septiembre, interanual) y 2,9% (acumulado 2026) son datos distintos."
+    "DISCREPANCIA DE CIFRAS: El Cronista y Clarín hablan de nueve meses de caída; Ámbito, de un cuarto mes seguido de caída con una baja de 2,9% acumulada en 2026. Hay que verificarlo en la Encuesta de Supermercados del INDEC.",
+    "El 3% (septiembre, interanual) y el 2,9% (acumulado de 2026) son datos distintos."
    ]
   },
   {
-   "id": "ludopatia-senado",
-   "seccion": "Sociedad",
-   "semaforo": "🟡",
-   "titulo": "El Senado trata la ley contra la ludopatía",
-   "resumen": "El Senado de la Nación inició el debate de la ley de prevención de la ludopatía, que regula las apuestas online y ya tiene media sanción de la Cámara de Diputados de la Nación; falta confirmar si la votación es este jueves.",
-   "por_que_importa": "Las apuestas online pegan fuerte entre pibes y pibas: la ley define qué publicidad y qué controles habrá.",
+   "id": "opus-dei-rafecas",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "El juez Rafecas cita a indagatoria al número dos del Opus Dei por presunta trata de personas",
+   "resumen": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei en la Argentina por presunta trata de mujeres y reducción a la servidumbre.",
+   "por_que_importa": "Es una causa judicial por explotación laboral y trata de mujeres que involucra a una institución religiosa con peso en la educación y la vida social del país.",
    "primaria": null,
    "fuentes": [
     {
-     "medio": "Perfil",
-     "titulo": "Comienza el debate de la ley contra la ludopatía en el Senado",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjJmV0lVbjFmS3AxM0lTbV84b3dDUVFuYi1QN2dZUnM4ZHd6djdSclduTWNOV1Nrak9jSGRveGloXzJBcjUtaWpIbEk1MjhhN2N2c0ZLeHdRTThIaUpZc1RidjYzc2g3RUttaXBFS1hsSmVoUHZ0ejlwUE5zYldaYWFXTDlxajE3RmpSTEVwRGY4SEVZejdydHZLVEFUQUhpSmx5WWx6NEVpQQ?oc=5",
-     "fecha": "2026-11-25T10:32:14-03:00"
+     "medio": "elDiarioAR",
+     "titulo": "La Justicia argentina cita a indagatoria al número dos del Opus Dei por trata de mujeres y reducción a la servidumbre",
+     "url": "https://www.eldiarioar.com/sociedad/justicia-argentina-cita-indagatoria-numero-opus-dei-trata-mujeres-reduccion-servidumbre_1_13693832.html",
+     "fecha": "2026-11-25T15:52:33-03:00"
     },
-    {
-     "medio": "Diario Crónica",
-     "titulo": "Con cruces políticos y tensiones internas, el Senado avanza con la ley contra la ludopatía",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLXdjM2E4NGhKM00tdFZVQ2wxZU5ISW15YmJsbWVQYUNNUmlqZ2xENHR1QVlRNlhJdk56Z3lKdVhZMmJrVVJ1Nms0T21na0pwdDRFbUhmMHpuRUhnX1ZrbDBfaF9zY3p4NjdQZm9qUnVmVW9LVHVhajNMTWtHY2hIUTFQM25LZmJ5M1QzamNPbEhmWkUxblkwRnNtLU9vTGRBN3RqcWgtV3d1bnNBUmVkOXNWdDM2a0wzTmxvZ2tPS21BSkRlX1YtUkd6eFJWMVJySVBzYmo5dk1mQUJpN2lzS2ZqYlJmbVA30gHoAUFVX3lxTE4td2MzYTg0aEozTS10VlVDbDFlTkhJbXliYmxtZVBhQ01SaWpnbEQ0dHVBWVE2WEl2TnpneUp1WFkyYmtVUnU2azRPbWdrSnB0NEVtSGYwem5FSGdfVmtsMF9oX3Njeng2N1Bmb2pSdWZVb0tUdWFqM0xNa0djaEhRMVAzbktmYnkzVDNqY09sSGZaRTFuWTBGc20tT29MZEE3dGpxaC1Xd3Vuc0FSZWQ5c1Z0MzZrTDNObG9na09LbUFKRGVfVi1SR3p4UlYxUnJJUHNiajl2TWZBQmk3aXNLZmpiUmZtUDc?oc=5",
-     "fecha": "2026-11-25T18:00:46-03:00"
-    }
-   ],
-   "otras": [
-    "Tiempo Sur",
-    "El Litoral"
-   ],
-   "alertas": [
-    "Solo Perfil es de la lista seria; \"se convierte en ley el jueves\" viene de portales provinciales y no está confirmado."
-   ],
-   "falta": "Texto del proyecto, fecha de la sesión y si ya tiene media sanción; una segunda fuente seria."
-  },
-  {
-   "id": "brasil-lula-milei",
-   "seccion": "Política",
-   "semaforo": "🟡",
-   "titulo": "Brasil evalúa invitar a otra autoridad argentina a la asunción de Lula",
-   "resumen": "El gobierno de Brasil evalúa invitar a una autoridad argentina distinta de Javier Milei, presidente de la Nación, a la asunción de Luiz Inácio Lula da Silva. La versión de un retiro del embajador no está confirmada.",
-   "por_que_importa": "Es una tensión diplomática con un socio comercial clave de Argentina.",
-   "primaria": null,
-   "fuentes": [
     {
      "medio": "Infobae",
-     "titulo": "Brasil piensa invitar a una autoridad argentina distinta a Milei a la investidura de Lula",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRXlCZG1tY2NsN25CckZiZGpaTjcwTXFTV2JwVExwejNROXl5ZFFtaFBaT0MwbUlRSHVfbDhhY3h4RGFmVlg5N18zNFpxVnFTaERDcXVuSm85R0FWOW5UQk00MUp4UDRVdDFmR1l1VDdBVzNQX3RpRXF6QjdUd3JkaEtUbDJGbzRyY0Vfb2dXOEppLWM1eGltLURHTUZBaWlqQ3NrM1RERjVrdTBXRG9pVFJqWllzM1lKN0xQdGt5MXlaWkhjbDREdDNVWmVCaU1LcHQyYVphSGVFUdIB9AFBVV95cUxPdnZCb2RldHBVaWVrVXFTUEFhY3NNSEZwZ2VRUkt2Q0dVWk1SZ1hXb1dRcnpfV28wdUxoemhnVVl5RjcteS1GZk5KUTJLNzRURGtjU0Y1eEhYNXYtSTVQTVFiVXVtUmRyWnJoUGZnd2hqbURCSlpxd0I3WDNQRDc3NlBsTzh0MVo3NmphejI4eHpCUTFTMm9jS2dYZUZhWi1ESkkwN01Dd3ZhdldFZEhvQzk5eXVzdjZqRVJLS2dOSTVPWm9nMmdfcjE3eFpqMzdneFFwWXpvWlZnTGFzTVFhM2VQanI4eEktSkJBWFJhZlM0WjhN?oc=5",
-     "fecha": "2026-11-25T16:16:00-03:00"
+     "titulo": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
+     "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
+     "fecha": "2026-11-25T20:29:45-03:00"
     },
     {
-     "medio": "EFE - Agencia de noticias",
-     "titulo": "Brasil piensa invitar a una autoridad de Argentina distinta a Milei a la investidura de Lula",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2R1UFNSdmwtNE9FTTJTOTZWRUhCMTZtVEZna1YwUlJoaWprXzZPVWs0Uk9ReE5vRUUyVG9sNjFhV3FsRWFaeHJlOEJBVmEwajlYSURZc0wxMmNmX3EtbnJqZHNabk1ySXNxM1dKLW1zSlMtLWpjRWJHY0UxbFVFTEhKOXgtZnE5cFNRcEt3?oc=5",
-     "fecha": "2026-11-25T16:32:48-03:00"
+     "medio": "La Nación",
+     "titulo": "Acusación: el juez Rafecas citó a indagatoria al número dos del Opus Dei por presunta trata de personas",
+     "url": "https://www.lanacion.com.ar/sociedad/acusacion-el-juez-rafecas-cito-a-declarar-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas-nid25112026/",
+     "fecha": "2026-11-25T22:21:06-03:00"
     }
    ],
-   "otras": [
-    "TN"
-   ],
    "alertas": [
-    "Infobae y EFE son el mismo cable: cuenta como una sola fuente. El retiro del embajador sale de portales fuera de la lista."
-   ],
-   "falta": "Confirmación oficial del Planalto o de la Cancillería argentina."
+    "Falta el nombre y el cargo exacto de la persona citada, la fecha de la indagatoria y el juzgado a cargo; no figuran en los títulos y no se pudo leer la nota completa.",
+    "Una citación a indagatoria no implica condena; la persona citada tiene derecho a defensa. Falta la respuesta del Opus Dei."
+   ]
   },
   {
    "id": "viajes-milei",
    "seccion": "Política",
    "semaforo": "🟡",
    "titulo": "Cuánto gastó Milei en viajes al exterior",
-   "resumen": "El gasto de Javier Milei, presidente de la Nación, en viajes al exterior durante 2026 superaría los $4.000 millones en 17 viajes; la cifra tiene una sola fuente seria y otro cálculo da $2.737 millones entre abril y octubre.",
+   "resumen": "El gasto de Javier Milei, presidente de la Nación, en viajes al exterior durante 2026 supera los $4.000 millones en 17 viajes; la cifra tiene una sola fuente seria y otro cálculo da $2.737 millones entre abril y octubre.",
    "por_que_importa": "Es plata pública: saber cuánto cuesta cada viaje permite discutir prioridades.",
    "primaria": null,
    "fuentes": [
@@ -456,7 +487,8 @@
     "El Zonda"
    ],
    "alertas": [
-    "DISCREPANCIA DE CIFRAS: $4.000 millones (17 viajes, todo 2026) vs $2.737 millones (abril-octubre). Los períodos son distintos, falta el origen."
+    "DISCREPANCIA DE CIFRAS: $4.000 millones (17 viajes, todo 2026) vs $2.737 millones (abril a octubre). Los períodos son distintos y falta el origen de los datos.",
+    "Falta la fuente primaria (pedido de informes o documento oficial) que respalde el cálculo."
    ],
    "falta": "Origen del dato (pedido de acceso a la información u otro) y una segunda fuente seria."
   },
@@ -465,10 +497,22 @@
    "seccion": "Sociedad",
    "semaforo": "🟡",
    "titulo": "Polémica por la venta de tierras frente al Perito Moreno",
-   "resumen": "Infobae y TN informan que el gobernador de Santa Cruz habilitó la venta de tierras frente al glaciar Perito Moreno a un grupo árabe para construir un hotel.",
+   "resumen": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno que había habilitado el gobierno de la provincia de Santa Cruz a un grupo emiratí para construir un hotel, y la Corte Suprema de Justicia de la Nación debe definir el caso.",
    "por_que_importa": "Es un debate sobre quién se queda con el patrimonio natural.",
    "primaria": null,
    "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno: por qué debe definir la Corte",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUNRZmgzaHYxRmw3aEJyaEtPWmlLMmVYREx3RGk2Z01FVXB5NlZ5X19DMzZ5SXZSUG1RTGNCS0lGbUtRZ2NhVm9hZC1wZmc4dG1pMHk5YTBTTTR2U04xM1paUHFoMkM4Wl80RWJvRGFtNkR1QXVPZnpxTk1mY05GNWRIMzlsOVVHWURveHNWbG5yLUpONTgwdTNiVG9NSXdXWENRdzE1OUcwNV9EeVRkczFrVzgwa1puaGNSQkVkZWxBaEE3QWpUVEFFNUdQQ3pUeXBoejZBVjJWbFZoV09acngwRmTSAf8BQVVfeXFMT0xHZl90RHNJZG15SHJtQ1BkZEJsR2FnLTVGU0pSSkNJdHl2M0NWdF9mRkxRMEFQWUF1YlpwLUhScFV1R2Rna2lkaG5JMlh5amo2Nk1zQ1RPeU9TNHhtWFg5WGdwUElhTkhWY281S2R3TzdOVXFmM3NUT0YxQXZDN2dhLUZYY09sbm04aEJTaXZpRGh0NG56bnZCYXMxeGQ5Ry03a1RIVHd1MkczR1NyYmZiZ1FPT05iSlpERHlYMk1OSlRrWlM4a0dHQmVTcWZJSTY3UUVOYTRGWkljandHYWlXc29DckZxenozYktfLWhmMVlxTE54cThzeGNKRE0w?oc=5",
+     "fecha": "2026-11-25T17:34:00-03:00"
+    },
+    {
+     "medio": "Sitio Andino",
+     "titulo": "La venta de tierras frente al Glaciar Perito Moreno llegó a manos de la Corte Suprema de Justicia",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY09mSHNhNDdzeHRwelNSV2VYX3dCSEZWa01PQ3kzOGlFWGRJUEV4WTRCNm93UmhwVEp2SGJTTmtFeHA1TlA3WVNjRnBfbm9hUm5DVHRRcDZrbjNqVjQ5ZEgwcmxkRlI1ZUtzS2lsN3Zsby0wQ3FPTXU5T0hEaW1hbVlJSEFWUHBsZWd4Z0xYM2dlNFF4cklBblZDT3FBd21xYklSYWRhY2txLWZBRmt1QXZXS3k5Rl9pdnRpWE1YRmJmWFZIYjZhZUlOeVo1TXhB0gHWAUFVX3lxTE5qcmNua1JlblFSODJtSE9Ram51UWNwem5RLTVEX2NyQ2hNWW1rMmF4MHU5NGVBRG40aXFHRTV1eDZTMFYtWGNSeUp2bWdqNzJia1lvU0c0MGJNdE5JSWc3Q1BJYXdmV2xHajIzV0Z1aGNUeENHTkhReV9TT19wcHZ5a1JDX1J0UDJjbmp2ZW5nUmE1TGE1VmU4WkFVZTVEcU16ZzFZRUtRdmxkaXhSRFU2Ym45Z3RSMjJxUk84MGYwdDBZMFhuVkdQQ0ZGc2R1eHhSNmxYN0E?oc=5",
+     "fecha": "2026-11-25T19:43:46-03:00"
+    },
     {
      "medio": "Infobae",
      "titulo": "Polémica en Santa Cruz: el gobernador habilitó una venta de tierras frente al glaciar Perito Moreno a un grupo árabe",
@@ -484,60 +528,19 @@
    ],
    "otras": [],
    "alertas": [
-    "No está claro si ambas notas parten de la misma fuente; falta el acto oficial."
+    "Falta el nombre del gobernador de Santa Cruz y del juzgado que suspendió la venta; no figuran en los títulos.",
+    "Infobae y TN publican la habilitación de la venta con distinta descripción del comprador (grupo árabe y magnate emiratí); falta el acto oficial."
    ],
    "falta": "Decreto o acto oficial del gobierno de Santa Cruz y la postura del gobernador."
   }
  ],
  "para_chequear": [
   {
-   "id": "ludopatia-senado",
-   "semaforo": "🟡",
-   "titulo": "El Senado trata la ley contra la ludopatía",
-   "resumen": "El Senado de la Nación inició el debate de la ley de prevención de la ludopatía, que regula las apuestas online y ya tiene media sanción de la Cámara de Diputados de la Nación; falta confirmar si la votación es este jueves.",
-   "falta": "Texto del proyecto, fecha de la sesión y si ya tiene media sanción; una segunda fuente seria.",
-   "fuentes": [
-    {
-     "medio": "Perfil",
-     "titulo": "Comienza el debate de la ley contra la ludopatía en el Senado",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjJmV0lVbjFmS3AxM0lTbV84b3dDUVFuYi1QN2dZUnM4ZHd6djdSclduTWNOV1Nrak9jSGRveGloXzJBcjUtaWpIbEk1MjhhN2N2c0ZLeHdRTThIaUpZc1RidjYzc2g3RUttaXBFS1hsSmVoUHZ0ejlwUE5zYldaYWFXTDlxajE3RmpSTEVwRGY4SEVZejdydHZLVEFUQUhpSmx5WWx6NEVpQQ?oc=5",
-     "fecha": "2026-11-25T10:32:14-03:00"
-    },
-    {
-     "medio": "Diario Crónica",
-     "titulo": "Con cruces políticos y tensiones internas, el Senado avanza con la ley contra la ludopatía",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOLXdjM2E4NGhKM00tdFZVQ2wxZU5ISW15YmJsbWVQYUNNUmlqZ2xENHR1QVlRNlhJdk56Z3lKdVhZMmJrVVJ1Nms0T21na0pwdDRFbUhmMHpuRUhnX1ZrbDBfaF9zY3p4NjdQZm9qUnVmVW9LVHVhajNMTWtHY2hIUTFQM25LZmJ5M1QzamNPbEhmWkUxblkwRnNtLU9vTGRBN3RqcWgtV3d1bnNBUmVkOXNWdDM2a0wzTmxvZ2tPS21BSkRlX1YtUkd6eFJWMVJySVBzYmo5dk1mQUJpN2lzS2ZqYlJmbVA30gHoAUFVX3lxTE4td2MzYTg0aEozTS10VlVDbDFlTkhJbXliYmxtZVBhQ01SaWpnbEQ0dHVBWVE2WEl2TnpneUp1WFkyYmtVUnU2azRPbWdrSnB0NEVtSGYwem5FSGdfVmtsMF9oX3Njeng2N1Bmb2pSdWZVb0tUdWFqM0xNa0djaEhRMVAzbktmYnkzVDNqY09sSGZaRTFuWTBGc20tT29MZEE3dGpxaC1Xd3Vuc0FSZWQ5c1Z0MzZrTDNObG9na09LbUFKRGVfVi1SR3p4UlYxUnJJUHNiajl2TWZBQmk3aXNLZmpiUmZtUDc?oc=5",
-     "fecha": "2026-11-25T18:00:46-03:00"
-    }
-   ]
-  },
-  {
-   "id": "brasil-lula-milei",
-   "semaforo": "🟡",
-   "titulo": "Brasil evalúa invitar a otra autoridad argentina a la asunción de Lula",
-   "resumen": "El gobierno de Brasil evalúa invitar a una autoridad argentina distinta de Javier Milei, presidente de la Nación, a la asunción de Luiz Inácio Lula da Silva. La versión de un retiro del embajador no está confirmada.",
-   "falta": "Confirmación oficial del Planalto o de la Cancillería argentina.",
-   "fuentes": [
-    {
-     "medio": "Infobae",
-     "titulo": "Brasil piensa invitar a una autoridad argentina distinta a Milei a la investidura de Lula",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRXlCZG1tY2NsN25CckZiZGpaTjcwTXFTV2JwVExwejNROXl5ZFFtaFBaT0MwbUlRSHVfbDhhY3h4RGFmVlg5N18zNFpxVnFTaERDcXVuSm85R0FWOW5UQk00MUp4UDRVdDFmR1l1VDdBVzNQX3RpRXF6QjdUd3JkaEtUbDJGbzRyY0Vfb2dXOEppLWM1eGltLURHTUZBaWlqQ3NrM1RERjVrdTBXRG9pVFJqWllzM1lKN0xQdGt5MXlaWkhjbDREdDNVWmVCaU1LcHQyYVphSGVFUdIB9AFBVV95cUxPdnZCb2RldHBVaWVrVXFTUEFhY3NNSEZwZ2VRUkt2Q0dVWk1SZ1hXb1dRcnpfV28wdUxoemhnVVl5RjcteS1GZk5KUTJLNzRURGtjU0Y1eEhYNXYtSTVQTVFiVXVtUmRyWnJoUGZnd2hqbURCSlpxd0I3WDNQRDc3NlBsTzh0MVo3NmphejI4eHpCUTFTMm9jS2dYZUZhWi1ESkkwN01Dd3ZhdldFZEhvQzk5eXVzdjZqRVJLS2dOSTVPWm9nMmdfcjE3eFpqMzdneFFwWXpvWlZnTGFzTVFhM2VQanI4eEktSkJBWFJhZlM0WjhN?oc=5",
-     "fecha": "2026-11-25T16:16:00-03:00"
-    },
-    {
-     "medio": "EFE - Agencia de noticias",
-     "titulo": "Brasil piensa invitar a una autoridad de Argentina distinta a Milei a la investidura de Lula",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2R1UFNSdmwtNE9FTTJTOTZWRUhCMTZtVEZna1YwUlJoaWprXzZPVWs0Uk9ReE5vRUUyVG9sNjFhV3FsRWFaeHJlOEJBVmEwajlYSURZc0wxMmNmX3EtbnJqZHNabk1ySXNxM1dKLW1zSlMtLWpjRWJHY0UxbFVFTEhKOXgtZnE5cFNRcEt3?oc=5",
-     "fecha": "2026-11-25T16:32:48-03:00"
-    }
-   ]
-  },
-  {
    "id": "viajes-milei",
    "semaforo": "🟡",
    "titulo": "Cuánto gastó Milei en viajes al exterior",
-   "resumen": "El gasto de Javier Milei, presidente de la Nación, en viajes al exterior durante 2026 superaría los $4.000 millones en 17 viajes; la cifra tiene una sola fuente seria y otro cálculo da $2.737 millones entre abril y octubre.",
-   "falta": "Origen del dato (pedido de acceso a la información u otro) y una segunda fuente seria.",
+   "resumen": "El gasto de Javier Milei, presidente de la Nación, en viajes al exterior durante 2026 supera los $4.000 millones en 17 viajes; la cifra tiene una sola fuente seria y otro cálculo da $2.737 millones entre abril y octubre.",
+   "falta": "DISCREPANCIA DE CIFRAS: $4.000 millones (17 viajes, todo 2026) vs $2.737 millones (abril a octubre). Los períodos son distintos y falta el origen de los datos.; Falta la fuente primaria (pedido de informes o documento oficial) que respalde el cálculo.",
    "fuentes": [
     {
      "medio": "Letra P",
@@ -557,9 +560,21 @@
    "id": "perito-moreno-tierras",
    "semaforo": "🟡",
    "titulo": "Polémica por la venta de tierras frente al Perito Moreno",
-   "resumen": "Infobae y TN informan que el gobernador de Santa Cruz habilitó la venta de tierras frente al glaciar Perito Moreno a un grupo árabe para construir un hotel.",
-   "falta": "Decreto o acto oficial del gobierno de Santa Cruz y la postura del gobernador.",
+   "resumen": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno que había habilitado el gobierno de la provincia de Santa Cruz a un grupo emiratí para construir un hotel, y la Corte Suprema de Justicia de la Nación debe definir el caso.",
+   "falta": "Falta el nombre del gobernador de Santa Cruz y del juzgado que suspendió la venta; no figuran en los títulos.; Infobae y TN publican la habilitación de la venta con distinta descripción del comprador (grupo árabe y magnate emiratí); falta el acto oficial.",
    "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "La Justicia suspendió la venta de tierras frente al glaciar Perito Moreno: por qué debe definir la Corte",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUNRZmgzaHYxRmw3aEJyaEtPWmlLMmVYREx3RGk2Z01FVXB5NlZ5X19DMzZ5SXZSUG1RTGNCS0lGbUtRZ2NhVm9hZC1wZmc4dG1pMHk5YTBTTTR2U04xM1paUHFoMkM4Wl80RWJvRGFtNkR1QXVPZnpxTk1mY05GNWRIMzlsOVVHWURveHNWbG5yLUpONTgwdTNiVG9NSXdXWENRdzE1OUcwNV9EeVRkczFrVzgwa1puaGNSQkVkZWxBaEE3QWpUVEFFNUdQQ3pUeXBoejZBVjJWbFZoV09acngwRmTSAf8BQVVfeXFMT0xHZl90RHNJZG15SHJtQ1BkZEJsR2FnLTVGU0pSSkNJdHl2M0NWdF9mRkxRMEFQWUF1YlpwLUhScFV1R2Rna2lkaG5JMlh5amo2Nk1zQ1RPeU9TNHhtWFg5WGdwUElhTkhWY281S2R3TzdOVXFmM3NUT0YxQXZDN2dhLUZYY09sbm04aEJTaXZpRGh0NG56bnZCYXMxeGQ5Ry03a1RIVHd1MkczR1NyYmZiZ1FPT05iSlpERHlYMk1OSlRrWlM4a0dHQmVTcWZJSTY3UUVOYTRGWkljandHYWlXc29DckZxenozYktfLWhmMVlxTE54cThzeGNKRE0w?oc=5",
+     "fecha": "2026-11-25T17:34:00-03:00"
+    },
+    {
+     "medio": "Sitio Andino",
+     "titulo": "La venta de tierras frente al Glaciar Perito Moreno llegó a manos de la Corte Suprema de Justicia",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY09mSHNhNDdzeHRwelNSV2VYX3dCSEZWa01PQ3kzOGlFWGRJUEV4WTRCNm93UmhwVEp2SGJTTmtFeHA1TlA3WVNjRnBfbm9hUm5DVHRRcDZrbjNqVjQ5ZEgwcmxkRlI1ZUtzS2lsN3Zsby0wQ3FPTXU5T0hEaW1hbVlJSEFWUHBsZWd4Z0xYM2dlNFF4cklBblZDT3FBd21xYklSYWRhY2txLWZBRmt1QXZXS3k5Rl9pdnRpWE1YRmJmWFZIYjZhZUlOeVo1TXhB0gHWAUFVX3lxTE5qcmNua1JlblFSODJtSE9Ram51UWNwem5RLTVEX2NyQ2hNWW1rMmF4MHU5NGVBRG40aXFHRTV1eDZTMFYtWGNSeUp2bWdqNzJia1lvU0c0MGJNdE5JSWc3Q1BJYXdmV2xHajIzV0Z1aGNUeENHTkhReV9TT19wcHZ5a1JDX1J0UDJjbmp2ZW5nUmE1TGE1VmU4WkFVZTVEcU16ZzFZRUtRdmxkaXhSRFU2Ym45Z3RSMjJxUk84MGYwdDBZMFhuVkdQQ0ZGc2R1eHhSNmxYN0E?oc=5",
+     "fecha": "2026-11-25T19:43:46-03:00"
+    },
     {
      "medio": "Infobae",
      "titulo": "Polémica en Santa Cruz: el gobernador habilitó una venta de tierras frente al glaciar Perito Moreno a un grupo árabe",
@@ -577,23 +592,156 @@
  ],
  "seguimiento": [
   {
-   "titulo": "La CGT se moviliza el jueves por la crisis de las obras sociales",
+   "titulo": "Paro docente de 48 horas en Entre Ríos con cifras opuestas",
    "semaforo": "🟠",
-   "dicen": "Portales fuera de la lista seria (Diario El Norte, Novedades del Sur, Conclusión) informan la convocatoria.",
+   "dicen": "Portales fuera de la lista seria informan 75% de adhesión por parte del gremio Agmer y 83,4% de presencialidad por parte del gobierno provincial.",
+   "falta": "Confirmación de un medio de la lista seria y de las cifras con una fuente primaria."
+  },
+  {
+   "titulo": "La CGT marcha por la crisis de las obras sociales sindicales",
+   "semaforo": "🟠",
+   "dicen": "Portales fuera de la lista seria informan la convocatoria.",
    "falta": "Confirmación de un medio de la lista seria."
   },
   {
-   "titulo": "UTA acordó aumento y evitó el paro de choferes",
+   "titulo": "Torturas en Malvinas: la Corte Suprema sortea conjueces para definir si los crímenes prescribieron",
    "semaforo": "🟠",
-   "dicen": "Diario El Norte - San Nicolás informa suba salarial hasta febrero de 2027.",
-   "falta": "Confirmación de un medio de la lista seria."
+   "dicen": "Perfil informa el sorteo de conjueces; Crítica Sur lo replica.",
+   "falta": "Una segunda fuente seria independiente y el expediente."
   }
  ],
  "nota_x": "X todavía no está conectado.",
  "metricas": {
-  "notas_analizadas": 1514,
-  "grupos": 1026,
+  "notas_analizadas": 1705,
+  "grupos": 1136,
   "temas": 9
  },
- "nota": "Edición hipotética de prueba: la oficial arranca el 26/11 a las 11 h."
+ "nota": "Edición armada sin acceso directo a las notas completas de varios medios; los datos faltantes figuran en alertas.",
+ "periodistas": [
+  {
+   "nombre": "Carlos Pagni",
+   "rol": "columnista político de La Nación",
+   "notas": [
+    {
+     "titulo": "Milei persigue un éxito entre grietas y adversidades",
+     "url": "https://www.lanacion.com.ar/politica/milei-persigue-un-exito-entre-grietas-y-adversidades-nid25112026/",
+     "fecha": "2026-11-25T22:15:53-03:00"
+    },
+    {
+     "titulo": "Los frentes abiertos del Gobierno: las claves del análisis de Carlos Pagni sobre la coyuntura política",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY05mSVQ5bFBEWjVBSVlCalFkQUdTWk9qY2MtWnhrdEYwLVdIMS14MTVvV3E3Z1pwMWs3bThIelU3VjlpUXF3S0tBdDNLUVJpQUNzcnF5WjVlbTM1SERsR1gwVEs3M0tnT09NYnNFUzM1OFExcTN0SmJGX0U3bFZNa1pXV0V0TFU2SkxYMEY0ODNtZzZDODZDOUtyckZDdVlWd1pLMkhHS2xOei16bXV3M21WTWlWWW9GdUkyclI4MDB0N0QyS09PWA?oc=5",
+     "fecha": "2026-11-24T18:20:24-03:00"
+    },
+    {
+     "titulo": "Milei ante senderos que se bifurcan - Por Carlos Pagni (Imperdible)",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORE9rWVVXUEJ5dWt5M2xMU01iM3pmbVdnUHdoSWZSLXNtR2hiclBET1h4Tm5EbjBfRFdyMVc1RVNGM29JQXdGTFFYQVlrYzhLR3ZpT19TWG51OVZramwzNEVyaWZJX2tUcmNNTlpJT3dyTi1wVXpVTGZkZmFzY2xPeXhXS2Y3REV2Sl9pOG9KNWhrN3FqYnNkdk1qTmZDS0M2eXdZZjZtRHZYbzY0Z0lESw?oc=5",
+     "fecha": "2026-11-24T10:17:00-03:00"
+    }
+   ],
+   "temas": [
+    "política del Gobierno"
+   ],
+   "posicion": "Carlos Pagni, columnista político de La Nación, publicó la columna \"Milei persigue un éxito entre grietas y adversidades\" y el análisis \"Los frentes abiertos del Gobierno\"; el texto completo no se pudo leer, por lo que su posición exacta queda por confirmar."
+  },
+  {
+   "nombre": "Reynaldo Sietecase",
+   "rol": "periodista",
+   "notas": [
+    {
+     "titulo": "¿RECESIÓN O ILUSIÓN? I SIETECASE EDITORIAL",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJkaXBOTkNDOHB5SVpmcDRNd094Q1dja25XRGtrZ1JZOC0yTHFPNk5VS2lfUllTVzhKLVc3eFV2UU5yYkJjYWtQUjc3cXQ1eDhzbmJtamxYbmJDNmwweF9DNzBTU0tMUEtvQk1KdDVQNU85dHhUNl9KcFE1YnJrS1JaUGo5M3dmc1ZENEZaYWR3RmRYY3c?oc=5",
+     "fecha": "2026-11-25T18:12:57-03:00"
+    },
+    {
+     "titulo": "VETERANOS ARGENTINO y BRITÁNICO de MALVINAS mano a mano con TENEMBAUM y SIETECASE",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWF1bllBd3RJOFd0Sml0eGtEM3JSYUNrZGthVHdZdlhlM3NySm9sb2hUOURFVWNnajRlWGRrSnpSRlpiaHBSelNZUk1DNE5IMmpPUW83QUp5elJhQ2wyRUxWQVM1MHRMY2pFUWRPYWdhZVZFMVJOVW1ickc2TkZSODdIU2JsQWdnV0hZVkxGbk5jN2pLclA5UC13M094TTZQZzlOa0hTZHdjWm9nU184N3o3WWdZOFV4THh0eWxtRmcwUWJpdUdsZEJOREM?oc=5",
+     "fecha": "2026-11-25T18:06:57-03:00"
+    },
+    {
+     "titulo": "PAMI NO DA RESPUESTAS: médicos y afiliados cuentan la crisis I CON SIETECASE",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR3U5U3hvVm96R2VWZUpLQkNLakZ3NU1RZlVnQlItT0tCWE9ITFJRV3Y0ejhYZlZZNGpULTFJdXR2MFlRaUttVVdvcUIyRVBTUnctcXJLOGQ2OUluaUlsTkFzcTRhWmtpMEZhSVgtemRKaG9rN1pVdzBhb3VQbkx4Nmx4X0NDZUNsTFJjMEl0cU5GZG50MkpneU1EY2plakNkOHdpSHFKYVhmX19pS0o3aGhRQjRRM2Z4bDRlOXFSZjdYNFhs?oc=5",
+     "fecha": "2026-11-24T17:36:19-03:00"
+    }
+   ],
+   "temas": [
+    "recesión"
+   ],
+   "posicion": "Reynaldo Sietecase dedicó su editorial al interrogante \"¿Recesión o ilusión?\" y trató la crisis del PAMI en su programa; el contenido completo no se pudo leer, por lo que su posición exacta queda por confirmar."
+  },
+  {
+   "nombre": "Alejandro Bercovich",
+   "rol": "periodista económico",
+   "notas": [
+    {
+     "titulo": "«Se bajó impuestos al RIGI y no a las tarifas de la clase media» I KOHAN CON BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0hHWHNJbnRaUkRBWWNJdjdwX1poZHpJU1JFU2huNFNwZDhSbENBc1FWSzJhWXNXT0FlUzRCeEhJUjNqNVEtXzYzeVJkRTdzRDV5UmNMbmw5LXdmWkx3QzdMaDhyMjYwSERNOVpEd29VVGF0NmRaVGVmOVg1b2RBV2VobFpydGZQWGt2a3hFU1ZhRDgzOWZuOVV1T29GS1JWZXV6ekNqMWd1MTdaNW9Ecm5MVjk5TUlFeVl2OXlOem9xbXpDcDJ5X1cwV1E0TTJq?oc=5",
+     "fecha": "2026-11-25T18:00:57-03:00"
+    },
+    {
+     "titulo": "VACA MUERTA, LEY MALVINAS Y EXPLOSIÓN EN METROGAS | NICO GANDINI CON BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JsYld4LUd5TkRuVEx1QnNQbUpMTVNWZ0RJSGRCWm1ILUprWHBuWTV2SWlVXzNlX3VmVnluOUVhN09GSl8wYmFicWNHRXNKR1hlNTN4VHdKZ1VBV3pnNV9aaEYxWl9YN2xDNk1kQXR1WE1QZ1lkS0lucjhtVmVZMnRabXBIU3hkaDAxRlFWLVJXa0hJREhSYWVFZUxqTDhrLWV4OXhERGJmNkQ2NHpsWkI4RGpWU184Mm5JYTNUb2dyNWFM?oc=5",
+     "fecha": "2026-11-25T17:59:57-03:00"
+    },
+    {
+     "titulo": "ALERTA POR EL DÓLAR: DEBATEN ECHAR A CAPUTO | Editorial de BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUJUSjBjeXA1Sk1Xc01ST2dMM19rZnluU2RhVEpmcWotQXF6VG9FYllWbDVnUlVMWVQyekZncnFzZTVZN0RkZURSdW5ROHpJRGJnLXBia0ZaZmI3WHZDWkVFVmFjZWxfOHVyc092a1JGa2RnZE1DWjg0UVVKSnhxZDBHeTFrNkYxbzdkOVl2S092bzRoQzd3OF8xQ0Eyako5X0RYc2ZMQUNEVGRLVnB0TXN3?oc=5",
+     "fecha": "2026-11-24T07:37:20-03:00"
+    }
+   ],
+   "temas": [
+    "economía y tarifas"
+   ],
+   "posicion": "Alejandro Bercovich, periodista económico, entrevistó a Kohan, cuyo nombre completo y cargo no figuran en el título, bajo la frase \"Se bajó impuestos al RIGI y no a las tarifas de la clase media\"; su posición exacta queda por confirmar."
+  },
+  {
+   "nombre": "Iván Schargrodsky",
+   "rol": "periodista, editor de Cenital",
+   "notas": [
+    {
+     "titulo": "MIÉRCOLES 02/12 | RUSIA: ¿POTENCIA O IMPOTENCIA?, MUNDO PROPIO CON IVÁN SCHARGRODSKY",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW84SDl0Wnd6QlVGTUVyRDFHNm85Z0JDRmpBUDloa1pFSFhRRUp5S0xfQXduekIxemdPMjhSSXFwLW5ETHNpR0p0RmN0bVZjUG9YU0NNWHZQVDVUZGFHUlRVLW9ZVy1wRmdrVnFVWDRTbVdQYndJVWdURWZXVHdjWXgxaThvdDFoOVJiNnRlajFVeldqX2Jjckd6aURCTHFCZnpXcnJhMjVIRWZNUGZKejhENFdWNVFwN0U3OGZZdllxSGM0Z0Ftcw?oc=5",
+     "fecha": "2026-11-25T19:20:47-03:00"
+    },
+    {
+     "titulo": "“Yo no haré nada, todo lo harán mis enemigos”",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2M0NGaWF2cEVkb1dFRTd0MG42cEQ4UDlSMU1sc3RkSl9LaG9jZjVhdnJ1LTZpMFVVS0dMT01sN0VVTlBOXzBXbUh3ZU5RZGZLQUdNbjhKS2tadWZrbzlXUlpXNDNoX3p6dlhCTXNGMEc?oc=5",
+     "fecha": "2026-11-24T11:17:23-03:00"
+    },
+    {
+     "titulo": "Sebastián Ceria: «El discurso violento y agresivo no es parte de nuestra cotidianeidad»",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNS1xS24zTkowNTg0UUgtVWRVZW13bmhMOUt4Q3c1N2lOSVZzVUNaM1lhSER4T0R3OW1KeWdubW1aaU5lVzBxaFRSY1FnTk8yUlVnUXVzRmZVLTJDVWxkMnUtb1lxRnVDUkh3bktLNmFldkdxOUx2UDI5SDQtTURpUnMxU0poUzhkUHRQakp2dkNnTlpfSDdFeXkyZ2RSMGVjWWVGVkNHa24?oc=5",
+     "fecha": "2026-11-24T10:12:18-03:00"
+    }
+   ],
+   "temas": [
+    "política y mundo"
+   ],
+   "posicion": "Iván Schargrodsky, periodista y editor de Cenital, publicó una entrevista a Sebastián Ceria y el programa \"Mundo propio\"; su posición exacta queda por confirmar."
+  },
+  {
+   "nombre": "Víctor Hugo Morales",
+   "rol": "periodista",
+   "notas": [
+    {
+     "titulo": "“Diego está vivo”: el conmovedor homenaje de Víctor Hugo Morales a Maradona a 6 años de su muerte",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ25OMjRFTkc2LVFqUnp2TW50OE5oX3lRanJoVGtkRnltUFhVOWF1WUQ5NzdxNkk3VHUxRlZOTm5FRmU4UHFpVlJueUxNdUtxSi1CNEtGbDgzaFE3cFlqNTJfeFd6QXlZMFBxeFh3MGZoS2p0MHRQSzJ2RUZPSjNucHVIc1BkRmkxd2FobWgwdENZME41NE11TWZldUdXbmwwMmx1QndXbjFvTTBXRmVvc0tlZ1RCNmZ5YWlYYy0wbTI3STFiWHNYV0s3U0M1cFU?oc=5",
+     "fecha": "2026-11-25T09:37:58-03:00"
+    },
+    {
+     "titulo": "A seis años de la muerte de Maradona, Víctor Hugo Morales lo recordó con una carta",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXdsT3J0RENyVkJxd1F3U1BNMVppLU5LZVBuVXlOXzJTZUxjZzY1YW9sc240RV9XbnJhOXV3b2ZUSjFhaUtmZFByLWhkNUZfYVZQZXBScWJiT0I2ZTc5THBDTVZ4MUp5RjBIejJWVUs3MFNBYmtYbktoVzk1dHpCdVZWekJ5M1FBRkQ2RnpxSWZQVUxhNUJGeDE0LTI4VEY0bnNoOF9zdG5sNlFxWnJORFludHdUU1I2VEHSAboBQVVfeXFMT1F3bE9ydERDclZCcXdRd1NQTTFaaS1OS2VQblV5Tl8yU2VMY2c2NWFvbHNuNEVfV25yYTl1d29mVEoxYWlLZmRQci1oZDVGX2FWUGVwUnFiYk9CNmU3OUxwQ01WeDFKeUYwSHoyVlVLNzBTQWJrWG5LaFc5NXR6QnVWVnpCeTNRQUZENkZ6cUlmUFVMYTVCRngxNC0yOFRGNG5zaDhfc3RubDZRcVpyTkRZbnR3VFNSNlRB?oc=5",
+     "fecha": "2026-11-25T08:06:46-03:00"
+    },
+    {
+     "titulo": "“Enfermos de desprecio y egoísmo”: duro diagnóstico del periodista Víctor Hugo Morales",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaW1UVGRsWjhNTVlTb2V6ckMyNHhWQkRNcXpVa01abm5BWFFsTFJhQkJ2d21Lck5GVEp4cjRyWTZaRkw2azlxYkVVcTRnMnRLeXFiU3BrNm5BbHB2ZXNxS1p0YURLQ2FhZDdTY2Fja1k5a1RNb2RZSmtqM291UTlRR3NXNE1RWTBMQUpHVFo5NDd1VmJENFBQQ2tfWUE4SlQ3QVVibGRhaTFKWnVpQ2V3bV9uMnMwU1QzWEh4QjdR?oc=5",
+     "fecha": "2026-11-24T09:43:41-03:00"
+    }
+   ],
+   "temas": [
+    "discurso público"
+   ],
+   "posicion": "Víctor Hugo Morales, periodista, publicó la nota titulada \"Enfermos de desprecio y egoísmo\" y homenajeó a Diego Maradona a seis años de su muerte."
+  }
+ ]
 }

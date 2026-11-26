@@ -49,6 +49,15 @@ Prioridad para Soda: lo que **le pega a los pibes y pibas**. Por ejemplo univers
 8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si resultó falso, se pasa a 🔴 Falso.
 9. Antes de guardar, revisar: ¿cada tema tiene semáforo y fuentes? ¿Hay alguna cifra sin fuente? ¿Se marcaron las discrepancias?
 
+## Secciones y periodistas
+- **Secciones.** Cada tema lleva `seccion` con uno de estos valores exactos, que el sitio usa para agruparlos: "Política", "Economía", "Juventud y educación" o "Sociedad y cultura". La agenda general (lo que más cubren los medios) la arma el sitio solo a partir de `data/candidatos.json`.
+- **Periodistas.** La lista editable está en `data/periodistas.json`, y el rastrillo marca en `data/crudo.json` las notas de cada uno (campo `periodistas`). En cada edición, `periodistas` es una lista con un objeto por periodista que haya publicado o haya sido noticia en las últimas 48 h, con
+  - `nombre` y `rol` tal como figuran en `data/periodistas.json`;
+  - `notas`, con sus columnas o notas recientes (`titulo`, `url`, `fecha`);
+  - `temas`, con los temas de los que está hablando;
+  - `posicion`, de una o dos oraciones, que dice cómo se posiciona y siempre atribuye la opinión a la persona ("Carlos Pagni, columnista político de La Nación, sostiene que…"). Acá sí se atribuye, porque la posición del periodista es justamente el dato; se resume lo que dice la columna, sin adjetivos propios ni interpretaciones.
+  Si un periodista no publicó nada en 48 h, no se incluye.
+
 ## Precisión periodística (regla de la redacción, obligatoria)
 - **Jamás "un" o "una" para algo identificable.** Nada de "una fiscalía", "un juez", "un informe", "una encuesta", "un funcionario". Siempre se dice qué o quién es: "Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal", "Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11", "el Decreto 759/2025".
 - Si el dato no está en los títulos, **hay que buscarlo**: leer la nota completa (los links directos se pueden leer con curl) o buscar en las otras notas del crudo. Si aun así no aparece, esa mención se saca del texto y el dato faltante va a `alertas` o `a_chequear`; nunca queda la mención genérica.

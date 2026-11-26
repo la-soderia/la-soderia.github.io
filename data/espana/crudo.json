@@ -1,8 +1,1238 @@
 {
- "generado": "2026-11-26T16:26:19-03:00",
- "total": 1626,
+ "generado": "2026-11-26T18:14:52-03:00",
+ "total": 1768,
  "errores": [],
  "notas": [
+  {
+   "id": "1a6edda2da",
+   "titulo": "Debate elecciones generales, en directo: Pedro Sánchez, Feijóo, Abascal y Ada Colau en el debate a cuatro hoy",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/debate-elecciones-generales-directo-pedro-sanchez-feijoo-20261126201502-di.html",
+   "url_original": null,
+   "fecha": "2026-11-26T18:12:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "dfc49dab95",
+   "titulo": "Encuesta | ¿Quién va ganando el debate electoral a cuatro del 29N: Sánchez, Feijóo, Abascal o Colau?",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX1J6UTZWMWpiVG1tTXVvcjJkNEJzUW1hQkV1cWhYVTNzRkFUSkRXNzdRUWpvZ1ZvcExqell2RTYxZW9WcWwzLUVoTlphUVh0cnpwVXdNYy1VTzl4cHdqN2g5SElzYmZXUmRaWlNnVjZ2TEJJclBmMVZsZ2dNZE8yODdsaW81TzBvRFV6UnhjZlpjcDZGck96WGt6Q2VmUXBYSi000gGoAUFVX3lxTE9FdVo5VWhuVHpPMjNMLU9fa1owVXhXeXc2RjV4Y2FCX1BDUE1FeEgzWDVGdkVFWTkyeHB0b2ZwWUN5WGFCQXhmY1JtREZLNjQ1NklMeUVoTW55SVZobUlmRmI5RGNBUkVfeGhfQ2oyWktYX2VUMENsbmR2ejgtT2pVTTBFZHlqZkdPMF9FeXdKZ05iV0MtN21VbUNnOW5zeEJrV1VTVnZYRQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T18:06:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales",
+    "elecciones generales 29N",
+    "elecciones generales España",
+    "encuesta elecciones generales",
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "902d87857e",
+   "titulo": "Las verificaciones del debate electoral del 29N en RTVE",
+   "medio": "www.verificat.cat",
+   "dominio": "verificat.cat",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZMTlhR2VYOHNFbC1EdURXZmU2aHpMM1hBM3h4d2tzVWxSQkhTd2NmU2hrZHB5OHcteTBfVlNXcWZGMU1NWkJ4TUFqd0ZUcWZlSVB1ZHBRaFVZd2wyVk56LURuanZrb0hrR1ppUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T18:01:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "49bca96640",
+   "titulo": "Debate electoral a cuatro: las frases destacadas de Sánchez, Feijóo, Abascal y Colau",
+   "medio": "Tribuna de Salamanca.",
+   "dominio": "tribunasalamanca.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEc0Smc4cjk3RkVhNEJEM09Wb0hnUlBfOUpsN1Nkd1o4MGNKWUc3UmlDYjdTTWxEVm1uVGptZVlEQ3VsZl93dWc4dE1Na3RicGRmeFJDQUwxeGpfSkRpUEhlVXhpWGVKd2xRR3dOa3RQTHZSNmZOcWhmbndGSXptdmk2WG15VDdHNGdEZi05cThvZngzZVBuYTZldzR0eWdDcTB3eU1UaUhEb1UxZkxJeHVvaGt4QVF4UkZFVWY1bXhFZlpld0plUWZn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T18:01:13-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "964d4f56fd",
+   "titulo": "¿Quién ha ganado el debate electoral a 4? Vota y añade tu comentario sobre Sánchez, Feijóo, Abascal y Colau",
+   "medio": "El Periódico",
+   "dominio": "elperiodico.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVUzdTFlUXdJZVZiM2p2WmhTYnRQbjJqeXNYcEtYc0xQQ2NSRFJIZUx1aHB4eEtCRlVYLXZEVVVnVUlHTTJZaXpTcHlyNWVlQWVTNkgzWS1UcEFma2I2UXdzNUVoWHA4NnZZRVF1bWZ3V2hLTnIzTE5ucVU4Q291V2M5TWV4SUNxeGVmNi1kV1ZvNk1TeXZFRFVxONIBmwFBVV95cUxPbDk5dlBzWWdwRVV4aHl4VGpGaU1ITmwtT21YZTl3ckpRbXNoR09zNk9jRGNZLVlPbUlOYjl4d2x3WFV2V1lDT21wdmhxREs4Q2dUVmhWYlR1MEVHZlU2OHRHVDZMQjhORk56WER6SjlMNGhETE9lZ2ZfRWpZcGp1WE5VTkVtSjhKdUtPc3d6cW5kb0RrNGxteFZ0UQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T18:00:02-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales",
+    "encuesta elecciones generales",
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "2a7485d8ac",
+   "titulo": "Almuñécar contará con 21.105 electores en las elecciones generales del 29 de noviembre, casi 800 más que en 2023",
+   "medio": "Costa Digital",
+   "dominio": "costadigital.es",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSWoxOEpsNml5YjVTYjNRTUZzTGh5SHRlS3hVUkZQMW5YMnVwZy13U1NSNVBIa3VxQ3U4c3R6WTBtOXhSdGIyVTdkMUJMc0VicUZMQzl1aTZIWHhJWC1SN0lFR2dPdnU1VzNVbWFBSWxfSzRzVDR0ME1ETkh2OEhSbElVLUFXenVwbzFJWi1SSjFrc3cwOUJWOW1tQ19iLXFnQ1NRLVFlaEZ2aXZfc2ktQ3IySXZTa2pMdXF2SXZiSDlsN2Z6N1l0NGlaNkNqTDY0SXc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:59:04-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "61f3e0483c",
+   "titulo": "La Junta Electoral abre expediente sancionador a Ayuso por un vídeo de la acampada de Sol ante la posible vulneración de la ley",
+   "medio": "Elplural.com",
+   "dominio": "elplural.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNzg0Q2tmRDB3RTE0RzlOLWJfa2tSQ3dsejBrYUo2bm9ZaXQyaFlSV3F4LVBMSVJueW53d3hsaFpnUUhseHZWOEFUSzhwYkxHMGJLVU1IaHVJM1FabllNMmdHRUVZbE1UOFhXejJoaEZZbEhZQXJQSWw5elFPWU1SMm9xZm9FU2Nib2xWOXdDY3JLNW1fWWRwT0wyMzhXVXplTWJKMHVfN0pFTWZnVnVtcnNVeGpIZUtxRnZZZ1pTNmZmMVg2UF9wNjkxTVpWTzNYNGtGQlBoZEVIdUFhOC1iN9IB5gFBVV95cUxPSS1Bb0dqZnBDdE9Fc0JnZ3NJTmVlVVhRQlQ3Q2JIRjJSb1FsVHRHcVVyM1pISmxfYW9mMi1td2Qzc3NFSHA2T0hydXRFRmZuZ09mYXQxaFc4VW5lbS1ST2huZ3VHWC1zS0ZpVlRuMDBLdDBKMnk4Z3RDVVI5SmJaTlo4dEh5dkk2WGxqZmdHSnMxWWJ4QVNienF4cE5ubDhVb1Q5RlJIUUVQdEtCS3BYTjNZS0hQZkRPcGh0bEJTZkJ6Q1Y5SEFQQmVPQWN2OEJjVWVJTHN5Ty0weGdMQ2xqalBwdUpiQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:55:53-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "1b3acfa086",
+   "titulo": "En directo, debate electoral a 4: Sánchez, Feijóo, Colau y Abascal protagonizan el último debate de la campaña",
+   "medio": "Diario de Navarra",
+   "dominio": "diariodenavarra.es",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUVJLTWFuN2R5NmdrUzcySm9qTWpDd3RUMDNmNTRiT2hZeUVtY1IzQW05bEpjWTE5Q3R2eXhvdXlqaEt4Qk5GUWI0VG5nQW1sa2tuYnNsTWFJRGxqZHBvMERPU0tLYzV3YV96WEhHemFjZVlIYWgya3FjenBvMHU4SDZ5RjdCZGI5ZFJZUFhmbTdRQmktU2ZYRXhKaDRKenJkUWJqUnU5RHpPeXB4MGVybWM3Nk9OX3V3Y1E3QzVzVHNlb09hZTdmRWwtOEFNbEh2ZlFXUHNrczRoa3NOalJRazR3TQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:53:56-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "a077964787",
+   "titulo": "La Delegación del Gobierno en Asturias ultima el dispositivo para las Elecciones Generales del 29N: 13 millones de papeletas se repartirán en las 1.443 mesas electorales",
+   "medio": "La Nueva España",
+   "dominio": "lne.es",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0Y5bkF2NlVTZ2ZmQ3NUS0JQZ1dhdTU2X3Iyd0dPM1lRUFA1NjFaYWRXaUc0WXJ4RkNITEpVcjd1eFpuaWs2a2VVZjAxMWFfZkRKM2I2bUJ2ck0zNEhFNEplckZnQUt6QWY3OWNIVkxyWjZvNG0xV0ZTV3ZVeWd0cmFDdG5XN3ZnN2t2aW1CZTNRVGMtZjJlTVZzSTlqTDZXMDlQMmZldFFLRllB0gGyAUFVX3lxTE8xcmRIejJFR1c1WHNtVkd2VGZMYm03MW5zeFQ0TTRJVnQ5N3ZodWdibmN3cW1ZNWN6aUU5SFc4YUlaSU5UT19WazZQZENjeVh1MlpXUmxsUHZhZWdSN0JZaUhCZEZhd1VsYkE3NzVPWDlLUEFmbGZKUE1Zb0xzT1hBV2prSVNUR3FBc2otTGxPV2RzdUhOWU5Vc0s3Q1hsMUlDYU4zYXhEVUp5NUFyenRFS0E?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:53:24-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "efbfa41400",
+   "titulo": "La Junta Electoral abre expediente a Ayuso",
+   "medio": "Diario AS",
+   "dominio": "as.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVVYmVpZHdxTnluTk9YNnVrX2tfeUZBQmZKZ2N6eGR0VWt1ckVDOFFrRDlWZ0V4ZThRcnFJLWZXcm9PNmRRWkdCVV8tZlNMdEp4OHhFUXpmMmFpeXMwbjB5ZFBDSVF5a3ExMXpCbTEtNldGU3ZweHYteG5WSkltWmt2MDZPR3RodktEdWxsR2Nnd9IBpgFBVV95cUxOWlYyV2duSkxMZXh4aGt2ZTB4V0Rmbkh2em9kNHdFUTZtcG5KbTNWZF8xR1ZaOGFUZTF5UjVyQVN4LUFfZ2Q1UVM1OGJ6MVhmcGQzRHNvOFB1V21kTmVmRzNKTFF3V1hodmxNYTRDOTFza1BDYnZ4TDctWEl0dllpUV9hUVVzRW5ORVlFYUNVemZVamlyX0lOM2VYWWUxTkVrcTRXNlVn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:53:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "e164143d91",
+   "titulo": "La corbata de Pedro Sánchez para el debate a cuatro, un regalo del director de la OMS",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/corbata-pedro-sanchez-debate-cuatro-regalo-director-20261126215144-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:51:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "0806245937",
+   "titulo": "Resultados Elecciones Generales 2026 en Cantabria | 29N",
+   "medio": "El Comercio",
+   "dominio": "elcomercio.es",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84d1FXRGFsRUpLSnlyczZyVEx4bjV6TzB2cjRCN3ZuR3FUdHlCcEdJWTcxUFkzZmNkMjZ4Z01kMnltZ0paWHREenF0bHpqWjVFbHRGcXZuMTdSc3hPMkt1X0tXd2FwS2QtUldtZ3gwajgzVXd1RGdr?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:44:07-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N",
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "87b0c4204b",
+   "titulo": "El azul de Feijóo y Sánchez, San Benito de Abascal y el arcoíris de Colau: los guiños del debate",
+   "medio": "Artículo 14",
+   "dominio": "articulo14.es",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTG5JVF9RZDNOWHpKZEZDckFVMksyeUVsaG9Uekg0LTNzVDVTWFF5TXJiOFQ2cUppcUViU21NRGJURGZtN3lvSS1HODBYUTlFTlRCbTN2bXFjU3poaUQ0ejNtZkRWRnU0RGpWV2syT2RWYjg1c002eldONS13MFo3U05XVHc3OV95SVhNVTRmS0ltcFZZZWlyYzJlUzdIc0hWbUxfNjFEVnVIa2ZubVdzMl9ZMnlpZVVYLXM1S05HcUVQXzU1Y1V2dE5LcGJnbHBpYXI4bU9aaEd4QzQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:42:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "2aa560f271",
+   "titulo": "El debate a cuatro en televisión, con Sánchez, Feijoo, Abascal y Colau, en fotos",
+   "medio": "Heraldo de Aragón",
+   "dominio": "heraldo.es",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEcweTZ1c3pZdW5aU19JaWhvZElxZU9zdWIyMFNiVXZtZE9BMVBEb3dXNVVCUkV5MEFiNzNZZ2ZvZ0RtVVVKVjNyLVZIaDl0OGI1eW84bTJNMVI3WWppWFV5ZzFvZGtBX2lZQ25Vek9QMnVmeVJkd2VwamQ0N3piUGJyc3Y2TEFWLXZDMWFPTy1BTkJQQ0tZZl9wY1ZQMlhJRm54NFdlRXE2dw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:40:23-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "0cb4b8b242",
+   "titulo": "Así han pasado los candidatos de las elecciones generales las últimas horas antes del debate a cuatro",
+   "medio": "Antena 3 Noticias",
+   "dominio": "antena3.com",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDBEWDJBMXRwZlc1Unp3RGRmYnA4MlhBUlFIUnlCQmFmRUluWlZQa2dTMXZzX2FxVVdVeFlYbWxfNnRJd2laeUtLUi00NkoyTWo4Rjd6MVlzNHJMQlhqLThpb3ZLTE9qY2I1RmFEemszQkdSUjEzMzY1cFU2UHpUWFpsTlVHRXVxZ1hTOGJ6emNPTmNkTUdYcjE3LTZraGpTTXlfRmJiSlRwbkVVZ21BODFScjg0UGg0Q3hOLTAyN090R1hsQ0U5V0poNDFHcWo0UVRtZEhZVmsxczE5ckt4Tktrek9tTVN1TVdZSUN5VjNrR0hZ0gH0AUFVX3lxTFBjYnNJemJNMVpTYkp1VFlFblFHWENLRjlFMllZa0NYUHRkUU44bmRNeDU1YkF4Qmt3a2JSRFdoTUR6YU1hQVdiQ3VFUE81NGRQbnZHS1hvSzlLYjU4amRoc1FCTUJQRkNfZFFBSlRHMFpyZjJkb2JRMm5nVmpFR2Y1cG1LeUlMbGpXbU5qWWp6R2JKT2FwakZJZk1tcmJBdVlLRld5RWdiODV2ZWJycmhueWliMzVpenQ5WjFLUHdxMTM5ZXluOTZpRG5rTzJmN3hlanRkOVRXcWN5TDYydWVfOVFkRS1acmszNG9aQXdDRzdiamE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:39:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "66599ce6d0",
+   "titulo": "Así ha sido la llegada de los cuatro candidatos al debate electoral",
+   "medio": "Levante-EMV",
+   "dominio": "levante-emv.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkJOR2EtRDNoVFBmY245MzhFaEM3bWpCSXNKWHdicmRhbEZzVFB1a3hCZHBfNS1IU3BzaWFoN0ZXUVFfVkF3MGdnWHcyQ0txZGo2NTBxY05YWDZJemIxMGM2dXlUWkRVZkdELXVRV0txanhYcDhfQjB1WWdSal9zWmNLalpCYzVHZWZ4bDNYS1RIek52YkdUWF9kX0o4bTBQTnN3U0x6WHlVU1JtVUJCQVZsRzFZeXdj0gG-AUFVX3lxTE91SWJETy1mbnFaNkxUMjlCaGJRaVQ1NlhMMWNaQWxicUs0QjVBZ2lfQThacXV4T3N4a05qUVFRYnh3YjhpREdjVDlIR09IOHNwZzAwWFdmWFRDSi14YmZ1NmRzRnVaNDdaMFFrVE5mQXh0SXVaZFBGVktKN2lPQmNrS0dUUDZ0WFkwWldSVWV2Mk1Ca3Njb09ZYUJyMTZaUE0yai13a2RKS19KdVlVckZ4ZDUwS0pyOHpKbEhmLXc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:38:14-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "26c4c41fa0",
+   "titulo": "En directo | El debate a cuatro antes de las Elecciones Generales del 29N",
+   "medio": "Ahora Granada",
+   "dominio": "ahoragranada.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFdOTUhGbkJzVURCM3E1V2ZLR1BNZU1DQU1ZaU12cG9lYTdFT01DMVRVdHpRQ011aEdzTHpXVGgtek1tN0lFVWw0bmszNTdaZ1BOcGxSdjJzcVhnMFZjRS1rYWlDMVRSeVNsMGhOY2I0ZnRka05hS2l6T0N6SEFmTXlGd2wyNGV2NXVrOTNXVXJJOWlSNzVwUnZtTVk0WkRfSnNlTW1yWUp1UnU3YjlR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:38:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "d9e7ab831e",
+   "titulo": "El significado del pin que Pedro Sánchez lleva en la solapa durante el debate a 4",
+   "medio": "El Mundo",
+   "dominio": "elmundo.es",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm1GRUJGSFg4Sl9zRG9ydnhsbmZyNk0taEQ0aUEyY1U5X0p3ZlpEbkpiT2NnVHZJYi11bm1IYTdxTklHdmF3U2k4VXdVOGladXRqZUtWXzBNb1UyZWNBWWU2d2VwWG5fSVN6NkYtQ01PUjJNeVBjNkl3b2ZCZzdGbEZ3ZVBlWURqZ3VWNEZ4RFJnSXU2QlZXd0VjSdIBmwFBVV95cUxOSGZ6ZHFSYkhOTW5kQVRKT3ZGNmdpUmNtS1pXRk11RWFuSzk3ek03RE5iemtqMUdDbkYxNUhDaEljcjRFU1RMSkJ5X2xKN2dsOGF1aml2aEdSWGZkNW1XdU4tTTRzYzZtanV3S0RqNHN1UzAxR2NLazQza2paQUVRRlVyRmxsMFpiajlJUHBiLWR6T3hmTzhxanFfbw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:37:57-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "372f3d11aa",
+   "titulo": "Tren Directo, A-11 y más: esto es lo que proponen los candidatos y candidatas de la Ribera que van en listas electorales del 29N?",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOOGVmQkREZEwyVFhSeUg2S0hHVi1YVG9GU2xBcnNpemczcS1KSFVUSmdNbXBqR2MxaFFIemxaZGZmZUxFTlBMQy1XNE8xZUQ1NUk3MXdpYTFHQ1RDSkpOamhLb1dEdEtLaXduS3ZZX0VHeEpMWWxDNnpuWnJmb0VRaUFYWjV3Z1lkZXdRczFCZXkxbXdzZF94Nko2RXAwSkZjX3k5ZWt6YzdxbV95Q0tySUxvWVJUaTlRa1RtODdfTWNmS0RLcW5VUzRSQlhTX2dRellpWmhWMjY2SjROVGdYWEcwSkFYdU01ZDhmRTJnaWNoU2dhZi0yaDZiQThEeWxNS21ybnE5SUsydkFlZkRVQi0zOFlkZ9IBqgJBVV95cUxOZjByQUkzN1YycXZscV9memtVTXE3c3ZJLUZBYjQ0ejlYb2haN2k3NC1JU2N5VHEwRHlELUkyU2otbnE5N0VxVUJUS1VvbzM5QjZtUjA3Y1JaRzkxb2twbHg4dzVEakR4Y3AwLXh1NVJ6NmJaRFd2NDVYeWpzQWFuTWdzTU5SWXpodlNEZnZVWWtQdjZ5czgxTlhUWmtKQUsyWXloVEp6S2x4Q2VBc0xSMXJITmh6ZkhsZDBXWDZ4b0JnWFB6OVJYZmhTOUNTckF0ZGRjZ2E0OUxRQzh1Ti11ZFY1VWdoRmE3TGxJNmh5N2VFSXoyV3FmNzJLYmxac3dSQlZpZmU1aW83WGg5R1o0OFUxbXk2c21PcGlPbHFDODRZVnlpdEl6MmlR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:37:16-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales 29N",
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "aceb472f55",
+   "titulo": "Los candidatos de los cuatro principales partidos llegan puntuales al debate electoral",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdldoaG5HVE0zNHV3UElSNTBHTmNXTXRvNmViVkpUWXdpOF84OEVjRUZldTltSUo2TVdpNEl0Sjdra3hFNFdUdnJSTC1XeHg4Q1hMWV9Gbm5kVmdtOTdBc0FTd1QyMExqOGUxNUo5SE92cVhWeVBPZmlDaUFLdG5Yejc5dGdqQXVWTHZwVi1TQWZzMzAzRGJneVJrNTJ3WnV6VXh0cThxN3h4MHJUaC1lTXk2akNNbV9wdWJpZVBfVmJyX3PSAcgBQVVfeXFMT1BWSXhReHdxT2x3Vy1FR3V4M3NKckYwYlpXa1oxNGE5T2pseW85TVR0OFZHZXFZUUVENk1JZW9fd09oVkFRS0FGM21UMTM0ZWQwb1NtLTJhNXN0cUdyenJkaXpqTUw4bDBXcGV1RjdtMFdlZFF5blNtOHhsUC1ENEtmZE9vQkRNNVBXaFZqUEl1RlNjVV92ODBvTUh6WDF0UFdEVFFvTVdGcG9feWg4dVdhUXQ2RHR4b3VFcEdXVFh1bnAxVnRFM18?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:36:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "baa206f6bf",
+   "titulo": "RTVE se planta y blinda jurídicamente a Intxaurrondo ante la Junta Electoral",
+   "medio": "MUNDIARIO",
+   "dominio": "mundiario.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGVnOTFfcGNDUzRRcUo2UEJjZHZ0bGFvUU5Icmh1N3A5NU5NRWZaOTNka0xFMW52VF96TG9vZ2VlZ3ltdG1SZFVsaW5tV2dndXRpNUtTTlVjWWtzV3VlNWsxcDloX29aSVBzZ3RaWGtuRHpxX2psbXF4SzJtVm1rN1dYN2lhOFlGbi1NZU9ScExWMHY2djZMTXBIakhtMHpoWmhZbHpNbEZBbXBVNFlpMEduamVKZE9HNHlDcHVIcUktSGVLWGtJYko5VFnSAdIBQVVfeXFMTlE2eEtRUTlWR0FwWmlJZzFTTzZMX3VKUWs2U2prSVctc3hOeWJaQzhHTUZtRnFmZTlrcE5DUjVNNjEyVHo3RjVzdmV2SHI1YldxTUR2amxqN3pyQm9PMDNhU0ZOSk9uQ1hrb1ZlQ2ZGc0I1MnFuUzFIamJ0Qmpmc3o1T0dZVEV1allSaWpTX2NOVlBHUjJHNjJaSmsyYmUzYkJuWFJzZVFfOURJWjJsZ2JHTDllM3lrMFRQX0hGUjZqSVVlX21NUHV2M1ZCNnpzM29n?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:35:49-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "b6ba650ea8",
+   "titulo": "Cuánto dura el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau y a qué hora termina",
+   "medio": "Onda Cero",
+   "dominio": "ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3BSQmlyRHdEVGFJVzd2dUxCZ2NHQl8xME9fbFBwMmhfV0JuMHB1U2RxNUhUbk1lbGVzdHpxU1QtTXp1M0pVME55WFZyNk4wS2NSZ0FvU3RnNW54ZnlwWEFXbjJOaGJMdUEwYVEwZFpXc0NKcmxYZWNscEtxLWFIbDNhVTZsWFY2WVE5QkZ4ZWRVRTVBMlNkSkh2TUN5cEhieWxRVTVqMklUeFhMeG80ZFNFeGdmWHRnQzZVR0hHUjVRZlAwTFBjRDVkSk9zVHN1UER5YnRYOXd1VTN0S0dNU1laVmpEQV9RY3fSAeoBQVVfeXFMTzE1djJoUXlpMFZLM2VlTWlZeldRQzI3ZnZzb2dtb0REakprRXp3VnRDX25SaEczWm1DTHVxRV83a0EwbDl6MUUxNlJycG9oX09CRnlBTUw5WGJkX2VvclRYT2hNb05zQ2c1V0RpbkpNUTFiVzFqd1hfSE10YzZrOW1hTVYyTUpfUm04THlwbzZTUTV6U3ZkOTl2MXFDeGFQNWdvYWpHaGJhVmlBLWlmX2hRMUhFWEszeE8tc2xJcFVpd28wa2RMZnhubTQ5Z1h3eWxiYmVBX0ppcnQ3UzhPSGRoSEhrdGhQbXB3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:30:16-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "13f1601e85",
+   "titulo": "El debate a cuatro del 29N, en directo | Los candidatos ultiman la preparación con sus asesores",
+   "medio": "GranadaDigital",
+   "dominio": "granadadigital.es",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QTERWbFVkNENzdGJoc2lQOFZ5YXplZUc3RDJSb1U5SF9zM0kyTDcyd29rbnVxT21uWGpVVG5JbDJTNV9SbVBqZDBwZjNpR3JXVnM0TThkSUxyNjQ5Qy13WWlDOFFQelk?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:30:02-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "a36d2ccc2a",
+   "titulo": "Directo | El debate entre Sánchez, Feijóo, Abascal y Colau antes de las elecciones del 29N",
+   "medio": "Atlántico",
+   "dominio": "atlantico.net",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2tkeDlBaFZ0Sk96YS1fTnJMcDlOTXlCbWlmYmQwTE8weno2SHpSTGxZTHZTYnBCcm9ramNudnhxT0RLU24zQnV5ZUJwS1pWRUcxMWRMUnNMZjNfLTNobjZGcUJlaE1PQWxuRGlyaDVmM1VlYk1YNUsyUmc1eGJsUDRDZExESGYza3BQYUtld1I3THlIcUcyOEp3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:30:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "374a6a2c68",
+   "titulo": "Directo | Debate a cuatro en RTVE: Sánchez, Feijóo, Abascal y Colau miden sus fuerzas",
+   "medio": "La Región",
+   "dominio": "laregion.es",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDAyXzFaRXFmVU5mSWJ0cUg1VXExczJNYl9KWFp1NF84VFFlV3BqVlBVS05HaTBGMlRqcGVCeU5nemx4Q3d6NWk0am90WS1SdVMyS25lNHZsaDhhRzFZRzdjOVFybEUwNm45LVY3Nl9vWkVZSHl2YldFWjFVWmZNQXlIeEtGeGdUbmMyb2tMZGhzUlU?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:30:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "6a018c3866",
+   "titulo": "Este es el programa electoral de Pedro Sánchez con el PSOE para las elecciones generales del 29N: consulta las medidas y propuestas",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/programa-electoral-pedro-sanchez-psoe-elecciones-generales-20261125200406-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:22:52-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales 29N",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "d5efee2f9d",
+   "titulo": "Este es el programa electoral de Ada Colau con Frente Amplio para las elecciones generales del 29N: medidas y propuestas",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/programa-electoral-frente-amplio-ada-colau-elecciones-20261126131020-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:22:21-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "102e0f9ed2",
+   "titulo": "Nogueras pide concentrar en Junts el voto útil para Catalunya desde Tarragona",
+   "medio": "La Vanguardia",
+   "dominio": "lavanguardia.com",
+   "url": "https://www.lavanguardia.com/politica/20261126/11694416/nogueras-pide-concentrar-junts-voto-util-catalunya-tarragona.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:22:09-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "9eb093b3bf",
+   "titulo": "Rueda llama a «marcar la diferencia» en las urnas con un apoyo masivo a Feijóo",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/galicia/rueda-llama-marcar-diferencia-urnas-apoyo-masivo-20261126202412-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:21:16-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "46caf74dfe",
+   "titulo": "Este es el programa electoral de Abascal con Vox para las elecciones generales del 29N: consulta las medidas y propuestas",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/programa-electoral-vox-santiago-abascal-elecciones-generales-20261126150941-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:18:57-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Vox Abascal elecciones generales",
+    "elecciones generales 29N",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "b678c1dcd5",
+   "titulo": "Debate a cuatro entre Sánchez, Feijóo, Santiago Abascal y Ada Colau: En directo",
+   "medio": "Servimedia",
+   "dominio": "servimedia.es",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSMjlJMHNxYThuUWNPLU1fdE5FWWFkSXRtS0RqcjROSmJCUm9nMEhQaEhwb2dHMjg5MlNnbjdhYXZMYmJLTU53SGw5RjRMWTFhRG9xOGl6MnlVd0dqUDZPQ2VmdzZVSkp6TU5uNE4wbEljNExTSkE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:17:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "93eaaeac02",
+   "titulo": "Milagros Tolón apela en Aguilar al voto de los demócratas para evitar \"retrocesos\" en educación, sanidad y derechos",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTzM4Q1VER0pIMDMyLTFhQzhQQk5MOEVqbzJ3blAzbzhxVko1MWVUcHFZQmQycHl6WTRiSk1ISDAyakttNUJzcXRxanBuOF9aU3I3cVA5QXg2RnBOaEpzV1drb1MxdHZJY29OZU9jWWZfVWtDZWc5elk0V0R5RGZ6WlhGUTl2WGhzNWIwbEY4clQ3WXRsN0M0RUxMWHhuTFlpR1h4UUpPMWNSSWlWV3dXNVg0R0xJOVVkT3h2b0t4M19KNDUtWUpNZ0NSX2VGdDVvSlVHQjEzQlljbFBHb29qbXJTcWl6R1c0NzIxLXp6NmlldVNTOGNMaXBpUnpDV3pXWE5IZXlR0gGaAkFVX3lxTE5OdEdkTW9xQWZHaVRxdmZmN2pFMm9RS00xMWRlSEVtTWFmX0V5VnZRRmxmUHdGRDhvSW83N0hkZkdibzBRVlhxZl8wS0lRSm93bEhCLUdCTW9CVVZuVWhKRjlHY2NMbkthSGFJcnVjZHgzRDY2Y2JVSV9WcXI1aEZFTWhsQ2ptNTZXTHRGV3NUQll0di1IWDUwVExwVk1CTGtfbXJMazRydzFiTEFGTDEwVXZmYndaNmhGeEU5cmdON1RlMTd3RFNiWHpjTkJuakRUWHo3SG4zYjVsMXNic25oczdUbWhtMWZ4TEtJQ3hDM2N2aEJaMjlUejFnU1JrWTU5YWN5TkFFc3RSLWNuYTN0bjJXUVV3MEJRdw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:15:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "2b3701bada",
+   "titulo": "Continúa la jornada de votación en el Consulado de España en Bogotá para las elecciones generales",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekpwaTdhdFN0TVFISDMwQTRlRmVMNUI4RXEtMGpQWkwzYzkxLWFiLXEzbGR4U1h5Qm9xY2x0VWhCXzBPQU9jd3NMSk0yTVVLMk90dUU5RGtLemxKdDFEOV9YSWh3VlpVTDdPNENPRVBmLXVfdEFUQVNDVUJVNTBSdzJVNVdqLUJZUTliUzlzRFVLd2JNcGJHd0VjTXltdXZMUG1KT1ltVjI5Y0dQUzJ1alhXONIBuAFBVV95cUxPZlRQOGtOSm5KSnNOZ2VFaS1tWlZwWTJuMlY4Mzl5aFJKNUVSdmZWckF3LW9VNE5hc05saWFiTUVEMDY2dFhNQ1FhdjJtMmx4R2stWnlJV0thSmVQZ09MWTZPWWZJY2ZiZ01ZSm8xM0ZiZXlKYWp0QXBIR19yZy1BdnlIT0ctajFKekljUlRXanBqNXJRMENwS3NyRlZJOGltQTZEUEtfejR4Wnl2ZUpZcExBb2JpTEl6?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:13:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "6e02b679a6",
+   "titulo": "El cierre del voto por correo confirma la gran movilización en el exterior",
+   "medio": "El Ideal Gallego",
+   "dominio": "elidealgallego.com",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcVNWMkF6azdyeWo5cG5abTJtNlV0a2ZxSjE3TUhWTGo0VjlsVWpRdzFVQS1XWVRTYVRKVXE1bnk1S1NMZHJxdTdzNjZVT1ZNcmV2WkxMMzJCb2d5MFZIOXd4bGVlSmRxLXpfd0t4VnVEOGdtM3BuZ1dfMmlZOEM1cmpESlc5NlVMSjVYdkhfd1hMMG4tUWFwalAwQ0d5MmdsdVhzR05IblFkMWJkXzE5OXFFamE4dmZfZGFQeVZ0dElEcXFlNEVuTkd3Q3ViSUlDTUx1cFgwdlc5TkktS19z?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:12:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "fef380e097",
+   "titulo": "El Frente Sumar y Podemos cerrarán campaña en Madrid con Yolanda Díaz y Pablo Iglesias",
+   "medio": "Servimedia",
+   "dominio": "servimedia.es",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUVEZGRwQU1Uc2lFYXQxTHNvRHJNNGpKUzZadkQxZC1LbWdxR00xb3FUZzhNTkNiRmROVmtwYzU2bjJ2R0FuUlRUUzF5MGJzM09WaG41dTlFQ0FudnFEVVN0QTVhMkxBdDgwZ3QzZHJvV2lCYmtnSFBfRnlJckFVdi1TQkZ0V1VpcEY4aE4zM3V1T0EyRGlKN18wem84YUVkdTIwbERpR3l5c2dGd2MwOGM0UW8tS3RBZEE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:11:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Sumar Podemos elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "bfd52d368d",
+   "titulo": "La Junta Electoral ratifica la condena a Núñez por pedir el voto en una entrevista en precampaña",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/junta-electoral-ratifica-condena-nunez-pedir-voto-20261126211020-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:10:21-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "92a8d5c22b",
+   "titulo": "Casi 538.000 almerienses podrán votar en las elecciones generales del 29N",
+   "medio": "Interalmería TV",
+   "dominio": "interalmeria.tv",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGo0d2FHOVdfZS1Bd0IwbTVLeWtTazZnSnkzWlp2SVh4MUlES1djQ3haWHZDazJWVUZ0OExDWk9qdjd5OVBPWVhtLTdGOHM1dm9MWXhmSEZoQkRXRXp6WjB6RjIyam0yNDd6eVltU0ZDNGNfd3ZaN3NhQmtmN0N0a3N4Um9NbWs0S3JuYVFSbkdIZlNZWjFOekxmbnlNbGFHSGJZVFJzU2dTemlqVjdqVEk3SQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:07:11-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N",
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "3e545c3c44",
+   "titulo": "Revés inesperado para el PP justo antes del debate: la Junta Electoral abre un expediente a Isabel Díaz Ayuso por lo que dijo sobre Pedro Sánchez",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc3JZbHd0eHgtbUJaeVU4dE9ocXlhQmFGNS1PZENEeldyU2QybWJYTEQyUWl5N0ttNTJKMEExSHpwWHhhN2pHUHdUcVRwMzlLcDlJZmlMWTJFaWtVeEVDeTV3NlNNU1A1LWFEZHVwUEVuVTF2VnhCdVFidURpeUlqVlVjNjJQSk9neWVycEVnX20zOHJnQ21hTXl5UDBNVENZY1RGT2UySF9JeGd3UFZGTXAwN0gtcjg1M2V3WmJUcldPRWw1VGtxeE9DVUxJUXBTRGNfamUydHUteUo0MXJuU2xzQmtyZm1aemJVNkwwRFVCZklWWnh4dGFyTmNXR2hEYjdEadIBkgJBVV95cUxOZ3pfYjh0cnpWVDVpUkJMa1pzRG0ydDlJT0hqZEhNWUZzTXp3azU5b2xtMWFTeHZNdGc0Ym9IVUdjNHJ6UmlsR052QVA5X2N5cnBZSS1ZTXNPUHdDbTlFTE9YNUtmYXpCVDN1Q3RFMDBxNFpReFo2b2hvTHhwWjI3OVY5NnVvWEUzRmNFRUJZVlVuRjJCejBOaVUyMnRFRExUZnE0emE2ejJXVGVsLWxWTkhKOGxBaGhFT3RYNlk1blhsWmhkempvM1N0XzhLVHpxMlljOFJOWWNiaENzYTZoY0tadzMzUmlDdmtIUjFkYVFydWVUeUVGb0J2Q2FmRlo1VHpCb1laVElKNGlBQ1hyaFBR?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:06:52-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "191cd1a5a4",
+   "titulo": "Este es el programa electoral de Feijóo con el PP para las elecciones generales del 29N: todas las medidas y propuestas",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/programa-electoral-feijoo-pp-elecciones-generales-29n-20261126200830-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:05:53-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales 29N",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "40efcb3ad7",
+   "titulo": "El llamamiento de Jordi Évole ante las elecciones generales: \"Lo han dado todo para que caiga este Gobierno, acordaos de ellos al votar el domingo\"",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNejRmeG5oVzFwRFZxZUNYYnNEdjhsYlZ6YzhFejliSmxNWWkxSGgtei03Q2VhXzBhRnVqSmF3aTVycGRQZHVEekptRTI0cUdkaFdJOXladVEtRXBpRzdmOEQtMTg0bzFvdVZZOThlZngwcjgtRC1rQ2hWVDAzM2VON1pRaFczSTdPWnJVQ3MxRWpXWEJZdG15Nm1wMUw3YTI2eExmckF5enRiSzY5dzFpUHZZRFJ5aVNjdWFNZTN4dUU1M2xTdmVwY0p2aXRROHkySmsxbHJMUElxQU1Gc2ZaQnpPOE1Xd3pUT1Z4bFlHWk44RnBwclNVN3ZleE91ODlLblZsVk1jYW8zNDRPRDRydWprOHkwQTZGWWtQMFhkWFY2cDTSAbcCQVVfeXFMUEV6LUdFX2JpbmY3SjFGcUs3RU53TENfRjhaeC1mOWVpY0lsUm92REpoblBBbzNJUzZEWmkxcUJCcHVMYWI1bjNNaHJ1QUpMc01JNklheXJzYWM2LWxhT3BWc0UwQkUxakEyWEhkYnlFTnRiZEJLLTVMUG9kT0g3N0VaT1RwUjBLRHdEb1FpYlpOb3JmeVZ5RDFXNm9VN055c0lzUDJ0VkdIVmFCTi04WFVlR2xjYVYwc1JxazltRjF1eERLdHZNQlRMbkE1N0M5cU5mc1Y5OGw1Zm9BSk1yUW5INkhVRks1X0piT19pNnVISnZNQjRVb0QzdW5rZUNxMzVHNTFlQUQtODhMMXM2UkhFdjEtZFVxWU5IOTNqZTZtWGpGVVJvS2IyMDlNN1JhaEp4T0VBQms?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:04:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "0789c76dca",
+   "titulo": "Núñez exige a Page que explique por qué pide el voto para Sánchez pese al «cupo catalán»",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-exige-page-explique-pide-voto-sanchez-20261126210149-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T17:04:47-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "a05dae692b",
+   "titulo": "Los agricultores europeos amenazan con inundar Bruselas de tractores el 17 de diciembre",
+   "medio": "Agencia EFE",
+   "dominio": "efe.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWm9PblFvS3N1M1lGTWNELUdESV9xeFlZeEtZdkJGeGJwd3dmZTNZbkFqMmJoQ2hWR2xMU3pRRTBrVHN4SzI4Nl9kYzFReE5IMzNLd1NhcHUycjhIekc2MFFaQno2NExkUXJjdXhYdzlKSkEzTXQzMVQzLTMwNGp2MkdIWjlZOG01NW9ZbER0QnRndWdZVWI5ckVpUURBRTRpMHN1aFlQdEcyUHI3M2V3VFlqblZ1WEpwRFB0Wjl5RjR0Zw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:04:36-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:efe.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "243428d8d0",
+   "titulo": "El voto por correo cae un 58% respecto a 2023: casi 1,1 millones de solicitudes para las elecciones del 29-N",
+   "medio": "PozueloIN",
+   "dominio": "pozueloin.es",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbl9NZU5ocEphV2JNSUlxZXBSRUhyUTdDNjlfZ1Z3S2dvWnNZQWpoNkdObDFua2NDUkdzM29GTW5JVmM3QkJJSndGaDFDLTl2YnF2UGRPSHp2NmpfaHRwc3pzVmppRWZnLVdNampZUlRHYTU4TnBYZklOWDhnamdMRHNTVndZUHljVmF5ZS0xLUhNMzZKdldTbFJaTVA5a195cGFOT196VmoyUGtUejdPZmJVZHBZa3Q2aXJUeXdNVERxRW93bko2T2NKWVVIYXZBNUhlRWtSWVVBZzNL?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:03:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "79646ed0cc",
+   "titulo": "Por qué no está Irene Montero en el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau: la decisión de la Junta Electoral",
+   "medio": "Onda Cero",
+   "dominio": "ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONmNqWnpZakJkMzZwTU85dnlDN2ZQOHFJMWF2d0V2UVotbHRXYlRxSExTVEFmazRjZ0s0LWd4UHFBaGljT2dJUnZ3dWs1VmZWQzBZT2N2QkxMdW1XS3oyN0lmQm5MMUtZcDRJeFZuN1FVODB3WGVPTGRCTU11d3dnMjVISmM0UU1QNGYyUFFmWmJqQkZyMTllVXRZOE9ITy14ejhWYjNMZUlrSmE5RGZsc3hDTGotQ290dDM5OXMzR2lPaXpzbmVaLVJ5c1BoLVVSekxvam9CQi1ubDZoN1ZHVGNtcTZKbjBlLWNnX1ZXRW54SFJmYjVaa1hiSFRwSDd0NGxv0gGDAkFVX3lxTE5uVXBZcEk5TE9xZzE1dHgwNkZzeTdGMTVuOHlrc0EzdDRqUlVEN3JScUFOYWVLRUUzWnVzd2Exd2ZBbVUxYnRPWE1ITlprazgzWjlJTDRYRHNpR2s1ZE5LUzR6aGRSeWFzaEx0dVpPWi1YYWc5eWhrc1lpN3dVRlZSZ0ptR09FSXVQM2NuWDFPb0dfUEdFSV9LSFpqUnZ5dng1amZFbWxSeGkwWFloMnRoMkdrVGRDQWhwc0IxQTE2QjdYZnFsamFLYVdWV0JNc2Q0ajNEcjJDQ05OcjBCUzdCdFJRT3FmSEg0Q0VmbWVCT0JkTGhuNExxVWx1dHRlMUZnbms?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:01:45-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central",
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "485c8e88b2",
+   "titulo": "Así es Santiago Abascal: cuántos años tiene, su pareja, hijos, sueldo...",
+   "medio": "Onda Cero",
+   "dominio": "ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOWsxd0QtTHp1bmE5cTA2aFl4SUVpdHdyUlFWUzQ5UGl0S2EzSnQybTN5VE9TSThmN0tUdnB3VGZnTzE5U3hNMXVPbFJYNFZWZW04cFdTeWhvRGQ5ZzhOaFRvbnlPODlYOGFQYmVNRGU5LU5wbXBmZng2ZmtCOEkyVi1BUkhpWUdBLVFwd0ZvdUFRcmlxZm5ENjNJVkpGRTNqb1VrYU9YRXhkMk9waEtEVEVPZHdSSl95VXFuS1g1QlRzUHJxQXd3azNrYU96dmktbVpTanZ3c29RZ9IB2gFBVV95cUxNMWRHcGlnYXB0QlRCMGlVcFJ1UUdJNXRqODRnOG8zSWlVR2xQTkNwMElrVHNTNnlwNVROb1lsQlNMZnJkUzYwdHRYd2JuZFB3dm9UbjFWUTNieUVDVEIwMzVNUFk4eUYwWXJYcl9ncFRhMFpnV0VQZUk5WjBHam1reW5BZkt4dFhSMk5wRkN6RzJYdE1CZ0h3eXNDUHhTdDl1RkJJejhQSDhQVGxQUWJoVGFsWEVEMmZWQUpDSVdwOG1USVI3UHY3S0V5Y096QzRLTnIzemZYbFpfZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T17:00:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Vox Abascal elecciones generales",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "b92b72d0eb",
+   "titulo": "Sánchez, Feijóo, Abascal y Colau llegan al debate a cuatro con sus equipos de confianza",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVldDM1ROOGN5ZzZkS2ozV3FzTnRWdWxNbG9oOHFUQXpjT3JBYUdTOUtuc1hRcGlWb0xxa0hOWDdkc2d4REZoWFplbjV5eTFhaGlLall4Qnd4TUswSzA3c0hhYVNiOG5iQzJ5bU1OU2ItUFBzbV9ISFdMSHozaEg2UmxDTDRyRWNSTXo0dVY1bmVZbDBM0gGaAUFVX3lxTE93N0NKQjdINjNJcVVFa1VWOFItbnNHT0drV1E1MjJhQWFqdU1NLTJzazQ0V2Z3QXBSanRETVplSWF5cWtCU2Y1ZE1YcUotbUUwMDlac0Zod2RrYWJRTlBQSnd1UTlPWEZ0M3RXekg0bUQweFRxdlBrdk9mLUJVcDNGd3JKcERVYjRBZnI1bmtRNGRxQ3U1Z29ReGc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:59:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales",
+    "elecciones generales 29N",
+    "elecciones generales España",
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "fb06a494cc",
+   "titulo": "Abascal llega puntual al debate a cuatro a las 20.20 horas, ataviado con corbata azul marino",
+   "medio": "PressDigital",
+   "dominio": "pressdigital.es",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEpxSmsxM1licjNvVzZOMlFJNlMtVlVJNGw2SnFjQXQwNnRLcVBPbm1Bcl9INnhETzg1T2l5ZFdMTnU3MUNmeG5nZTJFalYzLTlnb25keWp2T3VNVnQtLUI4QmZCR01tOEM0U242SzV4YVZNUEhSR2lCalZPS25TSWs0MjlkaWZ6WDVKd3Q4WjVtWUc1UjM2MGppeXJQeEE4dHYyVmNGYWZOalFzaVNveDQwRmRheUxuY1I0Y0lqektVeDN5MEFXb3BWSEpqQVFVeEJmQ0pidw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:58:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "6403c7c238",
+   "titulo": "ENCUESTA | ¿Quién crees que va a ganar el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau?",
+   "medio": "Elplural.com",
+   "dominio": "elplural.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHd5OXFKdjRQUDlEbGFpVE1ncWV1Q2VoMS05eTA2UVdINjlHdXlfVktFcjZLUjQwQXg1endSY3NwNWc4SENnbl9nRXE0UC1tQlgtYlN4SklxenF0YVVrNXhtUGFWZFV2Y3RxOFdpOTJkVW5XN1l0QmZxMWE2czJyak1jUDlfMG1mQTB5Y2NBajBuMHJZanprR1lzUC1oV2ZYV2tWNkRIb1h3V0ZXV2t2SEE2amQtcmxtZDFhbnhPb2oyc3hsY1dqa9IBzgFBVV95cUxOWjRWWHBoZmV6Y2RnZmdrYnFvcUdDb09fWW1YX0loeC12X2w0cGEyMlEyVjVsN19QUFlQblZ5QzN1eGI5ejFVT2pWOTl5YlFkZHJPWFo0V1p3OWxPQTRqRklwNzZadnY2aGJsSm51NnpjQlNPVWZ3blZjTkhCNkZRdVZNNjFyeVpSdDJoOHAyM3lwZ2pReFBiNzhrLThjMmpYX3Q1UkxtQ3UwT2hwdGphZGw5ZGc1WFVGaGdjR0I4RXVQWkdOV1BaMEotV3c5UQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:55:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "9bfd181e7f",
+   "titulo": "Peregrinaciones extraordinarias del sábado 28 y domingo 29 de noviembre de 2026 - Misas en Directo",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/andalucia/rocio/peregrinaciones-extraordinarias-hermandades-rocio-sabado-domingo-marzo-20260304140418-nts.html",
+   "url_original": null,
+   "fecha": "2026-11-26T16:52:25-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "6a6c80e373",
+   "titulo": "Verificación en directo del debate a cuatro de los principales candidatos para el 29N: datos y contexto de sus afirmaciones",
+   "medio": "Newtral",
+   "dominio": "newtral.es",
+   "url": "https://www.newtral.es/verificacion-directo-debate-a-cuatro-elecciones-29n/20261126/",
+   "url_original": null,
+   "fecha": "2026-11-26T16:52:06-03:00",
+   "fuente_tipo": "chequeo",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "cafc4ae4d0",
+   "titulo": "El creador del anime viral de Lula y Sánchez abandona la animación japonesa para enfrentar a \"dos Feijóos\" con la vivienda: \"Oh, no. ¿En qué me he convertido?\"",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNbno0OFF2Z0pIamJmVXZsdWJOaDhnNmFVZ1EzbFZtNnpXdURLU1M5aDBhZGt2NFFYb3Ita3pqOURELXZVcmRxalBsVzJ3RDhMYkZpb2lTMmFobE1nek80WG41eGVQaDYtUnpweERfc21uRzV5SVo4czBleUdlbFRPcHNmMFJZSkc2V0dyUk1YSXlUNDY0b3pKX0FndWFIRGw0MEVXWDFXZGx0NWZsZHFZYUMxVDhOSGJNbE1SRC04YXRWX0FZcGowcUd3UVJ4RkM4Yi1qNk40RmhZNUQwQzJjbFI2Mkcta0t1VE1SeGxqcGx4Qks5V3BTckppa2hORTRoc0liT2ozVkhvOTF6dHpGYmtFUlpLX3hZZ1UzalA2UXZWSEhIVUlRNjFQb3RzUkh6QjhOMXlCUm1jQzJvQkVCMNIBwAJBVV95cUxNbno0OFF2Z0pIamJmVXZsdWJOaDhnNmFVZ1EzbFZtNnpXdURLU1M5aDBhZGt2NFFYb3Ita3pqOURELXZVcmRxalBsVzJ3RDhMYkZpb2lTMmFobE1nek80WG41eGVQaDYtUnpweERfc21uRzV5SVo4czBleUdlbFRPcHNmMFJZSkc2V0dyUk1YSXlUNDY0b3pKX0FndWFIRGw0MEVXWDFXZGx0NWZsZHFZYUMxVDhOSGJNbE1SRC04YXRWX0FZcGowcUd3UVJ4RkM4Yi1qNk40RmhZNUQwQzJjbFI2Mkcta0t1VE1SeGxqcGx4Qks5V3BTckppa2hORTRoc0liT2ozVkhvOTF6dHpGYmtFUlpLX3hZZ1UzalA2UXZWSEhIVUlRNjFQb3RzUkh6QjhOMXlCUm1jQzJvQkVCMA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:51:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "dab5d31a49",
+   "titulo": "La Junta Electoral ratifica la multa de 1.000 euros a Paco Núñez por pedir el voto antes de la campaña",
+   "medio": "elDiario.es",
+   "dominio": "eldiario.es",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc0U4MHJ2UFE1ZFctVTdSMTlQaGRKdGhZT3pzT1hQdnA1Q3JUQ0UxUUgyWDRZb1JIRkVRVnpmeng3WVdzczdSZjFCOTBVM3JmN1puX0hOb3RBd0RTMEpUa1FxTTJNd3NpeGp3LTdoX0hFRTZqRnREY3ZiVmwwaUJWMm5VOEFRd2dhSnRXVFZ6T04xdFJfTWtQM1BONHVFclloY1JreG40RUpYQTBNVFdKVmFieEpXVW8wbnQ5WGpjWi1qdGVNbV9OTHpiX1Z4LUotMHBsbGgxc9IB3AFBVV95cUxOd0R4T2g0Ulc0Z3pTVkMzdDhRdDMxNWRybHBQTHpadW9NQ0dIZGQ5Y2tlTG5zeVlDanFxSm0tZEd5ZEhCQlYtal9neVA1Z2Y1bmsyTmhtMi1nVmlMSEZSOWFWV29LMnQ4akl6YmcxZ1l6SDlfeFhwbTE1V2tldUQ5X011RTZqaEV1dlFlWDlXS2xjdVJnTTNlWDZ2V19ab3NNOE96emZ0aXdKLUxaWlE3RkJlOUxmOXpsdEZLSWV1N3F2MGVlaHlIR0ZnYlBlTkx2MDBSVlpxc2l2OU9i?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:51:40-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "0f61591ffd",
+   "titulo": "La participación en México sube en el último día de las elecciones españolas",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0dHSE1jd195a3hmbEVJMHZZNkExdXRnLVhCenp2R1oydFc2LTNKQ0V5ZHAtMkt1YkllZjhjVS15d0lDdDJ3ZHJ0Zm1fMzBvZkY0eXZXbHBRSXZ5T2Q0NXVQanUtNG9la2loQTE2V21xRm80dmpXRWVfdVRWOVFoZDhyZjJmNGpmTzFjY0FyTXFmbENXVXRtTUp5dWZXQUMxRkoydE45V3dGM3JiNVhn0gG0AUFVX3lxTE5OeThhcUZGdTNLUUh3QTZTZEhTbU5rcTViRHFER1lTMTNhbkMwMmp5WUZwZ0ZzM2lYWHVUZFNvN09tLTA3QTdYTW40Nmw5VlRUc3lfbnlwblZnWmdWX0FJbi1wczRfcGZGUzM4VldFS2xDYzhxdmxLM0VoVWVnV2VMcnhsUll6am5rM01WQW5PSVd5U2dLYUtSUi1ZSjZPc1FHVm0zd3ZRSkM1MC0zVG85Q1hTcw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:48:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "b29235176f",
+   "titulo": "La JEC recuerda a los medios no difundir sondeos a pie de urna hasta que cierre Canarias",
+   "medio": "Infobae",
+   "dominio": "infobae.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObGtkWEpSdkpiYnc1djlpN2tObVA3VjlaYXZJMUxOM1I4bTFIWWNNSk90WWVQb2tBYUdDWE5HLWFkdDdsTUllRkF3UWhod2lCUTU4Z3JEMVdJcmZ2YTJIbzk4UzRDTWZkaFM5cy0tRlBVTDJQUmIwRE42NjViZUNjcWJObUJqNzcxSWhWWU93NWdJT3pkWHFzRHprU0V0aGMxS3duUVRtcWdWenZYYmt1QkgtQVdNSGphY1RhTkc1WWZOUGN0bWFZUlh3d09jLUNEUHRaTEdyRdIB8gFBVV95cUxNamNkLTZaQUJlTm83Q3E3cUlVa05GR0hybkd3YzU3WmEwXzRkM3MteDN6alRuYWZsRTc5c1dTNzU2V0JxLXkxVTEtNm5QYU13TFZoZTNZcWVWc2pnVGlQM3RBc0d2N25QRWx2NWVibG1ZRWw3Vk90OXNrc3RMc1ZIMllSak9aekhxamFhX1F2M01xNTdra1VBbUNLRDVISV9WRU5VTEJ0bmF5QTk2WHdYUlZlbEd5eHpqZVpJQlNoR1NJYUhzNnppaTBfZWFFeVRlZ0d3ZFpqNEtfTnhsbzZna2pzQ1RaUGU5bjZKYk1ReE1JZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:48:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "844d12c0a6",
+   "titulo": "ERC llama a no entregar la “defensa” de Catalunya al PSC: “No podemos votar a quien administra resignación”",
+   "medio": "La Vanguardia",
+   "dominio": "lavanguardia.com",
+   "url": "https://www.lavanguardia.com/politica/20261126/11694397/erc-llama-entregar-defensa-catalunya-psc-votar-administra-resignacion.html",
+   "url_original": null,
+   "fecha": "2026-11-26T16:46:15-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "a36f7408ec",
+   "titulo": "Rigoberta Bandini (36 años), sobre las elecciones del 29N: “No me gusta dar lecciones a nadie. Estoy saturada",
+   "medio": "Diario AS",
+   "dominio": "as.com",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTzlLRXQydXNTZXkyU3NJQ3UyaWhwajBNOFR2S1E3b1RjMmtEV0NkMVNzTnh4QVUtOU5nSDROa3phZHVXY3JaWjJqb2d2UHZybndqUDNNdl8zbEIxQTdNaEI0LVJIbTBQQmpPNm01YXlMRjNNTUJlQWY4UVZ3UC0xOGUzeHFzSmJHbXUtUEt5TkFkS2NXQ1NCaU9McWE1VXlaQWRsZTF0TEE3d0lWMUlkbTM0YzVxc2lQUjVYU0dJc25BUHU5U2NOQVF1Ym5OVlNtelQ1ZmNNZFIzc3VSbmtwdzFNWE1DZlkyMHVLTk9rZzJzNzluaVNqa9IBjAJBVV95cUxNTWpES0pxd3lwQi0ybGoxUkNMWWZVaEotb04yWVhYNEZmVXNkSnFXX09CbEZaRnVDOTQ0NVQzdnJWTk5xcnh4N1NONmp6VGJwWDgyeHNKVjdhRHhiS0Q1dTV3aTY2SHdXWTVMZkFxUmRPZG5wTEFpRDFjOUpFRDFKZV9vcnRqMEs5MjJiODJ3Q25PaUxTLXU4dDBkR3R6T2pxcF9GdWozWmd0dXJtdWp1LU0wd2hKenU2ck9lZEQ0V2x3TnhhMG1VRnVLUERCa2JZZFJrbTB2Rms5ZFYzOXhWLVA1ajZFVHRIOGZRcEVRUVprVlV4UjRPcnVfQ1dVUGJ5dmhwTEtiRWw5MWE1?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:44:47-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "57918dd81f",
+   "titulo": "EN DIRECTO | Sánchez, Feijóo, Abascal y Colau se juegan la recta final del 29-N en el último gran debate electoral",
+   "medio": "Estrella Digital",
+   "dominio": "estrelladigital.es",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2Y2ZzU0WUxyQlVsNXdiQlY1VzE0MTFvYm9aQnUya0R2VXEtLUNYWHJZLUdvRnBNRmFPTUhoNmFlS25oaUl2X0QtMUtHR0Q1bmI1WFZtZjRXZUhmY2FMYUpuSXpHSVpGbkVwSHNLWk5CcmRvTUg5SVhfNzVHaVREbGlRRFQtekJyb2o5RFdIeGVtdUlQYVZ1QzdlSDhib0tPQ1lYN2hVQjkyaUI0UTFxZXZRc2tmQWpiOHlubTdBN0ZSb1h2SE55ZNIBzgFBVV95cUxQelRaelBaNEhZNVo5RV9LMkV0cnI5QkpHQVE4ZGpjcndQanNHTVQ5QTlpaDN1dHBNQ1N0X1ZqYW03U2RiMUw4RUxzN2pVRnZSa3drSFJUT2RqYnBnb1hlc1B4MlRXZzYtczlfbmREdS1CeFBQU2JFeTE0TkNYUVNZY2ZvZ3hnVkdCVng5VkhkYjhnX1daMzFVMmQyTkYzM2tjQXBycGc0d0V3M0NEQU42UFdSbllHTndIR01sYUJOWEhLMVRPZEJZTWh1eko1dw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:43:38-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "dea9f58cfd",
+   "titulo": "La Junta Electoral Central abre expediente sancionador a Isabel Díaz Ayuso por un vídeo sobre la acampada de Sol con críticas a Pedro Sánchez",
+   "medio": "Heraldo de Aragón",
+   "dominio": "heraldo.es",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMHQ3WXNCbVIwNWlCaVFEUi13WUNibHhuTVRQLU1SdWxCRnlrZzNlckN6RWxpZmJtdmR5RVVzbUpQWHJ5Q25TTUI2MU9lZ253UUlaYmFfWUcySlVLc056WGw2cXJGbWNUeDVGZUd2Y285N2NSUXl4TW1mV2o3MzdoaXpNVlJCdWphQXRqVGs3SWpMVjdhRFZOdUJOaE00OExIUllXVzFrd3RVUVdOdm9IdE5sdThzbHFmcU1idlZ6a3Nzb1pPYllDMW1VTE9ISHJwR0hORThVNi1hR212TWZhdnRNTFhUZ0d5a0lKODNtaThKVzljR3ctOVYzUzYwRXBDYkN1NTQ1WFhjb2Fq0gGMAkFVX3lxTFAwdDdZc0JtUjA1aUJpUURSLXdZQ2JseG5NVFAtTVJ1bEJGeWtnM2VyQ3pFbGlmYm12ZHlFVXNtSlBYcnlDblNNQjYxT2VnbndRSVpiYV9ZRzJKVUtzTnpYbDZxckZtY1R4NUZlR3Zjbzk3Y1JReXhNbWZXajczN2hpek1WUkJ1amFBdGpUazdJakxWN2FEVk51Qk5oTTQ4TEhSWVdXMWt3dFVRV052b0h0Tmx1OHNscWZxTWJ2Vnprc3NvWk9iWUMxbVVMT0hIcnBHSE5FOFU2LWFHbXZNZmF2dE1MWFRnR3lrSUo4M21pOEpXOWNHdy05VjNTNjBFcENiQ3U1NDVYWGNvYWo?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:41:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "7c3b51f117",
+   "titulo": "Feijóo llega segundo a la Academia de Televisión para el debate electoral de esta noche",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0hJYWFoU2NSMjNvVjQyZW5JcXJUU1oxVEFUNFhvT1JTUm04SVAzY1M0cm9tNDlrSXVCS19rZzBsVDhSOWVOOE1Walh1eWlqUUU0Q05kUjVxNW9lVlZEcmR0emt3dlVBUjVEUUE4NzA5QTFZWXBETTIyN1lOclZEX2s3b0hhZ3Fyb1VEMDh1dFpmWkRrTFY2SUtRb0ZORkRHaExFYTB5X0VHdUNtVHkzYk9nd0paeGZxTmJ2RVJwVdIBxAFBVV95cUxNSE1BVkItRjYyX2RpVkt2T3dibjRnZG5VYldWdm5RU0ZOclVKaGdPMHZTTVdDOGdLTDFLOWFtcV9IQ0ROWDJ2Tk9QX0RGRXRmWEJJWWRHTGtuc2Q3YUpnSFA4cWMtNUNOd3Y1X2xHSXUwWmVsTzI0em5sUmkzMDZaeGNRdDMxS0IzejM1VWVydF91aEtELUtCNjgyOXNlMFVOX2F4SEZnVkNGQVh6T0FaN2dMU0c3djkxeU9HcW10eTRFSjBw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:40:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "c36233f53a",
+   "titulo": "La JEC pide abrir expediente sancionador a Ayuso por un vídeo sobre la acampada de Sol con críticas a Sánchez",
+   "medio": "PressDigital",
+   "dominio": "pressdigital.es",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnE0Z0lSU0dBd3doalQ2bmQ3VS1zYmxXRXk5WndqaThqb29LYW9pOU9ta0VBNkZTWlQzT1c2Y2FzS0ZSczU2ei1wV0lGblVzcDc5Y3VYZXlSQ0FLQkhfbkxaaW5UM3ZfNTQ0bDNUNVo4cC10SXJlLXlodGIydXBVNWJNd29IWHBQcEhrMEx3MFNicGZIc1lveWFHMEx1Ujg5bDFYU1F6N3dLTElZWnBaRmFlMTRMaE1oa1JLMGlPR0hHbmxOemI2SEZMR0x6RXd4SUJLZjdRQ1FzSVh1RTVwT1RHZ0w?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:40:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "8376dbf406",
+   "titulo": "Ampliación | La JEC ordena abrir expediente sancionador a Ayuso por su vídeo sobre la acampada de Sol y sus críticas a Sánchez",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdVVmQmNJdF9ybmtWdFdkUXRQNWtja1p6NkdqNmJmWWxNRlpWSGx3SkdSbTh2a1BKTzRZUFNXYWF2ZTRhbVpHeHdIZDFIbDlrNExrMmhqVVlQcy1LeWVob3Awc1MyMzl3cmM5VDJ3VklDdEdIVUpXMzJadGhWOEk2TUlab1Q3X1o5bklvLW1oeXZfNTV0RUJIMmZaRjIxczNUV2N4X0NOZk9VVTJpbm9vSHhVTFdDcGxJWVAwMUl5aG1pbTVTUnJRalVreGNCM21kVmdZMlBTbkxWN2hQeFg2dnFrV0o4U09jSzJIOXNNUzRWUnZiaTlDZVppWVk0RXp5TVBhWDl2eDLSAY4CQVVfeXFMT01PenVfWEVqSjVMeWViNGFpSWRQa1U2R2ZTWHhYX0R1SmFmUk04MnBZS2RKVE05LUoxdjBCTUwtUThpcm9xckh3UmN6RGhzTHNZU3o1eTdIQ0QwNzBxM3JaaXBjTjhYeXZGZjVucVNPblA3dC1GWHFRSHZDMTd4bUpEZ1EwNVhRSGdjcVBxZHRtUVdnek9fbU9Iek4zTlF6b3E3bXN0UnhtZERiQzI3ME9zMlNpTG5PTnZ4WXlaRF92aEhkeEJ4WWo5MFpjWldrakVjbEhzeEItMTJmck94QWdUWElyRTdmWlYtMXBKd0JtQXplLURnZ0NjUVZaRWdpWEN0TXJOaTYzdFgtZVdB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:38:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "42d2a03ff1",
+   "titulo": "Ayuso, expedientada por la Junta Electoral tras acusar a Sánchez de permitir \"ilegalidad, caos, abandono, suciedad, violencia y miseria\" en la acampada de Sol",
+   "medio": "El Constitucional",
+   "dominio": "elconstitucional.es",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQU0JoTGt3ZUV0dkJrN25KOFR5THpZMGNpU0k5UFNSeVhjZmZVQU9pelNBajdVdWY2XzNFTXYtTEMtMmdxdXdaeThmR0FqU1Z4SFpESnI1YmN2LThsZHhFZmhodTMxQXpWWjFwOVB4djlTTm9wbi1qcGhCbDV3RzEtUWhhZC1IVlFkZEdTc2FMSTdXLVp1Y0RYbFJCTFBYdHFaMjAwekRVNHBoZGVOS1hGOWRwWDA0dFp4VmpWRmNyWHlMWnR2a0hBRUhSSUdReEVnOFBCSTAybWpINjl0UW51QXpYSWZnN3htNjZIZ3cxVmNUT1ZVa3pKeGhoaTVtRW1raXdjZVNTV0dwY0pVcExvYThnTTZZdk1vYy1rTnJ3M0R2WjVFN1E?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:38:11-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "c24f6f9556",
+   "titulo": "La Junta Electoral abre un expediente sancionador a Ayuso por su vídeo tras el desalojo de Sol",
+   "medio": "Madridiario",
+   "dominio": "madridiario.es",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb25NWGtURUh3UW1MYkRteWhhaVBrQmdLLVhkc3BTS2x4dWN6ZUtTNDFDYVFCT0lCTXdIWWhhb0JkUnhZTVFBVUk5RWNUSDM2dmJxMnNRWWdyQ2RKUng0dmVGTExDeXlVUFNWMXVKYk1xUWpDWXU3VHd1Mm0wWEtLRjBwb0ZNaWhPVVJUenRIcGZxYXc5eFJBc0Q2ZkpzRWN0OFE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:37:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "a733179d47",
+   "titulo": "Mariang, ante las elecciones del 29N: \"Cuando grito se me escucha y no hay mordaza que calle eso\"",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjhZNUYxa1czajN5RFJ6SFBsd1VYYXp0UmZSMHllRHJzODFiN1Z3N05leHBYY3ZIMmJNUXNzNVFyRXExUXRNOVdEMmRQOG05OWUyem1OVXJMT2ZfZmZRMkhQVm9Tak9jWkpIdkozbTlhWE5QSW40YU1kM3J6ZENEWGRiNXdEZkMtblI1RHBfR2NJeE9wUy0tOGhnejAtXzV2d3N3cC1IeGhHZUU4ekx1Yzh3LWFTVnVwSDBKOXJhRVdFS0lITmczd2lXQkJxUnNPaTBqcm1adXVBWmo2RlRKRFVaX3pNeEUwV3FLWm1GZXJ3UkFu0gH0AUFVX3lxTFBiOFk1RjFrVzNqM3lEUnpIUGx3VVhhenRSZlIweWVEcnM4MWI3Vnc3TmV4cFhjdkgyYk1Rc3M1UXJFcTFRdE05V0QyZFA4bTk5ZTJ6bU5VckxPZl9mZlEySFBWb1NqT2NaSkh2SjNtOWFYTlBJbjRhTWQzcnpkQ0RYZGI1d0RmQy1uUjVEcF9HY0l4T3BTLS04aGd6MC1fNXZ3c3dwLUh4aEdlRTh6THVjOHctYVNWdXBIMEo5cmFFV0VLSUhOZzN3aVdCQnFSc09pMGpybVp1dUFaajZGVEpEVVpfek14RTBXcUtabUZlcndSQW4?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:35:22-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "2cf28ffa91",
+   "titulo": "Elecciones generales 29N, en directo: última hora de los debates y noticias sobre la campaña del PSOE, PP, Vox, Frente Amplio y resto de partidos hoy",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/debate-ocho-elecciones-generales-directo-intervenciones-pp-psoe-vox-20261123164534-di.html",
+   "url_original": null,
+   "fecha": "2026-11-26T16:35:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "010c0ac163",
+   "titulo": "La Junta Electoral abre un expediente a Ayuso por un vídeo contra Sánchez tras el desalojo de la Puerta del Sol",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZkVtRTBSV0J5UU1FelFpSFdVd1VsaFhOY0FBcDFPUGJqX3VOOFYyQ1l5NTh6ek5jTEhvU3F2cDBGVldnVmJVUUpCblFPS1o1OGIxbnJNR0VXU1lrMGRaYUZXM0x5TWdyMjRweklNRkhPS3VwcUlsTTBSTGdIQ0d3a0x1b3lwbjJ5TzQyYzViUHZHcVFiS2pJR3NKRExLNkN1aDcyRWhJaHB5b2dWTTRyamUxalRQWmg0VThkSUt4eXZDMkVrTVBnVE9mR0I0a1JETnF4dVhmX0VTODVWX2ViTTEwVVN6RU9ITUNSUmItcWFBUnI5Q0pyYjdsMWVZTEdEQVp3R0VPV1NKUXIyalo5QnFSSVdiVUdf0gGYAkFVX3lxTFBmRW1FMFJXQnlRTUV6UWlIV1V3VWxoWE5jQUFwMU9QYmpfdU44VjJDWXk1OHp6TmNMSG9TcXZwMEZWV2dWYlVRSkJuUU9LWjU4YjFuck1HRVdTWWswZFphRlczTHlNZ3IyNHB6SU1GSE9LdXBxSWxNMFJMZ0hDR3drTHVveXBuMnlPNDJjNWJQdkdxUWJLaklHc0pETEs2Q3VoNzJFaElocHlvZ1ZNNHJqZTFqVFBaaDRVOGRJS3h5dkMyRWtNUGdUT2ZHQjRrUkROcXh1WGZfRVM4NVZfZWJNMTBVU3pFT0hNQ1JSYi1xYUFScjlDSnJiN2wxZVlMR0RBWndHRU9XU0pRcjJqWjlCcVJJV2JVR18?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:34:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "b59507fc5a",
+   "titulo": "Expertos dicen que la crisis en el órgano electoral mexicano no pone en riesgo los comicios de 2027",
+   "medio": "Agencia EFE",
+   "dominio": "efe.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IWWN6dENRUDhzQjRaN3lvNjBDYnpsVng5eWVKVmF1bHJJOGlqaXcwZWJaSnFBamdCR250dXNDdlQ5a0JBZFpDelFBZzRHV1VuVDZveUN3NS1zZUZZcFlmY1JmYVU5LWFXSG9GSEd3WmowcWJFaENr?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:34:34-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:efe.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "fa30ac545e",
+   "titulo": "Debate electoral 29-N a cuatro, en vídeo",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTVxS3Q2U3hTNlFxTEluV2I0TzV3OEhMY0RKMG5BbktOY3FaWUR4YmZpYmNZSFVHWlhOaHZNcGQwUkI0LVh5bC04YjlBRTVadVRZa2JOOGhtcFdKNktDeGVMRW94b0lWNWhMYS0tdDBfTURqakFpYTljSC05Q21paXBpNlYtbmx2SVlSR2pKS3VZYXEtXzBsbDQ1ZGltMlhJdUFVdtIBuAFBVV95cUxOTVB6LV9PSE4tRFNqQm9BUVNidWpydy1feHdxNE9FZVdoYmlQS19OX25wSEJkUWVFblExc3Uwbl8yWHVBZEVXczFqWkNwMFV5RWpmRFlJUkt4OV9DVDZlQldOVDBYZUtNS1ZDQll5Qm1tdkt6SG42dG9pSHEyWElpWTZLQm8xRy1vUTVzbERFQUc4bi1iZWllZnNEWFVBT1N2eU5fUktaU1diZVVLYVJjdmx6NEloSDhM?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:31:10-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "debate electoral elecciones generales",
+    "elecciones generales 29N",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "fc058ef67d",
+   "titulo": "Alberto Nuñez Feijóo, ante su segunda oportunidad para \"el cambio\" el 29N",
+   "medio": "Onda Cero",
+   "dominio": "ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdm9jS0pUc21zWnlBV2tiZWo2cVQ1dkdQVGVwZzVveldPLWIzQk1TM0hoZTVJRGZsVWpSTDFNUVpWUGZmakU4eTljZnBUb2tPZzA2WFFVUVpjR3VINnplMXZ2YlpQWW1CVWlfMzZhWHNrS0QzYk1TaG9jTWRGWTF6cVFZZndQcnVXdGo4QWhkclBkblR1OUZJSEFxS2NUQmxveGhpWVFSSUlIRG1FRFVSanpEN0JLSV95T2VUWjBBX3NmZTdLLWNQYVNCX3hKUGvSAc8BQVVfeXFMTTlWOC0wcG1lS2FLd1BIc1R5QU9NS3hNWXhCbjBRS0d3UG5wbHhDNV92d3BjNWJ5ZmF3VXZtbGxfMWVzRkp4c0liekRmSmZxVmx3NGtjaVhiMUlRVjlKejZHdFV2Q1Y4OXF5UE92QzJVNEpKNXItZENJcjdIX2FZczBORmlMRV9TSzBIZTdCX3h1c3lYNWdyLU52UE1FQUI1b0YwMDR6d0xTOWc0ZXdmTXc1MzdXSWIzZllKZVQtODU3VVRRYWc3eDczel83c3Fr?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:30:13-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "f8f4f4c748",
+   "titulo": "Cuatro grandes retos de Canarias ante las elecciones del 29N: qué soluciones proponen los partidos",
+   "medio": "elDiario.es",
+   "dominio": "eldiario.es",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd29KdUdTdjY5V29YTjZ0NGhYVkdzbEJlUmpnRlVCOF9OdWxkZVlkWERCdzdCaDFNcmpLTDVwQmo3UVdzTERVNzRxcVJ1UWh0LXNyd3ZRVFUySGU2VW5ad293QUtYeVU5MzgzbmlNZ2FiNFFTNWtjeUUxYmlCcEU2dEk0VmtCY2pWLTZYNkhxekpNOTlYOHVkWVlkamQ1eTR2c2pWN3Nfbno0TlFyRnhpcDNzM2JoMnkxalh6WHdESmdsS1JWZXdfbm1UVkpReUQ2QXfSAdcBQVVfeXFMTkVSZWV0YjFrNXhmZjVNT1R4WkdHSWF3ZTd4SzBhR2lUeVhHUzVzWXUyRWRKOV9ERjFjM2RLLVJscDhrTmJyRjBORzZGdkc3YVZHX0VlWVJ5d1FmTDVsVDhrUE5fa2lQS2RpLVZPVWZmY1JfVjNQR1pjVGNGQWdNU0UtUjRleXNIOXhqQ2ExVnJtQXhXVUc4b2pENF9yb2cyYjJLTEg5b1k0ZWVNYjlUQzRUVk9ra1ZSdWtGWUJRdkd2RmE0M2JJM191WE1IaWdPVFlLTWRuems?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:30:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "74965e486d",
+   "titulo": "La JEC sanciona a Ayuso por su vídeo contra Sánchez tras el desalojo de Sol",
+   "medio": "Deia",
+   "dominio": "deia.eus",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFN1eHhaM1F5UUNyRnFEZ0dSYldNbkpWc01wR1kwVUhyNy1uaGZqdUtwSEpiMFVjWGphNng1MHRsWEFiR2p2cDh1RnUyVjJkODhnNnFqWlBJVnpaNFdhNFk1bTBNVkRaUE5POWVLU2FHYU4zZDRPT2twVHFqZGN0Mzk4V3Y2RGdnbGRRVDN6bk5PX3QwNEHSAZYBQVVfeXFMT0xTdXh4WjNReVFDckZxRGdHUmJXTW5KVnNNcEdZMFVIcjctbmhmanVLcEhKYjBVY1hqYTZ4NTB0bFhBYkdqdnA4dUZ1MlYyZDg4ZzZxalpQSVZ6WjRXYTRZNW0wTVZEWlBOTzllS1NhR2FOM2Q0T09rcFRxamRjdDM5OFd2NkRnZ2xkUVQzem5OT190MDRB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:26:20-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "86c78cbfd0",
+   "titulo": "Debate electoral a cuatro, en directo | Última hora de Sánchez, Feijóo, Abascal y Colau antes del 29N",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlZpSWoxajJSOHkwd2lCNG9aaklFcXhLZ0JMOU9WSTVTUGZEMEJPR1k5ZmlqbUI2WEdHYWJMbmNzMGFoWXRBYWEwbTZ4d0x3YWJIZzEzcDVJX2kxdWdQU0dJeFFLUFZ1US01elhYTUxPVmRqUmtMOEdnek9fMUsyNmZlend5TTZXVGNldDMtZDcybDIyLXJCTS00NnQtWW5HbGZSM19EbXk5ZUpGUG1MQkhJRzRSWVM4bmfSAb8BQVVfeXFMTWpJS0EyX2JZalFGTS1XR09FZm9WQXVQWTNOQVBRc3lOSXVzY3pCM0VlQ3RZTE15QlltM09DYnYwTWJXV3BOMi1VbVJFVWhpMnptQk9GZ0E5NE1RMjBORXY0Rmg2N2J1WVRXcGxjMlpPV1lmT2xYMDVLQ0QyVzZicWNwRk5PeEJXNmpsV3VvOExmWTVPR1FRVFlLMTVxM1lyN3pabC1DLVJna19BS3ZUeG5nRHB2a0c1V1gxcDdKSzQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:26:18-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales",
+    "elecciones generales 29N",
+    "elecciones generales España",
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "c6b4d3764a",
+   "titulo": "La Junta Electoral abre expediente sancionador a Ayuso por un vídeo sobre la acampada de Sol con críticas a Sánchez",
+   "medio": "El Correo",
+   "dominio": "elcorreo.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRlB6cXg5M2plQm83NEkyMVJhb05yTE4tY2hlX0V4X3dESTFTbzh0dzdFOE1WNDBQa2JZMFFYX3Y2V1ZxNHNXQldUMlh5Vm50amo4blg4Z2ZqbW14aUwtbUhvRjFCRFRfaVlPWmxWckM4R3FJQVNWZzNFNF9mYXNUbUhJSUlJcGNGdTh3WVd5SVdJQ1FrNDEtSHpOR0hqS2Z4NHp2V2dGOERDQi0tRkRVNnB30gG3AUFVX3lxTE9pXzFUYW03UC0ybUhIRGFZR1R1UnNheTlkUmRWQl9jXzFTaURRcmNqTWVEaE04WW5pNWpZMXRLSFF1NVZ4TGtucEs4LVpSTU1BN255cEVncnJFcUtjQ0oteTJYMTBzRE4zVmZhYUxPVmd5Z3Q4STgxWF9PSVd5eGlYdXMyeDJZekZBRzJYU0lZZ0RmWFo1VnpYUi1SV2NHNzZTWGxIeUw0OEdxdDJ2NzVZaGp4a3k2VQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:25:29-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "9e185e7f44",
+   "titulo": "Españoles residentes en La Paz votan en el último día de las elecciones generales en el exterior",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdVp5T3NCWGVhMXRramh0VlZXYkIyTzJ0a1JaczhmX0ZVZEtrYkZIQ1hwQV9EWUFpS1RVaXRpLTdyVGhMOHdBbksyUDRraDRXS0I3bm8zR2hVRHpBclpiSnN6MVZmdXhNNGFsaERMSnExbk5tc0NsUWRnUFo0bkx1Z1lOTF93U0E1UWc1RGFFeDc3aVVjSXdUWXFMOXJReGlpdXJIRGtIUHPSAa4BQVVfeXFMUEFqd0ZmSU9BVTMwY0wtMHpVZ3RUR01CYmxqUnM4Wkp0a3N1M2pXdDVyejNLM1dnSWlULTlqRXpuRkJqTXZHeGhxdDNhdE1kZW5sNDc2UmNFZ1EyUHZMTUh2UThPN3hnZVFLMFlrTXBxamR4RDhlWkgtN0FORXN2a3lNb0NQU2ZZZWxJX2VoMjQxb0FzYjB6UHZyaUFRY1BaQ3lDV2lJUU5rWGJYWEtn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:21:55-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "c766fccb62",
+   "titulo": "La Junta Electoral abre un expediente sancionador a Ayuso por atacar a Sánchez en un vídeo institucional",
+   "medio": "El Nacional.cat",
+   "dominio": "elnacional.cat",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTBFb08yWTA3ZXpUZjlFQWpHOE9fVnQ2UHNaeVBmMElySlJNOUZEZ1BLQlBNcGE2eC1GbDI4TzEyd01BS0pzOGNMTTFyUjNQc1ZSdVk5LVVvZklVTXc3emdKWF9rb013bHRQTHBkWWtlMlF2WkY5VG5FaGw3VnlMUGQtcEFsYWtaOHMyOGpRQnptcjR5Nk1OeGtCcDZOSjRMeUlYMjdPWmgzWDQzVHF3VERQOVlrWHBac2cxTHhjV3ViSUgtd3JpV3dMRFdRZ09COWF5bkFmX0N0aUVuSFBmMw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:20:31-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "53f08b983c",
+   "titulo": "Las medidas de Vox para la vivienda: propuestas de su programa electoral para las elecciones generales 29N en España",
+   "medio": "ABC",
+   "dominio": "abc.es",
+   "url": "https://www.abc.es/espana/medidas-vox-vivienda-propuestas-programa-electoral-elecciones-20261126201824-nt.html",
+   "url_original": null,
+   "fecha": "2026-11-26T16:18:49-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Vox Abascal elecciones generales",
+    "elecciones generales 29N",
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
   {
    "id": "8e1dfae2f3",
    "titulo": "Granana: 787.255 granadinos están llamados a votar el 29N, entre ellos 25.747 jóvenes que lo harán por primera vez, con un dispositivo de seguridad de 2.505 agentes",
@@ -46,7 +1276,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "campaña electoral Sánchez Feijóo"
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
    "origen": "otros"
@@ -65,6 +1296,38 @@
     "Junta Electoral Central"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "6ff9b24ae1",
+   "titulo": "La Junta Electoral abre expediente a Ayuso por un vídeo institucional con críticas a Sánchez",
+   "medio": "El Confidencial",
+   "dominio": "elconfidencial.com",
+   "url": "https://www.elconfidencial.com/espana/2026-11-26/jec-rechaza-expediente-yolanda-diaz-1tps_4473716/",
+   "url_original": null,
+   "fecha": "2026-11-26T16:14:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "646ab45d60",
+   "titulo": "- Boletín Oficial del Estado",
+   "medio": "Boletín Oficial del Estado (BOE)",
+   "dominio": "boe.es",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Da3dta2FieG9kZjBUdVJYa2Q5M1VuSGpraU44em41Q2VOV3l0VkFIMXJicDl3M3NIalAycmVnZ3VNQy1oMFFxRTFpc3hDMkZUck1GdWFB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:13:23-03:00",
+   "fuente_tipo": "oficial",
+   "lista_seria": true,
+   "busquedas": [
+    "site:boe.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "espana_europa"
   },
   {
@@ -111,11 +1374,31 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "Vox Abascal elecciones generales",
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales",
     "elecciones generales 29N",
+    "elecciones generales España",
     "resultados elecciones generales"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "5745eae1d6",
+   "titulo": "El único debate de Feijóo, Sánchez, Abascal y Colau, en directo",
+   "medio": "Canal Sur",
+   "dominio": "canalsur.es",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb19rWmN6aGF6aGZ6N1lVbzNhMlVtMnFnc3ozQjh1cklYM3hEaXY4dUQzTHBkT3hLN3N0V2J1NkNndHFqRTVNNmgwR2YwY1dmWE4xZXFLNDBFSmx4UEF2c0hWSGlSdlRuRmMwbFJZVEYxbkFVQzBEaWFHVG96LUpwZTJ3dEN4VDJpNTVBNW8teXpYMHRVUVFtQUd0YmNXWGFjRW5EVUtVTVFLUzB4dG5ZYWFvdW9sT2QyQ3kta19ZNEJaWmpRR0YybF9SdFNmdm55?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:10:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
   },
   {
    "id": "10cb1b1ac6",
@@ -144,10 +1427,28 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "debate electoral elecciones generales",
     "elecciones generales 29N",
+    "elecciones generales España",
     "resultados elecciones generales"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "fc9b6f9886",
+   "titulo": "Aznar interviene en un mitin en Valencia",
+   "medio": "Europa Press",
+   "dominio": "fotos.europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxSzFBRzQxMC1ybjZQdm9DYXVsdG5VLVBYYXJBV3VtUjRDaE51S254S2g0bmluZHFEdmlGYm9ZbnktS3Zva0ZDUWhYSEQ5cERHeVlBMURiTDZidmVvUW5tcml5SQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T16:03:47-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "espana_europa"
   },
   {
@@ -225,7 +1526,8 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
-    "Junta Electoral Central"
+    "Junta Electoral Central",
+    "elecciones generales España"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
    "origen": "espana_europa"
@@ -313,6 +1615,22 @@
    "origen": "otros"
   },
   {
+   "id": "54535553ba",
+   "titulo": "Debate a cuatro por las elecciones generales del 29N, en directo",
+   "medio": "Diario Público",
+   "dominio": "publico.es",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUxyZFI1d2g3bUlLNjdGMWowU1lsWE5IRnAxendfa1lMSWpNajd3U0F2RU1ER29VQ0c3WndGeHFFQlVhakRKbWdTM0hvZTNtLVdtdGE4TWdLaGxRQjdaLWt2VlZaVE0xM1dQTjdUUlc5UDltd1lKSlZuWVZhZUtiaVEteWs0bFBvSDJn0gGQAUFVX3lxTE5zVTJtamRzbFlzUmI2dHRHaHJTNmRISExESXhKSUEyWC1KemIxZm5JV0JMOXhLVktoQUtjV0RfM2t3cmh3NDZxYk42M1pCMk9CdUNqcEVTVV84TVJVRVhBRkw5MVgxb2t5a0tTLTlXMjJtR01VREdIU2FmQmtTQ3BPQ1RSUnB2Mmd2UGY0ZjNtRg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:57:35-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales 29N"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "6fea9848a3",
    "titulo": "Las propuestas de Ada Colau y el Frente Amplio para la agricultura y la ganadería en España: medidas de su programa electoral para las elecciones generales",
    "medio": "ABC",
@@ -324,6 +1642,38 @@
    "lista_seria": true,
    "busquedas": [],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "c7766b09fe",
+   "titulo": "Casi 1.1 millones de solicitudes de voto por correo en España a días de las elecciones",
+   "medio": "Cadena 3 Argentina",
+   "dominio": "cadena3.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1UzdFpYODZaTlpFQ0FwTGU0WU1IbEJCQXkwVy1Hc2hnQm9jTEdXRGhqeXFJLTk1bWRXNVNFdk90VDlxOVNJNEZPOFlOdjFuRGNDVmxQVzJqdVFUY21SN3ZtX0VQWjhKVFFrTmtxdFl3ZGZtNk1vdzhVUExqNFUxVE5USzhRUTBGREEwVm01OFU4RnN4NHBtZ0dzU0FsVU52ZTYtNlQ5OE83MnJWSjRCVHJFeXFiOW9XSGVkekZmVlBBcnRUckVmbUdn0gHPAUFVX3lxTFBUWHlGSEd2WkNNeWI5SndzOVpEWXBtZkV6TWlfYUZJOEotNmI2UFRXV0VzTUdYdW42bWUzNW1Ua2FadEVDaEg0bXVLUVFRb3VIaE5aQkFtcVFTaUxVNi1PcFJ3Z1hqSGhoNFJYWmQyYkZzaklPT25vTF9yU0FXTWNOYlRJVkhOTnMwNnRxWlpHLWkxRzZlTTBkcG5rSklvQnY1Y1BhRlRVeXo1anlJSWVmUU1TT0dJcWVvRHJndGZRME52QWJIamV3c0kyM1hXOA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:55:32-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "962b10c852",
+   "titulo": "Carlos Peguer, de 'La Pija y la Quinqui', sobre su entrevista a Pedro Sánchez: \"No la repetiríamos; nos han insultado desde que la hicimos\"",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPYW5ya1dYVkJpYktZaEVJSlpzbXFGd19sS3dqM3lyaERsMGU0SnMzZ2pxWDFHWjBBTW5JcVM5SnZTSU1kMVhZOWp0ZEMtX01sNV9NUHdFWUNaNTBlanRDVjBxMU1haENtNFc0TExkcEF5VmdHRW1KQ2hvUzhJTWVjS1NNcXlHRExjS05jVDFFQ1FOdFZVSVJ2UXJlc01IZmtmLWxwZGRrb2RlM0NlQ0h6OHgtbkNLTHBZaG9TS2RsQ0hINmFrRUJXVnh1VllNbzRJWjRHTUlGOGloN1Z3Vm16S0o3RFlVakdHaDBGYmF5cnBDNGFwcHBncC1rb2F3RV82ZTJRRFBLclhaUkw2dDJLOXdKMNIBpwJBVV95cUxNMlNuSmJwOEUwalRsRHhXNG44RFhlOThGWllibVUzZnhFeW11Qm00NjAwUHNaM1B2OVVCMHFNMVNoRUkwVE1iMmdIM25CQ0NselltZE0yM1BpUnNISTNXS0hrbHYyRmVBbjRGcmNZNktDMFM2SzU1Ny0wd3NfMDAwOFVyQUk3WjByMzBfY0tmUDVjSWw2dk96Z2hUSFVBdnBRM2N1aFpPbjBmeXRrWXZZUlRSa2gwYnM0ZjdlNGpRVDQwdlZORWQ0bG50U0FzWVZXekZTVFNoemMxc3dLOEFjbDI5TktrcS1NSm5qYzZyYldCTGNkc1lHdkU5Ni11WnhKNEJxMWtIWmtEWVAwaUcxNVF4alNjYzBuX1EycnNTTGV1TEJLZUtj?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:53:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "espana_europa"
   },
   {
@@ -375,6 +1725,22 @@
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "c3a83e793a",
+   "titulo": "Sánchez, Feijóo, Abascal y Colau cierran la campaña con debate televisado",
+   "medio": "El Zonda",
+   "dominio": "diarioelzondasj.com.ar",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3N6bTJ5Yk5HYTI1X2pXczZpVTdxNEpVNy1RUTBVNXA5d0xycFFuNHhvQ0VBMlY1TGxxNnJYdmVhbi1IRjRsYUN6Nm1oUElNNkJzcl9wZ2tJR1NVbTJXdFlNMGtEX243QlJpeFdQZjZ1UEZWSWRZWE9MRXBqWWYtVGM2eEktRUFmajdGNkxTU1VKMklSeldRdnhTZ1Zaa3JwTWVvVnpJWThNSTM4djNSaUdjX0VrWkM2S3Q4WQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:49:27-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -491,6 +1857,22 @@
    "origen": "otros"
   },
   {
+   "id": "73d15afa28",
+   "titulo": "Elecciones 2026: qué pasa con mi voto si no voy a votar",
+   "medio": "El Economista",
+   "dominio": "eleconomista.es",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVF9uOEF0ZWxCX0VFZjRLWndJOGJxRGh4TTNEM2xQc3o5TGhabFJYeTZxb2Vub3BHZG9GU1VqbnZFQk1Vd0VDT0RWWktDdVExa1RVbDd4TzFtUGVEMzNwMlJkbmVyU3pMYTlKU2JGcDQtaFh6dTZTY3FrTGtJZk1BZmRpeDFITldUbmY5eDVJTzBlSjRhZ2RVazhtTThCQkNtUnN0am1YVWZQVzRfaGZJSUpGYU5seHpJU0ROMm9ISQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:44:07-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "d144f90f84",
    "titulo": "El líder golpista de Guinea-Bissau aplaza dos años las elecciones de diciembre por dificultades técnicas",
    "medio": "Europa Press",
@@ -505,6 +1887,22 @@
    ],
    "visto": "2026-11-26T16:26:19-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "e337724341",
+   "titulo": "Última hora de la campaña electoral del 29N (26/11/26)",
+   "medio": "La 7",
+   "dominio": "la7tv.es",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckc3NGIyOVg2SlJrX3lXaUN1NXo1eDNKeVNkLVQtYlBLOTJJTzRtMjRxR0wtcFV5ZEw2Vjl4d0NTdUFDNm9ZQ0ZrS1JyRnI4TEtnaG5IN1IzX3lEalhjdFJRMFVZX1RtbXBibVk5VThGVE9sX0xFVjNXZ3V3WG9aYWQ1elFManhlelkzbTNVVlpKRUlkTUJiQmwzNU5OT2R6eVUyVdIBpAFBVV95cUxOckc3NGIyOVg2SlJrX3lXaUN1NXo1eDNKeVNkLVQtYlBLOTJJTzRtMjRxR0wtcFV5ZEw2Vjl4d0NTdUFDNm9ZQ0ZrS1JyRnI4TEtnaG5IN1IzX3lEalhjdFJRMFVZX1RtbXBibVk5VThGVE9sX0xFVjNXZ3V3WG9aYWQ1elFManhlelkzbTNVVlpKRUlkTUJiQmwzNU5OT2R6eVUyVQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:37:50-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
   },
   {
    "id": "2217b806d0",
@@ -554,6 +1952,22 @@
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "7bbc09cf7f",
+   "titulo": "Las casas de apuestas pagan casi el triple por la victoria de Sánchez que por la de Feijóo a 3 días de las ...",
+   "medio": "OkDiario",
+   "dominio": "okdiario.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzgtWFEyVHJxM0ZtWXlXd3FhcVZvRkNZSEoxTmh1Wl9YTEtBa1RaUVR2UGExRng0S2N5MEE2aGtlRFdZc0swUFJpY3ZGTVdZWVJXQW1rZWktUDN4Rms2WElab3FFN3k1Y09KcnV6VUtRUWJxdy05ckIxTFhscmRuZmludWEzQVJFdzVpMm5leEdnWUZkSUFsbjgzN1k0SnQzbEtWTHpRWVNEM1FxbXNha195RlpSZ9IBuwFBVV95cUxQOGVkZWx0TmpiaUpvUGt1NUlwaVNuR2R1Z0h3bXMzcWZ5TjJqZjlZb0pDVHpOcHpQV1dUd21vOWdjcXAzS1RsWUNWXzhrdUxjUXY4QTJnZUIySnJYVEdjZHlQVVhhZnBqaE1VNVlBSUdoZDA5WnF6NTRnbWc1bGZlM3FEQzg0cGNpX1ctTmc1OWhUeTFaT2FnT00zRW5xcE9wS1o5eDk2MzdTdTN6cTFMRHg3ZmlCbnJKTnNV?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:32:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -648,6 +2062,22 @@
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "b16b38a784",
+   "titulo": "Qué ocurre si una persona vota por correo pero fallece antes de las elecciones",
+   "medio": "Las Provincias",
+   "dominio": "lasprovincias.es",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGFhcFNkZl85cDdVTGJobm5Idlo0ZWNkeER2dmNoV1hPb0xPTG92MVVaUFRuUVNCQ3Y4YnUwQ1FWcjhzbjJoakZMcXNBcTFDdjFFMUcyN3dtRGJSNEtZTVliOEtoU3dhenZDRi1pWlJxUlplTmpjZWtpU190OWFtUTB0aGdDMll5NksyNGYzN0lpUTZjTkhUemVfY19JUDlVUGhDaVJudnc2d9IBrwFBVV95cUxNQ2ZyRTVSbzNyYl9MREF4bEt0N2pZN1pnZ1A3QUR0ak1BSFo4SkUtdXZIYk1wV205N2FEa2FPa2NDSWdqaUtUSFpqMUxtazhfcTVoZVVodHpONklISjBvd043WjNNeDZxdUcxQ1AtZVJBTm51NkVIc0hxZmwtWDJKTklHa3UyTDJPXzk1VDladi1Kdnk3Vl9IM0NEYnJabENkM2tzR3kwdmxQd1VWUENz?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:19:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -813,6 +2243,22 @@
    "origen": "otros"
   },
   {
+   "id": "70247840dd",
+   "titulo": "El Supremo mantiene el veto electoral a 11.283 nacionalizados",
+   "medio": "La Tribuna de Ciudad Real",
+   "dominio": "latribunadeciudadreal.es",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON1VvNklCZUd6VVlTQUg0QWJHT2xlMFA0YkNBMUpKNXlCbzVZM3RnQjJPSnFsaDZGNTVIbEowS1cyaU43MUloalhqU05UaDRXS0VmQWRTRXZvcFh5dnJXOHBoMktkRi1OUkJxY3pyVFhtZkRXZUNaaFdnSDY3QnFBc215WW83MWF1aXE2WFV4WnB1STN3SEFMTkczM2o4TmpTdzkzU19PU1VWcEhyQWtBRXBtWFE2Vkl2aGdPTjYwMlBHajJ3VVRaVE1fNlhTSmlmNDFfMXhWNVBPMnJ1MzRZMk1xWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T15:01:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "366be40f1d",
    "titulo": "Ver en directo el debate a cuatro entre Sánchez (PSOE), Feijóo (PP), Abascal (Vox) y Colau (FA) para las elecciones del 29N",
    "medio": "LaSexta",
@@ -890,7 +2336,8 @@
    "busquedas": [
     "Vox Abascal elecciones generales",
     "campaña electoral Sánchez Feijóo",
-    "debate electoral elecciones generales"
+    "debate electoral elecciones generales",
+    "elecciones generales España"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
    "origen": "espana_europa"
@@ -1033,6 +2480,22 @@
    "origen": "otros"
   },
   {
+   "id": "10eaed45e3",
+   "titulo": "Cádiz desplegará 3.503 agentes para custodiar las elecciones generales del 29 de noviembre",
+   "medio": "Cadiznoticias",
+   "dominio": "cadiznoticias.es",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHdsY0oxMTU2akt1c2kzc2U2UkN5aHg0YXl1dVVVMHNrX3UwTkVMMEJQb05oWVdBc3FiVjRZSjI0aGtmazhPQ1ByWl81X3FLU09xekVnR3hfMGgtTWlhaW41MVJGN2JrNnVuMDR1UFBodnZ3dGcyeW9UTFVkU0xLQkxTdVVMc0RzRzFBT0YzRXZnc2hMZUZNREFjRHdJMHUwc3U5OVZIUlNEbThudmQteTl1Y1VaR28?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T14:41:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "a04c5f4210",
    "titulo": "La candidata de Vox por Huesca se lía con la política energética del partido: \"Plantas... ¿cómo se llama eso?\"",
    "medio": "LaSexta",
@@ -1076,7 +2539,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "elecciones generales 29N"
+    "elecciones generales 29N",
+    "elecciones generales España"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
    "origen": "otros"
@@ -1205,6 +2669,23 @@
     "campaña electoral Sánchez Feijóo"
    ],
    "visto": "2026-11-26T16:26:19-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "aa6b13468b",
+   "titulo": "Sánchez, Feijóo, Abascal y Colau protagonizan esta noche el último debate electoral del 29N",
+   "medio": "Onda Capital",
+   "dominio": "ondacapital.es",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzlpT2RGZDNpZ2lvMjJENGNmTWd6cFFlNC05WkVzWVI5dktjVmdiRXc1TXowdFdlaXZfNWtNMmY4dVN2ZGlaVEwzSi1pWWdHMlJ4YlJHYVFZc2N3cDVydjc2NWwxalNHUW1qMEVzSDV0SWY2Q2puOWRrbHlQMHNRSm9jMk9RemN6cUV6VEVjazk1czBiV0ZHUy1FY0x6M3Nvc0I2M3ZfNmtSNmZGcGtIalpZWTljaDlseVhQXw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T14:26:18-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo",
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -1588,7 +3069,9 @@
    "fecha": "2026-11-26T14:00:26-03:00",
    "fuente_tipo": "medio",
    "lista_seria": true,
-   "busquedas": [],
+   "busquedas": [
+    "Vox Abascal elecciones generales"
+   ],
    "visto": "2026-11-26T14:26:23-03:00",
    "origen": "espana_europa"
   },
@@ -1753,6 +3236,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "9ed9681cd9",
+   "titulo": "Administración Electoral. Junta Electoral Central.",
+   "medio": "Junta Electoral Central",
+   "dominio": "juntaelectoralcentral.es",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQekFoR3BOY2hqakVJejMzalFtZEg1NTN4M2lhankzb28tUDFLSk1FZ3ZrWWY0RG5WcTF6VVF2MXM4bndzX2hucEx2T05ZMmE1c3JKVHBxSFlPTGhJdVlfWE1XNEQweGFCei1SRnJfVnU1RHltR2dRRzZaUmxtek5Wbm9hN0pfdlZrUzN3c1JyYjJUcDdXWndkcnc1TEZQbU1MNTJmRkZOWm90aXF5NXloWE1fMGo3RlI2OGhYX1dzTTBkTGxaUV9tZDJBYWhmMW5mcUdjcDZDQWFfVDlVN3JzU2Iya0pfQ0RxNksyX1Y0TXplRzUxMXA2eGtka3c0QQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T13:50:28-03:00",
+   "fuente_tipo": "oficial",
+   "lista_seria": true,
+   "busquedas": [
+    "site:juntaelectoralcentral.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "f65f847a10",
    "titulo": "Sánchez no bailó \"Bailaré sobre tu tumba\" en el mitin de Córdoba",
    "medio": "Agencia EFE",
@@ -1835,6 +3334,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "4f659e2251",
+   "titulo": "El Supremo ratifica que 163.000 personas acogidas a la ley de nietos no podrán votar el 29N",
+   "medio": "MARCA",
+   "dominio": "amp.marca.com",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWlOOVc3RHJEeUhuanotSEFVOU81Y0tWZUFna2prcEJvaUVJRERsdFFWdU5wMmU1U0pqdm5GemQ2U28tYkRMc3M4NlE2QjVfcFhrUHlNOFJRd2FkemhCTFJqSzRFc2MzSi1GWHRhUUZnZWk1YU9nLWhYTkJ3V1Myc0lNcnFOVnRNblFDVnlmdWFDRW5jV0RxQW1oZzN1cEVaOXdiY3lfY0ZJekNzYktBT08yTHBKU2VPd1UxMzdYQklxZGxtQVhNbGtnSUVOMFNKT1NRT09STjVUdlczbHc4LWNDMNIB4wFBVV95cUxNTWlOOVc3RHJEeUhuanotSEFVOU81Y0tWZUFna2prcEJvaUVJRERsdFFWdU5wMmU1U0pqdm5GemQ2U28tYkRMc3M4NlE2QjVfcFhrUHlNOFJRd2FkemhCTFJqSzRFc2MzSi1GWHRhUUZnZWk1YU9nLWhYTkJ3V1Myc0lNcnFOVnRNblFDVnlmdWFDRW5jV0RxQW1oZzN1cEVaOXdiY3lfY0ZJekNzYktBT08yTHBKU2VPd1UxMzdYQklxZGxtQVhNbGtnSUVOMFNKT1NRT09STjVUdlczbHc4LWNDMA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T13:44:56-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
   },
   {
    "id": "74a93a2b38",
@@ -2331,7 +3846,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "elecciones generales 29N"
+    "elecciones generales 29N",
+    "resultados elecciones generales"
    ],
    "visto": "2026-11-26T14:26:23-03:00",
    "origen": "otros"
@@ -2384,6 +3900,22 @@
    ],
    "visto": "2026-11-26T14:26:23-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "5469883e36",
+   "titulo": "Cómo funciona el debate a cuatro del 29N: orden de intervención, bloques, tiempos y minuto de oro",
+   "medio": "Artículo 14",
+   "dominio": "articulo14.es",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSUdudjlRckpMMmhkdFpXWFNncTB0THJiNU9EdHZUVGtSVmQzZUVWMXpURDd5LVhoUmxEWUwtZjFCRk15ZGYtUjMxMk84SzNEM3o0M1h0d3BFRS03ckhXLVNiUVB2Z2ZmUkZoLVRNZUg2UnRnSk1HT0hRRDNZbHg1QS1EREdMNzg4elVyRVczR2ZHNU9xbXpobDRJNExYbXp1eUVhekNhbWxNV1dKYVRpZ0g3NWtZYWY5c2thX0VMY3M5bjBUQ0d3TUtxWHZWUmFaY0NFMENIQk5uTW92a1FqdGRqblQtUkwwd2drQ2tLbGlVYnVZdzMw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T13:05:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
   },
   {
    "id": "359eee416b",
@@ -2547,6 +4079,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "c059420a20",
+   "titulo": "Jorge Javier Vázquez, a Pedro Sánchez, sobre el debate con Feijóo: «Entre estar en silencio y tocar la trompeta hay un termino medio»",
+   "medio": "Las Provincias",
+   "dominio": "lasprovincias.es",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUzYxYmZIQmpHRlJwZ3V3c05KbjBGaGJwN091WmJqWTlvd1MwbU5feHpKN25leVBMX3lVeENVUDZwUmZhaHFwNUE0QUwxMnBYSk04SDJJZ2Q4SnpkVFpFV2lhcWpFWFBXMkZCQWdmamNxcU9rcUtKazNLd0t6NmJqY1VfckQxS0U5ZnNBSEZ3NzhCdGR5VDFLc3JQWmhNSWs2bVphQWUxVHVJYnA50gGyAUFVX3lxTE1oX1VjcURUUWR3TXJDY3RJcVhNME1fOUlmYngyendqOTBXeFRQeUp2aXljY1RySVMzTUpvZHNuUjI1azJxYkZGRWRVcExIenk4Q29nWC1HYnYwUnVydUg1c2lDRXNxc2tmTVo0YnZVRXRieHVZaW5pOTZVTHp0cGg3NmVNdFRkLTd0NEJLMzAyVFpIaC04YnlCcW5oUm96S0tnZU5OclRKTHhJQkFvdWNtS3c?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T12:55:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "9ca872c863",
    "titulo": "La app y la web para seguir en directo los resultados de las elecciones generales del 29N",
    "medio": "GranadaDigital",
@@ -2609,6 +4157,22 @@
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T14:26:23-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "423083bcb9",
+   "titulo": "Elecciones generales 2026 | Desde médicos hasta periodistas: los trabajadores que pueden no acudir a la mesa electoral aunque les hayan convocado para ser presidente, vocal o suplente",
+   "medio": "El Economista",
+   "dominio": "eleconomista.es",
+   "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTGJEX05WcUd4N256UTR6Q2k5NURYcHJkOFhyYzNOMzViNWpTM1MyVUN6dlZuV3BUT0tNQmVPRUk3cFVzN2JiVkxjWWp0ZkhnREpOTURuQlpqTXdDT3V5anBPVUZQNk9HTFd3anZmTWVuTG9GcGExSHE5d0dRQVdWZVRLRnZBNDZfMTJSQ19wYjRtZlF4bmh1ZkdZMTBpbEdua2h2SVhMN0gtZ2V6bkZWaXN3UzNHU3MxT2otUzB5U05WdzhESjNMVTZsd2VGM29CZ2N4OGZ4dXRVSlZ6QkNoQVJ6MUNkX0puYno5b2NZSWU0cGFYaDlVM0RyVlBxc3pBb1NjRHdRMkNnMnVBNXd1RElyYlItWkNPV2NEelVYR2xiUjlSZW5YNGg2dlYzNm04d1hvajNyWC1Fb1dtV1FYbzAxbEtQZmF6eEl4QU1ydUx0djFPbnpvY1h3dklBamI4cTB5aS1n0gHQAkFVX3lxTE5NdUZFckM1RmwyZl9KZjJkbmM5bkg3b2dRZl9QM3QtUzI2SlZWNVFkaU10UEUyZGU1Y0l1NUEzcXhlZEcwVm1hbGdFdXJuLXA4TnQ3cmlSVk1SSEpCYWhNVk43bEliS2xVM0otaWVHZzZ6T0U2NXB6V2FKZERndU9Jbk5zNDI0b0dxMmtndElUcmx1R1dWLWZka3VjVjZ2R0h5UF9hUlFLTUN4Qk9ubjRtUkVmbUZldUM1cEZWd0hfb0xLQW1sMUdGN3l1ckJ3elM3cFdCSkEzc3EzYXh0VHB1ajVxT05UM2kwTEFSUERHVnlCc05SV19DQXJDRDZld3I2eWNFXzdJQUd4MDl3NGRzemZQM1dwam9wQkFkdXdETGQtUkd1OWl0M29KVVpSckctdWRNdklZUG45NlhhR3FfTDBBVVJ5WE9GWW9CRklVYQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T12:47:49-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "Junta Electoral Central"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -2753,6 +4317,22 @@
    ],
    "visto": "2026-11-26T14:26:23-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "4f7cda5928",
+   "titulo": "El operativo para las elecciones generales en La Rioja supera las 7.000 personas",
+   "medio": "Cadena SER",
+   "dominio": "cadenaser.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9heU50c295LVk3MW51NkJnTXhxOFprM1lMUkQ0SjhhbzdLekg3d1VNZUJiQ1dEZjZhdERQZk1mdEFtaGNidlpWTWhiSFYxS1pjdUhIWg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T12:33:17-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:cadenaser.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "69783c34b7",
@@ -3191,6 +4771,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "75201b203f",
+   "titulo": "Elecciones en España: El voto femenino indeciso se convierte en una clave para la victoria",
+   "medio": "RFI",
+   "dominio": "rfi.fr",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzI1TlpmdFZsNmlnd0Z1OVQ1Z0tYa01GbHlOVkNoVXkwTEJQMGdHTktKMlVMLU5CcW5sZm5Rc25hTkltLWZpaVRVUDBNMkNIRDkwZWRwY3gzTjh1TV9PaW9Eb2RXY2ZsLWMzNFJoS1JMOFMxVW5OWmdyRTZHalVmbzk5R3oweWl2WTdlNTFoN005Yk1BcHNXdEI5cUVsTlRhSlJHR0hBZFYtLUdUbmlpeTdIWExaVTNxSHBuMW5RNndXZDRPTnlJMzF6WFg?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T11:47:46-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "elecciones generales España"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "d504abf71d",
    "titulo": "El Supremo defiende que no ha ampliado el número de afectados por el voto suspendido por la 'ley de nietos'",
    "medio": "Europa Press",
@@ -3330,6 +4926,7 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
+    "Vox Abascal elecciones generales",
     "elecciones generales España"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -3436,6 +5033,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "f50542e588",
+   "titulo": "Edmundo González anuncia su regreso a Venezuela para la próxima semana",
+   "medio": "Agencia EFE",
+   "dominio": "efe.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tLTZQUVF6bUN1SFRMa1FhWjBfQVdoMnE3bW1oVGdqRmFEZnlRMWxGaVoyeWxMRXBLY1psZlFTM0NmUDZSU3F2cmZaQ0hScWdrLWxDRlMtbWJUTVlVZkJQRUJvQnQtbjBiZkFzc2NPOXhhY1I2aXBz?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T11:25:29-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:efe.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "73c32f376c",
@@ -3688,11 +5301,11 @@
    "origen": "espana_europa"
   },
   {
-   "id": "3db4e63207",
+   "id": "224b3355ec",
    "titulo": "El examen sorpresa de Jorge Javier a Pedro Sánchez: no sabe cómo se llama la hija de Jesulín y se descarta para ‘Supervivientes’",
    "medio": "El País",
    "dominio": "elpais.com",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOM2JoME1KNkVkWFF5NEJGbkdWUjd4NFlEb3drby1CVUtmdGF0ZzBuamZ0LUZzMFdsbTRla3lteF9fNmk0d251SGtVVFBiYnBnNnNFd3ZjOE5XaWowcDRhNmttSGFtZkktQXdnNHFxSm4yU0NTWnRoWWRxN2RmUHJHVGt4N1hPbFd1SFdYM25KaGpJaUtRT2Y0SFJUNnpaV2N6X1BjUVFLMFozUHdxbUh4STFhUTZ4eFY4UWhrWlZzeHlPU1dTc080TGdZcXhwX0ZUZ2dVRWszM3EzUE81dHBMTHhfUUNXRk1KUWZUUXlId2VXbmtGOXlCLTdGQUVIUkZfSHd2MGhBZVduNndnX2FfWllwOXRrWUnSAasCQVVfeXFMTUI5SUwwX2V3SzNBVXZpSllnUlVXdXZ4MkF5QzBKOTdmSTlESlNSZEFOZi1wM255djZlZndaeUVlcW9Va0l1U3R4UHZWY0Eyb0szZUtnOFgwal9aczVsRG1feGtfempIdnRmbGtNelFORUNHUTRpb0twcXhRdnpmcXZhdXZVQkNUcGtkZ2poVm5Tb0h1U3RXOVZ4MUw3UWt5QTA1UVFOcVVIR0cyd08tZ0ppVkVzelZFZ0pxTDRoTGlrM2ZLMGg4TE90UHVzQ08tRmtSc2FQa3VoVE1HRGc5bWJfaWlDaF9xYmpHbEpybFhzbl9EajVCejBKcUp2T3Y1c0JFekJ1TTVEckpCZFdrQUV6a09oSTI0ZmM5RjY2MFdGa1JSdVdXZzRqRmM?oc=5",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/el-examen-sorpresa-de-jorge-javier-a-pedro-sanchez-no-sabe-como-se-llama-la-hija-de-jesulin-y-se-descarta-para-supervivientes.html",
    "url_original": null,
    "fecha": "2026-11-26T11:10:34-03:00",
    "fuente_tipo": "medio",
@@ -3912,6 +5525,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "4162ba8673",
+   "titulo": "Terminado el plazo, han pedido el voto por correo 1.099.687 personas, un 58% menos que en 2023",
+   "medio": "Telemadrid",
+   "dominio": "telemadrid.es",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcW9FNHlZR0o4VVRRRjctUTNTVXl6a1ZNczZNQXIyRFhPSDFGaG0tSkZNLWppY1hPZFVYUDV4U3RZcjkwODJSeWMtRC1qcDhJNWY0TURpOUpfS041dUpHOC1HRjhPcWI3MENTcEJnZ3dGV3JqLXZVaTgxSHc3SlhMZmRQLUliSWNoU1JoQjVFTUFBUm1p0gGaAUFVX3lxTE5WNFhOYU5idEZYMC1EaTQ3WnNwTXZkSWF5QnlMcHhBMEM4OEZFbU5EMWk2QmlBdkxsRnF5WVVxTzVKV09NY0NwX0lUcGs5VVl0N1Q2TkQ4QTQyVDJ0WmVWVGNtY1YzbWJ5bDZ1WV9HVVVQVWpFUGVQNkJpdjRPdkNhc3JuMlhnZnJOTmtBUWdfOUMzNGNWNXZqdHc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:57:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "voto por correo elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "f840804075",
    "titulo": "Las mejores anécdotas de Sánchez y Feijóo en sus entrevistas con el youtuber Plex",
    "medio": "Diario de Sevilla",
@@ -3925,6 +5554,22 @@
     "campaña electoral Sánchez Feijóo"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "2b8f0b2cb0",
+   "titulo": "Sánchez dice que será \"convincente\" pero \"educado\" en el debate electoral a cuatro de este jueves",
+   "medio": "Noticias de Gipuzkoa",
+   "dominio": "noticiasdegipuzkoa.eus",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVJrYnZSTTVGcUVjX1pOR0Vjekl0aVp6bUpRelNSTnZTRGd0Zndick5NQzZ3WHJLSE9uNHBmQ0t0RE1ON0xNS1JDYnN5U1BQRThrMnhRS28wQzNFa2JnU2dDWHBCdVNjczV5aWtnMDRZbmZJLVZjVGF3UDl1RWFtQXpWdENWek12VWN4YkFsNUx6c21VMDJGeG5FNVQwUkZrUzNSam1RSTkxd9IBrwFBVV95cUxQNTRESkNxbmpoM0F2YTlxR0xCOTU0c2diNGtMeXpieWVqcDBHek96dmpqM0hsYUcyUGlUdHJnRXY0aXJaSzhNT1dHR0JlbGtraV9OamFoT2ZCTGlyeEI4Wkh4NlNvcE1JZWJwdERNVjVwVGp6M0hGeDR1Z0twTzY0MWwxZlhnbmoxMUhrLXNJN3g4SmdWSWRPZzJrSTFmeDZyZFRfZjhIQXBXVEcwNEY4?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:56:33-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -3994,6 +5639,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "0c267a80fc",
+   "titulo": "Hora y dónde ver el debate a cuatro desde Canarias en directo: Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau",
+   "medio": "Canarias7",
+   "dominio": "canarias7.es",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVlOMjRfQU83MEU3Y0VmSTluM3ktV2V2TVBsTmp5a3FydV9KdkhJRWhldVdUbFAtdFFOREJySV9hX0pXb3FmdHFVWElZTlhmQzhHeG9YN0tTTHhSRkVFMzFUV2NGNjRiRUhsbndwbzFHRXRQX0t3b2NNcEdJUFdjY2k0a0FockVxeFVfeUc1Z1pqdm9YV2tuMC1DV3pod29UQnhCdWF6WGhCOFd6cHBJYUxsZ0jSAboBQVVfeXFMTzBzMFBlMzhxRDRxTUkyNmRPTmlDM1dGVlBaemIzX0k0YnYxSWpPd3pmbFhxc29Qb0RFOERWeVdOTkZBbmJRc2JKWFktcEdYTGlRcmMzc0x0dFlsWmRMQmxlQlJKVnpqbHNVNlRZaHVyQzBrU2hzcnRnSmJDSXlkUnpnN0pQT2hwcGtDM2lrMFpyeU5Bekl6eWhQMFVVek84MVBaV0dQS201YzZfSmRpaTBMQjZCczJKV3hn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T10:50:58-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "debate electoral elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
   },
   {
    "id": "a20822b7b0",
@@ -4248,6 +5909,7 @@
    "lista_seria": true,
    "busquedas": [
     "Junta Electoral Central",
+    "debate electoral elecciones generales",
     "elecciones generales España"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
@@ -5398,7 +7060,8 @@
    "fuente_tipo": "medio",
    "lista_seria": true,
    "busquedas": [
-    "site:cadenaser.com"
+    "site:cadenaser.com",
+    "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
@@ -6694,6 +8357,22 @@
     "voto por correo elecciones generales"
    ],
    "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "73a13fecbd",
+   "titulo": "Quién es Plex, el youtuber que ha entrevistado a Sánchez y Feijóo y es pareja de Aitana",
+   "medio": "Onda Cero",
+   "dominio": "ondacero.es",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUUptUDBqMkV1Q0lxTEF4RzdRWnV4d21GdnVyZmdSamsyeWRyZ2NSNngtM3pCc2VtajExaThveXpNU3g2WG1mYzNmZXI0MXVkNDJUWFVpbEdFNzdhVURDRXpnU3pvWWV2aU15OGxXenVieS16N2RJMWRwY0I4S1hqQkRRbUNVRjVaT0ZXc2hib3QzcFFTaWVIOEpfODQwRjBDUmFrb0dyZ0ExRm42dGJrRG5KQ3ZFbVZNbDJYMEtucXRRbXdYQ3plUTBTa0NaUjNvNzIxNmJLNmFBbHVXbF9RMWFR0gHiAUFVX3lxTE1qeTRlbXdzUHZsSjZ3UFhCOEZNTUgzTjVoYzREQndWMkZZek9VVkNKQWdncnN6Nm5Sc3VGUDZnWHY0RjBYUk81SjQyYjRGakNaSE9HUlpWdWlaQVNLNUFmdWZzcjBTS21QUnJFRlBSclJGZGVRNVg0MVljaWY1UnVqR3hlV3gtcVJmdTlsQzhjaFFYcVBBWWlsLTJVWUNHbkVpRW5TS3JBR1UxQUxRSHdXMmtWR3VTYkpCaVRoQ0RsZWpSN3E0NDU2Y3hUeW5hWDUxTDQ2b0NtYWNHbk5RdVM4aEE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T08:43:48-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "campaña electoral Sánchez Feijóo"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -8275,6 +9954,22 @@
    ],
    "visto": "2026-11-26T14:26:23-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "1bf968761b",
+   "titulo": "La Reina Letizia recibe en audiencia a la Selección Nacional de Balonmano en Silla de Ruedas",
+   "medio": "Europa Press",
+   "dominio": "fotos.europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZURodjRPWWU0bmg5S242bWcwTVR4N3RuYzNKT2xNb3A1dHY4WHZmaTBtLXN4Y0MwVTRkaVU4NHNaOVJGVmVrOGlYd096aFZXc0g4WWpGS1RsLUM3R2hxaDZOYw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-26T06:47:57-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "1a431cbf9c",
@@ -11035,6 +12730,7 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
+    "campaña electoral Sánchez Feijóo",
     "debate electoral elecciones generales"
    ],
    "visto": "2026-11-26T14:26:23-03:00",
@@ -14692,6 +16388,22 @@
    "origen": "otros"
   },
   {
+   "id": "b1adde24f7",
+   "titulo": "¿Quién gana en Barbate? Resultados de las elecciones del 29N",
+   "medio": "Demócrata",
+   "dominio": "democrata.es",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUdtcU5XcG9DM2NtMzdGRk43T2tWczhjQ2tQeTc5WTFZeXdvOFN0NjZkU0hWV2Zmdl9sRVJySDhOQlRlbzBCSzZyNWhjbVlSdy1qX2hNaXhpeWxQN01nR2dwVjdRYW1VTlc3NkI3dFJzTENGZWNVTE9mbUtMa2VEVWdmMTFoQ2tuVGRBUGlZTjlhczF1bHc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T15:13:37-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "5e1aee1136",
    "titulo": "UGT FICA Palencia logra el pleno y obtiene los 5 delegados en las elecciones sindicales de Palpan Palencia",
    "medio": "Cadena SER",
@@ -15464,6 +17176,22 @@
    "origen": "otros"
   },
   {
+   "id": "2af9dc5fc5",
+   "titulo": "El Principáu somete a información pública'l decretu que va ameyorar los complementos salariales universitarios",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWmVMZWhxR1JrdHoycU9FWWpGaEk5YTk3VzZUbWN2RXlfdEJtUzBkTWEwOE9OYTltdUE0U18yMWctRXBXOGd6S1I2a3A2bDFyVlV1OFJPUUdMWVNhNm1sOWp1X2RUUUZjY0NMWXhMMklWMVdBYjZfRDBmRi1OcTJPWXV2MEtfRUtaMHZDQVhqVVg3Q3NnZGFMODBROVBZbW1rS1Z5cTNEMlB6TV9MbW50ZDQzZ1R6Tldodk5NLXQzWUZwLTdPUGgxTmFNcENuR2VXaTYyQjRJRmM4SE1yTUZUQUVoYXdndFFHX19jRmVHTzNZNnM?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T12:36:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "10a0961fe8",
    "titulo": "Andalucía ante el 29N: 60 escaños en juego que son clave para el cambio o la continuidad",
    "medio": "La Opinión de Málaga",
@@ -16065,6 +17793,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "9bf1034425",
+   "titulo": "Fundación Unicaja presenta el libro 'La catedral revelada. Pequeñas historias del primer templo de Málaga'",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeV9BSGREZmlDWXBHR1kxN1FmNTNnRFhBY0dIc2tYd250LVp1QnBWRERVNmtMRGdGWndnYXBtdnZ2V0NFc2NSRG5oZlprZ0hfZjg2S0UtemxrYmhvZ3BiOW5kMndzZW9meFVXZVZFZjlTSHZZdFNuUmV2X28zV0lpZTVsU3ZqNGN1TmN4aWtWRDF1OVZMdFRXUFRIYTlsaFFVcnk5ZnNXeUdYX2U0emZGNExyTEt5bm82RlFOMHdKR1VLSlRNZkxKU05OcFpoa2J5bjcyR2xkcU11WFhNWWlFYWMtemhfUU00X3p4WkI2c2pkNHJydGFHM0MxQWo3NGZ0bjRZd0ZHNlRJTlE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:40:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "ecc429f2a9",
    "titulo": "Las candidatas del PSOE por Huesca creen que en estas elecciones peligra seguir combatiendo la violencia machista",
    "medio": "Europa Press",
@@ -16127,6 +17871,22 @@
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "espana_europa"
+  },
+  {
+   "id": "198b826691",
+   "titulo": "Quién gana las elecciones en España 2026, según la última encuesta publicada el 23 de noviembre 2026",
+   "medio": "El Destape",
+   "dominio": "eldestapeweb.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2lnNVV3RWNkRThYVFBNNmdwM0hrTnc3S2xoRDF1bTVEcGpRT2pUdXhNbVkzUjVMWF9IaHF1dUtEemQ5SXk0SUZ6Mlo1MEtZYk9rU21wOWJtS2ROZ3dWUDNpeEp1aVZlejRuanBqVGpNSVFEMlFWRTdSVnR2RnhoRkRxV2E4NDR3OWZfYmFZNGJXTml2LXFSX0lvNnpkNklWVGp2YkhaRTU2eFg2ZzNUVjVhQTB6akJ3OGNiNHFNYWZaYkVjR3lYSmNmMm5oLWlxdkJZ0gHnAUFVX3lxTFBLRUx6Qkp1TldXWkJmdTRvaVk0ZXpZdkNPYmVGTGF6c25iQlNCWUMwZl9oMHVvRU10OU9TdDg5UElYZDJkbUV2NXpRZWNkNU0yMFp3QVBVS2diako1aFpEbjZRRS03UTJuRi1VYVBtSGV3TlgydlliblJkQ2VyNkN0THVXOC1TbkpmRURRZ0FfSFA0TDBUN1IyN05kcjRiYVNoZ1htOVNraUU1VVdwbHk0VXNBUkhWNm5YRHBjemlRV3lBcjUzSFhsWWhBZWx4c29fM2toVTBnYThyY3B6ZXZVZk9SNUJpMA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T10:31:40-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "encuesta elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
   },
   {
    "id": "8cbbd23f78",
@@ -17053,6 +18813,22 @@
    "origen": "otros"
   },
   {
+   "id": "cbc9d3e379",
+   "titulo": "\"La lucha contra la violencia hacia las mujeres es cosa de todos y en todas partes\". Por FEDEPE",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY19ubkJLS0RRb1NMSW9IcDl1dEl2RVBZYWw2OTRsOWM3bDduY1E0Ti1HUzV6WTQ4TExqY1BHWFdlMFI3clZXcEExWUZsaXh0eEQ4RXljS1NmTjZhQ2tFb1pwLUxfTTQwQXVaY3hfSDYzTWRPanhocWw4aURqbnF5QTV4M1d2LUNlTDY1NTVkM3dLa2I5akJJa1g5STk5dHF1TGFTcWYzOWlyTFhmSXE4eTZUZzdxd21sa0FVRDloMjZxRGNFX2VBZVJNRERibEoxRExESDdB?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T08:36:51-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "6308fcbe64",
    "titulo": "Últimas horas para votar por correo en las elecciones generales del 29N",
    "medio": "Europa Press",
@@ -17791,6 +19567,38 @@
     "site:europapress.es"
    ],
    "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "ffcc86b501",
+   "titulo": "El destino 'Jaén, paraíso interior' completa acciones promocionales en Viena y da a conocer sus atractivos turísticos",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQY2U0MDU1Zk13TWxrTUdpVW4wN0laQnlWZ3ZIUEJWSWtidzJId2o1X2NqN1NibGQ0NzN6NWFDZW0xZ2hpWnJ2TFZzTEVURTc4Z1dHdXh3Z0dNSEM5eEJhd0piMW1WZTFFRl9va1Vka0p5QVBSZjhRbW5ucE1CNjBFNGota1RsanNvc1pqTmduNlhNTVVPTXNkZS1hU0xxSHhNN1RUbXhvTFlKRklxOWtuejQ2NHBwTUcwRk5yME9GTzNuMk4zYWJacmlfQWE4dFJBaUY4NkU0c1BQV0d1VkduaUFycjUtUlZvYlAwNG5YdVFjdUVZa1BOTHFFWmQ0TFA4UDgyOWZMMUVnMks3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:42:26-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "c2148e832b",
+   "titulo": "El sector de los componentes de la UE pide una Ley de Aceleración Industrial más específica y ambiciosa",
+   "medio": "Europa Press",
+   "dominio": "europapress.es",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVVpyMG93OTVIQ3hRQUptSE9td1hIWEZBSVNIY1lTLWhoT0RwNG9CSTRsQ2tGeThPQi1kQWdLcHdMa2JmMmNJZ005NVFJU0lPUW94SGxUODFKZlRXMVVCMkVGU3pENm44UWI1TWNyUF9VbDY4bzNyVTAyR3JEaDQzWU1kZndxN1U5Z1pORjRza1ZvLW1xbTVFcjdTYVJfbVB5c0U3Zzg5R3lFcGhkMXIzdEhHNzBKeVJ3S1NhTHlSLVo4Yjl3MmtZVVcwNUFvbFBwTl9KUHNsdXFYYlp2TF9rTW9jZEo4WGc?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-25T06:34:54-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:europapress.es"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "espana_europa"
   },
   {
@@ -19209,6 +21017,438 @@
    "origen": "otros"
   },
   {
+   "id": "165cc87ade",
+   "titulo": "Resultados elecciones generales 2026 en Sant Josep de sa Talaia (29N)",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXJmRUZVOFhrc0lzTUNyajBudzdtZEtSZW5tRHMwelBXQVQ4WGMtOGNGU3J6RFNkS0tZd0ZnNUFIdzYzcjFtLWR3SVBfQmNpa2E2U2x0WEgxdVY3UXB5OXdSeXhrdnJoVGc4Ync2R3V6NmNDejRIOGtOeGN3ZDdjLUNvZWN2QlN3a01iVEt4N21nb0VSMFVBNDcxNWd4Y0to?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "a793d39867",
+   "titulo": "Resultados elecciones generales 2026 en San Pedro del Pinatar (29N)",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmZ1Tm9OLWVfLXNwTVA3QVZSQy1HaWw3ZzBhOUVDZjNnU1p1RHlQSUZWOG52TXhhSmRhZEQ1VU1hWFZMNFdIRV9CVGw5YndGTXZjXzgwRzdBNmJGMWF6MDJRODFjM2N2aHpqSHNITE93aktkd3dqSExaY2RDSUJmUGtxOUoweHAxWjBzSkNTcng3X2J3cnVJSXE0Yw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "f7c93aba9e",
+   "titulo": "Resultados elecciones generales 2026 en Valdepeñas: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU3IyNHpBQ1VPNUltT0NBRUx5N1ZkVFVnam1KVGJmeS03UjhWRU5RUkQ3MzgxeEYxZko2VkswcGFDWXh3UEVsVGh0UHJ3SkRuampuV1V5d2o3RWU1ZEdIVnFacURQVE9vd0ljSEZfMGN1cTUzcjQ2N3RMX2J2M1o4SGpzTG81aHpJSFljNFhpQnNOdVcxaDVGSktMTHlrVTRrbU5vUm5CYkg3UlZo?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "f604aa08c8",
+   "titulo": "Resultados elecciones generales 2026 en Ourense: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVWlZSEcyQVBSV2tJVG5fMFNKWXpjblRqOUhlRTVuMGpDQVFxVlA4VDJaSm1EWHhZSlU1ekFhMmJneE1WaDQwNjBWd3N2MWJUYW1GeHpZUmxxbGg4MS0zSnYtREhaZnR4bENpS09rMElMeHNRYWI3TDhGUi1heW9DcWN2S2NFU2w5bi00RzJtVnFoakJo?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "66ad0acaf1",
+   "titulo": "Resultados elecciones generales 2026 en Ondara: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanI2TkxQWnNoYndIeE9Ld2tMbmJSbjFtRm5VbENXUm1ibWJJelBEX2JJUzNQMENMNHVzS1N1U0xRMGZyQjBCTU5BNjhkVEpUX05fZ0ZMQzMtWkIwemloSXNsc0RySndYem1qZnBFVUxtNWc2VU41U3lTN3hYdWVXdEU2bHUyWDh1b3pwSXZTMjFsa2xMZEJXR040QnRwdUN1WUZwdHBn?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "3a08e69fd7",
+   "titulo": "Resultados elecciones generales 2026 en Reinosa: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGN5Y3lCcUVybERGVjlRT3lEaTRuLVpUUlp3UjhLdEE2Um1HWk9YQmlUd19sNno0VXBfbmdDMF95cm9jM19FN1E2MEs4YjhCUWJ3ODJvczhKa3NKQlBRQ1dmalJKN0QzM3RFYy1rVENaN0VqbEFVdXhNVWxZYTUySkpBNHdHZHFGVlJKOQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "afb985b03f",
+   "titulo": "Resultados elecciones generales 2026 en Sant Pere de Ribes (29N)",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTg2cHVxOUVIbGdwelpkTFJkdzVoTmRCb3JPWUpITmpDd1c5cG9PaFotemUxTmZ1a2M3N2JsZUcxcDlMSlhPNFBMLVhVcG1TWjVraURCZWpqc1lKYzZMRlZscTBUaXJZazFMdzkwcDk1SksxRmJILUdjVEM4QWFjOVhvWWpjcUNsTlU0UE1BdnZ4NXJfeGpjUlVPcVpnWkpRSTdGbjdDWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "adcf21ff87",
+   "titulo": "Resultados elecciones generales 2026 en Sant Celoni: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0ZmbmlZNi1UUEdPNTZrTHlOcS12Ty0yVEI3amhob29sTXRLWEhOWmFNWlBKUDg5RXdiZXlFYmFtNHNvd2p1V01ya0xRcWJrUktNMEhYOG5ydEZsVWgtNUQ0aE5aT3NPdjJqNnNhbEE1aUJoYzVFWENYTkoweUdHWDhYTGk5Y0k5ZjdpbmlWM1NaX2ZEVldnMTZWQmNBZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "0b0e354081",
+   "titulo": "Resultados elecciones generales 2026 en Constantí: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTm1DVmFCTlZkTTdUV29QdC1tbm9jakhfd3VRQ1NFc2NVeTJLeDhPWHJScGlHVndJTXpkUkNqdlk1OVRLMnM3WDBxVnQ2enIza2w4T1Z6cTkzemxoWUJoLU55N3ZpdmZQQ0ZFeV83S1ZWRWxCR3FYNnVkdGRPSlFFLWpYeHRCMHJhcUo5ZGxqNVd5RlZyaTlTZHBWWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "45b509fd09",
+   "titulo": "Resultados elecciones generales 2026 en Narón: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeHN6dER1alk5N0tPOUJBcGdud0tYNlVpeFl4VDhTTDhyMUxoc1FNNTY1LWo0eldzSkxzNlBmVk95WUpCeURKRmVHWTZMM0RfUzI0TTRZeFoxVEpZbXVpYmJLWGh6N3pSNmZSMkhGWkp3Zkt1OUdsbHljRTZ5OFpfSVJzMk1iWklZSWZvbUlPLUlyMzQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "b9b7c4f522",
+   "titulo": "Resultados elecciones generales 2026 en Sariegos: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWQwMWJjbWJjR0JycFZzOTlibHpOa1dVNzIxeVJMbTlGcHBnN2JSMHFfYm13V0FCQ1J4RnB2bHVJWmI2UUZJZUtMNExHOVhIRWVmSTVBcEhlTGJSRXFiQXVwV0pjVEtkMFdPN3Vkc3NIaWpfOGFZRnZhbERpQ25yMTdvcldYZklwYkJPZ0s2cDU2TFE0S29laWp1QkE?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "24d36b4254",
+   "titulo": "Resultados elecciones generales 2026 en Celrà: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFBKbDAxMGkzSDVCcEVYeHlDNnZwOU16bGRySTRydk02eGhURVFzdXNKcVhJUjhORDZjV1BJZ3hHblJiS1laRWNpQms1QVllaGxwdjFZdzBkLWVCT3NUZ2pTRFFkZjc0Mm9TeWJ3WnRBVndNcXlUTGpNQ1FvVm40SXYzSjJBSUFuU1VYTk8waHNjUQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "0cc5f3c32d",
+   "titulo": "Resultados elecciones generales 2026 en L'Eliana: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWxqTks4ekxsbjZvZ094SE9YUkk1NHIyYkptcHBST0N6WU85WWVhR09fbHZTSjF1aTdhclFqanYzM0lKVFVRWHhXemlfaml1bDdDMTJVNVZhUXRxQXhkdUQzZzA2RV96bUtmZHNvNHA5UlV6NWplcmFyNXIwdlRfRkRnWGhpdW1OVjNpU3lVWGhxMDNSZFA0NzFmT3BWZHZhY0RLeDdseTk?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "751a013d96",
+   "titulo": "Resultados elecciones generales 2026 en Tarancón: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHVVT18xakU1MlVwblZYb3A5WGpQLTl3ZThLT3lfRG9XeGN1Mmo5Snl5YmQyeVRHUmNpSThEc0lDRWw3b3FkWEtZbDYyMWNLRkNzVWxhT1gzWGx1MGVkU1RRTHM5c2NILUFHUElEQWFGdmZuMEs1SFAwYU5FUmZXaW1zQjlZQmlDdzBISkpvZ0UwclJaaGhIT09kU1FDUlVjS1dv?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "57aec5baed",
+   "titulo": "Resultados elecciones generales 2026 en Arévalo: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMllST3pERjhKQWRwX1B6M2FBYVFwUVhhQWROVzFsZk5GWEJhcGFFdE0zb19raGV0YmRsZlZDbGV5aTBRMDRzc2ttOGNPeFFabW5ObmpPMEYxUWNqNTd2LWhHUm14OEFpU283cGZRUkx0aWwzNnRUY3VXbWlHR2RIN1RSU3ZUWVI2dnlqMGJVRHZYNXZvLXNOZVdmYjU?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "48105228bb",
+   "titulo": "Resultados elecciones generales 2026 en Madridejos: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFROT3pMbEppcDNZV0ViaF8yVmJyUVBmOHR6MVVmdEk5NFhXYnctZHhtcDJyb2dtQnQ1cDFPNVJWT3c2VG02TFJNM2t0QzItaUpwU0IxT1BfTjdVQ0NCOTRLSlZEQWh6WXkzdEwtWTZmb2V2ZFJlSm5xVkUxY3k4ZVFQYlVPMmM4SnVxVWZKUTdaM0lCVklWMTJyeWNkQVhxR20zT09R?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "5250b5d24a",
+   "titulo": "Resultados elecciones generales 2026 en Alcúdia: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzlpX0pQZXlZWWF1QmZEMmlrUU5yQ24ybU81NHo2MVpzX2FGS0xIVVQwMEx5UWZqcWRNdndpbDVfSXJxam90ZGNIY0V1Vnp5ZHQxYW81TmFoUDRxaEprWHdsMDRnWnZ5dGFaRTRmb1hqN280MG83MjJreFBxdHRGYy1BQUxiVjUwbjFv?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "7937ed73ca",
+   "titulo": "Resultados elecciones generales 2026 en Formentera: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RSU0RJdE5RbU10eUVvNWs2c3djNU53UEVOTTY0RXY0UVZvaFEybkhjaUN0UTY2WXRhbHVCcm8wRHZzNUh4NFVfNmNwOWNqUVBzTW1MX2NMTUtqaTlzYmJHVk9DaC1KZi1uVVVDTXdOUjhzNnlmNER3eXZ0cGtDZnZNdnV6Mnk4ZGh2ZDJzWQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "73bc00060d",
+   "titulo": "Resultados elecciones generales 2026 en La Victoria de Acentejo (29N)",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblU3empqY0NuVGJFYzlvMEdVVnlleDE5eXRvb0VjMG5iV21EMTFBMnhIYzFtQ1ptRmNmZXhzcmpCUUhDOHJ4aDdvazR0Tmc2ck1pVWpBai1pUHpRQWI2M3YtWThIYWxsMmJKTW5PSTg0QVl2OWJPdzV2MTdYRXc2bFFPTXpTS19oUVNrUXdJUzFSNHZZcHhlNnVyN1BIRWM4OHFtY2pqRmhFenNwenNDYUdYeFpXQzBXRzVGTWYyQQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "e5ced03229",
+   "titulo": "Resultados elecciones generales 2026 en Totana: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3NtbFIyS2VFSlhiazZOVmVnTHQ1eEtHU2pEaXpjMmNSaE1Sd3NnY1A4enVra2xhazBUaVVwYW50U19IQzY3R1hSNC1KQS1OeDFoY1RSRThUUENGYl9PMWFJQ0Q0dlZoeU9GckZKSGV3YXNidWNPLUxIRUV2NUQzUUxEdHhac1U?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "8c8c9dc4f9",
+   "titulo": "Resultados elecciones generales 2026 en L'Olleria: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGREd1Vod0lycWNlQm1RVzFXS2F5RXVOSGIxZlRCZ0M5aENnb1hjOXRWYXREdGNrNWdwMzlhcUlNUHlHT3J6elU4N3RyX3hBM0pOU3NZQUZmanlwTEJLMVlxRzNYTDhVbF9td1VoT29YQlNTWWd5Q21RX3VOUG5EQXJGY1FmdWhKTENuUGp5MHBiTU9POVRJWFEzTmwzYjdaRFBQTC1WclcwZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "8d47803948",
+   "titulo": "Resultados elecciones generales 2026 en Bormujos: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDV3ZU9HMWs5LUoxUnlWa05WR3NfaTh4U2MxbEUxeE5CdTR5QWZsa2p6bzNTd0lqWXRFcEN5a2tKMTVtS2hVc3ExSC1jMHFxVlZXSXFXR3BHUWZsXzVvc2RXNW5ONWdJMjdNVHE4aEFINF9FdUhlVndfbmlaWWl0bGFPbTJGNlJUdHdDN0xJOV9GbjhYSi02MA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "9a0096955e",
+   "titulo": "Resultados elecciones generales 2026 en Ceutí: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0NKOW45UXZUVi1OYWdvRS01WFplaFhSanYxTjl0d09mX3FDSVpVcHAzclZNU2lJalFCT2djRWV0RjM2eF9McXpTeXN2aC1pN3pYTUJVdWR2Ri1ZbEhnSWJBMUJJaWpvdmZWMU81QkwyVlZmLXMxVEJvLVRTd0hzOWlic2dDZw?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "368fb8b575",
+   "titulo": "Resultados elecciones generales 2026 en Antequera: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTRBdTVzZDh3QkJwUzVDS0ZiOEtIZkxJbEh2U09wV1Etci1jMXhJVHpXYTRycmlDSUVVeXYyV1RsVzJtaE04R0V5V1M2VFZKOVM1ZFo1YXBiU1VjTEppUzVqVW1VTDNKVl9ERzIzV0QyUndhRFN5TndXR2ZrRnE1dU5IUGhkZmQtQWUyQ0lkVlE2blNMMGZvVQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "9a34a2e529",
+   "titulo": "Resultados elecciones generales 2026 en Baeza: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3RlY05IX2NjN1pXWmNXLUlET1lpbzlZNTM2Sk55MGVOcTR0ajZSQXlQU2hocy1PcFlCTWJIMEZQRXRoQjBNUUIxY19NbzMyS2pGYnA3N0RseVpiNWpJYU1WM252VVZrQkJTcFhKdExKRzVMS0x0c3dybXVXX3V3UGRzeVRheWRQR0FWX1hoY20?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "e8c3ba50c5",
+   "titulo": "Resultados elecciones generales 2026 en Guardo: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEdVOGhzeldYUkVpeGp1M3VUcjNkNlhVRkh2YVhGa1lEenpEZ2JjSUNtUFRhaVNxNWRTbmJNYmJidmJpa2ozWWd0dHpoV0hvQ3N0MTlFd1NvaWxOSDd6czBJWmhHa1AyVDBwZV9FRk5XVDRMd1hBQmRremlGSGtfUF9vX0VGa1p2NWlBSGR5YkwwUGJ3djZubVFuNDRiNTA?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "a22ce4c987",
+   "titulo": "Resultados elecciones generales 2026 en Cigales: escrutinio del 29N",
+   "medio": "Mundo Deportivo",
+   "dominio": "mundodeportivo.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXpQQVFON0pya1V0V3A5Y2ZzQXNCNGVkS1BKaVZGQkUtdWxJekdickNsN3lwMWhncVFsMUV5NUdCeDVIUkRvTFpCN3NlTHRhX0hBMGxCOTNENFVpZ0ZhRGIxSXdwN2xYbGtER1dvSjM3aFo0Z1hKWmhHN0U0bkJUX1o5bGRBZmFRYmdUUThtSDYyYmtqOHBPVGs3dENrRVhCeUNN?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T20:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "resultados elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "4921bc0bfc",
    "titulo": "Acuerdo 214/1994 del expediente 320/6",
    "medio": "Junta Electoral Central",
@@ -19758,6 +21998,22 @@
     "site:europapress.es"
    ],
    "visto": "2026-11-26T12:32:45-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "359e6a52dd",
+   "titulo": "Nace en un zoológico de Brasil el primer polluelo de una especie de guacamayo casi extinta",
+   "medio": "Agencia EFE",
+   "dominio": "efe.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnFvdFdNQk9uenYwYUpxSHl4N2tYcFpRNi1SNEJENF9RcW9MWncyU1E5WmE4WUJESGpVdHFGUmZ1YU4tdDF2ZHFHaU9PVmRsd2Rvd3Y2ZEttZm4zSmk5T3VYMjZXTzNzdkdVNTlMbU5NTDBZdTA3dWszenFNVk1PbUIxWkJTSE84WkthTVNhUnNpWUp4c1R4dDVLUWRlTEVMV01LS0c4eGFqTTQ?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T17:12:05-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [
+    "site:efe.com"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "espana_europa"
   },
   {
@@ -21751,6 +24007,22 @@
    "origen": "espana_europa"
   },
   {
+   "id": "84db3d7ff6",
+   "titulo": "Elecciones España 2026, EN VIVO: qué dicen las encuestas en los días previos",
+   "medio": "Yahoo",
+   "dominio": "es-us.noticias.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDhJcmhvaWpuMVpEM0xEYmFRczBOOFBET21KVnNyY2R4dkV1V2pqQWk0SHdUZjdGOTc0b3JFVUtSbDkzaF91TmdNdF9kcTZLalZFM3BxdU5sdDNyOXhpRzNOVGpqQzlLbVhvTWNJbTJ5S3JGQWxpakVvdzJzTDBZMlYzOEZhRldxVzJINENRaEJIT1l3?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T09:05:24-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "encuesta elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "dbb6e46cc1",
    "titulo": "Bruselas presentará una estrategia para reducir el éxodo juvenil por falta de servicios",
    "medio": "Agencia EFE",
@@ -22871,6 +25143,22 @@
    "origen": "otros"
   },
   {
+   "id": "68252985c2",
+   "titulo": "La última palabra de las encuestas sobre PSOE, PP, Vox y Frente Amplio y ya no habrá más: esto dice la ley",
+   "medio": "MARCA",
+   "dominio": "amp.marca.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaWpIRHJfMllmNzItZHVnb01NM3JZaWlDRjA2TDhiZXNpaEQwMnhjRFA0Zl9lZU9tbnhibXpORkk2MWJma05KU2xCSl9tbFlnN25OTjdvMTRXZkV6eC1tMXk2V1J3T0RKNzZCa24ycTRVV2hoUTE3dHZxR2Z6ZlhoNDlZY3lCNUY5RWp4T3U2RlZMNllVOEppUjR3MXUzTmxPVDV3YXVDTW9EWkZ2TjBRemVRZ1NDZ3ZXMkhJTTZGem16V2RRc2NaNTVPeXAtbmZzWV9IcWltZVhXV2pjaWVzbTV1N19sVVhCR2RJ0gHrAUFVX3lxTE9pakhEcl8yWWY3Mi1kdWdvTU0zcllpaUNGMDZMOGJlc2loRDAyeGNEUDRmX2VlT21ueGJtek5GSTYxYmZrTkpTbEJKX21sWWc3bk5ON28xNFdmRXp4LW0xeTZXUndPREo3NkJrbjJxNFVXaGhRMTd0dnFHZnpmWGg0OVljeUI1RjlFanhPdTZGVkw2WVU4SmlSNHcxdTNObE9UNXdhdUNNb0RaRnZOMFF6ZVFnU0NndlcySElNNkZ6bXpXZFFzY1o1NU95cC1uZnNZX0hxaW1lWFdXamNpZXNtNXU3X2xVWEJHZEk?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T04:43:46-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "encuesta elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
+   "origen": "otros"
+  },
+  {
    "id": "c3827cee0c",
    "titulo": "Sin encuestas los 5 días antes de las elecciones desde hace 46 años: culpa de Fraga",
    "medio": "Maldita.es",
@@ -22930,6 +25218,22 @@
     "Junta Electoral Central"
    ],
    "visto": "2026-11-26T14:26:23-03:00",
+   "origen": "otros"
+  },
+  {
+   "id": "d8a8fb0dbc",
+   "titulo": "El voto útil bajo la lupa: dónde la fragmentación puede dejar partidos sin representación",
+   "medio": "La Razón",
+   "dominio": "larazon.es",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNejFzU3JQaGVYaExvUHRWeldCZ1ktNjVBYkg3VVlsdnRlaTZlNEVEZjBPVW1jNXk1VXJhMkQzdUhIMUlCRndkbGdsUjJGWnJNTnAydjdPLV9CamUzV3d3RTZsWFRUVVBoODdEc1hJNmFNOUJjNGZaa01CVEtLa1VJaTk2Xy1OSDBqUm1KVnEwbTllalgxejRLek9OdzUxdUpGNVd5QXAtVEFTZzBQM0I2UFBDSTFBRWtDaE9xdzlQbThyT291NllYbEpZMFVpOS1MQW80ZzRVZkJWZi1Kd1U4VkY2Mm5tbzZz0gHoAUFVX3lxTE16MXNTclBoZVhoTG9QdFZ6V0JnWS02NUFiSDdVWWx2dGVpNmU0RURmME9VbWM1eTVVcmEyRDN1SEgxSUJGd2RsZ2xSMkZack1OcDJ2N08tX0JqZTNXd3dFNmxYVFRVUGg4N0RzWEk2YU05QmM0ZlprTUJUS0trVUlpOTZfLU5IMGpSbUpWcTBtOWVqWDF6NEt6T053NTF1SkY1V3lBcC1UQVNnMFAzQjZQUENJMUFFa0NoT3F3OVBtOHJPb3U2WVhsSlkwVWk5LUxBbzRnNFVmQlZmLUp3VThWRjYybm1vNnM?oc=5",
+   "url_original": null,
+   "fecha": "2026-11-24T03:00:19-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": false,
+   "busquedas": [
+    "encuesta elecciones generales"
+   ],
+   "visto": "2026-11-26T18:14:52-03:00",
    "origen": "otros"
   },
   {
@@ -23814,7 +26118,8 @@
    "fuente_tipo": "medio",
    "lista_seria": false,
    "busquedas": [
-    "debate electoral elecciones generales"
+    "debate electoral elecciones generales",
+    "encuesta elecciones generales"
    ],
    "visto": "2026-11-26T12:27:41-03:00",
    "origen": "otros"

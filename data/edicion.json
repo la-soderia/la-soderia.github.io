@@ -1,102 +1,96 @@
 {
- "id": "2026-11-26-15",
+ "id": "2026-11-27-11",
  "tipo": "curada",
- "generado": "2026-11-26T15:10-03:00",
+ "generado": "2026-11-27T11:13-03:00",
  "claves": [
   {
-   "texto": "El Senado de la Nación trata hoy la suspensión de las PASO por un año y la ley de prevención de la ludopatía, y Diputados el Presupuesto 2027 y la reforma del Banco Central.",
+   "texto": "El Senado de la Nación aprobó la suspensión de las PASO en 2027 y la Ficha Limpia y giró la reforma electoral a Diputados.",
    "fuentes": [
     {
      "medio": "Perfil",
-     "titulo": "Bullrich anticipó que el oficialismo cuenta con más de 37 votos para suspender las PASO por un año",
-     "url": "https://www.perfil.com/politica/bullrich-anticipo-que-el-oficialismo-cuenta-con-mas-de-37-votos-para-suspender-las-paso-por-un-ano-a0D3q6V8IUFm",
-     "fecha": "2026-11-26T11:41:26-03:00"
+     "titulo": "El Senado aprobó suspender las PASO en 2027 y Ficha Limpia: la reforma electoral del Gobierno pasa a Diputados",
+     "url": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv",
+     "fecha": "2026-11-26T18:53:05-03:00"
     },
     {
-     "medio": "Ámbito",
-     "titulo": "De la suspensión de las PASO a Ficha Limpia: los nueve cambios de la reforma política que debatirá el Senado",
-     "url": "https://www.ambito.com/politica/de-la-suspension-las-paso-ficha-limpia-los-nueve-cambios-la-reforma-que-debatira-el-senado-n6349639",
-     "fecha": "2026-11-26T12:42:00-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El Senado se encamina a aprobar este jueves la ley de ludopatía tras cerrar un acuerdo con la oposición",
-     "url": "https://www.infobae.com/politica/2026/11/26/el-senado-se-encamina-a-aprobar-este-jueves-la-ley-de-ludopatia-tras-cerrar-un-acuerdo-con-la-oposicion/",
-     "fecha": "2026-11-26T00:57:10-03:00"
-    },
-    {
-     "medio": "Página/12",
-     "titulo": "Qué cambia con la ley de prevención de la ludopatía",
-     "url": "https://www.pagina12.com.ar/2026/11/26/que-cambia-con-la-ley-de-prevencion-de-la-ludopatia/",
-     "fecha": "2026-11-26T10:51:31-03:00"
+     "medio": "Letra P",
+     "titulo": "Senado: el Gobierno aprobó la reforma política con la suspensión de las PASO y Ficha Limpia extendida",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjhyOWFPaUtRTmFiUk9Ga01ubnpHaXFkenpzWHZFeWplMDlJOGo1RC0zZVRzcWF2WjhZN0xTOHpYVl91MmNkN2EwdjFRQnRtMzNsaTFKTnNLQWdjVUFCTDdBdW5PdVpGTWJ5bnZpbXRrb0Z0VndsQ1gwQWVJX21JaERtVG02Yjl2R2hwanNuSzkyNXVtNkFGbmo3QWtSamlNNkFCUHpibjNJY2x4aWo5eWRrVUNYcGw5TThDOXNkZlVOVGZXa1NhdzIyNXZFaGhwYVRV0gHYAUFVX3lxTE9ZRHFvTmstU0dJdDBFcEZIbWloRmIwM3lGaS1JeHJwbkhweG0tRnpBaVpCbnFnOU5mMTF0aS1IUE9FSHBocTVybFNGbnJMTXRlWnc2RW1aV0V6UlZVLXNrQmg2aVp5YzBZWmlSVkhvVDNLaGwxcHhVSndSd1c2WDdaYVZmZE1NMG5MNWdKZ1VZbU9XOWtobUtpOHpweVF1dmxLRGY4eE05bi1qZGRhX0FGMFpwc2xkR2o2NnBHOEVNMkowT0R1dGlsdkhJbWl5MktqRWpsT3VEQg?oc=5",
+     "fecha": "2026-11-26T18:35:00-03:00"
     }
    ]
   },
   {
-   "texto": "Docentes y estudiantes universitarios marchan al Congreso contra el Presupuesto 2027 y por el cumplimiento de la Ley de Financiamiento Universitario.",
-   "fuentes": [
-    {
-     "medio": "elDiarioAR",
-     "titulo": "Docentes universitarios realizan un paro por la Ley de Financiamiento y marchan en contra del Presupuesto 2027",
-     "url": "https://www.eldiarioar.com/sociedad/docentes-universitarios-realizan-paro-ley-financiamiento-marchan-presupuesto-2027_1_13691209.html",
-     "fecha": "2026-11-25T06:17:44-03:00"
-    },
-    {
-     "medio": "El Cronista",
-     "titulo": "Nuevo paro universitario por el financiamiento y marcharán al Congreso contra el Presupuesto 2027",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUJtbk5yRWxmWno0QzdwUnhuMlhLMktvWUhwSDB6cjc2a1ZtR01IdXZLY0xNNVIySi04RlhhMWxPR0tnYkw4R0RwSi16V3JnSjlsR1Y0eEUtZ1AyRmlBU2dCR1lpZVVMODU0cEwxelJlMi1uODlNLXllMVJ2VVF2OGhFSV82MlhpRXlCUUkwaTFRZVVtOUpsWElyTXQzM2xWenJhUFA2bnU3Mm9Ienhtd3JPd2U5TTlhZWdleDhDM3ZYc01RUUNkNG8tbVNkVlo0OWppQ196M0rSAfMBQVVfeXFMT3c1Ukk1YXJFcURjUlVXdGc2anlMN0Z4NDBUYkdpMXJoTkJJN2g0WnRxcHVRNTRaR1lrYlB4SzhBOXFqdk1Ob1dlM2pmUHZabGUtNkRZNHRBV1Ntck5QbGJucGwydm1vYTJpc3Zsd0x5dHpsOVVtYmJfUi1YR243emQxUG9oLVlzeS1vTmtZQ0hucTJVNDJFU2VxckE3Q2RIYjFmZFQ0VUtMcWVtZVcySkMwUENxSkRnbTBzWVA0T081THJTems3VFVJUjFoYlVlSXZRTHlNZ3JqR1BmWTRRY1JZbXZZUFVfSUZCUmhiSVdTMHJB?oc=5",
-     "fecha": "2026-11-25T09:38:18-03:00"
-    }
-   ]
-  },
-  {
-   "texto": "Los gobernadores resultaron decisivos para el quórum de Diputados y el oficialismo recorta el ajuste para sumar votos al Presupuesto 2027.",
+   "texto": "Diputados dio media sanción al Presupuesto 2027, con más fondos para universidades y ciencia incorporados por la oposición.",
    "fuentes": [
     {
      "medio": "Clarín",
-     "titulo": "Presupuesto: los gobernadores volvieron a ser la llave para que el oficialismo consiga el quórum en Diputados",
-     "url": "https://www.clarin.com/politica/presupuesto-gobernadores-volvieron-llave-oficialismo-consiga-quorum-diputados_0_T3G7opJnU4.html",
-     "fecha": "2026-11-26T13:29:01-03:00"
+     "titulo": "Javier Milei consiguió la media sanción del Presupuesto 2027 en Diputados",
+     "url": "https://www.clarin.com/politica/javier-milei-consiguio-media-sancion-presupuesto-2027-diputados_0_Bc7eOsDA84.html",
+     "fecha": "2026-11-27T03:23:19-03:00"
     },
     {
-     "medio": "elDiarioAR",
-     "titulo": "Con el quórum asegurado, el Gobierno enfrenta las demandas de los gobernadores para aprobar el Presupuesto 2027",
-     "url": "https://www.eldiarioar.com/politica/quorum-asegurado-gobierno-enfrenta-demandas-gobernadores-aprobar-presupuesto-2027_1_13696115.html",
-     "fecha": "2026-11-26T12:31:54-03:00"
+     "medio": "La Nación",
+     "titulo": "El Gobierno logró la media sanción del Presupuesto; aprueban la ley de ludopatía y más fondos universitarios",
+     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-logro-la-media-sancion-del-presupuesto-aprueban-la-ley-de-ludopatia-y-mas-fondos-nid27112026/",
+     "fecha": "2026-11-27T08:52:37-03:00"
     }
    ]
   },
   {
-   "texto": "La Confederación General del Trabajo (CGT) marcha por la crisis de las obras sociales sindicales.",
+   "texto": "El Senado convirtió en ley por unanimidad la prevención de la ludopatía, que prohíbe las apuestas online para menores y la publicidad de los juegos de azar.",
    "fuentes": [
     {
-     "medio": "Perfil",
-     "titulo": "La CGT marcha este jueves por la crisis de las obras sociales",
-     "url": "https://www.perfil.com/politica/la-cgt-marcha-este-jueves-por-la-crisis-de-las-obras-sociales-a11I95Z6MBW4",
-     "fecha": "2026-11-26T08:50:59-03:00"
+     "medio": "Clarín",
+     "titulo": "Por unanimidad, el Senado convirtió en ley el proyecto de Ludopatía",
+     "url": "https://www.clarin.com/politica/senado-convirtio-ley-proyecto-ludopatia-unanimidad_0_w5ybnCEYLT.html",
+     "fecha": "2026-11-26T23:06:48-03:00"
     },
     {
      "medio": "elDiarioAR",
-     "titulo": "La CGT se moviliza por el desfinanciamiento y la crisis financiera de las obras sociales sindicales",
-     "url": "https://www.eldiarioar.com/politica/cgt-moviliza-desfinanciamiento-crisis-financiera-obras-sociales-sindicales_1_13695441.html",
-     "fecha": "2026-11-26T09:05:59-03:00"
+     "titulo": "Ludopatía: es ley la prohibición de apuestas online para menores y de la publicidad de los juegos de azar",
+     "url": "https://www.eldiarioar.com/politica/ludopatia-ley-prohibicion-apuestas-online-menores-publicidad-ropa-deportiva_1_13697944.html",
+     "fecha": "2026-11-27T05:31:03-03:00"
     }
    ]
   },
   {
-   "texto": "La Corte Suprema de Justicia de la Nación sorteó dos conjueces para decidir si prescribió la causa por torturas a soldados en Malvinas.",
+   "texto": "Es ley la reforma de la Carta Orgánica del Banco Central, y el Senado podrá remover directores.",
    "fuentes": [
     {
-     "medio": "Perfil",
-     "titulo": "Torturas en Malvinas: la Corte Suprema sortea conjueces para evaluar si los crímenes contra los soldados prescribieron",
-     "url": "https://www.perfil.com/politica/la-corte-suprema-sortea-conjueces-para-definir-si-los-crimenes-contra-los-soldados-prescribieron-aKRbF6u1rz59",
-     "fecha": "2026-11-25T19:46:23-03:00"
+     "medio": "Clarín",
+     "titulo": "Con las modificaciones impuestas por el Senado, Diputados convirtió en ley la reforma del Banco Central",
+     "url": "https://www.clarin.com/politica/modificaciones-impuestas-senado-diputados-convirtio-ley-reforma-banco-central_0_mPFvbxyRT7.html",
+     "fecha": "2026-11-26T14:43:15-03:00"
     },
     {
      "medio": "Infobae",
-     "titulo": "Designaron a dos conjueces para resolver si prescribe una causa donde se investigan presuntas torturas en Malvinas",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdXhaeEV3VFFLcjZaVHpzR3p2T3V1WXZ1aWxpS196VTFjdzJhU1o2Vms3NWZJZVJwVUJVTlhlQXhpM3gwZElJZWhoVTU3MVIwSXRKWUN6MlJ6ekF2QUZHQzBwWlF1R0IwQWtOeVllMFpXSmtLRC13dFQ5WnRDem1PazRkMUpEczg0aGFXbzl2S0FHSUtHUF9wVnRReGhCbWlPcGNQeFRaM0ZidmJpaDVIQkZMWnhmdVZvc0t2cUpKOGVJSVRINlpQRXpQc1FKVEtkVzZ0T0pqU3pIMDktSW9JQ0lEdHVHV2dXWkNYWU1fMFV6X1nSAY4CQVVfeXFMTVgxVkZ5bi1YWlI5VVc5OXc3Qkh0UlVCYXBrTDl5MHZ0MTJqUzBUVjJDeHZndDFkdktQZU80WUFRV0F0OWNwNjE3LS15d25xLWEyQUozcjJhSTY0YUEzMTgycWFLOGg1WkZHNDJwTk81OFFKRUpYcEk5YnhpUDZyUnNoQzBVMWlZbGtQdnZ4NlpFWXNoM05OT2U1bHFrU2ptcVBPcGEydi15RllXNWxMVXA0N3kweU1XZVlUZEdPYWZ6QW5raDRwSTRjSEpCRUlNRER4ZjR1aXUwQUhTaEFKSFp6NVlVZVBqczJ0MzdoM0ZRUUtxSnp2Y1RNN2NJUzdKT0N6bDV6cFk2UVZYZWZ3?oc=5",
-     "fecha": "2026-11-26T13:11:00-03:00"
+     "titulo": "Diputados convirtió en ley la reforma de la Carta Orgánica del Banco Central",
+     "url": "https://www.infobae.com/politica/2026/11/26/diputados-convirtio-en-ley-la-reforma-de-la-carta-organica-del-banco-central/",
+     "fecha": "2026-11-26T16:02:01-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "La CGT marchó por la crisis de las obras sociales y el Gobierno dijo que los números del desfinanciamiento no son reales.",
+   "fuentes": [
+    {
+     "medio": "La Nación",
+     "titulo": "La CGT marchó por la crisis de las obras sociales, elevó el tono contra el Gobierno y pidió renuncias",
+     "url": "https://www.lanacion.com.ar/politica/la-cgt-marcho-por-la-crisis-de-las-obras-sociales-elevo-el-tono-contra-el-gobierno-y-pidio-renuncias-nid26112026/",
+     "fecha": "2026-11-26T18:24:56-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La CGT se movilizó por la crisis en salud y acusó al Gobierno de “robarse la plata de las obras sociales”",
+     "url": "https://www.infobae.com/politica/2026/11/26/la-cgt-se-movilizo-por-la-crisis-en-salud-y-acuso-al-gobierno-de-robarse-la-plata-de-las-obras-sociales/",
+     "fecha": "2026-11-26T20:00:32-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "La CGT denunció desfinanciamiento en obras sociales, pero el Gobierno lo negó: \"No son números reales\"",
+     "url": "https://www.ambito.com/politica/la-cgt-denuncio-desfinanciamiento-obras-sociales-pero-el-gobierno-lo-nego-no-son-numeros-reales-n6349873",
+     "fecha": "2026-11-26T21:08:00-03:00"
     }
    ]
   }
@@ -106,628 +100,439 @@
    "id": "paso-senado",
    "seccion": "Política",
    "semaforo": "🟢",
-   "titulo": "El Senado vota la suspensión de las PASO por un año y la reforma electoral",
-   "resumen": "El Senado de la Nación sesiona este jueves 26 de noviembre con la reforma electoral que suspende las Primarias Abiertas, Simultáneas y Obligatorias (PASO) por un año, incorpora Ficha Limpia y elimina el debate presidencial obligatorio. Diego Santilli, jefe de Gabinete de Ministros de la Nación, afirmó antes de la sesión que el oficialismo tiene los votos para aprobarla; si el Senado la aprueba, el proyecto pasa a la Cámara de Diputados de la Nación. El proyecto sobre falsas denuncias quedó fuera del temario de la sesión.",
-   "por_que_importa": "Las PASO definen cómo se eligen las candidaturas de 2027, y eso incluye a quienes votan por primera vez.",
-   "primaria": {
-    "nombre": "Declaración de Diego Santilli antes de la sesión del Senado",
-    "url": null
-   },
+   "titulo": "El Senado aprobó la suspensión de las PASO en 2027 y la Ficha Limpia, y el proyecto pasa a Diputados",
+   "resumen": "El Senado de la Nación dio media sanción a la reforma electoral del Gobierno, que suspende las Primarias Abiertas, Simultáneas y Obligatorias (PASO) en las elecciones de 2027 y extiende la Ficha Limpia. El debate presidencial obligatorio queda vigente solo en la instancia de balotaje. El proyecto pasa ahora a la Cámara de Diputados de la Nación.",
+   "por_que_importa": "Las PASO definen cómo se arman las listas de 2027, el año en que muchos pibes y pibas votan por primera vez.",
    "fuentes": [
     {
      "medio": "Perfil",
-     "titulo": "Bullrich anticipó que el oficialismo cuenta con más de 37 votos para suspender las PASO por un año",
-     "url": "https://www.perfil.com/politica/bullrich-anticipo-que-el-oficialismo-cuenta-con-mas-de-37-votos-para-suspender-las-paso-por-un-ano-a0D3q6V8IUFm",
-     "fecha": "2026-11-26T11:41:26-03:00"
+     "titulo": "El Senado aprobó suspender las PASO en 2027 y Ficha Limpia: la reforma electoral del Gobierno pasa a Diputados",
+     "url": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv",
+     "fecha": "2026-11-26T18:53:05-03:00"
     },
     {
-     "medio": "Ámbito",
-     "titulo": "De la suspensión de las PASO a Ficha Limpia: los nueve cambios de la reforma política que debatirá el Senado",
-     "url": "https://www.ambito.com/politica/de-la-suspension-las-paso-ficha-limpia-los-nueve-cambios-la-reforma-que-debatira-el-senado-n6349639",
-     "fecha": "2026-11-26T12:42:00-03:00"
+     "medio": "Letra P",
+     "titulo": "Senado: el Gobierno aprobó la reforma política con la suspensión de las PASO y Ficha Limpia extendida",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjhyOWFPaUtRTmFiUk9Ga01ubnpHaXFkenpzWHZFeWplMDlJOGo1RC0zZVRzcWF2WjhZN0xTOHpYVl91MmNkN2EwdjFRQnRtMzNsaTFKTnNLQWdjVUFCTDdBdW5PdVpGTWJ5bnZpbXRrb0Z0VndsQ1gwQWVJX21JaERtVG02Yjl2R2hwanNuSzkyNXVtNkFGbmo3QWtSamlNNkFCUHpibjNJY2x4aWo5eWRrVUNYcGw5TThDOXNkZlVOVGZXa1NhdzIyNXZFaGhwYVRV0gHYAUFVX3lxTE9ZRHFvTmstU0dJdDBFcEZIbWloRmIwM3lGaS1JeHJwbkhweG0tRnpBaVpCbnFnOU5mMTF0aS1IUE9FSHBocTVybFNGbnJMTXRlWnc2RW1aV0V6UlZVLXNrQmg2aVp5YzBZWmlSVkhvVDNLaGwxcHhVSndSd1c2WDdaYVZmZE1NMG5MNWdKZ1VZbU9XOWtobUtpOHpweVF1dmxLRGY4eE05bi1qZGRhX0FGMFpwc2xkR2o2NnBHOEVNMkowT0R1dGlsdkhJbWl5MktqRWpsT3VEQg?oc=5",
+     "fecha": "2026-11-26T18:35:00-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Uno por uno, cómo votó cada senador la media sanción a la reforma electoral",
+     "url": "https://www.infobae.com/politica/2026/11/26/uno-por-uno-como-voto-cada-senador-la-media-sancion-a-la-reforma-electoral/",
+     "fecha": "2026-11-26T18:46:25-03:00"
     },
     {
      "medio": "La Nación",
-     "titulo": "El “poroteo” final del Gobierno: los 40 votos que la Casa Rosada da por confirmados para lograr la suspensión de las PASO",
-     "url": "https://www.lanacion.com.ar/politica/el-poroteo-final-del-gobierno-los-40-votos-que-la-casa-rosada-da-por-confirmados-para-lograr-la-nid26112026/",
-     "fecha": "2026-11-26T12:46:32-03:00"
-    },
-    {
-     "medio": "elDiarioAR",
-     "titulo": "El Senado dejó fuera del temario el proyecto de ley sobre falsas denuncias",
-     "url": "https://www.eldiarioar.com/politica/senado-dejo-fuera-temario-proyecto-ley-falsas-denuncias_1_13696913.html",
-     "fecha": "2026-11-26T14:21:42-03:00"
+     "titulo": "Cómo votó cada senador el proyecto de reforma electoral",
+     "url": "https://www.lanacion.com.ar/politica/como-voto-cada-senador-el-proyecto-de-reforma-electoral-nid26112026/",
+     "fecha": "2026-11-26T19:59:36-03:00"
     }
    ],
    "otras": [
     {
-     "medio": "Infobae",
-     "titulo": "Antes de la sesión en el Senado, Diego Santilli afirmó que el oficialismo tiene los votos para suspender las PASO",
-     "url": "https://www.infobae.com/politica/2026/11/26/antes-de-la-sesion-en-el-senado-diego-santilli-afirmo-que-el-oficialismo-tiene-los-votos-para-suspender-las-paso/",
-     "fecha": "2026-11-26T08:56:30-03:00"
+     "medio": "Perfil",
+     "titulo": "Debate presidencial: el oficialismo cedió en el Senado y será obligatorio solo para el balotaje",
+     "url": "https://www.perfil.com/politica/debate-presidencial-el-oficialismo-cedio-en-el-senado-y-sera-obligatorio-solo-para-el-balotaje-aSzd23X0969q",
+     "fecha": "2026-11-26T23:59:21-03:00"
     },
     {
-     "medio": "El Cronista",
-     "titulo": "Ni PASO ni debate obligatorio: qué cambiará la reforma electoral que busca la media sanción del Senado",
-     "url": "https://www.cronista.com/economia-politica/ni-paso-ni-debate-obligatorio-que-cambiara-la-reforma-electoral-que-busca-la-media-sancion-del-senado/",
-     "fecha": "2026-11-26T08:49:45-03:00"
+     "medio": "La Nación",
+     "titulo": "El Senado dejó vigente solo el debate presidencial obligatorio en la instancia de balotaje",
+     "url": "https://www.lanacion.com.ar/politica/el-senado-dejo-vigente-solo-el-debate-presidencial-obligatorio-en-la-instancia-de-balotaje-nid26112026/",
+     "fecha": "2026-11-26T19:35:59-03:00"
     }
    ],
    "alertas": [
-    "La votación todavía no ocurrió; las cifras de votos son declaraciones previas y no un resultado.",
-    "DISCREPANCIA DE CIFRAS. El oficialismo habla de \"arriba de los 37\" votos y La Nación de 40 votos confirmados por la Casa Rosada; el 24 de noviembre se hablaba de ocho cambios en el proyecto y Ámbito enumera nueve. Hay que contrastar con el texto del proyecto y con el resultado de la votación.",
-    "La Nación informó antes que el proyecto de falsas denuncias estaba en el temario; elDiarioAR y Perfil informan después que quedó afuera. Falta el motivo oficial.",
-    "El título de Perfil menciona a Bullrich y no figura su cargo; falta completarlo antes de nombrarla."
+    "Falta el resultado exacto de la votación (afirmativos, negativos y abstenciones); figura en las notas 'Cómo votó cada senador' de Infobae y La Nación, cuyo texto completo no se pudo leer. Confirmar con la versión taquigráfica del Senado.",
+    "Falta el texto aprobado para detallar los cambios; ayer se hablaba de ocho cambios (24 de noviembre) y de nueve (Ámbito), y no está claro cuántos quedaron tras la sesión."
    ]
   },
   {
    "id": "presupuesto-diputados",
    "seccion": "Política",
    "semaforo": "🟢",
-   "titulo": "Diputados sesiona por el Presupuesto 2027 y la reforma del Banco Central con los gobernadores como llave del quórum",
-   "resumen": "La Cámara de Diputados de la Nación sesiona este jueves 26 de noviembre con el Presupuesto 2027 y la reforma de la Carta Orgánica del Banco Central de la República Argentina (BCRA) en el temario. El oficialismo consiguió el quórum con el apoyo de los gobernadores y recorta el ajuste del proyecto para sumar votos.",
-   "por_que_importa": "El Presupuesto define los fondos para universidades, becas y programas sociales del año próximo.",
-   "primaria": null,
+   "titulo": "Diputados dio media sanción al Presupuesto 2027 con cambios de la oposición en universidades y ciencia",
+   "resumen": "La Cámara de Diputados de la Nación aprobó el Presupuesto 2027 y lo giró al Senado. La oposición logró incorporar más fondos para las universidades nacionales, el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), el Instituto Nacional de Tecnología Industrial (INTI), el Instituto Nacional de Tecnología Agropecuaria (INTA) y el Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), y hubo quejas por los fondos de discapacidad.",
+   "por_que_importa": "El Presupuesto fija cuánta plata tienen las universidades y la ciencia pública el año que viene.",
    "fuentes": [
     {
      "medio": "Clarín",
-     "titulo": "Presupuesto: los gobernadores volvieron a ser la llave para que el oficialismo consiga el quórum en Diputados",
-     "url": "https://www.clarin.com/politica/presupuesto-gobernadores-volvieron-llave-oficialismo-consiga-quorum-diputados_0_T3G7opJnU4.html",
-     "fecha": "2026-11-26T13:29:01-03:00"
-    },
-    {
-     "medio": "elDiarioAR",
-     "titulo": "Con el quórum asegurado, el Gobierno enfrenta las demandas de los gobernadores para aprobar el Presupuesto 2027",
-     "url": "https://www.eldiarioar.com/politica/quorum-asegurado-gobierno-enfrenta-demandas-gobernadores-aprobar-presupuesto-2027_1_13696115.html",
-     "fecha": "2026-11-26T12:31:54-03:00"
+     "titulo": "Javier Milei consiguió la media sanción del Presupuesto 2027 en Diputados",
+     "url": "https://www.clarin.com/politica/javier-milei-consiguio-media-sancion-presupuesto-2027-diputados_0_Bc7eOsDA84.html",
+     "fecha": "2026-11-27T03:23:19-03:00"
     },
     {
      "medio": "La Nación",
-     "titulo": "Diputados: el Gobierno busca darle media sanción al presupuesto 2027 y convertir en ley la reforma del Banco Central",
-     "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-busca-darle-media-sancion-al-presupuesto-2027-y-convertir-en-ley-la-reforma-nid26112026/",
-     "fecha": "2026-11-26T12:17:17-03:00"
+     "titulo": "El Gobierno logró la media sanción del Presupuesto; aprueban la ley de ludopatía y más fondos universitarios",
+     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-logro-la-media-sancion-del-presupuesto-aprueban-la-ley-de-ludopatia-y-mas-fondos-nid27112026/",
+     "fecha": "2026-11-27T08:52:37-03:00"
     },
     {
-     "medio": "Perfil",
-     "titulo": "En medio de la tensión cambiaria, el oficialismo negocia votos y recorta el ajuste para aprobar el Presupuesto 2027",
-     "url": "https://www.perfil.com/economia/el-gobierno-quiere-aprobar-el-presupuesto-2027-aU86G0V22xoi",
-     "fecha": "2026-11-26T13:19:07-03:00"
+     "medio": "Infobae",
+     "titulo": "El Gobierno logró aprobar el Presupuesto en Diputados pero tuvo que aumentar los fondos para las universidades",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-logro-aprobar-el-presupuesto-en-diputados-pero-tuvo-que-aumentar-los-fondos-para-las-universidades/",
+     "fecha": "2026-11-27T04:39:52-03:00"
     }
    ],
    "otras": [],
    "alertas": [
-    "La sesión todavía no tiene resultado; Perfil informa dudas sobre los votos del Presupuesto.",
-    "Letra P informa que el gobernador de Córdoba negocia un refuerzo para las universidades; es una sola fuente y falta confirmar el monto y la partida (Letra P no figura como fuente prioritaria).",
-    "Falta el texto del Presupuesto 2027 para citar las partidas de educación y qué ajuste se recortó."
+    "Falta el resultado de la votación y el texto aprobado como fuente primaria.",
+    "Las notas de discapacidad ('hay quejas por discapacidad y universidades', Perfil) no detallan qué partidas se discuten; falta el dato."
    ]
   },
   {
    "id": "cgt-obras-sociales",
    "seccion": "Política",
    "semaforo": "🟢",
-   "titulo": "La CGT marcha por la crisis de las obras sociales sindicales",
-   "resumen": "La Confederación General del Trabajo (CGT) se moviliza este jueves 26 de noviembre por la crisis financiera de las obras sociales sindicales y exige una respuesta urgente al Gobierno nacional. La Justicia ordenó frenar despidos en el Instituto de Obra Social de las Fuerzas Armadas y de Seguridad (IOSFA), otro frente abierto del sistema de obras sociales (ver Para chequear).",
-   "por_que_importa": "Las obras sociales sostienen la cobertura de salud de quienes tienen empleo registrado, incluidos los y las jóvenes que entran al mercado laboral.",
-   "primaria": null,
-   "fuentes": [
-    {
-     "medio": "Perfil",
-     "titulo": "La CGT marcha este jueves por la crisis de las obras sociales",
-     "url": "https://www.perfil.com/politica/la-cgt-marcha-este-jueves-por-la-crisis-de-las-obras-sociales-a11I95Z6MBW4",
-     "fecha": "2026-11-26T08:50:59-03:00"
-    },
-    {
-     "medio": "elDiarioAR",
-     "titulo": "La CGT se moviliza por el desfinanciamiento y la crisis financiera de las obras sociales sindicales",
-     "url": "https://www.eldiarioar.com/politica/cgt-moviliza-desfinanciamiento-crisis-financiera-obras-sociales-sindicales_1_13695441.html",
-     "fecha": "2026-11-26T09:05:59-03:00"
-    },
-    {
-     "medio": "Ámbito",
-     "titulo": "La CGT marcha por la \"situación crítica\" de las obras sociales y exige al Gobierno una respuesta",
-     "url": "https://www.ambito.com/politica/la-cgt-marcha-la-situacion-critica-las-obras-sociales-y-exige-al-gobierno-una-respuesta-n6349384",
-     "fecha": "2026-11-26T00:45:00-03:00"
-    }
-   ],
-   "otras": [],
-   "alertas": [
-    "Sonido Gremial informa que la marcha va a la Superintendencia de Servicios de Salud por una deuda del Gobierno con las obras sociales; ese medio no integra la lista seria y falta confirmar el destino y el monto.",
-    "Radio Gráfica informa un \"cese de tareas\" para diciembre; está sin confirmar por una fuente seria.",
-    "Falta el recorrido, el horario y la cifra de la deuda."
-   ]
-  },
-  {
-   "id": "terroristas-deportados",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "El Gobierno no registra los \"terroristas\" deportados que mencionó Milei",
-   "resumen": "El informe de gestión de la Jefatura de Gabinete de Ministros ante el Senado de la Nación registra 43.568 incidentes y ningún caso de terrorismo, mientras Javier Milei, presidente de la Nación, había hablado de miles de \"terroristas\" deportados. Las expulsiones registradas equivalen al 6% de la cifra anunciada por el Presidente.",
-   "por_que_importa": "Es un caso de dato oficial que contradice lo dicho en un discurso: importa para saber con qué información se discuten migración y seguridad.",
-   "primaria": {
-    "nombre": "Informe de Jefatura de Gabinete al Senado (citado por La Nación y Ámbito)",
-    "url": null
-   },
+   "titulo": "La CGT marchó por la crisis de las obras sociales y el Gobierno rechazó las cifras de desfinanciamiento",
+   "resumen": "La Confederación General del Trabajo (CGT) se movilizó el jueves 26 de noviembre por la crisis de las obras sociales y acusó al Gobierno de \"robarse la plata de las obras sociales\"; la central pidió renuncias. El Gobierno respondió que los números del desfinanciamiento \"no son números reales\". En paralelo, la Justicia frenó los despidos en el Instituto de Obra Social de las Fuerzas Armadas y de Seguridad (IOSFA) y ordenó reincorporar a los trabajadores desplazados.",
+   "por_que_importa": "Las obras sociales cubren la salud de millones de trabajadores y de sus familias, jóvenes incluidos.",
    "fuentes": [
     {
      "medio": "La Nación",
-     "titulo": "43.568 incidentes, cero terrorismo: el Gobierno desconoció los “20.000 terroristas” deportados que denunció Milei",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkRLaEF2OHFUVWVSUVo5QXVfNEFrVndObWxTNy1Tb0FBdXF1S3JoUTZWMmZRMHY4TC1xblY4TVFYNVI2OG9lckYwTHZ2cHJtUFFNXzZPcTNJaXloT1JuNUNhQkYyMGpsanNFVlhjSlF0ZlJXSTVkYXB6UlcxYlVpSkw5Smk3MWJJNnIxTVhoVTBFYXVBQnZfc3RwbWF5cDdqRUY5cnRORG5RbzkweG9UUU0wS0FiN1k5TDNHLXJfU0J6MDBBR1lVdFhGQWIwN1FVWnFkT3d5b1FTZw?oc=5",
-     "fecha": "2026-11-25T13:23:00-03:00"
-    },
-    {
-     "medio": "Página/12",
-     "titulo": "Ni el Gobierno puede sostener las mentiras de Milei: confirmaron que no hubo 30 mil terroristas deportados",
-     "url": "https://www.pagina12.com.ar/2026/11/26/ni-el-gobierno-puede-sostener-las-mentiras-de-milei-confirmaron-que-no-hubo-30-mil-terroristas-deportados/",
-     "fecha": "2026-11-25T21:07:43-03:00"
-    },
-    {
-     "medio": "Ámbito",
-     "titulo": "El Gobierno reconoció que no hubo 20.000 terroristas deportados y desmintió a Javier Milei",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHF1anVDb1VSRE1rZjg4WmcxSkFhbVFBMWZweVNIQ2dQWnRfWmo4em1pa0R6ZUxMQjEtWFljSndxd0NnWTVyc0JiVXNvLWhSYjNXeVNiam5ZTmcwT0ZfbmdwOFVfVXpiT1dLVGNRZkxuLU1qZFU0TjBEbjhVU2Radmd4YjhtR2VBb1NMemxPMU12UlRvQ3RjODFWaDdxOV9HNFN0YmhlcnFFeElUb3YzX21SQ1dGenRoamQ3d1BVcGoyVWEyN1ZR0gHMAUFVX3lxTE9kN1ZySUpEUTdnWUtzM09MR09fblppZ09vUzV1M1lTeTVjUWxBMnNsb3NYVFhmX2pHaXRfZ3I1LXotMnJIZHg2R0tBUS0tbnZ4NVJVTEkxUlhmWW5DMXdjRmNWeUF2VDc1ZElCYzBQWEh1a0R3V01lanJ6TlAzTW5odGRlOFc1LUlkWURUV2I5WHRubFQ3RWdnRUpHUm5uUWg2RDlSX0sxQlZzYVVuMmhzaU9KRUFPZHJ3SXZKdnh5MmtBTEh2QVJhQ1lYTg?oc=5",
-     "fecha": "2026-11-25T17:59:00-03:00"
-    },
-    {
-     "medio": "Letra P",
-     "titulo": "El Gobierno echó apenas al 6% de los 30.000 \"terroristas\" que dijo haber expulsado Javier Milei",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTkxHS2VieXVOUjZWRXZBLXUwb0dpVjMxeUJlTHp3aDFIY1BwbU5RS1U0UVdpR3lwWDEyUUFDaHVtamR4RnZNbmFtaVJrb3VDS1R2aEJSRFkxQzFSa3E2NHpXbVczV3JiSWFESUl4bEp6c0xlby1uZkpPejkzdWlCb2k1YnRMbUkxWGlZTTdSemtuV3hReVhLM2s1MTcwSmZjOUUzQWVVRlhQaFdCOVZ1YW5SRXdWWFNBRFZJVi1sVzBnaENTa2dPVEJvdFLSAdIBQVVfeXFMTldEa0k5a29oY25yU1REN24waDlBWDVITVVqck93dHVIdGNxaC03TlYzSUNaSXRkVTVNb1J5d3B4RWEtZHVLR0JFdlA0R24tTEdNd24xTlN3SllMczZfekktZU5Od09ZdkpSQ2RHNnhzakNiMjZJU3lhNE9TaWNpc3pncTRjNncwb2hYWHloMGRWbkpLN25ISnVEdktfX3A2SzJGMlhZYkpHZ0FKSktoNmFHOUozaFJWTGQtdXBIOERWVkR3amZKeTZvanMtVVo2QzRB?oc=5",
-     "fecha": "2026-11-25T18:23:00-03:00"
+     "titulo": "La CGT marchó por la crisis de las obras sociales, elevó el tono contra el Gobierno y pidió renuncias",
+     "url": "https://www.lanacion.com.ar/politica/la-cgt-marcho-por-la-crisis-de-las-obras-sociales-elevo-el-tono-contra-el-gobierno-y-pidio-renuncias-nid26112026/",
+     "fecha": "2026-11-26T18:24:56-03:00"
     },
     {
      "medio": "Infobae",
-     "titulo": "Diego Santilli presenta ante el Senado su primer informe como jefe de Gabinete: “Valió la pena ordenar las cuentas”",
-     "url": "https://www.infobae.com/politica/2026/11/25/diego-santilli-presentara-ante-el-senado-su-primer-informe-como-jefe-de-gabinete/",
-     "fecha": "2026-11-25T21:16:26-03:00"
+     "titulo": "La CGT se movilizó por la crisis en salud y acusó al Gobierno de “robarse la plata de las obras sociales”",
+     "url": "https://www.infobae.com/politica/2026/11/26/la-cgt-se-movilizo-por-la-crisis-en-salud-y-acuso-al-gobierno-de-robarse-la-plata-de-las-obras-sociales/",
+     "fecha": "2026-11-26T20:00:32-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "La CGT denunció desfinanciamiento en obras sociales, pero el Gobierno lo negó: \"No son números reales\"",
+     "url": "https://www.ambito.com/politica/la-cgt-denuncio-desfinanciamiento-obras-sociales-pero-el-gobierno-lo-nego-no-son-numeros-reales-n6349873",
+     "fecha": "2026-11-26T21:08:00-03:00"
     }
    ],
    "otras": [
-    "Hoy Día Córdoba",
-    "El Argentino Diario"
+    {
+     "medio": "Clarín",
+     "titulo": "La Justicia frenó los despidos en la obra social de los militares y ordenó reincorporar a trabajadores",
+     "url": "https://www.clarin.com/politica/justicia-freno-despidos-obra-social-militares-ordeno-reincorporar-trabajadores_0_eGIYRBv5DM.html",
+     "fecha": "2026-11-26T11:52:56-03:00"
+    }
    ],
    "alertas": [
-    "DISCREPANCIA DE CIFRAS. los medios hablan de 20.000 y de 30.000 \"terroristas\". Hay que ver el discurso original y el informe de la Jefatura de Gabinete para confirmar qué cifra dijo Milei.",
-    "Falta el link oficial del informe para citar la página exacta.",
-    "Página/12 informa que el informe de Diego Santilli dejó dudas sobre la Secretaría de Inteligencia de Estado (SIDE) y los gastos presidenciales; los títulos no permiten detallar cuáles."
-   ],
-   "idea_carrusel": {
-    "formato": "narrativo",
-    "enfoque": "La historia de una cifra dicha en un discurso y desmentida por el informe oficial de la Jefatura de Gabinete de Ministros ante el Senado. Le habla a quien consume política en redes y quiere saber de dónde sale un dato.",
-    "portada": "Miles de *terroristas* deportados. El informe oficial dice otra cosa",
-    "placas": [
-     "Miles de *terroristas* deportados. El informe oficial dice otra cosa",
-     "Javier Milei, presidente de la Nación, habló de miles de \"terroristas\" deportados. *Los medios recogen cifras de 20.000 y de 30.000* (a confirmar con el discurso original).",
-     "Diego Santilli, jefe de Gabinete de Ministros de la Nación, presentó su primer informe de gestión ante el Senado.",
-     "Según el informe de la Jefatura de Gabinete, *hubo 43.568 incidentes y ningún caso de terrorismo.*",
-     "Las expulsiones registradas *equivalen al 6% de la cifra anunciada* por el Presidente.",
-     "Cuando escuches un número en un discurso, *buscá el informe.*"
-    ],
-    "copy": "¿Mirás política en redes? ¿Te llegan datos sin fuente todos los días? Esta historia es para vos. Comparamos lo que se dijo con lo que dice el informe oficial.",
-    "audiovisual": [
-     "Video del discurso original de Javier Milei con la cifra.",
-     "Captura de la página del informe de la Jefatura de Gabinete.",
-     "Foto de fondo del Senado el día del informe."
-    ],
-    "a_chequear": [
-     "Qué cifra exacta dijo Milei (20.000 o 30.000) y en qué discurso.",
-     "Link oficial del informe y página exacta con 43.568 incidentes y cero casos de terrorismo.",
-     "Cómo se calcula el 6% de expulsiones registradas."
-    ]
-   }
+    "Las cifras del desfinanciamiento no coinciden entre la CGT y el Gobierno y ninguna está en los títulos; hay que pedir el dato a la Superintendencia de Servicios de Salud.",
+    "Falta qué renuncias pidió la CGT y a quién; no figura en los títulos.",
+    "Falta el juzgado que ordenó frenar los despidos en el IOSFA y el número de trabajadores; los títulos no lo traen."
+   ]
   },
   {
-   "id": "recesion-tecnica",
+   "id": "banco-central-ley",
    "seccion": "Economía",
    "semaforo": "🟢",
-   "titulo": "La economía entró en recesión técnica y las ventas en supermercados cayeron 3%",
-   "resumen": "El Instituto Nacional de Estadística y Censos (INDEC) registró dos trimestres seguidos de caída de la actividad, lo que se define como recesión técnica, aunque en septiembre la actividad subió 1,1% respecto de agosto. Las ventas en supermercados cayeron 3% interanual en septiembre. Luis Caputo, ministro de Economía de la Nación, dijo que \"ya estamos con dos meses seguidos de crecimiento\".",
-   "por_que_importa": "Menos actividad suele traducirse en menos changas, menos primer empleo y salarios que rinden menos.",
+   "titulo": "La reforma de la Carta Orgánica del Banco Central es ley y el Senado podrá remover directores",
+   "resumen": "La Cámara de Diputados de la Nación convirtió en ley la reforma de la Carta Orgánica del Banco Central de la República Argentina (BCRA), con las modificaciones que había introducido el Senado. La ley le da al Senado la facultad de remover directores. Javier Milei, presidente de la Nación, celebró la sanción con la frase \"Se terminó con más de 90 años de estafa\".",
+   "por_que_importa": "La ley define quién maneja la emisión de pesos y cómo se controla al Banco Central, algo que termina en los precios y en el bolsillo.",
    "primaria": {
-    "nombre": "INDEC · Encuesta de supermercados. Septiembre de 2026",
-    "url": null
+    "nombre": "Declaración de Javier Milei, presidente de la Nación, sobre la reforma de la Carta Orgánica del BCRA",
+    "url": "https://www.infobae.com/politica/2026/11/26/milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa/"
    },
    "fuentes": [
     {
-     "medio": "Ámbito",
-     "titulo": "La economía entró en recesión técnica: sumó dos trimestres seguidos de caída pese a crecer 1,1% mensual en septiembre",
-     "url": "https://www.ambito.com/la-economia-entro-recesion-tecnica-sumo-dos-trimestres-seguidos-caida-pese-crecer-11-mensual-septiembre-n6348824",
-     "fecha": "2026-11-25T11:35:00-03:00"
-    },
-    {
-     "medio": "Página/12",
-     "titulo": "La economía argentina entró en recesión técnica tras dos trimestres consecutivos en retroceso productivo",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0p3VFIxV3lYanZNOHlLeXJfVkgxM0puVDM2eWhoOTVUWnNja3B3UjNzcjVBQUdNYmJJbl9kMWtBT293ZEFfbDczVTFqbFVKNkhGX2pQUTh3VHpjNkZPWVNRbzY0N0pOYnZWVW4zNVJYdVlYUFhlbEZPWVpBQV92Q1dhTG5DNEdROVFfUE1YU1lBOWtQU1d3RVhiZ2hoaGJRVXdPZi1fQ2IyRVdjak5wRkhQbXI5X2FkeTNnQlg3amM4X1NYbHYwWE9UbW9oalZaN3NaVi1FV3F1LTFu?oc=5",
-     "fecha": "2026-11-25T14:44:54-03:00"
+     "medio": "Clarín",
+     "titulo": "Con las modificaciones impuestas por el Senado, Diputados convirtió en ley la reforma del Banco Central",
+     "url": "https://www.clarin.com/politica/modificaciones-impuestas-senado-diputados-convirtio-ley-reforma-banco-central_0_mPFvbxyRT7.html",
+     "fecha": "2026-11-26T14:43:15-03:00"
     },
     {
      "medio": "Infobae",
-     "titulo": "Caputo relativizó la recesión técnica: “Es historia pasada, ya estamos con dos meses seguidos de crecimiento”",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZkVxVUlJdGRzLXVoOHE0Uzk3SzdORVRtYWFXcHlGTVJ3TkRycWJYc1YzUE0taV80cHJwb1otM21CU0VfY3M0T25QUUVoNWVrNkU3bHdDQjlNcktJRkRUZXRrWjdmVTdpR0FCc0FLSWlXSGRqb29iX2hPbEN5cl9UTWhLZTFVR2FLWC1mLU1PbjVuaVhXZXZkYlZ2VWdVN1NPQ1pyc3BVTFFwc3czTndUS2NqMERzbXdFU0V2THVKQjFSbm9LSElCRXdMNUhQMEI5OFFkQzQ4UmRDYUI1b2pBSW5BR0_SAf8BQVVfeXFMTTRndlZFTGVsckN0T3pzZkpvSFdLemg5d2E3SHNQSVJJOThCYk8xQXE5RlNjdzE5UkZ2V0JQNTB3RW1OY29DZVdVOWVUaUVMUlFCV1hvM25BZWw3dnJRSkdYZWR5c0hWSUhBMG9Cb1NDbmxMMmlON2FDanNmSVVHVk9fNjE3cFl6VnVyd0RmRk1UYzZzM1lIZ3IyNWcxWXdmamRldFJ5Y0E0RkdCUnJaY0VmblVMOW1XTF91X29qa0k3R09peFRldmYwbWFFR1dQc2tlMm5zN3kzSUhCeWVrN0d0WVVvRVd3bTVtZExpQjF2T3R1SXNLMU1DRzUxaXNZ?oc=5",
-     "fecha": "2026-11-25T16:51:19-03:00"
+     "titulo": "Diputados convirtió en ley la reforma de la Carta Orgánica del Banco Central",
+     "url": "https://www.infobae.com/politica/2026/11/26/diputados-convirtio-en-ley-la-reforma-de-la-carta-organica-del-banco-central/",
+     "fecha": "2026-11-26T16:02:01-03:00"
     },
     {
-     "medio": "El Cronista",
-     "titulo": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída",
-     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
-     "fecha": "2026-11-25T16:08:29-03:00"
-    },
-    {
-     "medio": "Clarín",
-     "titulo": "Consumo en rojo: las ventas en supermercados cayeron 3% en septiembre y acumulan nueve meses en baja",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3VMWlZyVUpzRnhYVkZ4TXhJNkt4WFpubE83NDdFLWZKZ2J3ZjVxLWNvVXlUQnRTdWdoZm1IWURYa2xjT19rX0VKR1FVQWFSbENfQTZxY3VSNnRIUUlWd2tRZmZuWDd3U05XMkpXQ3B5Q3ZadExPZF8xNEJkMks5Y0ZQcjZMdWZzNUdfOFpQelhXOFlpLWFfRzg2UUpsRTI5ZXJ4aVZ3NnhQQkxNQmZWYmtsbnh5c282WlZHSmhxWHJ4dw?oc=5",
-     "fecha": "2026-11-25T17:26:00-03:00"
+     "medio": "Letra P",
+     "titulo": "Banco Central: la reforma de la Carta Orgánica es ley y el Senado podrá echar directores",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3RUMDI5c0JXcVJFZzc1VGtTemJqVm1zZ2RxTkZueG1IRDlKOENGRlBKOE55X2haeWhsbk5lMGZGMDJVU0dEb3FpU1hpNGF5UUNWTzg1Y3huME9SRDdhNEp3UWJ6XzNoUmZNOVJTMzd1UGdQb3FVVlozTTRrRUhSekxhSVVNZ3V0Q0FzeEdFdzREcFg5aXhuR2o2ZkRETDhuaHVGd05CdGpieWRvaXhXYi1teGtrN25tUXFPaGZlMzAzang2YzRF0gHMAUFVX3lxTE9JX1ozd1FHejd2OG5QWGVrQ1MtQkJuWGhSaWpxeWlKYk91TmlxMVFXcWpYNTV4c1JiVm9MdTF1Y2xnU3RkZWdGYzdRUGM2NWRYR1pTODIyMFlrQ2VkeUItLTEzTHlIQ2c4TTBjOG41RENmNTZWLXlrbktIdFdvWTJyYnNSa252ZEpmNlpDa1hzUDlvWUtZcnVDNlZKcGpsdzNlQWIyc1JMZy1CX2l5Q0pnM1FSTi04TlpkbG9RQ3Jxd3E4OTBXcjJmLXF2dQ?oc=5",
+     "fecha": "2026-11-26T15:13:00-03:00"
     }
    ],
    "otras": [
-    "Infobae",
-    "elDiarioAR",
-    "Radio Profesional 89.9"
+    {
+     "medio": "Infobae",
+     "titulo": "Milei celebró la reforma de la Carta Orgánica del Banco Central: \"Se terminó con más de 90 años de estafa\"",
+     "url": "https://www.infobae.com/politica/2026/11/26/milei-celebro-la-reforma-de-la-carta-organica-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa/",
+     "fecha": "2026-11-26T16:08:30-03:00"
+    }
    ],
    "alertas": [
-    "DISCREPANCIA DE CIFRAS. El Cronista y Clarín hablan de nueve meses de caída de las ventas en supermercados; Ámbito, de un cuarto mes seguido de caída con 2,9% acumulado. Hay que verificarlo en la Encuesta de Supermercados del INDEC.",
-    "Los títulos mezclan la caída trimestral con la suba mensual de septiembre (1,1%) y con el 3% interanual de supermercados; son datos distintos.",
-    "Falta el link directo al informe del INDEC."
-   ],
-   "idea_carrusel": {
-    "formato": "satírico de lista",
-    "enfoque": "Tres temas del día (la universidad, la recesión y la cifra de \"terroristas\" que el propio Gobierno no registra) comparten un patrón; en formato de lista irónica, cada reclamo legítimo de los y las jóvenes aparece como un \"delito\", y las acciones a tomar son lo que el Gobierno nacional hizo de verdad.",
-    "portada": "Delitos *graves* de la juventud *argentina* (y cómo lidiar con ellos)",
-    "placas": [
-     "*Estudiar en una universidad pública.* Una persona de bien se forma sola, sin pedirle nada a nadie; si encima quiere que el Congreso de la Nación le garantice la plata con una ley, ya es demasiado. *Acciones a tomar* ☑ Frenar la Ley de Financiamiento Universitario (Ley 27.795) con el Decreto 759/2025. ☑ Apelar el fallo de Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11, que ordenó aplicarla.",
-     "*Buscar laburo en plena recesión.* El Instituto Nacional de Estadística y Censos (INDEC) dice que la economía cayó dos trimestres seguidos, pero eso es solo una forma de verlo. *Acciones a tomar* ☑ Que Luis Caputo, ministro de Economía de la Nación, diga que la recesión técnica es una definición \"arbitraria\".",
-     "*Pedir que los datos sean ciertos.* Desconfiar de una cifra del Presidente es casi un acto de sabotaje. *Acciones a tomar* ☑ Que Javier Milei, presidente de la Nación, anuncie miles de \"terroristas\" deportados. ☑ Que el informe de gestión de la Jefatura de Gabinete de Ministros registre 43.568 incidentes y ningún caso de terrorismo.",
-     "*¿Qué otro delito detectaste?* Avisanos en comentarios así te damos un cargo en el Ministerio de Cosplay."
-    ],
-    "copy": "El que las hace, las paga 🤬 En la Argentina libertaria no hay lugar para jóvenes que estudian, buscan laburo o piden datos ciertos, así que el Gobierno nacional ya tiene la solución para cada caso.",
-    "audiovisual": [
-     "Portada con una foto en blanco y negro de Javier Milei y Luis Caputo, intervenida con dibujos en rojo.",
-     "Fotos en blanco y negro de la marcha universitaria, de una fila de búsqueda laboral y del Senado de la Nación, con círculos y flechas rojas a mano.",
-     "Panel gris pizarra con el título en rosa salmón, \"Acciones a tomar\" en amarillo y casillas rojas, y el logo de Soda en la última placa."
-    ],
-    "a_chequear": [
-     "La cifra exacta de \"terroristas\" que dio Milei (20.000 o 30.000) por si se quiere citar.",
-     "Confirmar que la apelación del Estado nacional sigue en curso ante la Sala III antes de publicar."
-    ]
-   }
+    "La nota de El Cronista enumera 5 cambios clave; el texto no se pudo leer y hay que contrastarlo con la ley publicada en el Boletín Oficial.",
+    "Falta el resultado de la votación en Diputados."
+   ]
   },
   {
-   "id": "rigi-argentina-lng",
-   "seccion": "Economía",
+   "id": "ludopatia-ley",
+   "seccion": "Juventud y educación",
    "semaforo": "🟢",
-   "titulo": "El Gobierno aprobó el ingreso de Argentina LNG al RIGI, la inversión más grande del régimen",
-   "resumen": "El Gobierno nacional aprobó el ingreso de Argentina LNG al Régimen de Incentivo para Grandes Inversiones (RIGI) con una inversión de US$ 50.750 millones, la más grande del régimen. Diario Río Negro ubica el proyecto en Vaca Muerta y el Golfo San Matías.",
-   "por_que_importa": "Es la mayor inversión anunciada del régimen y su impacto en empleo y exportaciones define oportunidades laborales para las generaciones jóvenes.",
-   "primaria": null,
+   "titulo": "Es ley la prevención de la ludopatía: el Senado prohibió las apuestas online para menores y la publicidad de juegos de azar",
+   "resumen": "El Senado de la Nación convirtió en ley, por unanimidad, el proyecto de prevención de la ludopatía (las leyes de Ludopatía I y II). La norma prohíbe las apuestas online para menores y la publicidad de los juegos de azar. La Iglesia católica celebró la aprobación y la calificó como \"triunfo colectivo\". Ayer también la Cámara de Diputados de la provincia de Buenos Aires destrabó su ley de ludopatía.",
+   "por_que_importa": "Las apuestas online pegan de lleno en los pibes y pibas, que las tienen a un clic en el celular.",
    "fuentes": [
     {
-     "medio": "Ámbito",
-     "titulo": "El Gobierno aprobó el ingreso al RIGI de Argentina LNG, la inversión más grande del régimen, por u$s50.750 millones",
-     "url": "https://www.ambito.com/energia/el-gobierno-aprobo-el-ingreso-al-rigi-argentina-lng-la-inversion-mas-grande-del-regimen-us50750-millones-n6349475",
-     "fecha": "2026-11-26T07:30:00-03:00"
+     "medio": "Clarín",
+     "titulo": "Por unanimidad, el Senado convirtió en ley el proyecto de Ludopatía",
+     "url": "https://www.clarin.com/politica/senado-convirtio-ley-proyecto-ludopatia-unanimidad_0_w5ybnCEYLT.html",
+     "fecha": "2026-11-26T23:06:48-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "Ludopatía: es ley la prohibición de apuestas online para menores y de la publicidad de los juegos de azar",
+     "url": "https://www.eldiarioar.com/politica/ludopatia-ley-prohibicion-apuestas-online-menores-publicidad-ropa-deportiva_1_13697944.html",
+     "fecha": "2026-11-27T05:31:03-03:00"
     },
     {
      "medio": "Perfil",
-     "titulo": "Argentina LNG: luz verde a la mayor inversión de la historia argentina por US$ 50.750 millones",
-     "url": "https://www.perfil.com/economia/argentina-lng-el-gobierno-aprobo-el-mayor-rigi-de-la-historia-por-us-50.750-millones-aVrp17T9SrNe",
-     "fecha": "2026-11-26T07:59:00-03:00"
-    },
-    {
-     "medio": "El Cronista",
-     "titulo": "Oficializan el ingreso de Argentina LNG al RIGI, con una inversión histórica de u$s 50.750 millones",
-     "url": "https://www.cronista.com/economia-politica/oficializan-el-ingreso-de-argentina-lng-al-rigi-con-una-inversion-historica-de-us-50750-millones/",
-     "fecha": "2026-11-26T09:53:24-03:00"
+     "titulo": "El Senado sancionó la ley contra la ludopatía: prohíben la publicidad de apuestas online",
+     "url": "https://www.perfil.com/cordoba/el-senado-sanciono-la-ley-contra-la-ludopatia-prohiben-la-publicidad-de-apuestas-online-a9jqr0v0OGwA",
+     "fecha": "2026-11-27T08:22:02-03:00"
     }
    ],
    "otras": [
     {
-     "medio": "Diario Río Negro",
-     "titulo": "Argentina LNG entró al RIGI: invertirán US$ 50.750 millones en Vaca Muerta y el Golfo San Matías, los detalles",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3ZuOWxEY1FwLTkwMTh6OGdyZ2w4QzB2eHIwWDhZQ04zRmRkTGpnMVYyY1FNb1B6SllrdUQ5alFMaDNDQ0xfb2hlWWRDOFM3MXRkRFZnOUl2ZVcyM3I2MWx4WlJRRVpkMEJQTFlUY0Jhd3pidUxwTkdBUjRZS3ozWG1kbTFzRG44TWtPeDBiYTRhUXU3SWVzTnlEeWUwWXYtSTVta2NYZUp2Nmd2NHR0bVJuekhlczBQYkM3bHB5UGx6TUJnREdNVlFrUzh4VFI4T2FsVFZn0gHeAUFVX3lxTE96OVp2dVlBamM3QTVCb3ZCZEhLbENDX3dhbndUVEYxcUh0WFpwck8wbkZVSGw1T1VGV1RPOXQ4dTVFbGRIanFIeXJFVGdIYXBBUTdGamNiM1ZBQXM4WEV4UXR3cnRPUENIY3ROc3ZIRXRaY3pYTEkxTm54ZXhuWnFadmF1eUc1OVFfRGFPUnBwNzRZUmgwNVRWLTF2aEZIQU5pdk5VS3NfMFdBYXpJTURQWVJkbk4ybDU0WlVobnRKLVZEakptckd6S1BCbjVKY3JHS2VnNklIY25CZG95Zw?oc=5",
-     "fecha": "2026-11-26T09:13:10-03:00"
+     "medio": "Clarín",
+     "titulo": "La Iglesia celebró la aprobación de la ley contra la ludopatía y la calificó como un \"triunfo colectivo\"",
+     "url": "https://www.clarin.com/politica/iglesia-celebro-aprobacion-ley-ludopatia-califico-triunfo-colectivo_0_Wpxdn7UTht.html",
+     "fecha": "2026-11-27T00:36:14-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "El Senado aprobó las leyes de Ludopatía I y II, el Registro de Alimentantes Morosos y otros proyectos",
+     "url": "https://www.perfil.com/politica/el-senado-aprobo-las-leyes-de-ludopatia-i-y-ii-el-registro-de-alimentantes-morosos-y-otros-proyectos-aFbAj2s9Ioha",
+     "fecha": "2026-11-27T04:04:16-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "La Legislatura bonaerense avanzó con una ley para regular el negocio de las apuestas online",
+     "url": "https://www.perfil.com/politica/la-legislatura-bonaerense-avanzo-con-una-ley-para-regular-el-negocio-de-las-apuestas-online-awB8q8q2lbn2",
+     "fecha": "2026-11-26T18:08:54-03:00"
     }
    ],
    "alertas": [
-    "Falta la resolución o el Boletín Oficial con el texto de la aprobación; El Cronista habla de \"oficialización\".",
-    "Faltan los datos de empleo, plazos y las empresas que integran el proyecto, que no figuran en los títulos.",
-    "El monto de US$ 50.750 millones es la inversión proyectada y no un desembolso confirmado."
-   ]
+    "Falta el texto de la ley para detallar la edad mínima, el alcance de la prohibición publicitaria (el título de elDiarioAR menciona la ropa deportiva), las sanciones y cuándo entra en vigencia.",
+    "Falta el nombre del organismo que controlará el cumplimiento."
+   ],
+   "idea_carrusel": {
+    "formato": "narrativo",
+    "enfoque": "Cuenta cómo una ley frenada durante años terminó sancionándose por unanimidad y qué cambia para quienes apuestan desde el celular; le habla a los pibes y pibas que ven publicidad de casas de apuestas todo el día.",
+    "portada": "Apostar desde el celular ya *es un problema* de todos",
+    "placas": [
+     "Abrís el celular y aparece la publicidad. Un click, un depósito, otra vez. Cualquiera que tenga un amigo que apuesta sabe cómo termina. *Eso se llama ludopatía.*",
+     "Durante años los proyectos para frenar las apuestas online quedaron sin tratarse en el Senado de la Nación. Este jueves 26 de noviembre el oficialismo y el peronismo cerraron un acuerdo y se votó.",
+     "El resultado. El Senado convirtió en ley, *por unanimidad*, el proyecto de prevención de la ludopatía (las leyes de Ludopatía I y II).",
+     "Qué prohíbe. *Las apuestas online para menores* y la publicidad de los juegos de azar (detalle de edades y alcance a confirmar con el texto de la ley).",
+     "Quiénes la celebraron. La Iglesia católica la calificó como *\"triunfo colectivo\"* y la Cámara de Diputados de la provincia de Buenos Aires también destrabó su ley de ludopatía.",
+     "La próxima vez que veas una publicidad de apuestas, fijate si todavía está. *Ahora la ley de prevención de la ludopatía dice que no puede estar.* (A confirmar cuándo entra en vigencia.)"
+    ],
+    "copy": "¿Tenés amigos que apuestan? ¿Te aparece publicidad de casas de apuestas todo el día? Esta historia es para vos. El Senado aprobó por unanimidad una ley que prohíbe las apuestas online para menores y la publicidad de los juegos de azar. Te contamos qué cambia.",
+    "audiovisual": [
+     "Foto de fondo: el recinto del Senado de la Nación durante la votación, o una captura de una publicidad de apuestas en el celular (sin marca identificable).",
+     "Video de la votación del Senado y declaración de la Iglesia, a confirmar.",
+     "Captura del texto de la ley sancionada."
+    ],
+    "a_chequear": [
+     "Texto de la ley (edad mínima, alcance de la prohibición publicitaria, sanciones, organismo de control y fecha de entrada en vigencia).",
+     "Resultado exacto de la votación (Clarín informa unanimidad).",
+     "Qué dice la ley bonaerense y si ya es ley."
+    ]
+   }
   },
   {
    "id": "universidades-presupuesto-2027",
    "seccion": "Juventud y educación",
    "semaforo": "🟢",
-   "titulo": "Paro universitario y marcha al Congreso contra el Presupuesto 2027",
-   "resumen": "Los docentes universitarios pararon y este jueves 26 de noviembre marchan al Congreso de la Nación contra el Presupuesto 2027 y por el cumplimiento de la Ley de Financiamiento Universitario (Ley 27.795). El Consejo Interuniversitario Nacional (CIN) advirtió que las universidades no podrán funcionar en 2027 si el Presupuesto no contempla esos fondos. Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal, dictaminó que el Decreto 759/2025, con el que el Gobierno nacional frenó la aplicación de la ley, es inconstitucional, y pidió confirmar el fallo de Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11, que ordenó aplicarla; ahora decide la Sala III de esa Cámara.",
-   "por_que_importa": "Si no hay fondos, lo que se pone en juego es cursar, becas e investigación en la universidad pública el año que viene.",
-   "primaria": {
-    "nombre": "Ley de Financiamiento Universitario / comunicado del CIN (citado por Clarín y TN)",
-    "url": null
-   },
+   "titulo": "La oposición impuso más fondos para las universidades nacionales en el Presupuesto 2027",
+   "resumen": "En la sesión de Diputados que dio media sanción al Presupuesto 2027, la oposición aprobó un aumento de los fondos para las universidades nacionales y también para CONICET, INTI, INTA y SENASA; el Gobierno tuvo que aceptarlo para aprobar el proyecto. El Senado de la Nación debe tratar ahora el Presupuesto completo.",
+   "por_que_importa": "De ese presupuesto dependen las becas, los salarios docentes y el funcionamiento de las universidades públicas.",
    "fuentes": [
     {
+     "medio": "Perfil",
+     "titulo": "Duro revés para Milei en Diputados: la oposición fijó $11 billones para las universidades en el Presupuesto 2027",
+     "url": "https://www.perfil.com/politica/duro-reves-para-milei-en-diputados-la-oposicion-fijo-11-billones-para-las-universidades-en-el-presupuesto-2027-a95My7a6aOqA",
+     "fecha": "2026-11-27T09:47:13-03:00"
+    },
+    {
      "medio": "elDiarioAR",
-     "titulo": "Docentes universitarios realizan un paro por la Ley de Financiamiento y marchan en contra del Presupuesto 2027",
-     "url": "https://www.eldiarioar.com/sociedad/docentes-universitarios-realizan-paro-ley-financiamiento-marchan-presupuesto-2027_1_13691209.html",
-     "fecha": "2026-11-25T06:17:44-03:00"
+     "titulo": "El Presupuesto 2027 tuvo media sanción en Diputados y la oposición logró un mayor aumento para universidades, CONICET, INTI, INTA y SENASA",
+     "url": "https://www.eldiarioar.com/politica/presupuesto-2027-tuvo-media-sancion-diputados-oposicion-logro-mayor-aumento-universidades-conicet-inti-inta-senasa_1_13697975.html",
+     "fecha": "2026-11-27T05:55:21-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno logró aprobar el Presupuesto en Diputados pero tuvo que aumentar los fondos para las universidades",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-logro-aprobar-el-presupuesto-en-diputados-pero-tuvo-que-aumentar-los-fondos-para-las-universidades/",
+     "fecha": "2026-11-27T04:39:52-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "DISCREPANCIA DE CIFRAS. Perfil titula $11 billones para las universidades; el dictamen de mayoría del 17 de noviembre asignaba $7,3 billones (artículo 12). No se publica ninguna cifra hasta contrastar con el texto aprobado en Diputados.",
+    "Falta qué porcentaje de aumento representa para CONICET, INTI, INTA y SENASA."
+   ],
+   "idea_carrusel": {
+    "formato": "narrativo",
+    "enfoque": "Cuenta qué pasó con la plata de las universidades y la ciencia en el Presupuesto 2027 y quién logró más fondos; le habla a quienes estudian o piensan estudiar en una universidad pública.",
+    "portada": "El Gobierno quería recortar y *la oposición le impuso* más plata para las universidades",
+    "placas": [
+     "Estudiar en la universidad pública es un garrón cuando no alcanzan los fondos. *Cualquiera que cursa lo sabe.*",
+     "El Presupuesto 2027 define cuánta plata tienen las universidades nacionales, el CONICET, el INTI, el INTA y el SENASA.",
+     "En Diputados el Gobierno consiguió la media sanción del Presupuesto. *Pero la oposición le incorporó más fondos* para las universidades y la ciencia.",
+     "La cifra. Perfil titula $11 billones; el dictamen del 17 de noviembre asignaba $7,3 billones. *Falta confirmar cuál quedó en el texto aprobado.*",
+     "Lo que viene. El Presupuesto pasa al Senado de la Nación, que decide si sostiene el aumento.",
+     "Si estudiás o querés estudiar, *seguí qué hace el Senado con tu universidad.*"
+    ],
+    "copy": "¿Estudiás en una universidad pública? ¿Pensás hacerlo? Esta historia es para vos. Diputados aprobó el Presupuesto 2027 y la oposición logró más fondos para universidades y ciencia. Te contamos qué falta.",
+    "audiovisual": [
+     "Foto de fondo: marcha universitaria al Congreso.",
+     "Captura del texto aprobado del artículo de universidades.",
+     "Video del recinto de Diputados."
+    ],
+    "a_chequear": [
+     "Cifra exacta de universidades en el texto aprobado ($11 billones o $7,3 billones).",
+     "Resultado de la votación.",
+     "Qué hará el Senado y cuándo."
+    ]
+   }
+  },
+  {
+   "id": "afa-rafecas-beligoy",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "Rafecas unificó la denuncia contra el árbitro Federico Beligoy con la causa por la mansión de Pilar en la Asociación del Fútbol Argentino",
+   "resumen": "El juez federal Daniel Rafecas decidió investigar juntas la denuncia por presunto lavado de dinero contra el árbitro Federico Beligoy y la causa por la mansión de Pilar, vinculada con la cúpula de la Asociación del Fútbol Argentino (AFA). Las dos denuncias pasan a tramitar como una misma investigación.",
+   "por_que_importa": "La causa toca a la AFA, la institución que maneja el fútbol que miran los pibes y pibas todas las semanas.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "Investigarán juntas la denuncia contra el árbitro Beligoy y la mansión de Pilar como una presunta trama de lavado en la cúpula de la AFA",
+     "url": "https://www.infobae.com/judiciales/2026/11/26/la-denuncia-contra-el-arbitro-beligoy-se-investigara-junto-a-la-causa-de-la-mansion-de-pilar-como-parte-de-una-presunta-trama-de-lavado-en-la-cupula-de-la-afa/",
+     "fecha": "2026-11-26T11:58:15-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Causa AFA: unificaron la denuncia por lavado contra Beligoy con la de la mansión de Pilar y se complica la situación de Toviggino",
+     "url": "https://www.perfil.com/economia/causa-afa-unificaron-la-denuncia-por-lavado-contra-beligoy-con-la-de-la-mansion-de-pilar-y-se-complica-la-situacion-de-toviggino-aFdg49p9GkJa",
+     "fecha": "2026-11-26T14:55:04-03:00"
     },
     {
      "medio": "El Cronista",
-     "titulo": "Nuevo paro universitario por el financiamiento y marcharán al Congreso contra el Presupuesto 2027",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVUJtbk5yRWxmWno0QzdwUnhuMlhLMktvWUhwSDB6cjc2a1ZtR01IdXZLY0xNNVIySi04RlhhMWxPR0tnYkw4R0RwSi16V3JnSjlsR1Y0eEUtZ1AyRmlBU2dCR1lpZVVMODU0cEwxelJlMi1uODlNLXllMVJ2VVF2OGhFSV82MlhpRXlCUUkwaTFRZVVtOUpsWElyTXQzM2xWenJhUFA2bnU3Mm9Ienhtd3JPd2U5TTlhZWdleDhDM3ZYc01RUUNkNG8tbVNkVlo0OWppQ196M0rSAfMBQVVfeXFMT3c1Ukk1YXJFcURjUlVXdGc2anlMN0Z4NDBUYkdpMXJoTkJJN2g0WnRxcHVRNTRaR1lrYlB4SzhBOXFqdk1Ob1dlM2pmUHZabGUtNkRZNHRBV1Ntck5QbGJucGwydm1vYTJpc3Zsd0x5dHpsOVVtYmJfUi1YR243emQxUG9oLVlzeS1vTmtZQ0hucTJVNDJFU2VxckE3Q2RIYjFmZFQ0VUtMcWVtZVcySkMwUENxSkRnbTBzWVA0T081THJTems3VFVJUjFoYlVlSXZRTHlNZ3JqR1BmWTRRY1JZbXZZUFVfSUZCUmhiSVdTMHJB?oc=5",
-     "fecha": "2026-11-25T09:38:18-03:00"
-    },
-    {
-     "medio": "Perfil",
-     "titulo": "La UBA se moviliza contra el Presupuesto 2027: paro docente y marcha al Congreso",
-     "url": "https://www.perfil.com/sociedad/la-uba-se-moviliza-contra-el-presupuesto-2027-paro-docente-y-marcha-al-congreso-aKmwN4U1Jyhn",
-     "fecha": "2026-11-25T18:41:17-03:00"
-    },
-    {
-     "medio": "Clarín",
-     "titulo": "Presupuesto 2027: el CIN advirtió que las universidades no podrán funcionar el año próximo si no se incorporan los fondos para su financiamiento",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNnRRZ2lKdHE2aEdpNmVzTndBSWFoLWpfeERoVnJHMDRKMV8wUzd3VXBNWTV5end1UllzN3FjTER0UXpsR0RZRGxCbFpHLUtQTllLTnNFZkl3UGdwN2N0OW5sUVA1eURtaUYwLTY5Sy1TR0stak9lZzRnb0hBZFlCRDZtVGJpamg5bEk1X3RKVDhCRS1DdWZDT3k0c1N2Y2FMY1VwOWk4NzlQbk04b3FFMnRWeWktTG50V0NzLUE4SG5SbzlaTGNBd0xEUXBtbDRwZG1aZE12Z0dzZ2c0c0JzUG9jZU5aeF81dWsw?oc=5",
-     "fecha": "2026-11-25T12:00:00-03:00"
-    },
-    {
-     "medio": "TN",
-     "titulo": "Presupuesto 2027: las universidades alertaron que no funcionarán el próximo año si el Gobierno no cumple la Ley de Financiamiento",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNmwwRk5vYzhlWWxRR1dRMTJBaVUzcUpXMklDVWJZUUFrZ1FOZzVNeHBzVDNKUk9WWlFRcGxNak5BYk85WU5kQVpFajd5dTdSVTRCck56c242RUVSTU9TWjRUYkROQXdfSkEycWVVYkgwTVRBNF9KNkZkNEpSUFhzUXJ2V3dxVmxwbXF5c2xuengzWnlhbEpvdGJMZDF5Z0xRQ3ctenk0U1ZHSVNBRDhDNzRPSnpQd2VqWEF6UEt2RFVwSW8yRWw2b2JFV3prTTY5VnZnOHloNjl1YmV3bkt4WW4xa1c4YU5XSkR4MUs1dklhWnU0UnduX3FXVdIBjwJBVV95cUxObHdjRUVjOHp1bkpnb3Zoc09SekxIbF9XWGpuQ20wMHlUTlFpNVZZSlR4RE1LUElZX1dKdTllNmxZcHVUSTBnS1FaM3h0UGdLM2pySUdJVGR4LUVsNnlTcEpnVjNKQXFBOFc4R1NfMGI1WE9rVlVfX3NDVU1RRTJEaUEzMW1VZUFNRktqOExJZTRjd1pMZHVtSVpLSURxM3pCWUczVnM3VVB1V2VJUnE4d25PUHVyTWltRU9DN2hqd1VGUVFmTUZzTlVkSUNaR01qM2JhanBqQU02eFZOWkpUdzRrNHlUZFlja2F5T1l4eHdhVFJtc2ZCOUllZVRIa0hZbWFZT1VzWVB0RXlnbmNz?oc=5",
-     "fecha": "2026-11-25T19:44:18-03:00"
-    },
-    {
-     "medio": "La Nación",
-     "titulo": "Financiamiento universitario: el fiscal de Cámara respaldó el fallo que ordena aplicar la ley",
-     "url": "https://www.lanacion.com.ar/sociedad/financiamiento-universitario-el-fiscal-de-camara-respaldo-el-fallo-que-ordena-aplicar-la-ley-nid25112026/",
-     "fecha": "2026-11-25T00:00-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Financiamiento universitario: la fiscalía pidió a un tribunal de apelaciones que confirme la aplicación inmediata de la Ley",
-     "url": "https://www.infobae.com/judiciales/2026/11/25/financiamiento-universitario-la-fiscalia-pidio-a-un-tribunal-de-apelaciones-que-confirme-la-aplicacion-inmediata-de-la-ley/",
-     "fecha": "2026-11-25T00:00-03:00"
+     "titulo": "AFA: Rafecas unificó la causa por la mansión de Pilar con una denuncia contra Federico Beligoy",
+     "url": "https://www.cronista.com/economia-politica/afa-rafecas-unifico-la-causa-por-la-mansion-de-pilar-con-una-denuncia-contra-federico-beligoy/",
+     "fecha": "2026-11-26T19:09:51-03:00"
     }
    ],
-   "otras": [
-    "Página/12",
-    "C5N",
-    "Diario Río Negro"
-   ],
+   "otras": [],
    "alertas": [
-    "Falta confirmar el horario y el recorrido de la marcha del jueves 26 de noviembre y qué universidades adhieren; los títulos hablan de paros de 24 y de 48 horas de acuerdo con cada casa de estudios.",
-    "El dictamen de Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal, es una opinión fiscal y no una sentencia; falta la resolución de la Sala III de esa Cámara.",
-    "Letra P informa una negociación para reforzar las universidades en el Presupuesto 2027; falta confirmar el monto con una segunda fuente."
-   ],
-   "idea_carrusel": {
-    "formato": "narrativo",
-    "enfoque": "La historia de una ley votada que el Gobierno nacional frenó con el Decreto 759/2025 y que ahora decide la Sala III de la Cámara en lo Contencioso Administrativo Federal. Le habla a quien cursa en la universidad pública y quiere saber si el año que viene hay clases.",
-    "portada": "Cómo *frenar* una ley que ya votó el Congreso",
-    "placas": [
-     "Cómo *frenar* una ley que ya votó el Congreso",
-     "*Aulas, laboratorios, becas.* Cualquiera que cursa en la universidad pública sabe lo que cuesta sostenerla. El Congreso votó la Ley de Financiamiento Universitario (Ley 27.795) para que los fondos acompañen la inflación y los salarios docentes.",
-     "Pero, pero, pero. *El Gobierno nacional la frenó con el Decreto 759/2025.* El Consejo Interuniversitario Nacional (CIN) advirtió que sin esos fondos las universidades no pueden funcionar en 2027.",
-     "La Justicia ya habló. *Martín Cormick, juez a cargo del Juzgado Contencioso Administrativo Federal N.° 11, ordenó aplicar la ley.* Rodrigo Cuesta, fiscal general ante la Cámara en lo Contencioso Administrativo Federal, dictaminó que el decreto es inconstitucional.",
-     "Hoy, jueves 26 de noviembre, docentes y estudiantes *marchan al Congreso* mientras Diputados trata el Presupuesto 2027. Ahora decide la Sala III de la Cámara.",
-     "La próxima vez que entres a cursar, acordate que el año que viene *depende de una ley que sigue sin cumplirse.*"
-    ],
-    "copy": "¿Cursás en una universidad pública? ¿Tenés clases, beca o laburás en un laboratorio? Esta historia es para vos. La ley de financiamiento universitario existe, la Justicia ordenó aplicarla y el Presupuesto 2027 se vota hoy. Contamos qué pasó y qué falta.",
-    "audiovisual": [
-     "Foto de fondo de la marcha universitaria al Congreso del 26 de noviembre (de archivo propio o de agencia con licencia).",
-     "Captura del texto del Decreto 759/2025 en el Boletín Oficial.",
-     "Captura del dictamen del fiscal Rodrigo Cuesta y del fallo del juez Martín Cormick.",
-     "Video de la marcha para la placa 5."
-    ],
-    "a_chequear": [
-     "Número exacto de la ley (27.795) y texto del Decreto 759/2025 en el Boletín Oficial.",
-     "Qué establece la ley sobre actualización de fondos y salarios; los títulos no lo detallan.",
-     "Fecha del fallo de Martín Cormick y del dictamen de Rodrigo Cuesta.",
-     "Resultado de la votación del Presupuesto 2027 y si incluye algún refuerzo universitario.",
-     "Confirmar el horario y recorrido de la marcha."
-    ]
-   }
-  },
-  {
-   "id": "ludopatia-senado",
-   "seccion": "Sociedad y cultura",
-   "semaforo": "🟢",
-   "titulo": "El Senado trata hoy la ley de prevención de la ludopatía con acuerdo entre el oficialismo y el peronismo",
-   "resumen": "El Senado de la Nación sesiona este jueves 26 de noviembre con la ley de prevención de la ludopatía en el temario, después de que el oficialismo y el peronismo cerraron un acuerdo para sancionarla. La Iglesia pidió su aprobación, y la norma llega tras dos años de proyectos frenados.",
-   "por_que_importa": "Las apuestas online están al alcance de cualquier celular, y la regulación define qué protección tienen los y las jóvenes que apuestan.",
-   "primaria": null,
-   "fuentes": [
-    {
-     "medio": "Infobae",
-     "titulo": "El Senado se encamina a aprobar este jueves la ley de ludopatía tras cerrar un acuerdo con la oposición",
-     "url": "https://www.infobae.com/politica/2026/11/26/el-senado-se-encamina-a-aprobar-este-jueves-la-ley-de-ludopatia-tras-cerrar-un-acuerdo-con-la-oposicion/",
-     "fecha": "2026-11-26T00:57:10-03:00"
-    },
-    {
-     "medio": "Página/12",
-     "titulo": "Qué cambia con la ley de prevención de la ludopatía",
-     "url": "https://www.pagina12.com.ar/2026/11/26/que-cambia-con-la-ley-de-prevencion-de-la-ludopatia/",
-     "fecha": "2026-11-26T10:51:31-03:00"
-    },
-    {
-     "medio": "Perfil",
-     "titulo": "La ludopatía, el poder de la industria del juego y una ley que lleva dos años congelada",
-     "url": "https://www.perfil.com/mas-perfil/la-ludopatia-el-poder-de-la-industria-del-juego-y-una-ley-que-lleva-dos-anos-congelada-aUaox2L9EEtH",
-     "fecha": "2026-11-26T12:38:22-03:00"
-    },
-    {
-     "medio": "Página/12",
-     "titulo": "La Iglesia pide por la ley de ludopatía: “Afecta la vida de las familias”",
-     "url": "https://www.pagina12.com.ar/2026/11/26/la-iglesia-pide-por-la-ley-de-ludopatia-afecta-la-vida-de-las-familias/",
-     "fecha": "2026-11-26T11:29:51-03:00"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Letra P",
-     "titulo": "Legislatura bonaerense: escándalo y sesión fallida en Diputados por las apuestas online",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWpCVjhkdGx6QzdYekVnOTJwVmRoZU5iX1h0U1FSSGtzbzdWb19KcjBLdWxXeEVoVlpjWllQWjhFMlYyUi1oM21QQzhEcjdQV1pFb25QSnk1VTAwcmlZU094OElraTdFSTB0Rm1hamFYeXdUVWN5dXhEVUFLQktRUnY1QkoxVVZDdnVsTDJibGhfR3ExS1hiSHZDelRkcHZZVGRlR0oxUXpfMEJRUDdobEpTc19kamF5OExjN2NoYUEtQdIBxwFBVV95cUxQeUtkb1o1Z2w5cVg5LXR0WldMOVBGYVFtN09LdUUyTUFfRDd6TXI5TjA4cFk5dk9NRDI0ejh1alhZWWlNbHpYS1pLWG9RS0FOX05IOW9MRzRsSzQ3dXlTaVlmbmt1cHZOYWNybjdzYXVpckFjWTQteTdJODFNTTJ3NjdPUlBDSVJ5VTZqZnZ6U0k1U0RoM3pnQ3pOQjYzZTRXSVRKUGtoSGNxb0ZGQUZVekxJbjhETW80dVFickdFQmN0U1JIZW5R?oc=5",
-     "fecha": "2026-11-26T01:02:00-03:00"
-    }
-   ],
-   "alertas": [
-    "La votación todavía no ocurrió.",
-    "Falta el texto del proyecto para detallar qué regula (publicidad, edad mínima, plataformas) y qué cambios se incorporaron; los títulos no lo permiten.",
-    "Los títulos hablan de que la ley \"lleva dos años congelada\"; falta el expediente para confirmar la fecha de los proyectos previos.",
-    "Falta el nombre y el cargo de Bullrich, que figura en un título de Página/12 sin cargo."
-   ],
-   "idea_carrusel": {
-    "formato": "narrativo",
-    "enfoque": "La historia de una ley contra las apuestas online que estuvo dos años frenada y que el Senado trata hoy. Le habla a quien tiene casas de apuestas a un toque en el celular.",
-    "portada": "Apostar desde el celular es *un click*. Frenarlo llevó dos años",
-    "placas": [
-     "Apostar desde el celular es *un click.* Frenarlo llevó dos años",
-     "*Publicidad en la camiseta, en el streaming y en las redes.* Las apuestas online están en todas partes y cualquiera con un celular puede jugar.",
-     "La ley de prevención de la ludopatía *lleva dos años congelada* en el Congreso de la Nación.",
-     "Hoy el oficialismo y el peronismo *cerraron un acuerdo* y el Senado la trata este jueves 26 de noviembre. La Iglesia pidió su aprobación.",
-     "Falta ver qué cambia en concreto para quien apuesta. *El texto del proyecto dice* edad mínima, publicidad y control de plataformas (a confirmar con el proyecto).",
-     "La próxima vez que te llegue una promo de apuestas al celular, fijate *qué ley la regula* y qué votó cada senador."
-    ],
-    "copy": "¿Apostás online o conocés a alguien que lo hace? ¿Te llegan promos al celular todo el día? Esta historia es para vos. Hoy el Senado trata la ley de ludopatía; te contamos qué se sabe y qué falta confirmar.",
-    "audiovisual": [
-     "Foto de fondo de una pantalla de celular con una app de apuestas (captura propia, sin marcas identificables si no hay permiso).",
-     "Video de la sesión del Senado con la votación.",
-     "Captura del proyecto de ley en el sitio del Senado."
-    ],
-    "a_chequear": [
-     "Texto completo del proyecto (qué regula, edad mínima, publicidad, plataformas).",
-     "Resultado de la votación del Senado y si pasa a ser ley.",
-     "Fecha de los proyectos anteriores para confirmar los dos años de demora.",
-     "Nombre y cargo de Bullrich antes de nombrarla en una placa."
-    ]
-   }
-  },
-  {
-   "id": "opus-dei-rafecas",
-   "seccion": "Sociedad y cultura",
-   "semaforo": "🟢",
-   "titulo": "El juez Rafecas cita a indagatoria al número dos del Opus Dei por presunta trata de personas",
-   "resumen": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei en la Argentina y a otros dos sacerdotes por presunta trata de mujeres y reducción a la servidumbre.",
-   "por_que_importa": "Es una causa judicial por explotación laboral y trata de mujeres que involucra a una institución religiosa con peso en la educación y la vida social del país.",
-   "primaria": null,
-   "fuentes": [
-    {
-     "medio": "elDiarioAR",
-     "titulo": "La Justicia argentina cita a indagatoria al número dos del Opus Dei por trata de mujeres y reducción a la servidumbre",
-     "url": "https://www.eldiarioar.com/sociedad/justicia-argentina-cita-indagatoria-numero-opus-dei-trata-mujeres-reduccion-servidumbre_1_13693832.html",
-     "fecha": "2026-11-25T15:52:33-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "El juez Daniel Rafecas llamó a indagatoria al número dos del Opus Dei por presunta trata de personas",
-     "url": "https://www.infobae.com/judiciales/2026/11/25/el-juez-daniel-rafecas-llamo-a-indagatoria-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas/",
-     "fecha": "2026-11-25T20:29:45-03:00"
-    },
-    {
-     "medio": "La Nación",
-     "titulo": "Acusación: el juez Rafecas citó a indagatoria al número dos del Opus Dei por presunta trata de personas",
-     "url": "https://www.lanacion.com.ar/sociedad/acusacion-el-juez-rafecas-cito-a-declarar-al-numero-dos-del-opus-dei-por-presunta-trata-de-personas-nid25112026/",
-     "fecha": "2026-11-25T22:21:06-03:00"
-    },
-    {
-     "medio": "Perfil",
-     "titulo": "El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei y a otros dos sacerdotes por presunta trata de personas",
-     "url": "https://www.perfil.com/sociedad/el-juez-daniel-rafecas-cito-a-indagatoria-al-numero-dos-del-opus-dei-y-a-otros-dos-sacerdotes-por-presunta-trata-de-personas-aKhET8H9dvMO",
-     "fecha": "2026-11-26T07:44:05-03:00"
-    }
-   ],
-   "alertas": [
-    "Faltan el nombre y el cargo exacto de las tres personas citadas, el juzgado y la fecha de la indagatoria; no figuran en los títulos y los sitios de las notas completas no estaban accesibles.",
-    "Una citación a indagatoria no implica condena y las personas citadas tienen derecho a defensa. Falta la respuesta del Opus Dei."
-   ],
-   "otras": [
-    {
-     "medio": "Página/12",
-     "titulo": "Citan a declaración indagatoria a tres miembros del Opus Dei",
-     "url": "https://www.pagina12.com.ar/2026/11/26/citan-a-declaracion-indagatoria-a-tres-miembros-del-opus-dei/",
-     "fecha": "2026-11-25T21:22:11-03:00"
-    }
+    "Se trata de denuncias; no hay imputaciones confirmadas ni condenas. Falta la respuesta de la AFA y de Beligoy.",
+    "Falta el nombre de quien presentó la denuncia contra Beligoy y el juzgado exacto."
    ]
   },
   {
    "id": "malvinas-torturas-conjueces",
    "seccion": "Sociedad y cultura",
    "semaforo": "🟢",
-   "titulo": "La Corte Suprema designó conjueces para decidir si prescribió la causa por torturas a soldados en Malvinas",
-   "resumen": "La Corte Suprema de Justicia de la Nación sorteó dos conjueces que resolverán si prescribió la causa donde se investigan presuntas torturas contra soldados durante la guerra de Malvinas.",
-   "por_que_importa": "La decisión define si los crímenes contra los soldados conscriptos, chicos de la edad de quienes hoy cursan la secundaria y la universidad, pueden juzgarse.",
-   "primaria": null,
+   "titulo": "La Corte Suprema designó conjueces para decidir si prescribió la causa por torturas a soldados en Malvinas y el CECIM le exige que avance",
+   "resumen": "La Corte Suprema de Justicia de la Nación sorteó conjueces para resolver si prescribió la causa donde se investigan presuntas torturas contra soldados durante la guerra de Malvinas. Desde Malvinas, el Centro de Ex Combatientes de las Islas Malvinas (CECIM) le exigió a la Corte que avance con la causa.",
+   "por_que_importa": "Se discute si los crímenes de la guerra de 1982 pueden juzgarse, una memoria que se estudia en las escuelas.",
    "fuentes": [
+    {
+     "medio": "Página/12",
+     "titulo": "Desde Malvinas, el CECIM le exigió a la Corte que avance con la causa por torturas",
+     "url": "https://www.pagina12.com.ar/2026/11/27/desde-malvinas-el-cecim-le-exigio-a-la-corte-que-avance-con-la-causa-por-torturas/",
+     "fecha": "2026-11-26T21:47:56-03:00"
+    },
+    {
+     "medio": "Página/12",
+     "titulo": "Desde Malvinas, el CECIM le exigió a la Corte que avance con la causa por torturas",
+     "url": "https://www.pagina12.com.ar/2026/11/27/desde-malvinas-el-cecim-le-exigio-a-la-corte-que-avance-con-la-causa-por-torturas/",
+     "fecha": "2026-11-26T21:47:56-03:00"
+    },
     {
      "medio": "Perfil",
      "titulo": "Torturas en Malvinas: la Corte Suprema sortea conjueces para evaluar si los crímenes contra los soldados prescribieron",
      "url": "https://www.perfil.com/politica/la-corte-suprema-sortea-conjueces-para-definir-si-los-crimenes-contra-los-soldados-prescribieron-aKRbF6u1rz59",
      "fecha": "2026-11-25T19:46:23-03:00"
-    },
-    {
-     "medio": "Infobae",
-     "titulo": "Designaron a dos conjueces para resolver si prescribe una causa donde se investigan presuntas torturas en Malvinas",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdXhaeEV3VFFLcjZaVHpzR3p2T3V1WXZ1aWxpS196VTFjdzJhU1o2Vms3NWZJZVJwVUJVTlhlQXhpM3gwZElJZWhoVTU3MVIwSXRKWUN6MlJ6ekF2QUZHQzBwWlF1R0IwQWtOeVllMFpXSmtLRC13dFQ5WnRDem1PazRkMUpEczg0aGFXbzl2S0FHSUtHUF9wVnRReGhCbWlPcGNQeFRaM0ZidmJpaDVIQkZMWnhmdVZvc0t2cUpKOGVJSVRINlpQRXpQc1FKVEtkVzZ0T0pqU3pIMDktSW9JQ0lEdHVHV2dXWkNYWU1fMFV6X1nSAY4CQVVfeXFMTVgxVkZ5bi1YWlI5VVc5OXc3Qkh0UlVCYXBrTDl5MHZ0MTJqUzBUVjJDeHZndDFkdktQZU80WUFRV0F0OWNwNjE3LS15d25xLWEyQUozcjJhSTY0YUEzMTgycWFLOGg1WkZHNDJwTk81OFFKRUpYcEk5YnhpUDZyUnNoQzBVMWlZbGtQdnZ4NlpFWXNoM05OT2U1bHFrU2ptcVBPcGEydi15RllXNWxMVXA0N3kweU1XZVlUZEdPYWZ6QW5raDRwSTRjSEpCRUlNRER4ZjR1aXUwQUhTaEFKSFp6NVlVZVBqczJ0MzdoM0ZRUUtxSnp2Y1RNN2NJUzdKT0N6bDV6cFk2UVZYZWZ3?oc=5",
-     "fecha": "2026-11-26T13:11:00-03:00"
     }
    ],
    "otras": [],
    "alertas": [
-    "Faltan los nombres de los dos conjueces, el tribunal que remitió la causa y los imputados; los títulos no los traen.",
+    "Faltan los nombres de los conjueces, el tribunal que remitió la causa y los imputados; los títulos no los traen.",
     "Las presuntas torturas son una hipótesis de la causa; la prescripción todavía no se decidió.",
-    "Falta la acordada o resolución de la Corte Suprema como fuente primaria."
+    "Falta el nombre completo del CECIM (el título de Página/12 lo abrevia) y la resolución de la Corte como fuente primaria."
+   ]
+  },
+  {
+   "id": "kioscos-cerrados",
+   "seccion": "Economía",
+   "semaforo": "🟡",
+   "titulo": "Reportan 53.000 kioscos cerrados desde diciembre de 2023",
+   "resumen": "Se difundió que cerraron más de 53.000 kioscos en el país desde que Javier Milei asumió la presidencia de la Nación. La cifra circula en Ámbito y en otros portales regionales, y Enterate Noticias agrega 72.000 empleos perdidos.",
+   "por_que_importa": "El kiosco es el primer laburo de muchos jóvenes y un termómetro del consumo barrial.",
+   "fuentes": [
+    {
+     "medio": "Ámbito",
+     "titulo": "Crisis en el comercio: reportan 53.000 kioscos cerrados desde que asumió Javier Milei",
+     "url": "https://www.ambito.com/economia/crisis-el-comercio-reportan-53000-kioscos-cerrados-que-asumio-javier-milei-n6349905",
+     "fecha": "2026-11-26T22:58:00-03:00"
+    },
+    {
+     "medio": "MinutoUno",
+     "titulo": "Más de 53.000 kioscos cerraron en el país en lo que va de la gestión Milei",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE1OS1l1azVXeHF6eW4xdi1kc21BTGZMTWNtUW1XMEZ2d0xkZGlrNU1QUGxJZ05BM1l5M2Qydkl3aEM0TzJQeHdOY2RwcUc3OW5DdUU5VVMzQ3pLTUFnS0U5TVV0OHFHRFpOdWJfanVtUGhGSlVhb20yb08tVS01RzFJbmliVnhDSVFIMzFJeVdvSEJ0c2tfdDlnUHUwdU5CQi1NVnRQZGHSAagBQVVfeXFMTkxNTktZdWs1V3hxenluMXYtZHNtQUxmTE1jbVFtVzBGdndMZGRpazVNUFBsSWdOQTNZeTNkMnZJd2hDNE8yUHh3TmNkcHFHNzluQ3VFOVVTM0N6S01BZ0tFOU1VdDhxR0RaTnViX2p1bVBoRkpVYW9tMm9PLVUtNUcxSW5pYlZ4Q0lRSDMxSXlXb0hCdHNrX3Q5Z1B1MHVOQkItTVZ0UGRh?oc=5",
+     "fecha": "2026-11-26T23:08:00-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Falta identificar quién produjo la cifra de 53.000 y 72.000 empleos (cámara, consultora o relevamiento) y con qué metodología; los títulos no lo dicen.",
+    "Los portales regionales repiten la misma cifra, por lo que cuentan como una sola fuente."
    ]
   }
  ],
  "para_chequear": [
   {
-   "id": "iosfa-despidos",
-   "semaforo": "🟡",
-   "titulo": "La Justicia ordenó frenar los despidos en IOSFA y reincorporar a los desplazados",
-   "resumen": "La Justicia ordenó frenar los despidos en el Instituto de Obra Social de las Fuerzas Armadas y de Seguridad (IOSFA) y reincorporar a los trabajadores ya desplazados.",
-   "falta": "Una sola fuente seria (El Cronista). Falta el juzgado que dictó la medida, la cantidad de despidos y el comunicado del IOSFA.",
+   "titulo": "Reportan 53.000 kioscos cerrados desde diciembre de 2023",
+   "resumen": "La cifra circula en Ámbito y en portales regionales que repiten la misma nota.",
+   "falta": "Quién produjo la cifra y con qué metodología.",
    "fuentes": [
     {
-     "medio": "El Cronista",
-     "titulo": "La Justicia ordenó frenar despidos en IOSFA y reincorporar a los ya desplazados",
-     "url": "https://www.cronista.com/economia-politica/la-justicia-ordeno-frenar-despidos-en-iosfa-y-reincorporar-a-los-ya-desplazados/",
-     "fecha": "2026-11-26T11:26:22-03:00"
-    }
-   ]
-  },
-  {
-   "id": "viajes-milei",
-   "semaforo": "🟡",
-   "titulo": "Cuánto gastó Milei en viajes al exterior",
-   "resumen": "El gasto de Javier Milei, presidente de la Nación, en viajes al exterior durante 2026 supera los $4.000 millones en 17 viajes; la cifra tiene una sola fuente seria y otro cálculo da $2.737 millones entre abril y octubre.",
-   "falta": "DISCREPANCIA DE CIFRAS. $4.000 millones (17 viajes, todo 2026) vs $2.737 millones (abril a octubre). Los períodos son distintos y falta el origen de los datos.; Falta la fuente primaria (pedido de informes o documento oficial) que respalde el cálculo. Cuestión Entrerriana informa que Diego Santilli confirmó los gastos en su informe; no integra la lista seria y falta el dato en el informe oficial.",
-   "fuentes": [
-    {
-     "medio": "Letra P",
-     "titulo": "Javier Milei gastó más de 4 mil millones de pesos en 17 viajes al exterior durante 2026",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbUNXT05hUXRjSHk3V0NkYk55U2ZVRFoxMlZIeVlSaU9VcFRtUEVIZHBsOVYzRFBmT2VyUlIxNUtoanpaSVJMLVZteHRiUUl0SWZWQXdlS1JRQ3prZHlDSnpSN1pJQkRPV2Q4M3NhZWJXbkk4alJ2NzFJaFhoQVJPX1pXMFhhWmtVYkM3dGJOOFVIaFB5TFlqQ0l6UklhUURfVVJiMzJLTWVRdHdneGRUMWdhRlfSAboBQVVfeXFMT25yVjZPc2JlQ2R5a3cwN01zbFVMbmJTMHdkaXdoMTBtRnZodlJsM0FUV3pUOC1FOEpTVGZabkN2bVAwdHZIYVVpNm1KNUYtV3dWcGdRNE02TGZQcXZjc2d5Q09PQUpxZi11MzM1ZlF6bzFKRkpzU2lJYlM0VEFBTnc4d3Jac29pSkdtLTd2aVRaWkZob0p6ZG1KYUZXNFNMSWJvNkxQYnI0U1hyS1lqYUJTeDh6SlpTSlN3?oc=5",
-     "fecha": "2026-11-25T08:40:00-03:00"
+     "medio": "Ámbito",
+     "titulo": "Crisis en el comercio: reportan 53.000 kioscos cerrados desde que asumió Javier Milei",
+     "url": "https://www.ambito.com/economia/crisis-el-comercio-reportan-53000-kioscos-cerrados-que-asumio-javier-milei-n6349905",
+     "fecha": "2026-11-26T22:58:00-03:00"
     },
     {
-     "medio": "En Boca de Todos HD",
-     "titulo": "Milei gastó $2.737 millones en viajes al exterior entre abril y octubre de 2026",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdFdwekxib1FNekcxbEJLbEZzTFN1VmVMejZMdDBkbVhVSnpITlV0RE9XeW9TV0l2aExlaDhlQnRSdjlpZ3djNlRISU5UNVFkSVJwUjI3QV90R0E4QTFaeFNQUFl5dnF3NjgzT0QtRU5SbDRiR0swNDNUZ0JxdlBlLTFZVEpnaEFzNjNfM3RfQ1J4WUh5cTFSV2d5NVpKUE5pRnViUFY2T0kxZlVYUXJ6dHM5dVVZc2RNWnU5Q0RZNnltTTVFUUhaQUFyV0FvOTdzRHNFX2ZpSENLM1pXOUhr?oc=5",
-     "fecha": "2026-11-25T20:34:08-03:00"
+     "medio": "MinutoUno",
+     "titulo": "Más de 53.000 kioscos cerraron en el país en lo que va de la gestión Milei",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE1OS1l1azVXeHF6eW4xdi1kc21BTGZMTWNtUW1XMEZ2d0xkZGlrNU1QUGxJZ05BM1l5M2Qydkl3aEM0TzJQeHdOY2RwcUc3OW5DdUU5VVMzQ3pLTUFnS0U5TVV0OHFHRFpOdWJfanVtUGhGSlVhb20yb08tVS01RzFJbmliVnhDSVFIMzFJeVdvSEJ0c2tfdDlnUHUwdU5CQi1NVnRQZGHSAagBQVVfeXFMTkxNTktZdWs1V3hxenluMXYtZHNtQUxmTE1jbVFtVzBGdndMZGRpazVNUFBsSWdOQTNZeTNkMnZJd2hDNE8yUHh3TmNkcHFHNzluQ3VFOVVTM0N6S01BZ0tFOU1VdDhxR0RaTnViX2p1bVBoRkpVYW9tMm9PLVUtNUcxSW5pYlZ4Q0lRSDMxSXlXb0hCdHNrX3Q5Z1B1MHVOQkItTVZ0UGRh?oc=5",
+     "fecha": "2026-11-26T23:08:00-03:00"
     }
    ]
   }
  ],
- "seguimiento": [
-  {
-   "titulo": "Legislatura bonaerense, sesión fallida en Diputados por las apuestas online",
-   "semaforo": "🟠",
-   "dicen": "Letra P informa el escándalo y la sesión fallida.",
-   "falta": "Confirmación de un medio de la lista seria y del proyecto en discusión."
-  }
- ],
- "nota_x": "X todavía no está conectado.",
- "metricas": {
-  "notas_analizadas": 3237,
-  "grupos": 2126,
-  "temas": 10
- },
- "nota": "Edición armada sin acceso directo a las notas completas de los medios (los sitios no estaban accesibles); los datos faltantes figuran en alertas.",
+ "seguimiento": [],
  "periodistas": [
+  {
+   "nombre": "Carlos Pagni",
+   "rol": "columnista político de La Nación",
+   "notas": [
+    {
+     "titulo": "Milei persigue un éxito entre grietas y adversidades",
+     "url": "https://www.lanacion.com.ar/politica/milei-persigue-un-exito-entre-grietas-y-adversidades-nid25112026/",
+     "fecha": "2026-11-25T22:15:53-03:00"
+    }
+   ],
+   "temas": [
+    "política",
+    "Gobierno nacional"
+   ],
+   "posicion": "Carlos Pagni, columnista político de La Nación, publicó la columna 'Milei persigue un éxito entre grietas y adversidades'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
   {
    "nombre": "Hugo Alconada Mon",
    "rol": "periodista de investigación de La Nación",
@@ -741,119 +546,62 @@
    "temas": [
     "justicia"
    ],
-   "posicion": "Hugo Alconada Mon, periodista de investigación de La Nación, firma la nota sobre el caso Chocolate; el texto completo no se pudo leer, por lo que su posición exacta queda por confirmar."
-  },
-  {
-   "nombre": "Carlos Pagni",
-   "rol": "columnista político de La Nación",
-   "notas": [
-    {
-     "titulo": "Pagni apunta a videos del “Camino de Santiago” porteño",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTFPb25nbGNJWnFsR3p5cmxMVmVZV2JuYWc5dktLNzMtZ3BkUm1nN0M5azFBb0VjMEF0QnRhOExXRHBlRUNJaGx1RWplWm8xSVo4VmtaanJWU19pZXVHMlhDR2Z1ZkxJeTZmNXdCdjN1LUVWaHhIY2sxUHNIN0dxcFdnRElET3FabUE?oc=5",
-     "fecha": "2026-11-26T13:00"
-    },
-    {
-     "titulo": "Milei persigue un éxito entre grietas y adversidades",
-     "url": "https://www.lanacion.com.ar/politica/milei-persigue-un-exito-entre-grietas-y-adversidades-nid25112026/",
-     "fecha": "2026-11-25T22:15:53-03:00"
-    },
-    {
-     "titulo": "Los frentes abiertos del Gobierno: las claves del análisis de Carlos Pagni sobre la coyuntura política",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY05mSVQ5bFBEWjVBSVlCalFkQUdTWk9qY2MtWnhrdEYwLVdIMS14MTVvV3E3Z1pwMWs3bThIelU3VjlpUXF3S0tBdDNLUVJpQUNzcnF5WjVlbTM1SERsR1gwVEs3M0tnT09NYnNFUzM1OFExcTN0SmJGX0U3bFZNa1pXV0V0TFU2SkxYMEY0ODNtZzZDODZDOUtyckZDdVlWd1pLMkhHS2xOei16bXV3M21WTWlWWW9GdUkyclI4MDB0N0QyS09PWA?oc=5",
-     "fecha": "2026-11-24T18:20:24-03:00"
-    }
-   ],
-   "temas": [
-    "política del Gobierno"
-   ],
-   "posicion": "Carlos Pagni, columnista político de La Nación, publicó la columna \"Milei persigue un éxito entre grietas y adversidades\" y se refirió a videos del \"Camino de Santiago\" porteño; el texto completo no se pudo leer, por lo que su posición exacta queda por confirmar."
-  },
-  {
-   "nombre": "Reynaldo Sietecase",
-   "rol": "periodista",
-   "notas": [
-    {
-     "titulo": "¿RECESIÓN O ILUSIÓN? I SIETECASE EDITORIAL",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJkaXBOTkNDOHB5SVpmcDRNd094Q1dja25XRGtrZ1JZOC0yTHFPNk5VS2lfUllTVzhKLVc3eFV2UU5yYkJjYWtQUjc3cXQ1eDhzbmJtamxYbmJDNmwweF9DNzBTU0tMUEtvQk1KdDVQNU85dHhUNl9KcFE1YnJrS1JaUGo5M3dmc1ZENEZaYWR3RmRYY3c?oc=5",
-     "fecha": "2026-11-25T18:12:57-03:00"
-    },
-    {
-     "titulo": "VETERANOS ARGENTINO y BRITÁNICO de MALVINAS mano a mano con TENEMBAUM y SIETECASE",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWF1bllBd3RJOFd0Sml0eGtEM3JSYUNrZGthVHdZdlhlM3NySm9sb2hUOURFVWNnajRlWGRrSnpSRlpiaHBSelNZUk1DNE5IMmpPUW83QUp5elJhQ2wyRUxWQVM1MHRMY2pFUWRPYWdhZVZFMVJOVW1ickc2TkZSODdIU2JsQWdnV0hZVkxGbk5jN2pLclA5UC13M094TTZQZzlOa0hTZHdjWm9nU184N3o3WWdZOFV4THh0eWxtRmcwUWJpdUdsZEJOREM?oc=5",
-     "fecha": "2026-11-25T18:06:57-03:00"
-    },
-    {
-     "titulo": "PAMI NO DA RESPUESTAS: médicos y afiliados cuentan la crisis I CON SIETECASE",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR3U5U3hvVm96R2VWZUpLQkNLakZ3NU1RZlVnQlItT0tCWE9ITFJRV3Y0ejhYZlZZNGpULTFJdXR2MFlRaUttVVdvcUIyRVBTUnctcXJLOGQ2OUluaUlsTkFzcTRhWmtpMEZhSVgtemRKaG9rN1pVdzBhb3VQbkx4Nmx4X0NDZUNsTFJjMEl0cU5GZG50MkpneU1EY2plakNkOHdpSHFKYVhmX19pS0o3aGhRQjRRM2Z4bDRlOXFSZjdYNFhs?oc=5",
-     "fecha": "2026-11-24T17:36:19-03:00"
-    }
-   ],
-   "temas": [
-    "recesión",
-    "PAMI"
-   ],
-   "posicion": "Reynaldo Sietecase dedicó su editorial al interrogante \"¿Recesión o ilusión?\" y trató la crisis del PAMI en su programa; el contenido completo no se pudo leer, por lo que su posición exacta queda por confirmar."
-  },
-  {
-   "nombre": "Alejandro Bercovich",
-   "rol": "periodista económico",
-   "notas": [
-    {
-     "titulo": "«Se bajó impuestos al RIGI y no a las tarifas de la clase media» I KOHAN CON BERCOVICH",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0hHWHNJbnRaUkRBWWNJdjdwX1poZHpJU1JFU2huNFNwZDhSbENBc1FWSzJhWXNXT0FlUzRCeEhJUjNqNVEtXzYzeVJkRTdzRDV5UmNMbmw5LXdmWkx3QzdMaDhyMjYwSERNOVpEd29VVGF0NmRaVGVmOVg1b2RBV2VobFpydGZQWGt2a3hFU1ZhRDgzOWZuOVV1T29GS1JWZXV6ekNqMWd1MTdaNW9Ecm5MVjk5TUlFeVl2OXlOem9xbXpDcDJ5X1cwV1E0TTJq?oc=5",
-     "fecha": "2026-11-25T18:00:57-03:00"
-    },
-    {
-     "titulo": "VACA MUERTA, LEY MALVINAS Y EXPLOSIÓN EN METROGAS | NICO GANDINI CON BERCOVICH",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JsYld4LUd5TkRuVEx1QnNQbUpMTVNWZ0RJSGRCWm1ILUprWHBuWTV2SWlVXzNlX3VmVnluOUVhN09GSl8wYmFicWNHRXNKR1hlNTN4VHdKZ1VBV3pnNV9aaEYxWl9YN2xDNk1kQXR1WE1QZ1lkS0lucjhtVmVZMnRabXBIU3hkaDAxRlFWLVJXa0hJREhSYWVFZUxqTDhrLWV4OXhERGJmNkQ2NHpsWkI4RGpWU184Mm5JYTNUb2dyNWFM?oc=5",
-     "fecha": "2026-11-25T17:59:57-03:00"
-    }
-   ],
-   "temas": [
-    "economía y tarifas",
-    "RIGI"
-   ],
-   "posicion": "Alejandro Bercovich, periodista económico, entrevistó a Kohan, cuyo nombre completo y cargo no figuran en el título, bajo la frase \"Se bajó impuestos al RIGI y no a las tarifas de la clase media\"; su posición exacta queda por confirmar."
-  },
-  {
-   "nombre": "Iván Schargrodsky",
-   "rol": "periodista, editor de Cenital",
-   "notas": [
-    {
-     "titulo": "MIÉRCOLES 02/12 | RUSIA: ¿POTENCIA O IMPOTENCIA?, MUNDO PROPIO CON IVÁN SCHARGRODSKY",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW84SDl0Wnd6QlVGTUVyRDFHNm85Z0JDRmpBUDloa1pFSFhRRUp5S0xfQXduekIxemdPMjhSSXFwLW5ETHNpR0p0RmN0bVZjUG9YU0NNWHZQVDVUZGFHUlRVLW9ZVy1wRmdrVnFVWDRTbVdQYndJVWdURWZXVHdjWXgxaThvdDFoOVJiNnRlajFVeldqX2Jjckd6aURCTHFCZnpXcnJhMjVIRWZNUGZKejhENFdWNVFwN0U3OGZZdllxSGM0Z0Ftcw?oc=5",
-     "fecha": "2026-11-25T19:20:47-03:00"
-    },
-    {
-     "titulo": "“Yo no haré nada, todo lo harán mis enemigos”",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2M0NGaWF2cEVkb1dFRTd0MG42cEQ4UDlSMU1sc3RkSl9LaG9jZjVhdnJ1LTZpMFVVS0dMT01sN0VVTlBOXzBXbUh3ZU5RZGZLQUdNbjhKS2tadWZrbzlXUlpXNDNoX3p6dlhCTXNGMEc?oc=5",
-     "fecha": "2026-11-24T11:17:23-03:00"
-    }
-   ],
-   "temas": [
-    "política y mundo"
-   ],
-   "posicion": "Iván Schargrodsky, periodista y editor de Cenital, publicó una entrevista a Sebastián Ceria y el programa \"Mundo propio\"; su posición exacta queda por confirmar."
+   "posicion": "Hugo Alconada Mon, periodista de investigación de La Nación, firma la nota sobre el caso Chocolate; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
   },
   {
    "nombre": "Víctor Hugo Morales",
    "rol": "periodista",
    "notas": [
     {
-     "titulo": "“Diego está vivo”: el conmovedor homenaje de Víctor Hugo Morales a Maradona a 6 años de su muerte",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ25OMjRFTkc2LVFqUnp2TW50OE5oX3lRanJoVGtkRnltUFhVOWF1WUQ5NzdxNkk3VHUxRlZOTm5FRmU4UHFpVlJueUxNdUtxSi1CNEtGbDgzaFE3cFlqNTJfeFd6QXlZMFBxeFh3MGZoS2p0MHRQSzJ2RUZPSjNucHVIc1BkRmkxd2FobWgwdENZME41NE11TWZldUdXbmwwMmx1QndXbjFvTTBXRmVvc0tlZ1RCNmZ5YWlYYy0wbTI3STFiWHNYV0s3U0M1cFU?oc=5",
-     "fecha": "2026-11-25T09:37:58-03:00"
-    },
-    {
-     "titulo": "A seis años de la muerte de Maradona, Víctor Hugo Morales lo recordó con una carta",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUXdsT3J0RENyVkJxd1F3U1BNMVppLU5LZVBuVXlOXzJTZUxjZzY1YW9sc240RV9XbnJhOXV3b2ZUSjFhaUtmZFByLWhkNUZfYVZQZXBScWJiT0I2ZTc5THBDTVZ4MUp5RjBIejJWVUs3MFNBYmtYbktoVzk1dHpCdVZWekJ5M1FBRkQ2RnpxSWZQVUxhNUJGeDE0LTI4VEY0bnNoOF9zdG5sNlFxWnJORFludHdUU1I2VEHSAboBQVVfeXFMT1F3bE9ydERDclZCcXdRd1NQTTFaaS1OS2VQblV5Tl8yU2VMY2c2NWFvbHNuNEVfV25yYTl1d29mVEoxYWlLZmRQci1oZDVGX2FWUGVwUnFiYk9CNmU3OUxwQ01WeDFKeUYwSHoyVlVLNzBTQWJrWG5LaFc5NXR6QnVWVnpCeTNRQUZENkZ6cUlmUFVMYTVCRngxNC0yOFRGNG5zaDhfc3RubDZRcVpyTkRZbnR3VFNSNlRB?oc=5",
-     "fecha": "2026-11-25T08:06:46-03:00"
+     "titulo": "Víctor Hugo Morales cuestionó la recesión económica y denunció el impacto del ajuste social",
+     "url": "https://www.pagina12.com.ar/2026/11/26/victor-hugo-morales-cuestiono-la-recesion-economica-y-denuncio-el-impacto-del-ajuste-social/",
+     "fecha": "2026-11-26T15:10:57-03:00"
     }
    ],
    "temas": [
-    "discurso público"
+    "economía",
+    "ajuste social"
    ],
-   "posicion": "Víctor Hugo Morales, periodista, publicó la nota titulada \"Enfermos de desprecio y egoísmo\" y homenajeó a Diego Maradona a seis años de su muerte."
+   "posicion": "Víctor Hugo Morales, periodista, cuestionó la recesión económica y denunció el impacto del ajuste social; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Reynaldo Sietecase",
+   "rol": "periodista",
+   "notas": [
+    {
+     "titulo": "LOS VIAJES DE MILEI CON LA PLATA DE LOS ARGENTINOS I SIETECASE EDITORIAL",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmFKUGtreXhJX2VZTnM0RERqdjNMaEd6NWFJWEF4dWhiUWtTUmdYVHBmbzgwMHljcGE4NjFXdW5mdGRmb3NtdHlXUEk1YjgyVTF2R2pVREkwbVFYaGF6NmJIMEIxZU5wMGpZZUtoQlpmODZjVUJOekRKYkxnUU1OS2NuM1FqQWoxS0d5cjYzY09KbzlKU01xdjRxam1hM0FMSkJzRGtRVHV5Yi02OFpZbzJLUXJuR2tCdXhtUThaUjA?oc=5",
+     "fecha": "2026-11-26T17:57:23-03:00"
+    }
+   ],
+   "temas": [
+    "viajes presidenciales",
+    "economía"
+   ],
+   "posicion": "Reynaldo Sietecase, periodista, dedicó su editorial a los viajes de Javier Milei y a la recesión; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Alejandro Bercovich",
+   "rol": "periodista económico",
+   "notas": [
+    {
+     "titulo": "¿SE LES CAYÓ EL RELATO GEOPOLÍTICO? EL SALVAVIDAS CHINO DE CAPUTO | EDITORIAL BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS1FXUEdROTViUlFuT2Vpd3dqVHZMd1ZNc3B1NGZBX2RtMmlxaDFRSVA5azNqTVcwTVVIZTN2SkxSd3JQYXVQR2tyY0lCSTRoY0xIOUh6N1NoY3N5QXlCeEZpT3ZuZXZRU0NYSWRVcjNhMG1ib0pzNkpVZ2hlTl9TR3pJcTRUSjlCWk01Y0pPbHRJcVUtbEZNYm52YUxDcE16TkpqbTVJYzNwczA2VFVua0RlcThmeVNxSTBWQU12SUF6aFcxcEh5RHJfZGRMUG8?oc=5",
+     "fecha": "2026-11-26T17:35:23-03:00"
+    }
+   ],
+   "temas": [
+    "economía",
+    "Caputo"
+   ],
+   "posicion": "Alejandro Bercovich, periodista económico, dedicó su editorial a la relación entre el ministro Luis Caputo y China; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
   }
- ]
+ ],
+ "nota_x": "X todavía no está conectado.",
+ "metricas": {
+  "notas_analizadas": 3237,
+  "grupos": 2126,
+  "temas": 10
+ },
+ "nota": "Edición armada sin acceso directo a las notas completas de los medios (los sitios no estaban accesibles); los datos faltantes figuran en alertas."
 }

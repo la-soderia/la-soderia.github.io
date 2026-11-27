@@ -1,0 +1,700 @@
+{
+ "id": "2026-11-27-15",
+ "tipo": "curada",
+ "generado": "2026-11-27T15:11-03:00",
+ "claves": [
+  {
+   "texto": "El Senado de la Nación aprobó la suspensión de las PASO en 2027 y la Ficha Limpia, y la reforma electoral pasa a Diputados.",
+   "fuentes": [
+    {
+     "medio": "Página/12",
+     "titulo": "El Senado le dio media sanción a la reforma política que suspende las PASO",
+     "url": "https://www.pagina12.com.ar/2026/11/26/el-senado-le-dio-media-sancion-a-la-reforma-politica-que-suspende-las-paso/",
+     "fecha": "2026-11-26T18:23:30-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "Diputados dio media sanción al Presupuesto 2027 con más fondos para universidades y ciencia, y el Gobierno buscará revertir ese aumento en el Senado.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno buscará revertir en el Senado el aumento de fondos para las universidades y la oposición sospecha de un veto parcial",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-fondos-para-las-universidades-y-la-oposicion-sospecha-de-un-veto-parcial/",
+     "fecha": "2026-11-27T12:00:47-03:00"
+    },
+    {
+     "medio": "Clarín",
+     "titulo": "Javier Milei consiguió la media sanción del Presupuesto 2027 en Diputados",
+     "url": "https://www.clarin.com/politica/javier-milei-consiguio-media-sancion-presupuesto-2027-diputados_0_Bc7eOsDA84.html",
+     "fecha": "2026-11-27T03:23:19-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "Es ley la prevención de la ludopatía, que prohíbe las apuestas online para menores y la publicidad de los juegos de azar.",
+   "fuentes": [
+    {
+     "medio": "Página/12",
+     "titulo": "El Congreso aprobó la ley contra la ludopatía y busca frenar las apuestas online",
+     "url": "https://www.pagina12.com.ar/2026/11/27/el-congreso-aprobo-la-ley-contra-la-ludopatia-y-busca-frenar-las-apuestas-online/",
+     "fecha": "2026-11-27T10:45:37-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "La CGT marchó por la crisis de las obras sociales y el Gobierno dijo que los números del desfinanciamiento no son reales.",
+   "fuentes": [
+    {
+     "medio": "La Nación",
+     "titulo": "La CGT marchó por la crisis de las obras sociales, elevó el tono contra el Gobierno y pidió renuncias",
+     "url": "https://www.lanacion.com.ar/politica/la-cgt-marcho-por-la-crisis-de-las-obras-sociales-elevo-el-tono-contra-el-gobierno-y-pidio-renuncias-nid26112026/",
+     "fecha": "2026-11-26T18:24:56-03:00"
+    }
+   ]
+  },
+  {
+   "texto": "El Gobierno aprobó un esquema para reducir el riesgo de cortes de luz en verano.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno aprobó un esquema que busca reducir el riesgo de cortes de luz en verano y otros picos de consumo",
+     "url": "https://www.infobae.com/economia/2026/11/27/el-gobierno-aprobo-un-esquema-que-busca-reducir-el-riesgo-de-cortes-de-luz-en-verano-y-otros-picos-de-consumo/",
+     "fecha": "2026-11-27T09:06:51-03:00"
+    }
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "paso-senado",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "El Senado aprobó la suspensión de las PASO en 2027 y la Ficha Limpia, y el proyecto pasa a Diputados",
+   "resumen": "El Senado de la Nación dio media sanción a la reforma electoral del Gobierno, que suspende las Primarias Abiertas, Simultáneas y Obligatorias (PASO) en las elecciones de 2027 y extiende la Ficha Limpia. El debate presidencial obligatorio queda vigente solo en la instancia de balotaje. El proyecto pasa ahora a la Cámara de Diputados de la Nación.",
+   "por_que_importa": "Las PASO definen cómo se arman las listas de 2027, el año en que muchos pibes y pibas votan por primera vez.",
+   "fuentes": [
+    {
+     "medio": "Página/12",
+     "titulo": "El Senado le dio media sanción a la reforma política que suspende las PASO",
+     "url": "https://www.pagina12.com.ar/2026/11/26/el-senado-le-dio-media-sancion-a-la-reforma-politica-que-suspende-las-paso/",
+     "fecha": "2026-11-26T18:23:30-03:00"
+    },
+    {
+     "medio": "Página/12",
+     "titulo": "El Senado dio media sanción para suspender las PASO en 2027",
+     "url": "https://www.pagina12.com.ar/2026/11/27/el-senado-dio-media-sancion-para-suspender-las-paso-en-2027/",
+     "fecha": "2026-11-26T22:15:00-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "El Senado aprobó suspender las PASO en 2027 y Ficha Limpia: la reforma electoral del Gobierno pasa a Diputados",
+     "url": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv",
+     "fecha": "2026-11-26T18:53:05-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "Uno por uno, cómo votó cada senador la media sanción a la reforma electoral",
+     "url": "https://www.infobae.com/politica/2026/11/26/uno-por-uno-como-voto-cada-senador-la-media-sancion-a-la-reforma-electoral/",
+     "fecha": "2026-11-26T18:46:25-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Perfil",
+     "titulo": "Debate presidencial: el oficialismo cedió en el Senado y será obligatorio solo para el balotaje",
+     "url": "https://www.perfil.com/politica/debate-presidencial-el-oficialismo-cedio-en-el-senado-y-sera-obligatorio-solo-para-el-balotaje-aSzd23X0969q",
+     "fecha": "2026-11-26T23:59:21-03:00"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "El Senado dejó vigente solo el debate presidencial obligatorio en la instancia de balotaje",
+     "url": "https://www.lanacion.com.ar/politica/el-senado-dejo-vigente-solo-el-debate-presidencial-obligatorio-en-la-instancia-de-balotaje-nid26112026/",
+     "fecha": "2026-11-26T19:35:59-03:00"
+    }
+   ],
+   "alertas": [
+    "Falta el resultado exacto de la votación (afirmativos, negativos y abstenciones); figura en las notas 'Cómo votó cada senador' de Infobae y La Nación, cuyo texto completo no se pudo leer. Confirmar con la versión taquigráfica del Senado.",
+    "Falta el texto aprobado para detallar los cambios; ayer se hablaba de ocho cambios (24 de noviembre) y de nueve (Ámbito), y no está claro cuántos quedaron tras la sesión."
+   ]
+  },
+  {
+   "id": "presupuesto-diputados",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "Diputados dio media sanción al Presupuesto 2027 con cambios de la oposición en universidades y ciencia",
+   "resumen": "La Cámara de Diputados de la Nación aprobó el Presupuesto 2027 y lo giró al Senado. La oposición logró incorporar más fondos para las universidades nacionales, el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), el Instituto Nacional de Tecnología Industrial (INTI), el Instituto Nacional de Tecnología Agropecuaria (INTA) y el Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), y hubo quejas por los fondos de discapacidad.",
+   "por_que_importa": "El Presupuesto fija cuánta plata tienen las universidades y la ciencia pública el año que viene.",
+   "fuentes": [
+    {
+     "medio": "Clarín",
+     "titulo": "Javier Milei consiguió la media sanción del Presupuesto 2027 en Diputados",
+     "url": "https://www.clarin.com/politica/javier-milei-consiguio-media-sancion-presupuesto-2027-diputados_0_Bc7eOsDA84.html",
+     "fecha": "2026-11-27T03:23:19-03:00"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "El Gobierno logró la media sanción del Presupuesto; aprueban la ley de ludopatía y más fondos universitarios",
+     "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-logro-la-media-sancion-del-presupuesto-aprueban-la-ley-de-ludopatia-y-mas-fondos-nid27112026/",
+     "fecha": "2026-11-27T08:52:37-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno logró aprobar el Presupuesto en Diputados pero tuvo que aumentar los fondos para las universidades",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-logro-aprobar-el-presupuesto-en-diputados-pero-tuvo-que-aumentar-los-fondos-para-las-universidades/",
+     "fecha": "2026-11-27T04:39:52-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Falta el resultado de la votación y el texto aprobado como fuente primaria.",
+    "Las notas de discapacidad ('hay quejas por discapacidad y universidades', Perfil) no detallan qué partidas se discuten; falta el dato."
+   ]
+  },
+  {
+   "id": "cgt-obras-sociales",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "La CGT marchó por la crisis de las obras sociales y el Gobierno rechazó las cifras de desfinanciamiento",
+   "resumen": "La Confederación General del Trabajo (CGT) se movilizó el jueves 26 de noviembre por la crisis de las obras sociales y acusó al Gobierno de \"robarse la plata de las obras sociales\"; la central pidió renuncias. El Gobierno respondió que los números del desfinanciamiento \"no son números reales\". En paralelo, la Justicia frenó los despidos en el Instituto de Obra Social de las Fuerzas Armadas y de Seguridad (IOSFA) y ordenó reincorporar a los trabajadores desplazados.",
+   "por_que_importa": "Las obras sociales cubren la salud de millones de trabajadores y de sus familias, jóvenes incluidos.",
+   "fuentes": [
+    {
+     "medio": "La Nación",
+     "titulo": "La CGT marchó por la crisis de las obras sociales, elevó el tono contra el Gobierno y pidió renuncias",
+     "url": "https://www.lanacion.com.ar/politica/la-cgt-marcho-por-la-crisis-de-las-obras-sociales-elevo-el-tono-contra-el-gobierno-y-pidio-renuncias-nid26112026/",
+     "fecha": "2026-11-26T18:24:56-03:00"
+    },
+    {
+     "medio": "Infobae",
+     "titulo": "La CGT se movilizó por la crisis en salud y acusó al Gobierno de “robarse la plata de las obras sociales”",
+     "url": "https://www.infobae.com/politica/2026/11/26/la-cgt-se-movilizo-por-la-crisis-en-salud-y-acuso-al-gobierno-de-robarse-la-plata-de-las-obras-sociales/",
+     "fecha": "2026-11-26T20:00:32-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "La CGT denunció desfinanciamiento en obras sociales, pero el Gobierno lo negó: \"No son números reales\"",
+     "url": "https://www.ambito.com/politica/la-cgt-denuncio-desfinanciamiento-obras-sociales-pero-el-gobierno-lo-nego-no-son-numeros-reales-n6349873",
+     "fecha": "2026-11-26T21:08:00-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Clarín",
+     "titulo": "La Justicia frenó los despidos en la obra social de los militares y ordenó reincorporar a trabajadores",
+     "url": "https://www.clarin.com/politica/justicia-freno-despidos-obra-social-militares-ordeno-reincorporar-trabajadores_0_eGIYRBv5DM.html",
+     "fecha": "2026-11-26T11:52:56-03:00"
+    }
+   ],
+   "alertas": [
+    "Las cifras del desfinanciamiento no coinciden entre la CGT y el Gobierno y ninguna está en los títulos; hay que pedir el dato a la Superintendencia de Servicios de Salud.",
+    "Falta qué renuncias pidió la CGT y a quién; no figura en los títulos.",
+    "Falta el juzgado que ordenó frenar los despidos en el IOSFA y el número de trabajadores; los títulos no lo traen."
+   ]
+  },
+  {
+   "id": "universidades-presupuesto-2027",
+   "seccion": "Juventud y educación",
+   "semaforo": "🟢",
+   "titulo": "La oposición impuso más fondos para las universidades nacionales en el Presupuesto 2027",
+   "resumen": "En la sesión de Diputados que dio media sanción al Presupuesto 2027, la oposición aprobó un aumento de los fondos para las universidades nacionales y también para CONICET, INTI, INTA y SENASA, y el oficialismo tuvo que aceptarlo para aprobar el proyecto. El Gobierno nacional buscará revertir ese aumento en el Senado de la Nación, y desde la oposición se plantea la posibilidad de un veto parcial. La marcha universitaria del jueves 26 de noviembre llegó al Congreso de la Nación mientras Diputados debatía el Presupuesto.",
+   "por_que_importa": "De ese presupuesto dependen las becas, los salarios docentes y el funcionamiento de las universidades públicas.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno buscará revertir en el Senado el aumento de fondos para las universidades y la oposición sospecha de un veto parcial",
+     "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-fondos-para-las-universidades-y-la-oposicion-sospecha-de-un-veto-parcial/",
+     "fecha": "2026-11-27T12:00:47-03:00"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "Presupuesto 2027: el Gobierno buscará revertir en el Senado el aumento de las partidas para las universidades",
+     "url": "https://www.lanacion.com.ar/politica/presupuesto-2027-el-gobierno-buscara-revertir-en-el-senado-el-aumento-de-las-partidas-para-las-nid27112026/",
+     "fecha": "2026-11-27T13:13:06-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Duro revés para Milei en Diputados: la oposición fijó $11 billones para las universidades en el Presupuesto 2027",
+     "url": "https://www.perfil.com/politica/duro-reves-para-milei-en-diputados-la-oposicion-fijo-11-billones-para-las-universidades-en-el-presupuesto-2027-a95My7a6aOqA",
+     "fecha": "2026-11-27T09:47:13-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "El Presupuesto 2027 tuvo media sanción en Diputados y la oposición logró un mayor aumento para universidades, CONICET, INTI, INTA y SENASA",
+     "url": "https://www.eldiarioar.com/politica/presupuesto-2027-tuvo-media-sancion-diputados-oposicion-logro-mayor-aumento-universidades-conicet-inti-inta-senasa_1_13697975.html",
+     "fecha": "2026-11-27T05:55:21-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "DISCREPANCIA DE CIFRAS. Perfil titula $11 billones para las universidades; el dictamen de mayoría del 17 de noviembre asignaba $7,3 billones (artículo 12). No se publica ninguna cifra hasta contrastar con el texto aprobado en Diputados.",
+    "Falta qué porcentaje de aumento representa para CONICET, INTI, INTA y SENASA.",
+    "Falta el nombre de los legisladores que plantean un veto parcial y la forma en que el Gobierno buscará revertir el aumento en el Senado; los títulos no lo traen."
+   ],
+   "idea_carrusel": {
+    "formato": "narrativo",
+    "enfoque": "Cuenta qué pasó con la plata de las universidades y la ciencia en el Presupuesto 2027 y quién logró más fondos; le habla a quienes estudian o piensan estudiar en una universidad pública.",
+    "portada": "El Gobierno quería recortar y *la oposición le impuso* más plata para las universidades",
+    "placas": [
+     "Estudiar en la universidad pública es un garrón cuando no alcanzan los fondos. *Cualquiera que cursa lo sabe.*",
+     "El Presupuesto 2027 define cuánta plata tienen las universidades nacionales, el CONICET, el INTI, el INTA y el SENASA.",
+     "En Diputados el Gobierno consiguió la media sanción del Presupuesto. *Pero la oposición le incorporó más fondos* para las universidades y la ciencia.",
+     "La cifra. Perfil titula $11 billones; el dictamen del 17 de noviembre asignaba $7,3 billones. *Falta confirmar cuál quedó en el texto aprobado.*",
+     "Lo que viene. El Presupuesto pasa al Senado de la Nación, que decide si sostiene el aumento.",
+     "Si estudiás o querés estudiar, *seguí qué hace el Senado con tu universidad.*"
+    ],
+    "copy": "¿Estudiás en una universidad pública? ¿Pensás hacerlo? Esta historia es para vos. Diputados aprobó el Presupuesto 2027 y la oposición logró más fondos para universidades y ciencia. Te contamos qué falta.",
+    "audiovisual": [
+     "Foto de fondo: marcha universitaria al Congreso.",
+     "Captura del texto aprobado del artículo de universidades.",
+     "Video del recinto de Diputados."
+    ],
+    "a_chequear": [
+     "Cifra exacta de universidades en el texto aprobado ($11 billones o $7,3 billones).",
+     "Resultado de la votación.",
+     "Qué hará el Senado y cuándo."
+    ]
+   }
+  },
+  {
+   "id": "ludopatia-ley",
+   "seccion": "Juventud y educación",
+   "semaforo": "🟢",
+   "titulo": "Es ley la prevención de la ludopatía: el Senado prohibió las apuestas online para menores y la publicidad de juegos de azar",
+   "resumen": "El Senado de la Nación convirtió en ley, por unanimidad, el proyecto de prevención de la ludopatía (las leyes de Ludopatía I y II). La norma prohíbe las apuestas online para menores y la publicidad de los juegos de azar. La Iglesia católica celebró la aprobación y la calificó como \"triunfo colectivo\". Ayer también la Cámara de Diputados de la provincia de Buenos Aires destrabó su ley de ludopatía.",
+   "por_que_importa": "Las apuestas online pegan de lleno en los pibes y pibas, que las tienen a un clic en el celular.",
+   "fuentes": [
+    {
+     "medio": "Página/12",
+     "titulo": "El Congreso aprobó la ley contra la ludopatía y busca frenar las apuestas online",
+     "url": "https://www.pagina12.com.ar/2026/11/27/el-congreso-aprobo-la-ley-contra-la-ludopatia-y-busca-frenar-las-apuestas-online/",
+     "fecha": "2026-11-27T10:45:37-03:00"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "Las nuevas prohibiciones que regirán para las apuestas online tras la sanción de la ley de ludopatía",
+     "url": "https://www.lanacion.com.ar/politica/las-nuevas-prohibiciones-que-regiran-para-las-apuestas-online-tras-la-sancion-de-la-ley-de-ludopatia-nid27112026/",
+     "fecha": "2026-11-27T12:19:23-03:00"
+    },
+    {
+     "medio": "Clarín",
+     "titulo": "Por unanimidad, el Senado convirtió en ley el proyecto de Ludopatía",
+     "url": "https://www.clarin.com/politica/senado-convirtio-ley-proyecto-ludopatia-unanimidad_0_w5ybnCEYLT.html",
+     "fecha": "2026-11-26T23:06:48-03:00"
+    },
+    {
+     "medio": "elDiarioAR",
+     "titulo": "Ludopatía: es ley la prohibición de apuestas online para menores y de la publicidad de los juegos de azar",
+     "url": "https://www.eldiarioar.com/politica/ludopatia-ley-prohibicion-apuestas-online-menores-publicidad-ropa-deportiva_1_13697944.html",
+     "fecha": "2026-11-27T05:31:03-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "Clarín",
+     "titulo": "La Iglesia celebró la aprobación de la ley contra la ludopatía y la calificó como un \"triunfo colectivo\"",
+     "url": "https://www.clarin.com/politica/iglesia-celebro-aprobacion-ley-ludopatia-califico-triunfo-colectivo_0_Wpxdn7UTht.html",
+     "fecha": "2026-11-27T00:36:14-03:00"
+    },
+    {
+     "medio": "La Nación",
+     "titulo": "La Iglesia celebró la aprobación de la ley de Ludopatía en el Senado: “Es un triunfo colectivo de toda la sociedad”",
+     "url": "https://www.lanacion.com.ar/politica/la-iglesia-celebro-la-aprobacion-de-la-ley-de-ludopatia-en-el-senado-es-un-triunfo-colectivo-de-toda-nid27112026/",
+     "fecha": "2026-11-27T02:15:20-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "La Iglesia festejó la aprobación de la ley de ludopatía con una mención a León XIV: “Es un triunfo colectivo”",
+     "url": "https://www.cronista.com/informacion-gral/la-iglesia-festejo-la-aprobacion-de-la-ley-de-ludopatia-con-una-mencion-a-leon-xiv-es-un-triunfo-colectivo/",
+     "fecha": "2026-11-27T10:37:59-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "El Senado aprobó las leyes de Ludopatía I y II, el Registro de Alimentantes Morosos y otros proyectos",
+     "url": "https://www.perfil.com/politica/el-senado-aprobo-las-leyes-de-ludopatia-i-y-ii-el-registro-de-alimentantes-morosos-y-otros-proyectos-aFbAj2s9Ioha",
+     "fecha": "2026-11-27T04:04:16-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "La Legislatura bonaerense avanzó con una ley para regular el negocio de las apuestas online",
+     "url": "https://www.perfil.com/politica/la-legislatura-bonaerense-avanzo-con-una-ley-para-regular-el-negocio-de-las-apuestas-online-awB8q8q2lbn2",
+     "fecha": "2026-11-26T18:08:54-03:00"
+    }
+   ],
+   "alertas": [
+    "Falta el nombre del organismo que controlará el cumplimiento.",
+    "La Nación publicó las nuevas prohibiciones que regirán para las apuestas online; falta leer la nota y el texto de la ley para detallar la edad mínima, el alcance de la prohibición publicitaria, las sanciones y cuándo entra en vigencia."
+   ],
+   "idea_carrusel": {
+    "formato": "narrativo",
+    "enfoque": "Cuenta cómo una ley frenada durante años terminó sancionándose por unanimidad y qué cambia para quienes apuestan desde el celular; le habla a los pibes y pibas que ven publicidad de casas de apuestas todo el día.",
+    "portada": "Apostar desde el celular ya *es un problema* de todos",
+    "placas": [
+     "Abrís el celular y aparece la publicidad. Un click, un depósito, otra vez. Cualquiera que tenga un amigo que apuesta sabe cómo termina. *Eso se llama ludopatía.*",
+     "Durante años los proyectos para frenar las apuestas online quedaron sin tratarse en el Senado de la Nación. Este jueves 26 de noviembre el oficialismo y el peronismo cerraron un acuerdo y se votó.",
+     "El resultado. El Senado convirtió en ley, *por unanimidad*, el proyecto de prevención de la ludopatía (las leyes de Ludopatía I y II).",
+     "Qué prohíbe. *Las apuestas online para menores* y la publicidad de los juegos de azar (detalle de edades y alcance a confirmar con el texto de la ley).",
+     "Quiénes la celebraron. La Iglesia católica la calificó como *\"triunfo colectivo\"* y la Cámara de Diputados de la provincia de Buenos Aires también destrabó su ley de ludopatía.",
+     "La próxima vez que veas una publicidad de apuestas, fijate si todavía está. *Ahora la ley de prevención de la ludopatía dice que no puede estar.* (A confirmar cuándo entra en vigencia.)"
+    ],
+    "copy": "¿Tenés amigos que apuestan? ¿Te aparece publicidad de casas de apuestas todo el día? Esta historia es para vos. El Senado aprobó por unanimidad una ley que prohíbe las apuestas online para menores y la publicidad de los juegos de azar. Te contamos qué cambia.",
+    "audiovisual": [
+     "Foto de fondo: el recinto del Senado de la Nación durante la votación, o una captura de una publicidad de apuestas en el celular (sin marca identificable).",
+     "Video de la votación del Senado y declaración de la Iglesia, a confirmar.",
+     "Captura del texto de la ley sancionada."
+    ],
+    "a_chequear": [
+     "Texto de la ley (edad mínima, alcance de la prohibición publicitaria, sanciones, organismo de control y fecha de entrada en vigencia).",
+     "Resultado exacto de la votación (Clarín informa unanimidad).",
+     "Qué dice la ley bonaerense y si ya es ley."
+    ]
+   }
+  },
+  {
+   "id": "energia-cortes-verano",
+   "seccion": "Economía",
+   "semaforo": "🟢",
+   "titulo": "El Gobierno aprobó un esquema para reducir el riesgo de cortes de luz en verano",
+   "resumen": "El Gobierno nacional aprobó un esquema con nuevas reglas para sumar energía al sistema eléctrico y reducir el riesgo de cortes de luz durante el verano y en otros picos de consumo.",
+   "por_que_importa": "Con el calor, un corte de luz deja sin heladera, sin ventilador y sin internet para estudiar o laburar.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "El Gobierno aprobó un esquema que busca reducir el riesgo de cortes de luz en verano y otros picos de consumo",
+     "url": "https://www.infobae.com/economia/2026/11/27/el-gobierno-aprobo-un-esquema-que-busca-reducir-el-riesgo-de-cortes-de-luz-en-verano-y-otros-picos-de-consumo/",
+     "fecha": "2026-11-27T09:06:51-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "El Gobierno cambia las reglas para sumar energía y evitar cortes de luz",
+     "url": "https://www.ambito.com/energia/el-gobierno-cambia-las-reglas-sumar-y-evitar-cortes-luz-n6349958",
+     "fecha": "2026-11-27T09:36:14-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Falta la norma publicada en el Boletín Oficial (organismo, número y fecha) como fuente primaria; los títulos no la traen.",
+    "Falta el detalle del esquema (cuánta energía suma, quién la provee y cuánto cuesta); no se pudo leer el texto completo de las notas."
+   ]
+  },
+  {
+   "id": "oro-agn-bcra",
+   "seccion": "Economía",
+   "semaforo": "🟡",
+   "titulo": "Auditoría General de la Nación y Banco Central discuten dónde está el oro argentino",
+   "resumen": "Según la Auditoría General de la Nación (AGN), el Banco Central de la República Argentina (BCRA) envió 1.000 barras de oro al Banco de Inglaterra y fundió 115 lingotes. La discusión entre ambos organismos sigue abierta y todavía no se conoce cuál es la versión completa del BCRA ni el texto del informe.",
+   "por_que_importa": "Las reservas del Banco Central respaldan la moneda y el manejo de esos fondos termina impactando en los precios y en la economía de todos.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "Sigue la polémica por el oro: según la AGN, el BCRA envió 1.000 barras al Banco de Inglaterra y fundió 115 lingotes",
+     "url": "https://www.infobae.com/economia/2026/11/26/segun-la-agn-el-bcra-envio-1000-barras-de-oro-al-banco-de-inglaterra-y-fundio-115-lingotes/",
+     "fecha": "2026-11-26T18:08:43-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "Lo que no se sabe de la guerra entre el Banco Central y la AGN por el oro argentino",
+     "url": "https://www.ambito.com/politica/lo-que-no-se-sabe-la-guerra-el-banco-central-y-la-agn-el-oro-argentino-n6350054",
+     "fecha": "2026-11-27T12:56:00-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Falta el informe de la AGN como fuente primaria; las cifras (1.000 barras y 115 lingotes) se atribuyen al informe y no se pudieron contrastar con su texto.",
+    "Falta la respuesta oficial del BCRA y en qué fecha se hicieron los envíos y las fundiciones; los títulos no lo traen."
+   ]
+  },
+  {
+   "id": "kioscos-cerrados",
+   "seccion": "Economía",
+   "semaforo": "🟡",
+   "titulo": "Reportan 53.000 kioscos cerrados desde diciembre de 2023",
+   "resumen": "Se difundió que cerraron más de 53.000 kioscos en el país desde que Javier Milei asumió la presidencia de la Nación. La cifra circula en Ámbito y en otros portales regionales, y Enterate Noticias agrega 72.000 empleos perdidos.",
+   "por_que_importa": "El kiosco es el primer laburo de muchos jóvenes y un termómetro del consumo barrial.",
+   "fuentes": [
+    {
+     "medio": "Ámbito",
+     "titulo": "Crisis en el comercio: reportan 53.000 kioscos cerrados desde que asumió Javier Milei",
+     "url": "https://www.ambito.com/economia/crisis-el-comercio-reportan-53000-kioscos-cerrados-que-asumio-javier-milei-n6349905",
+     "fecha": "2026-11-26T22:58:00-03:00"
+    },
+    {
+     "medio": "MinutoUno",
+     "titulo": "Más de 53.000 kioscos cerraron en el país en lo que va de la gestión Milei",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE1OS1l1azVXeHF6eW4xdi1kc21BTGZMTWNtUW1XMEZ2d0xkZGlrNU1QUGxJZ05BM1l5M2Qydkl3aEM0TzJQeHdOY2RwcUc3OW5DdUU5VVMzQ3pLTUFnS0U5TVV0OHFHRFpOdWJfanVtUGhGSlVhb20yb08tVS01RzFJbmliVnhDSVFIMzFJeVdvSEJ0c2tfdDlnUHUwdU5CQi1NVnRQZGHSAagBQVVfeXFMTkxNTktZdWs1V3hxenluMXYtZHNtQUxmTE1jbVFtVzBGdndMZGRpazVNUFBsSWdOQTNZeTNkMnZJd2hDNE8yUHh3TmNkcHFHNzluQ3VFOVVTM0N6S01BZ0tFOU1VdDhxR0RaTnViX2p1bVBoRkpVYW9tMm9PLVUtNUcxSW5pYlZ4Q0lRSDMxSXlXb0hCdHNrX3Q5Z1B1MHVOQkItTVZ0UGRh?oc=5",
+     "fecha": "2026-11-26T23:08:00-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Falta identificar quién produjo la cifra de 53.000 y 72.000 empleos (cámara, consultora o relevamiento) y con qué metodología; los títulos no lo dicen.",
+    "Los portales regionales repiten la misma cifra, por lo que cuentan como una sola fuente."
+   ]
+  },
+  {
+   "id": "malvinas-torturas-conjueces",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "La Corte Suprema designó conjueces para decidir si prescribió la causa por torturas a soldados en Malvinas y el CECIM le exige que avance",
+   "resumen": "La Corte Suprema de Justicia de la Nación sorteó conjueces para resolver si prescribió la causa donde se investigan presuntas torturas contra soldados durante la guerra de Malvinas. Desde Malvinas, el Centro de Ex Combatientes de las Islas Malvinas (CECIM) le exigió a la Corte que avance con la causa.",
+   "por_que_importa": "Se discute si los crímenes de la guerra de 1982 pueden juzgarse, una memoria que se estudia en las escuelas.",
+   "fuentes": [
+    {
+     "medio": "Página/12",
+     "titulo": "Desde Malvinas, el CECIM le exigió a la Corte que avance con la causa por torturas",
+     "url": "https://www.pagina12.com.ar/2026/11/27/desde-malvinas-el-cecim-le-exigio-a-la-corte-que-avance-con-la-causa-por-torturas/",
+     "fecha": "2026-11-26T21:47:56-03:00"
+    },
+    {
+     "medio": "Página/12",
+     "titulo": "Desde Malvinas, el CECIM le exigió a la Corte que avance con la causa por torturas",
+     "url": "https://www.pagina12.com.ar/2026/11/27/desde-malvinas-el-cecim-le-exigio-a-la-corte-que-avance-con-la-causa-por-torturas/",
+     "fecha": "2026-11-26T21:47:56-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Torturas en Malvinas: la Corte Suprema sortea conjueces para evaluar si los crímenes contra los soldados prescribieron",
+     "url": "https://www.perfil.com/politica/la-corte-suprema-sortea-conjueces-para-definir-si-los-crimenes-contra-los-soldados-prescribieron-aKRbF6u1rz59",
+     "fecha": "2026-11-25T19:46:23-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Faltan los nombres de los conjueces, el tribunal que remitió la causa y los imputados; los títulos no los traen.",
+    "Las presuntas torturas son una hipótesis de la causa; la prescripción todavía no se decidió.",
+    "Falta el nombre completo del CECIM (el título de Página/12 lo abrevia) y la resolución de la Corte como fuente primaria."
+   ]
+  },
+  {
+   "id": "afa-rafecas-beligoy",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "Rafecas unificó la denuncia contra el árbitro Federico Beligoy con la causa por la mansión de Pilar en la Asociación del Fútbol Argentino",
+   "resumen": "El juez federal Daniel Rafecas decidió investigar juntas la denuncia por presunto lavado de dinero contra el árbitro Federico Beligoy y la causa por la mansión de Pilar, vinculada con la cúpula de la Asociación del Fútbol Argentino (AFA). Las dos denuncias pasan a tramitar como una misma investigación.",
+   "por_que_importa": "La causa toca a la AFA, la institución que maneja el fútbol que miran los pibes y pibas todas las semanas.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "Investigarán juntas la denuncia contra el árbitro Beligoy y la mansión de Pilar como una presunta trama de lavado en la cúpula de la AFA",
+     "url": "https://www.infobae.com/judiciales/2026/11/26/la-denuncia-contra-el-arbitro-beligoy-se-investigara-junto-a-la-causa-de-la-mansion-de-pilar-como-parte-de-una-presunta-trama-de-lavado-en-la-cupula-de-la-afa/",
+     "fecha": "2026-11-26T11:58:15-03:00"
+    },
+    {
+     "medio": "Perfil",
+     "titulo": "Causa AFA: unificaron la denuncia por lavado contra Beligoy con la de la mansión de Pilar y se complica la situación de Toviggino",
+     "url": "https://www.perfil.com/economia/causa-afa-unificaron-la-denuncia-por-lavado-contra-beligoy-con-la-de-la-mansion-de-pilar-y-se-complica-la-situacion-de-toviggino-aFdg49p9GkJa",
+     "fecha": "2026-11-26T14:55:04-03:00"
+    },
+    {
+     "medio": "El Cronista",
+     "titulo": "AFA: Rafecas unificó la causa por la mansión de Pilar con una denuncia contra Federico Beligoy",
+     "url": "https://www.cronista.com/economia-politica/afa-rafecas-unifico-la-causa-por-la-mansion-de-pilar-con-una-denuncia-contra-federico-beligoy/",
+     "fecha": "2026-11-26T19:09:51-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Se trata de denuncias; no hay imputaciones confirmadas ni condenas. Falta la respuesta de la AFA y de Beligoy.",
+    "Falta el nombre de quien presentó la denuncia contra Beligoy y el juzgado exacto."
+   ]
+  }
+ ],
+ "para_chequear": [
+  {
+   "titulo": "Auditoría General de la Nación y Banco Central discuten dónde está el oro argentino",
+   "resumen": "Según la Auditoría General de la Nación (AGN), el Banco Central de la República Argentina (BCRA) envió 1.000 barras de oro al Banco de Inglaterra y fundió 115 lingotes. La discusión entre ambos organismos sigue abierta y todavía no se conoce cuál es la versión completa del BCRA ni el texto del informe.",
+   "falta": "Falta el informe de la AGN como fuente primaria; las cifras (1.000 barras y 115 lingotes) se atribuyen al informe y no se pudieron contrastar con su texto. Falta la respuesta oficial del BCRA y en qué fecha se hicieron los envíos y las fundiciones; los títulos no lo traen.",
+   "fuentes": [
+    {
+     "medio": "Infobae",
+     "titulo": "Sigue la polémica por el oro: según la AGN, el BCRA envió 1.000 barras al Banco de Inglaterra y fundió 115 lingotes",
+     "url": "https://www.infobae.com/economia/2026/11/26/segun-la-agn-el-bcra-envio-1000-barras-de-oro-al-banco-de-inglaterra-y-fundio-115-lingotes/",
+     "fecha": "2026-11-26T18:08:43-03:00"
+    },
+    {
+     "medio": "Ámbito",
+     "titulo": "Lo que no se sabe de la guerra entre el Banco Central y la AGN por el oro argentino",
+     "url": "https://www.ambito.com/politica/lo-que-no-se-sabe-la-guerra-el-banco-central-y-la-agn-el-oro-argentino-n6350054",
+     "fecha": "2026-11-27T12:56:00-03:00"
+    }
+   ]
+  },
+  {
+   "titulo": "Reportan 53.000 kioscos cerrados desde diciembre de 2023",
+   "resumen": "Se difundió que cerraron más de 53.000 kioscos en el país desde que Javier Milei asumió la presidencia de la Nación. La cifra circula en Ámbito y en otros portales regionales, y Enterate Noticias agrega 72.000 empleos perdidos.",
+   "falta": "Falta identificar quién produjo la cifra de 53.000 y 72.000 empleos (cámara, consultora o relevamiento) y con qué metodología; los títulos no lo dicen. Los portales regionales repiten la misma cifra, por lo que cuentan como una sola fuente.",
+   "fuentes": [
+    {
+     "medio": "Ámbito",
+     "titulo": "Crisis en el comercio: reportan 53.000 kioscos cerrados desde que asumió Javier Milei",
+     "url": "https://www.ambito.com/economia/crisis-el-comercio-reportan-53000-kioscos-cerrados-que-asumio-javier-milei-n6349905",
+     "fecha": "2026-11-26T22:58:00-03:00"
+    },
+    {
+     "medio": "MinutoUno",
+     "titulo": "Más de 53.000 kioscos cerraron en el país en lo que va de la gestión Milei",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE1OS1l1azVXeHF6eW4xdi1kc21BTGZMTWNtUW1XMEZ2d0xkZGlrNU1QUGxJZ05BM1l5M2Qydkl3aEM0TzJQeHdOY2RwcUc3OW5DdUU5VVMzQ3pLTUFnS0U5TVV0OHFHRFpOdWJfanVtUGhGSlVhb20yb08tVS01RzFJbmliVnhDSVFIMzFJeVdvSEJ0c2tfdDlnUHUwdU5CQi1NVnRQZGHSAagBQVVfeXFMTkxNTktZdWs1V3hxenluMXYtZHNtQUxmTE1jbVFtVzBGdndMZGRpazVNUFBsSWdOQTNZeTNkMnZJd2hDNE8yUHh3TmNkcHFHNzluQ3VFOVVTM0N6S01BZ0tFOU1VdDhxR0RaTnViX2p1bVBoRkpVYW9tMm9PLVUtNUcxSW5pYlZ4Q0lRSDMxSXlXb0hCdHNrX3Q5Z1B1MHVOQkItTVZ0UGRh?oc=5",
+     "fecha": "2026-11-26T23:08:00-03:00"
+    }
+   ]
+  }
+ ],
+ "seguimiento": [],
+ "periodistas": [
+  {
+   "nombre": "Alejandro Bercovich",
+   "rol": "periodista económico",
+   "notas": [
+    {
+     "titulo": "CIBERATAQUES MASIVOS | EMI GARZÓN CON BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZi1adEZqNVkxYzJIWGZySDhJV2R4RFRSa1lyTVFCeFEzVm1OUVV1YWN1X3dhZy1oamMxZGdpankyZENuZkQ2SUdxQ1UxNFFpQkxEcUFmMUUxU2xKQXplXzZZZmVSTXozWlB3REpPUEdJVGEyTzhCS1V6ZDhmSEM4a0ZQVlBNdDY2YUFMOU1PTUU3d2NfbXFVWHhmbUQ?oc=5",
+     "fecha": "2026-11-26T23:51:04-03:00"
+    },
+    {
+     "titulo": "¿SE VIENE UN VERANO DE LLUVIAS? I GULIZIA CON BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWlVLUHVtMnJpRlVubUJWRTFCMy15Z21aT2Fkb3JWenlCcmxVVi01WUxBRWRGQWlLQ3lFYVJiT283ZUl3RnNlTFRPSi1GX21JRGhpNTdVQTNfM1JQVEp4bDZyMk1ubjlmTWpYTjNVSkkxYzlYNVgxQnVrSFN3bTkwXzNCRnJJaE1WMHBWZTRCZ0VsZ0NobTBpSWZYVVM2VFNtb0ZzSlZmYw?oc=5",
+     "fecha": "2026-11-26T17:39:23-03:00"
+    },
+    {
+     "titulo": "¿SE LES CAYÓ EL RELATO GEOPOLÍTICO? EL SALVAVIDAS CHINO DE CAPUTO | EDITORIAL BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS1FXUEdROTViUlFuT2Vpd3dqVHZMd1ZNc3B1NGZBX2RtMmlxaDFRSVA5azNqTVcwTVVIZTN2SkxSd3JQYXVQR2tyY0lCSTRoY0xIOUh6N1NoY3N5QXlCeEZpT3ZuZXZRU0NYSWRVcjNhMG1ib0pzNkpVZ2hlTl9TR3pJcTRUSjlCWk01Y0pPbHRJcVUtbEZNYm52YUxDcE16TkpqbTVJYzNwczA2VFVua0RlcThmeVNxSTBWQU12SUF6aFcxcEh5RHJfZGRMUG8?oc=5",
+     "fecha": "2026-11-26T17:35:23-03:00"
+    },
+    {
+     "titulo": "«Se bajó impuestos al RIGI y no a las tarifas de la clase media» I KOHAN CON BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0hHWHNJbnRaUkRBWWNJdjdwX1poZHpJU1JFU2huNFNwZDhSbENBc1FWSzJhWXNXT0FlUzRCeEhJUjNqNVEtXzYzeVJkRTdzRDV5UmNMbmw5LXdmWkx3QzdMaDhyMjYwSERNOVpEd29VVGF0NmRaVGVmOVg1b2RBV2VobFpydGZQWGt2a3hFU1ZhRDgzOWZuOVV1T29GS1JWZXV6ekNqMWd1MTdaNW9Ecm5MVjk5TUlFeVl2OXlOem9xbXpDcDJ5X1cwV1E0TTJq?oc=5",
+     "fecha": "2026-11-25T18:00:57-03:00"
+    },
+    {
+     "titulo": "VACA MUERTA, LEY MALVINAS Y EXPLOSIÓN EN METROGAS | NICO GANDINI CON BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2JsYld4LUd5TkRuVEx1QnNQbUpMTVNWZ0RJSGRCWm1ILUprWHBuWTV2SWlVXzNlX3VmVnluOUVhN09GSl8wYmFicWNHRXNKR1hlNTN4VHdKZ1VBV3pnNV9aaEYxWl9YN2xDNk1kQXR1WE1QZ1lkS0lucjhtVmVZMnRabXBIU3hkaDAxRlFWLVJXa0hJREhSYWVFZUxqTDhrLWV4OXhERGJmNkQ2NHpsWkI4RGpWU184Mm5JYTNUb2dyNWFM?oc=5",
+     "fecha": "2026-11-25T17:59:57-03:00"
+    },
+    {
+     "titulo": "Un enclave de crecimiento en un mar de RECESIÓN | EDITORIAL BERCOVICH",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWnhnWlVsZ2tlbkpjNTAyRW52bVV0TFljamNBZGYyZk9yNDFVV2VJTVc0VWpFLVd2SjVhSTdObU1UZGs4X0Z6UHpwQzZVc1JCNk83RjBLbV9sQTZjVHloWWF2N2dZTkpLVk9fY01xbGxUZWl2d3BZTEJGX2xNbHAzNUZCeTlUSWdkaTJGZHBjUEgxYUw1cGFvaTZjdWZCZXlseWEtRjloekFRaTgxV3l1emQzTmIwUHRFUFE?oc=5",
+     "fecha": "2026-11-25T17:56:57-03:00"
+    }
+   ],
+   "temas": [
+    "economía",
+    "tarifas",
+    "dólar"
+   ],
+   "posicion": "Alejandro Bercovich, periodista económico, publicó 'CIBERATAQUES MASIVOS | EMI GARZÓN CON BERCOVICH'; '¿SE VIENE UN VERANO DE LLUVIAS? I GULIZIA CON BERCOVICH'; '¿SE LES CAYÓ EL RELATO GEOPOLÍTICO? EL SALVAVIDAS CHINO DE CAPUTO | EDITORIAL BERCOVICH'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Reynaldo Sietecase",
+   "rol": "periodista",
+   "notas": [
+    {
+     "titulo": "LOS VIAJES DE MILEI CON LA PLATA DE LOS ARGENTINOS I SIETECASE EDITORIAL",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmFKUGtreXhJX2VZTnM0RERqdjNMaEd6NWFJWEF4dWhiUWtTUmdYVHBmbzgwMHljcGE4NjFXdW5mdGRmb3NtdHlXUEk1YjgyVTF2R2pVREkwbVFYaGF6NmJIMEIxZU5wMGpZZUtoQlpmODZjVUJOekRKYkxnUU1OS2NuM1FqQWoxS0d5cjYzY09KbzlKU01xdjRxam1hM0FMSkJzRGtRVHV5Yi02OFpZbzJLUXJuR2tCdXhtUThaUjA?oc=5",
+     "fecha": "2026-11-26T17:57:23-03:00"
+    },
+    {
+     "titulo": "OPUS DEI: indagatoria a la cúpula por presunta trata laboral l PAULA BISTAGNINO con SIETECASE",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa181VWliSUM4ckNRUEhNZjk0RG9TRVhvQzZtSE9HTXVyVGhBcWU5N0h6aV9NZE94MEJ5ZmxFbW5FLUhNdnVOdlpvd3RxX2tweV9LNHAtdUZmZ1VlZWgzbXFPY1lIcTVGNnZJZjVZcWpnb3FKRXhkZDU3SUxhVUhHcEV5OXU4cy1KT3N1WVZ5RHRzRURKR1ZYdy1DdURLRS1oYWxYUmttZGJEWk9ySG02a3JsdTJQRVdYNkpNeDZYeGd2NG5mdzBQMmJyMmh6OXB3ZVRmTTlVYlFoSVk?oc=5",
+     "fecha": "2026-11-26T17:52:23-03:00"
+    },
+    {
+     "titulo": "LA MALAPRAXIS DE MILEI A SU GOBIERNO l TENEMBAUM y SIETECASE",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTGQyX19TVEEzVzdaVm9tdnlHck4xSWpuNzJnOVFlbEcxYXM0a3hNR0RMM3ZTektXWTZyU25qelFPd0dMcS1DOWxyM1l1dnQybG9VT2lZSC14d1h6cWpzTmhKVUJhVWNpaUN2V2t6aHpYdVdGaXFkbEwybV9QS0RIUHJaYVdWSlVPdlF6SnpLNlJfQkRNUWJiVlllNmk0a2JvTXpaQ0hGZU9yc3Y4QkRzVw?oc=5",
+     "fecha": "2026-11-26T17:32:23-03:00"
+    },
+    {
+     "titulo": "¿RECESIÓN O ILUSIÓN? I SIETECASE EDITORIAL",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJkaXBOTkNDOHB5SVpmcDRNd094Q1dja25XRGtrZ1JZOC0yTHFPNk5VS2lfUllTVzhKLVc3eFV2UU5yYkJjYWtQUjc3cXQ1eDhzbmJtamxYbmJDNmwweF9DNzBTU0tMUEtvQk1KdDVQNU85dHhUNl9KcFE1YnJrS1JaUGo5M3dmc1ZENEZaYWR3RmRYY3c?oc=5",
+     "fecha": "2026-11-25T18:12:57-03:00"
+    },
+    {
+     "titulo": "VETERANOS ARGENTINO y BRITÁNICO de MALVINAS mano a mano con TENEMBAUM y SIETECASE",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWF1bllBd3RJOFd0Sml0eGtEM3JSYUNrZGthVHdZdlhlM3NySm9sb2hUOURFVWNnajRlWGRrSnpSRlpiaHBSelNZUk1DNE5IMmpPUW83QUp5elJhQ2wyRUxWQVM1MHRMY2pFUWRPYWdhZVZFMVJOVW1ickc2TkZSODdIU2JsQWdnV0hZVkxGbk5jN2pLclA5UC13M094TTZQZzlOa0hTZHdjWm9nU184N3o3WWdZOFV4THh0eWxtRmcwUWJpdUdsZEJOREM?oc=5",
+     "fecha": "2026-11-25T18:06:57-03:00"
+    }
+   ],
+   "temas": [
+    "viajes presidenciales",
+    "economía",
+    "PAMI",
+    "Malvinas"
+   ],
+   "posicion": "Reynaldo Sietecase, periodista, publicó 'LOS VIAJES DE MILEI CON LA PLATA DE LOS ARGENTINOS I SIETECASE EDITORIAL'; 'OPUS DEI: indagatoria a la cúpula por presunta trata laboral l PAULA BISTAGNINO con SIETECASE'; 'LA MALAPRAXIS DE MILEI A SU GOBIERNO l TENEMBAUM y SIETECASE'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Víctor Hugo Morales",
+   "rol": "periodista",
+   "notas": [
+    {
+     "titulo": "Víctor Hugo Morales cuestionó la recesión económica y denunció el impacto del ajuste social",
+     "url": "https://www.pagina12.com.ar/2026/11/26/victor-hugo-morales-cuestiono-la-recesion-economica-y-denuncio-el-impacto-del-ajuste-social/",
+     "fecha": "2026-11-26T15:10:57-03:00"
+    }
+   ],
+   "temas": [
+    "economía",
+    "ajuste social"
+   ],
+   "posicion": "Víctor Hugo Morales, periodista, publicó 'Víctor Hugo Morales cuestionó la recesión económica y denunció el impacto del ajuste social'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Hugo Alconada Mon",
+   "rol": "periodista de investigación de La Nación",
+   "notas": [
+    {
+     "titulo": "Caso Chocolate: un fiscal desestimó la denuncia de un juez contra los diputados bonaerenses por encubrimiento",
+     "url": "https://www.lanacion.com.ar/politica/caso-chocolate-un-fiscal-desestimo-la-denuncia-de-un-juez-contra-los-diputados-bonaerenses-por-nid26112026/",
+     "fecha": "2026-11-26T13:46:56-03:00"
+    }
+   ],
+   "temas": [
+    "justicia"
+   ],
+   "posicion": "Hugo Alconada Mon, periodista de investigación de La Nación, publicó 'Caso Chocolate: un fiscal desestimó la denuncia de un juez contra los diputados bonaerenses por encubrimiento'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Carlos Pagni",
+   "rol": "columnista político de La Nación",
+   "notas": [
+    {
+     "titulo": "Pagni apunta a videos del “Camino de Santiago” porteño",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTFPb25nbGNJWnFsR3p5cmxMVmVZV2JuYWc5dktLNzMtZ3BkUm1nN0M5azFBb0VjMEF0QnRhOExXRHBlRUNJaGx1RWplWm8xSVo4VmtaanJWU19pZXVHMlhDR2Z1ZkxJeTZmNXdCdjN1LUVWaHhIY2sxUHNIN0dxcFdnRElET3FabUE?oc=5",
+     "fecha": "2026-11-26T13:00:34-03:00"
+    },
+    {
+     "titulo": "Milei persigue un éxito entre grietas y adversidades",
+     "url": "https://www.lanacion.com.ar/politica/milei-persigue-un-exito-entre-grietas-y-adversidades-nid25112026/",
+     "fecha": "2026-11-25T22:15:53-03:00"
+    }
+   ],
+   "temas": [
+    "política",
+    "Gobierno nacional"
+   ],
+   "posicion": "Carlos Pagni, columnista político de La Nación, publicó 'Pagni apunta a videos del “Camino de Santiago” porteño'; 'Milei persigue un éxito entre grietas y adversidades'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  },
+  {
+   "nombre": "Iván Schargrodsky",
+   "rol": "periodista, editor de Cenital",
+   "notas": [
+    {
+     "titulo": "MIÉRCOLES 02/12 | RUSIA: ¿POTENCIA O IMPOTENCIA?, MUNDO PROPIO CON IVÁN SCHARGRODSKY",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUW84SDl0Wnd6QlVGTUVyRDFHNm85Z0JDRmpBUDloa1pFSFhRRUp5S0xfQXduekIxemdPMjhSSXFwLW5ETHNpR0p0RmN0bVZjUG9YU0NNWHZQVDVUZGFHUlRVLW9ZVy1wRmdrVnFVWDRTbVdQYndJVWdURWZXVHdjWXgxaThvdDFoOVJiNnRlajFVeldqX2Jjckd6aURCTHFCZnpXcnJhMjVIRWZNUGZKejhENFdWNVFwN0U3OGZZdllxSGM0Z0Ftcw?oc=5",
+     "fecha": "2026-11-25T19:20:47-03:00"
+    }
+   ],
+   "temas": [
+    "política",
+    "política internacional"
+   ],
+   "posicion": "Iván Schargrodsky, periodista, editor de Cenital, publicó 'MIÉRCOLES 02/12 | RUSIA: ¿POTENCIA O IMPOTENCIA?, MUNDO PROPIO CON IVÁN SCHARGRODSKY'; el texto completo no se pudo leer, por lo que el detalle de su posición queda por confirmar."
+  }
+ ],
+ "nota_x": "X todavía no está conectado.",
+ "metricas": {
+  "notas_analizadas": 3299,
+  "grupos": 2264,
+  "temas": 10
+ },
+ "nota": "Edición armada sin acceso directo a las notas completas de los medios (los sitios no estaban accesibles); los datos faltantes figuran en alertas."
+}

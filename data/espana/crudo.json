@@ -1,7 +1,152 @@
 {
- "generado": "2026-11-27T15:09:42-03:00",
- "total": 3343,
- "errores": [],
+ "generado": "2026-11-27T15:07:59-03:00",
+ "total": 3229,
+ "errores": [
+  {
+   "fuente": "rss El País",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss El Mundo",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss ABC",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss La Vanguardia",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss elDiario.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss El Confidencial",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss infoLibre",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss RTVE",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss Europa Press",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss Newtral",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss Maldita.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss BBC Mundo",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss Le Monde",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "rss Politico Europe",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site efe.com",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site europapress.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site cadenaser.com",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site reuters.com",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site afp.com",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site theguardian.com",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site interior.gob.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site juntaelectoralcentral.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site boe.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site cis.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "site lamoncloa.gob.es",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews elecciones generales 29N",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews elecciones generales España",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews campaña electoral Sánchez Feijóo",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews Vox Abascal elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews Sumar Podemos elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews encuesta elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews Junta Electoral Central",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews voto por correo elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews resultados elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews debate electoral elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  },
+  {
+   "fuente": "gnews pactos investidura elecciones generales",
+   "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden (agent proxy: no rule or "
+  }
+ ],
  "notas": [
   {
    "id": "9981074364",

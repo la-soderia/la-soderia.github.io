@@ -36,6 +36,22 @@ Las placas están en `criterio/2026-carrusel-crimenes-argentina-libertaria/`, en
 
 **Regla clave del formato satírico.** La ironía está en la justificación; **los hechos de "Acciones a tomar" y los datos que se cuelan tienen que ser reales y chequeados** (🟢), con la fuente anotada. Si un ítem no está confirmado, no entra.
 
+## Referencia 3: "Top corridas libertarias" (publicado el 6/11/2026)
+Las placas están en `criterio/2026-11-top-corridas-libertarias/`, en la carpeta del proyecto. Es un formato de **ranking con humor**: una placa por protagonista.
+
+**Cómo funciona**
+1. **Portada.** Una foto del momento a sangre (un libertario corriendo), apagada y con un velo gris verdoso, y encima el texto de entrada ("Pero fieles a su costumbre de no cumplir con nada…") y el título en tres colores ("Top" en blanco, "corridas" en amarillo y "libertarias" en rosa). Una flecha roja dibujada a mano apunta del texto al título.
+2. **Una placa por protagonista.** Nombre en rosa o rojo como título ("José Luis Espert", "El rey de los leones"), un párrafo que arranca con quién es y su discurso y termina con el remate en color ("se subió a una motito para escapar de su propia caravana libertaria"). Algunas palabras van subrayadas a mano en rojo ("cárcel o bala", "pelito acariciado").
+3. **La prueba.** Cada placa lleva la imagen del momento en una ventana rectangular que ocupa media placa, arriba o abajo del texto, con una flecha roja dibujada a mano que une el título con la imagen. Se usan capturas de TV con los zócalos a la vista ("ÚLTIMO MOMENTO") y frames de video de redes. Lo que importa es que sea **el momento real**.
+4. **Cierre.** Foto a sangre del momento más icónico y una pregunta a la audiencia ("¿Qué valiente nos quedó afuera de la lista? Comentá sumando tu aporte…") con el logo de Soda.
+
+**Lo visual.** Fondos gris verdoso con textura y rosa. Fotos **en color** en las placas internas (son la evidencia) y apagadas o con velo cuando van de fondo. Tipografía condensada, con títulos en rosa, amarillo o rojo.
+
+## Fotos: cuándo color y cuándo blanco y negro
+- **Color** cuando la foto es la prueba de un momento concreto (la corrida, el cruce, el video). Va en una ventana, con flecha roja hacia el texto.
+- **Blanco y negro** (o un velo del color de la placa) cuando la foto es de ambientación o retrato del responsable, como en "Crímenes graves" y "Secreto militar".
+- La foto siempre muestra personas y siempre es real. Si es de archivo o de otra fecha, el epígrafe interno lo tiene que decir.
+
 ## Qué formato proponer
 - **Narrativo (modelo tren San Martín)** cuando hay una historia con promesa, datos, giro y responsable, por ejemplo una obra frenada, un fondo desviado o una ley incumplida.
 - **Satírico de lista (modelo "Crímenes graves")** cuando varios temas de la semana comparten un mismo patrón del Gobierno y se pueden juntar bajo una consigna irónica.

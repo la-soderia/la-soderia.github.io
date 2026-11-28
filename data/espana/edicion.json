@@ -1,570 +1,258 @@
 {
- "id": "2026-11-27-15",
- "generado": "2026-11-27T15:11-03:00",
+ "id": "2026-11-28-11",
+ "generado": "2026-11-28T11:12-03:00",
  "tipo": "curada",
  "cobertura": "Elecciones generales de España del 29 de noviembre de 2026",
  "claves": [
   {
-   "texto": "Los colegios electorales de España cierran el domingo 29 a las 20 h, las 16 h en la Argentina. Desde esa hora el Ministerio del Interior publica el escrutinio provisional en su web y en una aplicación oficial.",
+   "texto": "El debate a cuatro entre Sánchez, Feijóo, Abascal y Colau se emitió el 26 de noviembre.",
    "fuentes": [
     {
-     "medio": "Ministerio del Interior",
-     "titulo": "Una web y una app facilitarán el seguimiento en tiempo real de los resultados electorales del 29N",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLVVlczkwQ2tENTJoWi1kQXF0YS1KNWRiTVFnVC1zUUhUOVc5dk53R2R5d3RSZjdBMXlFYUJCaC0zTWtkV2dmSHU1TGFCUGg3XzMwMjhfemhBREpkaEg5elBFZXVGQ3RKem9DZmhFR2NXWm5zblk5WUhzTFNIMndrR0xyWEkxb3RPVFMxRE02WTN2NXlDZjFvaktHamxJTFFEdS1Qdy1tV2RXc1BZa182Qkp5bWtpNkNQZWZXUWFDN0FpbXNuR3V2aWx4amlQaDZZS1pUakxzMWU0NnVWcTZXNTBEcEN1Z1VzV2c?oc=5"
+     "medio": "RTVE",
+     "titulo": "Hora y dónde ver en TV el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlJ2cXJkVHE4Y0ZnaWVUZ3FrYnd0dXh6WFFlcHA5WlctYUR4Wk8zTU8xM0NrR1o3dTZTbVZwQzV0X3kxMURRQklPc0c3NXVkR2ZBVm1LcDBLaDhVODNsVzczeFp5Y1JRbnQwWXFXWXpsSFZsWlFUMlQzZTFCd3FaOVpPaUR0bXZTSE5XclNmX0JBNzJiLWRXanpfWkdlWmJ4WHRGbGFVR2dZbE9DTElj?oc=5",
+     "fecha": "2026-11-25T05:23:35-03:00"
     },
     {
      "medio": "El Confidencial",
-     "titulo": "Una web y una aplicación permitirán seguir en tiempo real los resultados electorales",
-     "url": "https://www.elconfidencial.com/espana/2026-11-26/elecciones-generales-resultados-provisionales-app-1tps_4473243/"
+     "titulo": "Debate a cuatro entre Sánchez, Feijóo, Abascal y Colau: a qué hora es, dónde ver por TV y qué cadenas lo emiten",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnYyaE9JQk5jT0stRFpfU1hGUmo2UzZQMmZXbExLZ1F2REJ2dHdmY3l0NnlFaFRVVDJDTU5tMVVHUDlvVGdpc2diZkZicnQ5N0lfVDA4akV4c2YyRXBMUWhZOHFsNkdZZ2hLZVVaVE1fYjZfalNBUWJoY2pBbThsRlNPNEZMYlVIQllHaEwzekw3UEpLLXlnMTJMRUtpYjZ0ZjhkLXhvRzVaVmo2YzFuRHRUczBGT2pVUmFVZjU4NXpIdTNQSFFjanNLVlNWTXU0T2hCdlBRREVFdw?oc=5",
+     "fecha": "2026-11-26T01:00:00-03:00"
     }
    ]
   },
   {
-   "texto": "Esta noche es el único debate a cuatro de la campaña, entre Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau. La campaña termina el viernes 27 y el sábado 28 es la jornada de reflexión.",
+   "texto": "Correos registra 1.012.033 votos por correo para el 29N.",
    "fuentes": [
-    {
-     "medio": "ABC",
-     "titulo": "Debate a cuatro con Pedro Sánchez, Feijóo, Abascal y Ada Colau hoy: formato, bloques y cómo es su funcionamiento",
-     "url": "https://www.abc.es/espana/debate-cuatro-sanchez-feijoo-abascal-colau-hoy-20261126053000-nt.html"
-    },
-    {
-     "medio": "El País",
-     "titulo": "Sánchez, Feijóo, Abascal y Colau afrontan un debate clave para la definición de los dos bloques ante el 29-N",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html"
-    }
-   ]
-  },
-  {
-   "texto": "El Tribunal Supremo de España confirmó que más de 163.000 personas nacionalizadas por la ley de nietos no podrán votar el domingo; muchas viven en la Argentina.",
-   "fuentes": [
-    {
-     "medio": "elDiario.es",
-     "titulo": "El Supremo confirma a tres días de las elecciones que 163.000 nacionalizados por la ley de nietos no podrán votar",
-     "url": "https://www.eldiario.es/politica/supremo-confirma-tres-dias-elecciones-163-000-nacionalizados-ley-nietos-no-podran-votar_1_13696267.html"
-    },
     {
      "medio": "Europa Press",
-     "titulo": "El Supremo defiende que no ha ampliado el número de afectados por el voto suspendido por la ley de nietos",
-     "url": "https://www.europapress.es/nacional/noticia-supremo-defiende-no-ampliado-numero-afectados-voto-suspendido-ley-nietos-20261126154702.html"
+     "titulo": "Correos registra 1.012.033 votos por correo, un 59% menos que en 2023 y casi un 9% más que en 2019",
+     "url": "https://www.europapress.es/nacional/noticia-correos-registra-1012033-votos-correo-59-menos-2023-casi-mas-2019-20261127134306.html",
+     "fecha": "2026-11-27T09:43:06-03:00"
+    },
+    {
+     "medio": "Agencia EFE",
+     "titulo": "Emitidos más de millón de votos por correo para el 29N, un 8,8 % más que en las elecciones de 2019",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFVHQlB2T0dtQnd2MWQ2d1l6YkRTVnk0YkVQZmRkd190NEVMS1lDNGZPcU9Sa1hxd0hicXpNRXY5eG1wOTJER1hMNC1LN2hFQllmQ3FLSGtWcGo4RldTekV2bHVFcWZ3Vmk1N1IzYw?oc=5",
+     "fecha": "2026-11-27T10:36:36-03:00"
     }
    ]
   },
   {
-   "texto": "Desde el martes 24 está prohibido publicar encuestas en España, por una ley de 1980 impulsada por Manuel Fraga, entonces líder de Alianza Popular.",
+   "texto": "La Junta Electoral Central abrió expedientes a Silvia Intxaurrondo y a Isabel Díaz Ayuso.",
    "fuentes": [
     {
-     "medio": "Maldita.es",
-     "titulo": "Sin encuestas los 5 días antes de las elecciones desde hace 46 años: culpa de Fraga",
-     "url": "https://maldita.es/malditateexplica/20261124/sin-encuestas-los-5-dias-antes-de-las-elecciones-desde-hace-40-anos-culpa-de-fraga/"
+     "medio": "El País",
+     "titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por posible vulneración de la neutralidad",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWXVXSmlGVTk5TnkxNC1HaDdnc1VyTkFkYjRuNGJ0Q3k1azJlMDRXdFM4a0tORmpyNm01VWlXY0dTelF3NzAyZS1jUWh1NlBfQWlQLWR2UWtRal9WbXJXNENSeV9oZDI4OVhmdmlFOWczTllrUVVoUDJxQVBoLU5MVzlzc2R0RGJMV0RvM0R0MGt3cXl0WG0yVnFKUXE2RnRocDZfMnE4UHE0cUdnVTVKMDBjSzZsUE81bU5RWDBYeGZibHpOMTB3RHRtLU55M1UwQ05zZGI5NENYU09MMHM2TWNUVUk4cmQxWEw0dDVoYnl1MndROW9pQ2NGOETSAZACQVVfeXFMUDRhVHU1NjgxNldveUdWMW5OZmZhM3lJdDkxOHUtUVNfbUNDNTdNbHl5cG0tYnNMcllyUlhZa3JMMGxyTTZWZHBmeHNnb3kxSDlteDFqV2s0Smp3aGRjajg4LTh0amJndE0xaHl2X2VscVZaRFgwLVhSOWNrT1p5LVl0ODd6SUhLR1hqR1ROOVMwNWREVl9hdUJQZ0ZtNEZkQ1Zhbk5fZTZPRm9yb2VLb2NkWUFwTTQ0NE5jS1dETmlTN1BZYThzcGp0WFc3QUVRT2p0MEFrVEM1bWhPQUZyQzBlZTlOYjhka0lOdS1sU2FJWjR0X21tREpOTklqa183bE5RbUhwNlZYcUpZQ0tXTmg?oc=5",
+     "fecha": "2026-11-23T14:16:49-03:00"
     },
     {
-     "medio": "La Vanguardia",
-     "titulo": "Manuel Fraga y la prohibición de publicar encuestas cinco días antes de las elecciones",
-     "url": "https://www.lavanguardia.com/politica/20261124/11692053/manuel-fraga-prohibicion-publicar-encuestas-cinco-dias-elecciones.html"
+     "medio": "20 Minutos",
+     "titulo": "La Junta Electoral abre expediente de sanción a la periodista Silvia Intxaurrondo: aprecia indicios de vulneración de la neutralidad",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV21HSExPMk1TZmswYnItT1ZWNUNqSGk0UWxseFFySDFZc0hDTzZoZ0JsV3JCM0l1UEVEekRqd0g3LVk3bFE0UDRMMzNVTUVDd2V5VDhiYVJnU05kOHhLcTJXSkc4eERPd1BmaDNOWVRLbVBPMzk2RUxhMmdhMzZtaDZ3TVA1bFc1ZWptck5sWlBxRmUyc0hYcTBkSTRYWW1LdzR5cVFRdVNYVnZDd3Z5X3NmRzRPUDJMNERPSVJ6TU53N3F2X1hDVVZTeUluM2tYMEE?oc=5",
+     "fecha": "2026-11-23T13:56:21-03:00"
     }
    ]
   },
   {
-   "texto": "Carles Puigdemont, expresidente de la Generalitat de Cataluña, anunció que volverá a Cataluña el 12 de diciembre, después de la amnistía, y que irá al Parlament.",
+   "texto": "España desplegó más de 100.700 agentes de seguridad para el 29N.",
    "fuentes": [
     {
-     "medio": "La Vanguardia",
-     "titulo": "Puigdemont confirma que regresará a Catalunya el 12 de diciembre y acudirá al Parlament",
-     "url": "https://www.lavanguardia.com/politica/20261125/11692596/puigdemont-confirma-regresara-catalunya-12-diciembre-acudira-parlament.html"
+     "medio": "Agencia EFE",
+     "titulo": "Despliegue récord de efectivos de seguridad para el 29N, con más de 100.700 agentes",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aUjB5N19fRWhTcTJtZlRaRFZBR1NOMjdFSnNMcGYydmhmUURsZFNwY29jQVZKalc3eG5mQlR6S3FGcHhkbEIzMjltdUljTmNIZkltM0xMdlVoN09SOU50UFRjS0tsdnBhWWptVzk4bVl0M2hW?oc=5",
+     "fecha": "2026-11-24T07:52:33-03:00"
     },
     {
-     "medio": "El Mundo",
-     "titulo": "Puigdemont volverá a España el 12 de diciembre tras la amnistía",
-     "url": "https://www.elmundo.es/espana/2026/11/25/6b06b417fc6c83ba038b458e.html"
+     "medio": "RTVE",
+     "titulo": "Despliegue récord de efectivos de seguridad para las elecciones del 29N, con más de 100.700 agentes",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGRnWjFOWlpydFdpU3ZWYVBuZGluZHFndXZMWGVZMU1fcVgweVY0STFTWUwtOVZXbUFUMHBqaUVfWUhXTW13UXBpZnVBc0lVV3lJSmttMVh5NXFhaEt5OTB4cW1sNU9hZzdpTm1adjUtNk1sd2k3UGlZZEU1dFBJUjVHdHJMcmpiNElJdEU4bU1SLXZIYktLM1A2clpLaUI4NTBHTzRTZUtmUWc4dHJ5RC1PZjlfMlZuM1kxQTdyMFktanV3azY4aHp0WWxYaW9mU1Z3?oc=5",
+     "fecha": "2026-11-28T07:50:58-03:00"
     }
    ]
   }
  ],
  "temas": [
   {
-   "id": "es-ley-nietos",
-   "seccion": "Sociedad y cultura",
-   "semaforo": "🟢",
-   "titulo": "El Tribunal Supremo deja sin voto a más de 163.000 nietos de exiliados, muchos de ellos en la Argentina",
-   "resumen": "La Sala de lo Contencioso-Administrativo del Tribunal Supremo rechazó el último recurso de la Abogacía del Estado y confirmó la suspensión cautelar del voto de más de 163.000 personas que obtuvieron la nacionalidad española por la ley de nietos. Solo pueden votar las 901 que presentaron la certificación consular que prueba que descienden de una persona exiliada o represaliada por la Guerra Civil o la dictadura franquista. La suspensión la pidieron Iustitia Europa y Vox a principios de octubre; en los consulados de la Argentina, Uruguay y Venezuela esos votos se reciben en cajas aparte, que las Juntas Electorales Provinciales revisan antes de contarlos.",
-   "por_que_importa": "Miles de pibes y pibas argentinos sacaron la ciudadanía española por sus abuelos y este domingo se enteran de que su voto quedó en suspenso.",
-   "fuentes": [
-    {
-     "medio": "elDiario.es",
-     "titulo": "El Supremo confirma a tres días de las elecciones que 163.000 nacionalizados por la ley de nietos no podrán votar",
-     "url": "https://www.eldiario.es/politica/supremo-confirma-tres-dias-elecciones-163-000-nacionalizados-ley-nietos-no-podran-votar_1_13696267.html"
-    },
-    {
-     "medio": "Europa Press",
-     "titulo": "El Supremo defiende que no ha ampliado el número de afectados por el voto suspendido por la ley de nietos",
-     "url": "https://www.europapress.es/nacional/noticia-supremo-defiende-no-ampliado-numero-afectados-voto-suspendido-ley-nietos-20261126154702.html"
-    },
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Las urnas en los consulados para los votos de los nacionalizados por la ‘ley de nietos’ son una medida del Supremo y no del Gobierno, como ha afirmado Abascal",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691938/urnas-consulados-votos-nacionalizados-ley-nietos-son-medida-supremo-gobierno-afirmado-abascal.html"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Maldita.es",
-     "titulo": "Las cajas y urnas para los votos suspendidos de la ley de nietos en los consulados",
-     "url": "https://maldita.es/desinfo/20261124/se-estan-instalando-urnas-de-carton-y-de-plastico-en-los-consulados-para-que-voten-los-afectados-por-la-ley-de-nietos/"
-    },
-    {
-     "medio": "Newtral",
-     "titulo": "Qué sabemos de las cajas instaladas en los consulados para votar en las elecciones y su legalidad",
-     "url": "https://www.newtral.es/cajas-carton-consulados-legalidad/20261125/"
-    },
-    {
-     "medio": "infoLibre",
-     "titulo": "Vamos a ganar seguro, pero si no ganamos es porque la izquierda ha hecho trampa",
-     "url": "https://www.infolibre.es/medios/ganar-seguro-si-no-ganamos-izquierda-hecho-trampa_1_2241238.html"
-    },
-    {
-     "medio": "La Vanguardia",
-     "titulo": "La Junta Electoral acuerda que las mesas electorales conserven los votos de los 'nietos'",
-     "url": "https://www.lavanguardia.com/politica/20261127/11695085/junta-electoral-acuerda-mesas-electorales-conserven-votos-nietos.html",
-     "fecha": "2026-11-27T10:01:34-03:00"
-    },
-    {
-     "medio": "elDiario.es",
-     "titulo": "La Junta Electoral ordena consignar como \"votos no escrutables\" los emitidos por afectados por la 'ley de nietos'",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHo4SGpGVzdaMEJ4VWJZajF4T0FGWW5qdzl4bEpmd1lwdFRQN2kwa08yWEFUanZZWXYwSEJ4YVQ2S0IzbUZzZGk4WnN5ZWxkMC1wTmxNQ3FONy1qQlNVZkYyMi1KTDd3Y0ltX1EtenFqWnN1S3FRUEVVMUV6aTBOc1B3b0FSc0xObHhpVWNzOFptTkJnNHp5X1JPVzJWdWFZb2JzOG9BZ1l5NjJiVFpocmVUZDRMbkll0gG-AUFVX3lxTFByTGRab1NEblVUMm5ROUtHNlRkWlRrNGhFaXdjaHMzcUwycjBDenRmaGFmMjB2ekkzRzBtTHc3NTVuNkdsb0pYM3ZCLUJOZV9lMy0xX083ZkpuNjA3eWtpZ2cwY1VsMTN1ZVprUU1zZVFfd0t2Um9iN1cxRmIteDhVRFRoMTYtZTlvVzFMc0FzOHlXeXdjYV9iaU5SOTdBRm5PLWZUR29PeGdSX2dvbWpvNG1lc2VDMU9SaFdLY1E?oc=5",
-     "fecha": "2026-11-27T05:43:20-03:00"
-    },
-    {
-     "medio": "La Vanguardia",
-     "titulo": "La Junta Electoral acuerda que las mesas electorales conserven los votos de los 'nietos'",
-     "url": "https://www.lavanguardia.com/politica/20261127/11695085/junta-electoral-acuerda-mesas-electorales-conserven-votos-nietos.html",
-     "fecha": "2026-11-27T10:01:34-03:00"
-    },
-    {
-     "medio": "elDiario.es",
-     "titulo": "La Junta Electoral ordena consignar como \"votos no escrutables\" los emitidos por afectados por la 'ley de nietos'",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHo4SGpGVzdaMEJ4VWJZajF4T0FGWW5qdzl4bEpmd1lwdFRQN2kwa08yWEFUanZZWXYwSEJ4YVQ2S0IzbUZzZGk4WnN5ZWxkMC1wTmxNQ3FONy1qQlNVZkYyMi1KTDd3Y0ltX1EtenFqWnN1S3FRUEVVMUV6aTBOc1B3b0FSc0xObHhpVWNzOFptTkJnNHp5X1JPVzJWdWFZb2JzOG9BZ1l5NjJiVFpocmVUZDRMbkll0gG-AUFVX3lxTFByTGRab1NEblVUMm5ROUtHNlRkWlRrNGhFaXdjaHMzcUwycjBDenRmaGFmMjB2ekkzRzBtTHc3NTVuNkdsb0pYM3ZCLUJOZV9lMy0xX083ZkpuNjA3eWtpZ2cwY1VsMTN1ZVprUU1zZVFfd0t2Um9iN1cxRmIteDhVRFRoMTYtZTlvVzFMc0FzOHlXeXdjYV9iaU5SOTdBRm5PLWZUR29PeGdSX2dvbWpvNG1lc2VDMU9SaFdLY1E?oc=5",
-     "fecha": "2026-11-27T05:43:20-03:00"
-    }
-   ],
-   "alertas": [
-    "Falta el número del auto del Tribunal Supremo y la fecha exacta de la suspensión; elDiario.es habla de principios de octubre y Maldita.es cita un acuerdo del 23 de octubre de 2026. Hay que conseguir el auto antes de publicar.",
-    "Falta saber cuántos de los 163.000 están inscriptos en consulados de la Argentina; no apareció en ninguna nota.",
-    "Santiago Abascal, presidente de Vox, dijo en un mitin en Segovia que las cajas eran del Gobierno; La Vanguardia, Maldita.es y Newtral muestran que es una medida del Tribunal Supremo.",
-    "Hoy la Junta Electoral Central ordenó que las mesas consignen como \"votos no escrutables\" y conserven los votos de los afectados por la suspensión (elDiario.es, La Vanguardia, La Región, Telecinco y 20 Minutos); falta el texto del acuerdo para detallar el procedimiento."
-   ],
-   "idea_carrusel": {
-    "formato": "narrativo",
-    "enfoque": "Contar con un caso cercano qué le pasa a quien sacó la ciudadanía por sus abuelos y este domingo no puede votar, y quién lo decidió.",
-    "portada": "Sacaste la ciudadanía española por tu abuelo y *no podés votar*",
-    "placas": [
-     "Más de *163.000* personas que se hicieron españolas por la ley de nietos no van a poder votar este domingo 29 en España.",
-     "Lo decidió la Sala de lo Contencioso-Administrativo del Tribunal Supremo, que suspendió su voto después de un pedido de Iustitia Europa y de Vox.",
-     "Para votar había que presentar un certificado consular que pruebe que tu familiar fue exiliado o represaliado por el franquismo. Lo lograron *901* personas.",
-     "En los consulados de la Argentina esos votos van a *cajas aparte* y la Junta Electoral Provincial decide después si cuentan.",
-     "Vox dijo que las cajas eran un invento del Gobierno para hacer trampa. Las cajas las pidió *el Tribunal Supremo*.",
-     "¿Te tocó? Contanos en los comentarios si pudiste votar."
-    ],
-    "copy": "¿Sos nieto o nieta de españoles y sacaste el pasaporte? Este domingo hay elecciones en España y a más de 163.000 personas les suspendieron el voto 🇪🇸🗳️ Te contamos quién lo decidió y qué pasa con las cajas de cartón de los consulados.",
-    "audiovisual": [
-     "Fotos de las filas de votación en el Consulado General de España en Buenos Aires (pedir a agencias o tomar propias)",
-     "Video de las cajas aparte en los consulados (verificar origen)",
-     "Captura del fragmento del mitin de Abascal en Segovia"
-    ],
-    "a_chequear": [
-     "Número y fecha del auto del Tribunal Supremo",
-     "Cuántos afectados votan en consulados de la Argentina",
-     "Si el Consulado General en Buenos Aires usa cajas aparte (confirmar con el consulado)"
-    ]
-   }
-  },
-  {
    "id": "es-debate-cuatro",
    "seccion": "Política",
    "semaforo": "🟢",
-   "titulo": "Sánchez, Feijóo, Abascal y Colau debatieron a cuatro y la frase \"Y usted, calladita\" de Feijóo a Colau domina la repercusión",
-   "resumen": "Pedro Sánchez, presidente del Gobierno y candidato del Partido Socialista Obrero Español (PSOE), Alberto Núñez Feijóo, presidente del Partido Popular (PP), Santiago Abascal, presidente de Vox, y Ada Colau, candidata de Frente Amplio, debatieron el jueves 26 de noviembre en el único debate a cuatro de la campaña. Durante el debate Feijóo le dijo a Colau \"Y usted, calladita\"; Sánchez sostuvo que la frase \"rezuma machismo, soberbia y prepotencia\" y Feijóo respondió luego \"Ya está bien de teatrillos\". Newtral, Maldita.es, Agencia EFE y RTVE publicaron verificaciones de lo dicho en el debate.",
-   "por_que_importa": "Es la última vez que los cuatro candidatos se cruzan antes de que se vote y define cómo se arman los dos bloques, el de las izquierdas y el de PP con Vox.",
+   "titulo": "Sánchez, Feijóo, Abascal y Colau debatieron cara a cara a tres días de las elecciones generales",
+   "resumen": "El debate a cuatro reunió a Pedro Sánchez, presidente del Gobierno de España y candidato del Partido Socialista Obrero Español (PSOE), Alberto Núñez Feijóo, presidente del Partido Popular (PP), Santiago Abascal, presidente de Vox, y Ada Colau, que planteó reeditar el Gobierno de coalición. Se emitió por televisión el 26 de noviembre, con bloques y tiempos pactados.",
+   "por_que_importa": "El resultado del 29 de noviembre define el Gobierno de un país con fuerte vínculo con la Argentina, donde viven miles de descendientes de españoles.",
    "fuentes": [
     {
-     "medio": "El País",
-     "titulo": "“Y usted, calladita”: la polémica frase de Feijóo a Colau durante el debate",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/colau-cuestiona-a-feijoo-que-mantenga-a-mazon-aforado-y-el-lider-del-pp-le-contesta-que-estuvo-calladita.html",
-     "fecha": "2026-11-26T19:32:21-03:00"
+     "medio": "RTVE",
+     "titulo": "Hora y dónde ver en TV el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQlJ2cXJkVHE4Y0ZnaWVUZ3FrYnd0dXh6WFFlcHA5WlctYUR4Wk8zTU8xM0NrR1o3dTZTbVZwQzV0X3kxMURRQklPc0c3NXVkR2ZBVm1LcDBLaDhVODNsVzczeFp5Y1JRbnQwWXFXWXpsSFZsWlFUMlQzZTFCd3FaOVpPaUR0bXZTSE5XclNmX0JBNzJiLWRXanpfWkdlWmJ4WHRGbGFVR2dZbE9DTElj?oc=5",
+     "fecha": "2026-11-25T05:23:35-03:00"
     },
     {
-     "medio": "Newtral",
-     "titulo": "“Y usted, calladita”: qué le dijo exactamente Feijóo a Colau en el debate a cuatro",
-     "url": "https://www.newtral.es/usted-calladita-feijoo-colau/20261127/",
-     "fecha": "2026-11-27T06:19:48-03:00"
-    },
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Sánchez exprime el ‘calladita’ de Feijóo a Colau: “Rezuma machismo, soberbia y prepotencia”",
-     "url": "https://www.lavanguardia.com/politica/20261127/11694762/sanchez-exprime-calladita-feijoo-colau-rezuma-machismo-soberbia-prepotencia.html",
-     "fecha": "2026-11-27T05:57:55-03:00"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "El País",
-     "titulo": "Mentiras y medias verdades del debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau",
-     "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/mentiras-y-medias-verdades-del-debate-electoral-a-cuatro-entre-sanchez-feijoo-abascal-y-colau.html",
-     "fecha": "2026-11-26T19:17:00-03:00"
-    }
-   ],
-   "alertas": [
-    "Las verificaciones del debate (El País, Cadena SER, Newtral, Maldita.es, EFE) no se leyeron completas; falta listar qué afirmaciones resultaron falsas.",
-    "Falta el dato de audiencia de TVE (El País informa que lideró) como cifra concreta."
-   ]
-  },
-  {
-   "id": "es-pp-voto-correo",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "El PP denunció ante la Junta Electoral Central irregularidades en el voto por correo y en el reparto de propaganda",
-   "resumen": "El Partido Popular (PP) presentó una denuncia ante la Junta Electoral Central (JEC) por \"irregularidades\" en el voto por correo y en el reparto de la propaganda electoral. Correos admitió 1.012.033 votos por correo para las elecciones generales del 29 de noviembre, un 8,8% más que en las de 2019 y un 59% menos que en las de 2023.",
-   "por_que_importa": "El voto por correo es el que usan miles de residentes en el exterior, entre ellos muchos argentinos con ciudadanía española.",
-   "fuentes": [
-    {
-     "medio": "Europa Press",
-     "titulo": "Correos registra 1.012.033 votos por correo, un 59% menos que en 2023 y casi un 9% más que en 2019",
-     "url": "https://www.europapress.es/nacional/noticia-correos-registra-1012033-votos-correo-59-menos-2023-casi-mas-2019-20261127134306.html",
-     "fecha": "2026-11-27T09:43:06-03:00"
-    },
-    {
-     "medio": "Agencia EFE",
-     "titulo": "Emitidos más de millón de votos por correo para el 29N, un 8,8 % más que en las elecciones de 2019",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFVHQlB2T0dtQnd2MWQ2d1l6YkRTVnk0YkVQZmRkd190NEVMS1lDNGZPcU9Sa1hxd0hicXpNRXY5eG1wOTJER1hMNC1LN2hFQllmQ3FLSGtWcGo4RldTekV2bHVFcWZ3Vmk1N1IzYw?oc=5",
-     "fecha": "2026-11-27T10:36:36-03:00"
-    },
-    {
-     "medio": "Cadena SER",
-     "titulo": "Correos admite más de un millón de votos por correo para las elecciones generales del 29N",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdks2cXVnTHFBNEFya3Q4Q1k3cFRYcWxCRWhxaFVnU1NTUElZTFF4VE1fVmtkNS1jcUZ0UDRaT2ItcDRxb0w3VG5pOUk1TTZoMGhtbEVWdzVqaDhJMzAzZGFucGVlNVpHWEFJMU5tN0xsQzVva1BLbnFIQ2dmakYxQkhNMzktWUdjRERTX2RSSnFjZDlURGFHQU81ZjVnZDlpZGVBV190SWdTWlNaS2hDS3NmLWduTjlwUmMwZWlTNHlmZGVzVGctQTJnWWhMSmROajlUNnByLUEzQ3PSAe8BQVVfeXFMTzZRbS1xemVjWmR2SlNCbEs4SFJ0Y3JBZ08tckFfUWRQVmRKVlRFZzlqeXNkc0NodXdfNkgwbnZIbXhpZVQtaDAzd3huaFp6NjVDcmlxYUd5SXNHLVpQOHBfUmZpYWRkWVRiZXdOZEVES2sybzJSMlpCMGo0ekwzejdQejM4dHV6UVc1bG50Mjh4YXZkeEttRURyY0R6d01SV0s0MjlhbWZMXzBZZEdLUHZGdFJyTTdfTWZQVjN2bUY4RkxiUVpGZGo5cFcwdzJNYS1PRDRDWGxGWnJkV0YzdUlWSVpTbHY4YklLZS1NWjg?oc=5",
-     "fecha": "2026-11-27T08:53:31-03:00"
-    },
-    {
-     "medio": "Europa Press",
-     "titulo": "Correos registra 1.012.033 votos por correo, un 59% menos que en 2023 y casi un 9% más que en 2019",
-     "url": "https://www.europapress.es/nacional/noticia-correos-registra-1012033-votos-correo-59-menos-2023-casi-mas-2019-20261127134306.html",
-     "fecha": "2026-11-27T09:43:06-03:00"
-    },
-    {
-     "medio": "Agencia EFE",
-     "titulo": "Emitidos más de millón de votos por correo para el 29N, un 8,8 % más que en las elecciones de 2019",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFVHQlB2T0dtQnd2MWQ2d1l6YkRTVnk0YkVQZmRkd190NEVMS1lDNGZPcU9Sa1hxd0hicXpNRXY5eG1wOTJER1hMNC1LN2hFQllmQ3FLSGtWcGo4RldTekV2bHVFcWZ3Vmk1N1IzYw?oc=5",
-     "fecha": "2026-11-27T10:36:36-03:00"
-    }
-   ],
-   "otras": [
-    {
-     "medio": "Infobae",
-     "titulo": "El PP denuncia ante la Junta Electoral “incidencias” en el voto por correo y pide que garantice el reparto justo de propaganda electoral",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUC1HRjRNS3dlNTVfSDNpY1dfNGVpNHZlU19naGI2b2FlVi02b3BiaVJDVGRYRVctS1lfUmw4clNiTE81aEcxXzcyRUVHS0pWT21laGpodENWZkVhMVY5RU9Ob2xPM21PdWpxbnljRU1yUmhLTXN5WEdhRXRDNWhQNEd0c0xubGJrQ18wbkowNUtxRFNQZUtzSy0wMzF3T0JBYVNJdldKdHFuTElEQXM5UlNzRnhLUHhmQ0gxTWJBbTVpVlM1UkpmRXRaTXhIQURWc0sxQnBIS2haQWhublhOQlZWWEpxYUFRal90a0RZOVBOWk96N054S0tUN3hxc1Vrd3E1ejlfZnPSAaMCQVVfeXFMT2hHVWRlZU5yblF4MUxWZ293NmhjY2Q4WmVLU1dfVVoxMnJzbmVWZjJfN2hkc1FfWTdMSFBrTHpCTGhwLWVhWFZTOUVmdDlCRFhFdWN6VmRQUUtYOTJFOUtrVUJhT09wRkltQ3VnVVRuOE1qU1l6XzBiX05FSGNWa0dBUUE2YUNMZ0h3aktZaUU1YzlUR2l1QVhLRGVreDFQaWgxb2tfcWN3aXNLd0l2ajdFRWZxbldqSmluMk5BNzdYdFNvWnJBMGFmX0MwTlcwdlRSUWw5c01EYUhVTGpmZ2JPUGJmMnQzaGFmQUFMTnFIckwteUhZaTVHY1RuM1pzdF9IOUwxQjctOFlNUnRnSFBXTUpjOFdqak1yVTJ2UXlCN1I4?oc=5",
-     "fecha": "2026-11-27T08:27:00-03:00"
-    }
-   ],
-   "alertas": [
-    "Las denuncias del PP son afirmaciones del partido; falta la respuesta de la JEC y de Correos.",
-    "Los títulos difieren en el término (\"irregularidades\" en El Mundo y La Vanguardia, \"incidencias\" en Infobae).",
-    "La comparación con 2023 (59% menos) corresponde a las elecciones generales de julio de ese año; falta el dato oficial de Correos y cuántos de esos votos corresponden al voto exterior (CERA).",
-    "La comparación con 2023 (59% menos) corresponde a las elecciones generales de julio de ese año; falta el dato oficial de Correos y cuántos de esos votos corresponden al voto exterior (CERA)."
-   ]
-  },
-  {
-   "id": "es-fraude-urnas",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "Feijóo plantea dudas sobre las \"urnas de cartón\" en los consulados antes del 29N",
-   "resumen": "Alberto Núñez Feijóo, presidente del Partido Popular (PP), expresó su preocupación por las \"urnas de cartón\" en los consulados y dijo que \"el señor Sánchez y la limpieza electoral son dos conceptos contradictorios\". Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, también planteó dudas sobre la limpieza del voto exterior.",
-   "por_que_importa": "El voto en consulados es el que usan los argentinos con ciudadanía española, y las dudas sobre su validez pueden afectar a miles de pibes y pibas.",
-   "fuentes": [
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Feijóo, preocupado por las “urnas de cartón” en los consulados: “Sánchez y la limpieza electoral son conceptos bastante contradictorios”",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691943/feijoo-preocupado-urnas-carton-consulados-sanchez-limpieza-electoral-son-conceptos-contradictorios.html",
-     "fecha": "2026-11-24T06:30:21-03:00"
-    },
-    {
-     "medio": "El País",
-     "titulo": "Feijóo y Ayuso alimentan el fantasma del fraude el 29-N: “Sánchez y la limpieza electoral son dos conceptos contradictorios”",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa0JLTnVTQ01jRmRneFVWM3QwNmc2aHg2VVl0SC03dzd0dm4tQkh6amlEZjNmSzFtdmlPTVRQa3VtQWtqaklwWXRucUhGM2VHQ2tHU2ZKLUFzSThBOEh0cmljMXN6Q0tmYVM1X3BIUDg4bmFrRzFzR2Z4dnc0eEQySGJfMkl2MUlxVzVudVFWbzRQdzRTQjI0UWJEak9zak5aS1FaNnN0eWJURkJadnZReWpaSWZWUzdPMl9XVmxCOEZ0MDdzZWdhQTZHUEJDaVBvaUUta05kdmh3SEU4cHYzcXIxUEZBVzFzaHdRenJXRlJESzZZR3lZd1kzdGMzZ2lYVkdQaUdlbXYzVkFzY19xc25R0gGmAkFVX3lxTE0yVWRWZ3AwSEJlek5CV2FoUm9pUU9fWXAyZWJseG5FRDg1TTZzR01EOUN4YVQ0RzNFUkxCSUl2amNTY1VJaHVpMTNrZG9xUC10QWdJanNWRTJfOWI1NEkwZ1drNmtBaDBobUwyczhPVzJrb0hmdnQxQ0R1WU5uSm9sYmlUU3BFT0d6d01jWmY1ejhRS3cwRDFWSXVXN2Y3NVR1ZWJkVkpBemk1amJfUFFDRXJkMXBjWjFkWmlmVHprcWxXX2xjdUE1Vk54Zk8zSk5wVU5aV2FTb2dZREY3dzFobU1GT1djb29jcEM1dXNSYzZ6MUpZYTlBTk9nWlFkSXZJQy1DNldXNTEyellVekZ4VXdhWEM5cklRZXduQVJYOS1tOHpZZw?oc=5",
-     "fecha": "2026-11-24T06:54:09-03:00"
-    },
-    {
-     "medio": "Agencia EFE",
-     "titulo": "Feijóo afirma que Sánchez y la limpieza electoral son conceptos «contradictorios»",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVdyZlVNZDVDYVUzR3Y1alZwMlFwUWZsMG9EandOSUdZWWlxaUVWZ1lEQnR6Q2RJdHBRMnpNNndlRnh2blJPSGcwTlBpT0pJYVB4M2FpSXN1eVZIdDBFOVRpNEFlQWJPNktLYmV0NDFjMEJlazNuVmNYZU5hcklwUEtra2RCelZNeGFPUQ?oc=5",
-     "fecha": "2026-11-24T10:39:57-03:00"
-    }
-   ],
-   "otras": [],
-   "alertas": [
-    "Las expresiones sobre fraude son declaraciones de Feijóo y de Ayuso; falta la respuesta del Ministerio de Asuntos Exteriores y de la Junta Electoral Central sobre el voto en consulados.",
-    "Falta el texto del mitin y el contexto de la frase de Ayuso; los títulos no lo traen."
-   ]
-  },
-  {
-   "id": "es-fraude-urnas",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "Feijóo plantea dudas sobre las \"urnas de cartón\" en los consulados antes del 29N",
-   "resumen": "Alberto Núñez Feijóo, presidente del Partido Popular (PP), expresó su preocupación por las \"urnas de cartón\" en los consulados y dijo que \"el señor Sánchez y la limpieza electoral son dos conceptos contradictorios\". Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, también planteó dudas sobre la limpieza del voto exterior.",
-   "por_que_importa": "El voto en consulados es el que usan los argentinos con ciudadanía española, y las dudas sobre su validez pueden afectar a miles de pibes y pibas.",
-   "fuentes": [
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Feijóo, preocupado por las “urnas de cartón” en los consulados: “Sánchez y la limpieza electoral son conceptos bastante contradictorios”",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691943/feijoo-preocupado-urnas-carton-consulados-sanchez-limpieza-electoral-son-conceptos-contradictorios.html",
-     "fecha": "2026-11-24T06:30:21-03:00"
-    },
-    {
-     "medio": "El País",
-     "titulo": "Feijóo y Ayuso alimentan el fantasma del fraude el 29-N: “Sánchez y la limpieza electoral son dos conceptos contradictorios”",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQa0JLTnVTQ01jRmRneFVWM3QwNmc2aHg2VVl0SC03dzd0dm4tQkh6amlEZjNmSzFtdmlPTVRQa3VtQWtqaklwWXRucUhGM2VHQ2tHU2ZKLUFzSThBOEh0cmljMXN6Q0tmYVM1X3BIUDg4bmFrRzFzR2Z4dnc0eEQySGJfMkl2MUlxVzVudVFWbzRQdzRTQjI0UWJEak9zak5aS1FaNnN0eWJURkJadnZReWpaSWZWUzdPMl9XVmxCOEZ0MDdzZWdhQTZHUEJDaVBvaUUta05kdmh3SEU4cHYzcXIxUEZBVzFzaHdRenJXRlJESzZZR3lZd1kzdGMzZ2lYVkdQaUdlbXYzVkFzY19xc25R0gGmAkFVX3lxTE0yVWRWZ3AwSEJlek5CV2FoUm9pUU9fWXAyZWJseG5FRDg1TTZzR01EOUN4YVQ0RzNFUkxCSUl2amNTY1VJaHVpMTNrZG9xUC10QWdJanNWRTJfOWI1NEkwZ1drNmtBaDBobUwyczhPVzJrb0hmdnQxQ0R1WU5uSm9sYmlUU3BFT0d6d01jWmY1ejhRS3cwRDFWSXVXN2Y3NVR1ZWJkVkpBemk1amJfUFFDRXJkMXBjWjFkWmlmVHprcWxXX2xjdUE1Vk54Zk8zSk5wVU5aV2FTb2dZREY3dzFobU1GT1djb29jcEM1dXNSYzZ6MUpZYTlBTk9nWlFkSXZJQy1DNldXNTEyellVekZ4VXdhWEM5cklRZXduQVJYOS1tOHpZZw?oc=5",
-     "fecha": "2026-11-24T06:54:09-03:00"
-    },
-    {
-     "medio": "Agencia EFE",
-     "titulo": "Feijóo afirma que Sánchez y la limpieza electoral son conceptos «contradictorios»",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVdyZlVNZDVDYVUzR3Y1alZwMlFwUWZsMG9EandOSUdZWWlxaUVWZ1lEQnR6Q2RJdHBRMnpNNndlRnh2blJPSGcwTlBpT0pJYVB4M2FpSXN1eVZIdDBFOVRpNEFlQWJPNktLYmV0NDFjMEJlazNuVmNYZU5hcklwUEtra2RCelZNeGFPUQ?oc=5",
-     "fecha": "2026-11-24T10:39:57-03:00"
-    }
-   ],
-   "otras": [],
-   "alertas": [
-    "Las expresiones sobre fraude son declaraciones de Feijóo y de Ayuso; falta la respuesta del Ministerio de Asuntos Exteriores y de la Junta Electoral Central sobre el voto en consulados.",
-    "Falta el texto del mitin y el contexto de la frase de Ayuso; los títulos no lo traen."
-   ]
-  },
-  {
-   "id": "es-intxaurrondo",
-   "seccion": "Sociedad y cultura",
-   "semaforo": "🟢",
-   "titulo": "La Junta Electoral Central abre un expediente a la periodista Silvia Intxaurrondo y el periodismo español sale a defenderla",
-   "resumen": "La Junta Electoral Central (JEC) abrió un expediente sancionador a Silvia Intxaurrondo, presentadora de La hora de La 1 en RTVE, después de una denuncia de Vox. La denuncia es por una pregunta que planteó en su programa el 10 de noviembre, “¿Debe tener cabida la extrema derecha en la televisión pública?”. El Consejo de Administración de RTVE dijo que la decisión “atenta contra la esencia” del periodismo y le ofreció asistencia jurídica; también la respaldan el Consell de la Informació de Catalunya, el Col·legi de Periodistes de Catalunya y el Colexio Profesional de Xornalistas de Galicia.",
-   "por_que_importa": "Muestra hasta dónde llega la pelea por los medios públicos en plena campaña, y qué puede pasar cuando un partido denuncia a una periodista por una pregunta.",
-   "fuentes": [
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Silvia Intxaurrondo irá a los tribunales y desafía a la JEC: ”¿Es neutral la Junta Electoral entre el fascismo y la democracia?”",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691884/silvia-intxaurrondo-ira-tribunales-desafia-jec-neutral-junta-electoral-fascismo-democracia.html",
-     "fecha": "2026-11-24T05:27:30-03:00"
-    },
-    {
-     "medio": "El País",
-     "titulo": "Silvia Intxaurrondo responde al expediente de la Junta Electoral y deja una silla vacía para Abascal: “Me niego a regatear con la libertad de prensa”",
-     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaDV0cE5kVm9wMVhlaWZMSFRnOU1MZjh2UkFqaXI0LU9VNGRaa3BvSGFhV2ZaRFJBb0UyYVd1dk8yTEw2Sk8tTmlpN2p2cEtlTVJCZFdQWTluVVZueXc2UzlJMGQzQktIZGM0ZjJJS2dvVi04VjJUN1hSU2xMSTZkNXVaSnhqLVRfbDJrWGNqZl9NYXlVMDdsTm9rV3lLalRmVEZVbHdZYUNsOF92dVJnQTJZQTl2NURkZ0FTNjRHbUdaN09DSGVBMGo5NTd4YTE2SDNlS0NwZHQtMW9XZHdRVGRfV2FLNUNVN0lqelNqbmhFRlFoY3o5UHdZRDlxZjBuTGRsMzdvdXVVbS1lODFWVkpFV0F1M2NKcGdJVtIBsAJBVV95cUxQNVh1cEVidGhxM0pVM0poamZoRUh1T2FUZkRqTTF1cGhiLUo2ek5pbl9Ja19wblEzRkRHUTlhSmJHVjdhY05iUFVkNnRUbVNXUmxUd1NlSlpsMXY0TGlnOXBVNmdTcGtFcFVDTG0tdXAtcnpJVGhSODY0Nm9wbzJuNGhVNWVrNzdTemtybUFFUzRtWjFQcXl3NUlwZHNhLWFvWlpmeUNwQ1dQS0ZEREJJZ2d5eGUwTkhQYWw0SjhreG9YbVNxT3lHdzR0RDBYa0NXYXlNUGVkLXREeW1UdUYwRG5PWHlRWUk1NnlIdk01NjZ3MGtIdzZfaGFMV3JEbnRkb211VDdEQ0pFQnVWc1Awc0YxcXFVSEdNZmtSUVVGaGpCMWRpY1l5b2NaOHpuN3V2?oc=5",
-     "fecha": "2026-11-24T06:04:58-03:00"
-    },
-    {
-     "medio": "ABC",
-     "titulo": "El Consejo de RTVE se lanza a defender a Silvia Intxaurrondo tras el expediente de la Junta Electoral Central",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFVTWEY3SXNmd3hMUHN4VHEzdXJwalhrazk2T2o4ZUk5Z0p0aTBqTUhjNU9mOUxxTEpweUhWaHI2Mm9nRTQtWFVPd3ljQVV5QWplc1JlZ05PdmhtdmtncmFBVTR5OHNpdVQxTTNyWFRlanhYRlFEQW5XUW82Sll4RTBMT2gzRkVVVU1jWlpCSEZXVDQ4cjR5Y2NLWUlMUlpVQkxGSjRRMVlTeEhWOE8yNjlzb3hCMzhUSURJ0gHAAUFVX3lxTFB4OUVVdFpWZmtxUGFmM1JDeWRvbWw0ZEkwVi04U25ablFFYlVKUDVqUXlwS0lHekxRY3JiWVF3UkhZbUZpdGVHdDVnRld3dTJQOWVQUmI5OEIxTDhMZFc3NERFUXo5X3EzVVlRbDI0R1RsWkhBSXR2NmJzSXZaaEZxSjk1YVI4QVg1TWd0VXZzVjM2ZkE4SmZvWlZKNDZpdFJnWlZhVVJhMlY1WVFTS09lQVhHWFRQdGQxQzM1Y2NjbA?oc=5",
-     "fecha": "2026-11-26T08:45:24-03:00"
+     "medio": "El Confidencial",
+     "titulo": "Debate a cuatro entre Sánchez, Feijóo, Abascal y Colau: a qué hora es, dónde ver por TV y qué cadenas lo emiten",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnYyaE9JQk5jT0stRFpfU1hGUmo2UzZQMmZXbExLZ1F2REJ2dHdmY3l0NnlFaFRVVDJDTU5tMVVHUDlvVGdpc2diZkZicnQ5N0lfVDA4akV4c2YyRXBMUWhZOHFsNkdZZ2hLZVVaVE1fYjZfalNBUWJoY2pBbThsRlNPNEZMYlVIQllHaEwzekw3UEpLLXlnMTJMRUtpYjZ0ZjhkLXhvRzVaVmo2YzFuRHRUczBGT2pVUmFVZjU4NXpIdTNQSFFjanNLVlNWTXU0T2hCdlBRREVFdw?oc=5",
+     "fecha": "2026-11-26T01:00:00-03:00"
     },
     {
      "medio": "El Mundo",
-     "titulo": "Duro comunicado del Consejo de RTVE contra la Junta Electoral por Silvia Intxaurrondo: la defenderá \"hasta lograr el archivo definitivo\"",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTnNBclN5WnFzRUtYTm54cHkzdWRkb2pVMHhhS1RtUWZkaG80cHhKTzFOenhMbWNBcHFVNjdJWk5hTUlwWXl3MFZfUlhaRGpfcVBKR3dMcDhWc3p0N2RUbFJFQUNOWDRDZFp0NGhfTGpWNnZLWDZZVkNrTjdXUlXSAX9BVV95cUxNcTQ3YzJFd0F2OXhiRV9nMUVYQmVSY3hxeHhGbVQzM2kzNUpPb3JnRGNBNnF5R3VQTGxhYXJDb1BOYjhSR25LVU1CSWFLTGpPWnctUnY2MG1tTnpham54RGs4R3NOZzV5U1ZhaWxLeC1fNHhaLXlnOHlxWGhjOVlz?oc=5",
-     "fecha": "2026-11-26T10:10:21-03:00"
+     "titulo": "A qué hora es hoy el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau: horario y dónde ver por TV",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFVta0ViTGwteFRieVBVNFE3V2RkeF9KT3ZOUjVubWxEVkNoZDNWSVhyTktwMnlCWlFEOUJRYU5oVG1xRkRsVWlwclFVbkpsOGRjUS1jQkdaRGMtQ2FOdnR1YjNOT0FsNzZHQ3V4MG1BOU8wQzJhVjVSTGs5eGtxalcxMS1RQTlwN242djFIUWd1TEEtMEdsSFBsWdIBmwFBVV95cUxOS0FUemMtUTlUSlFIQXlxMmhLb1FMdUE5akFnOEM2ZGNFaXZkdmZjRlYtaTBQbnUxMWM4eW8wVEVIZnQ4VEVWZFRoT095X3RnSDVNZ0JYM2RXNktfNllrZlotaFVpLTNiSDZFaG1rVW02R3VManZSU0ZFbnFGQ0JXRFcyQkdMN2NtQVJncUlXekt4U2xhd3JMcHYtdw?oc=5",
+     "fecha": "2026-11-26T04:49:29-03:00"
     },
     {
-     "medio": "La Vanguardia",
-     "titulo": "Silvia Intxaurrondo irá a los tribunales y desafía a la JEC: ”¿Es neutral la Junta Electoral entre el fascismo y la democracia?”",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691884/silvia-intxaurrondo-ira-tribunales-desafia-jec-neutral-junta-electoral-fascismo-democracia.html",
-     "fecha": "2026-11-24T05:27:30-03:00"
+     "medio": "ABC",
+     "titulo": "Ada Colau se abraza a Sánchez en el debate a cuatro para «reeditar el Gobierno de coalición»",
+     "url": "https://www.abc.es/espana/ada-colau-20261126215946-nt.html",
+     "fecha": "2026-11-26T20:04:44-03:00"
     }
    ],
-   "otras": [
-    "El Mundo",
-    "elDiario.es",
-    "ABC"
-   ],
+   "otras": [],
    "alertas": [
-    "El grupo automático marcaba a Infobae como portal serio por un error del script; el chequeo se hizo con El País e infoLibre.",
-    "Falta el texto del acuerdo de la JEC y la sanción posible; no apareció en las notas.",
-    "Silvia Intxaurrondo anunció que irá a los tribunales contra el expediente; falta confirmar si presentó el recurso y ante qué tribunal.",
-    "Silvia Intxaurrondo anunció que irá a los tribunales contra el expediente; falta confirmar si presentó el recurso y ante qué tribunal."
+    "Falta el cargo o la candidatura de Ada Colau, que los títulos no precisan, y la audiencia del debate."
    ]
   },
   {
-   "id": "es-sanchez-movilizacion",
+   "id": "es-voto-correo",
    "seccion": "Política",
    "semaforo": "🟢",
-   "titulo": "Sánchez dice que la mayoría progresista está al alcance si vota el 75%",
-   "resumen": "En entrevistas con El País e infoLibre, Pedro Sánchez dijo que la mayoría progresista se está “tocando con la yema de los dedos” y que se puede lograr si la participación llega al 75%. También dijo que Feijóo y Abascal practican “un trumpismo preventivo” y que duda de que reconozcan el resultado si no les dan los números. Las últimas encuestas publicadas antes de la veda le daban la mayoría al bloque del PP y Vox.",
-   "por_que_importa": "La elección se define por cuánta gente va a votar, y el voto joven es el que más se mueve entre ir y no ir.",
+   "titulo": "Correos registra 1.012.033 votos por correo para el 29N, 59% menos que en 2023 y casi 9% más que en 2019",
+   "resumen": "Correos registró 1.012.033 votos por correo para las elecciones generales del 29 de noviembre. La cifra es 59% menor que la de 2023 y 8,8% mayor que la de 2019. El Partido Popular (PP) presentó ante la Junta Electoral Central (JEC) una denuncia por supuestas irregularidades en el voto por correo y en el reparto de propaganda electoral.",
+   "por_que_importa": "El voto por correo y el voto de residentes en el exterior son centrales para las comunidades de españoles en la Argentina.",
+   "fuentes": [
+    {
+     "medio": "Europa Press",
+     "titulo": "Correos registra 1.012.033 votos por correo, un 59% menos que en 2023 y casi un 9% más que en 2019",
+     "url": "https://www.europapress.es/nacional/noticia-correos-registra-1012033-votos-correo-59-menos-2023-casi-mas-2019-20261127134306.html",
+     "fecha": "2026-11-27T09:43:06-03:00"
+    },
+    {
+     "medio": "Agencia EFE",
+     "titulo": "Emitidos más de millón de votos por correo para el 29N, un 8,8 % más que en las elecciones de 2019",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CWFVHQlB2T0dtQnd2MWQ2d1l6YkRTVnk0YkVQZmRkd190NEVMS1lDNGZPcU9Sa1hxd0hicXpNRXY5eG1wOTJER1hMNC1LN2hFQllmQ3FLSGtWcGo4RldTekV2bHVFcWZ3Vmk1N1IzYw?oc=5",
+     "fecha": "2026-11-27T10:36:36-03:00"
+    },
+    {
+     "medio": "El Periódico",
+     "titulo": "Emitidos más de millón de votos por correo, un 8,8 % más que en las elecciones de 2019 y un 59% menos que en 2023",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUV6SjBmQVY2WTV1OHZUYnJhQUZMcE5jNVRaRXV5ck91dWpYMUtwdGh5bzV1MDRYVENwN0l4bE43WWhMZHdzMGc0OEhxbWV4Z3g3RzdIdDJ1a0VtYTM5X1k1RWNIWFY0bEdkSGI5ZEd5Y1NyQ09mbFVFSzJ0UFdiRTFra1libW1hTHJrMTlNd1c3d0XSAZMBQVVfeXFMTnU1clhFc3ZXcFNuamZOMnRLdXZpZ1ZPWkNvQWwwclpTbVRaTGlDZllxOGxoemlPNzU4a1YteVZ6VUFqOUlscmM3NFRzZW55OXFMUVBwLUlrQ0dLb3lBek9yYjMtdDQxM0pKaUU4MHBFSmZUbEYyZmo5WGFJSDU2ZjdyTWVOVVExZWI1ZmdxZHlDdEZZ?oc=5",
+     "fecha": "2026-11-27T09:40:20-03:00"
+    }
+   ],
+   "otras": [
+    {
+     "medio": "El Mundo",
+     "titulo": "El PP denuncia ante la Junta Electoral \"irregularidades\" en el voto por correo y en el reparto de la propaganda electoral",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVzdVRmhUS2s1TUVxYS1pYmtaR3hmbjZESDlVRmZ3eERjVmIxWFFDMm9VNXV6bkZVNE5YQm5EUmU5ZWlWbWozOGhyRnN5ckQtUjZCZFpGYkR1UXptNVNMSGFwbVhlNmFfRldOeUU5NzdfdUJhLUxJUzF0R2ZRSHRLcngxbS1SaDdpc1FoZ1FjWHlwUWRhTDBlNVllSdIBmwFBVV95cUxPSmNZQzRsZnZiZTJzZU5vTmppczJYM2VnZkFodWtJbkJOdFN2OGVVMVh4UGlmUkJ4QlhiWnJYV1RWeUR4Y1VGLXRKWkxtb1NzV3Q4Y0hHejd0bTFFRG1QdmVfUVN5SGE1eTJESnNuSFRZVzk2enFjaDlrS0NXQWFwS3Mtc1NfTXZ3bHFqUmF6OGo4SDlzN3Y2ZXRxTQ?oc=5",
+     "fecha": "2026-11-27T08:39:11-03:00"
+    },
+    {
+     "medio": "Europa Press",
+     "titulo": "El PP apunta a posibles delitos por parte de Correos en el voto por correo y el reparto de propaganda electoral",
+     "url": "https://www.europapress.es/nacional/noticia-pp-apunta-posibles-delitos-parte-correos-voto-correo-reparto-propaganda-electoral-20261127131039.html",
+     "fecha": "2026-11-27T09:10:39-03:00"
+    },
+    {
+     "medio": "ABC",
+     "titulo": "El PP apunta a posibles delitos por parte de Correos en el voto por correo",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHk5dWw3MkNMU185amhFM3V2RjZ1OUxCcWx1ZVFnRFZGQ3lnSWFMTFp3X3Z0YmVFZGFVWW5VdmRoQ0tWcEhMUFgwMHFoUGNhN2l1XzNaZnRYcmRubzFKV3FlcXJwZjMzTElqS2xReWd6aVBRUldwSWtQeW95NXQ4ODRfVTFkSm1DSW5sbTlPYzVFc2c1VXhyb1pB0gGfAUFVX3lxTE5CeUNyVERMU2RPRWRobEFJekFMMzJiVTBENlZwZ1RDUzVmTkxOOEhGLVpPWXkyT2JZUHlTYXlCNV93Y0ZQeDFZSmIzamt4MkNhbVhSSEtSUEFseFJuYlpoa3g4WEdfdzlUQklqNE94bjVMNFV6eTk1ZEpRc0oyZGZabURSeFA0TlhSd25ISy0wc1JUWE1YckR2Z1duM1MxTQ?oc=5",
+     "fecha": "2026-11-27T10:37:22-03:00"
+    }
+   ],
+   "alertas": [
+    "El PP afirma que hay irregularidades; no hay confirmación de la JEC ni de Correos. Se incluye solo que la denuncia fue presentada.",
+    "Falta la respuesta de Correos y de la JEC a la denuncia del PP."
+   ]
+  },
+  {
+   "id": "es-jec-intxaurrondo-ayuso",
+   "seccion": "Política",
+   "semaforo": "🟢",
+   "titulo": "La Junta Electoral Central abrió expedientes a la periodista Silvia Intxaurrondo y a Isabel Díaz Ayuso",
+   "resumen": "La Junta Electoral Central (JEC) abrió el 23 de noviembre un expediente sancionador a la periodista Silvia Intxaurrondo por posible vulneración de la neutralidad. El 26 de noviembre abrió otro a Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, por un video contra Pedro Sánchez tras el desalojo de la Puerta del Sol.",
+   "por_que_importa": "La neutralidad informativa y el uso de redes en campaña forman parte de las reglas con las que se vota en España.",
    "fuentes": [
     {
      "medio": "El País",
-     "titulo": "Sánchez: “Estamos tocando con la yema de los dedos la mayoría progresista, si llegamos al 75% la podemos tener”",
-     "url": "https://elpais.com/espana/2026-11-26/sanchez-estamos-tocando-con-la-yema-de-los-dedos-la-mayoria-progresista-si-llegamos-al-75-la-podemos-tener.html"
+     "titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por posible vulneración de la neutralidad",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWXVXSmlGVTk5TnkxNC1HaDdnc1VyTkFkYjRuNGJ0Q3k1azJlMDRXdFM4a0tORmpyNm01VWlXY0dTelF3NzAyZS1jUWh1NlBfQWlQLWR2UWtRal9WbXJXNENSeV9oZDI4OVhmdmlFOWczTllrUVVoUDJxQVBoLU5MVzlzc2R0RGJMV0RvM0R0MGt3cXl0WG0yVnFKUXE2RnRocDZfMnE4UHE0cUdnVTVKMDBjSzZsUE81bU5RWDBYeGZibHpOMTB3RHRtLU55M1UwQ05zZGI5NENYU09MMHM2TWNUVUk4cmQxWEw0dDVoYnl1MndROW9pQ2NGOETSAZACQVVfeXFMUDRhVHU1NjgxNldveUdWMW5OZmZhM3lJdDkxOHUtUVNfbUNDNTdNbHl5cG0tYnNMcllyUlhZa3JMMGxyTTZWZHBmeHNnb3kxSDlteDFqV2s0Smp3aGRjajg4LTh0amJndE0xaHl2X2VscVZaRFgwLVhSOWNrT1p5LVl0ODd6SUhLR1hqR1ROOVMwNWREVl9hdUJQZ0ZtNEZkQ1Zhbk5fZTZPRm9yb2VLb2NkWUFwTTQ0NE5jS1dETmlTN1BZYThzcGp0WFc3QUVRT2p0MEFrVEM1bWhPQUZyQzBlZTlOYjhka0lOdS1sU2FJWjR0X21tREpOTklqa183bE5RbUhwNlZYcUpZQ0tXTmg?oc=5",
+     "fecha": "2026-11-23T14:16:49-03:00"
     },
     {
-     "medio": "infoLibre",
-     "titulo": "Pedro Sánchez: \"Estamos tocando una mayoría progresista con los dedos, por eso apelo a una movilización inteligente\"",
-     "url": "https://www.infolibre.es/politica/pedro-sanchez-tocando-dedos-mayoria-progresista-apelo-movilizacion-inteligente_128_2240645.html"
-    }
-   ],
-   "otras": [
-    "Agencia EFE",
-    "Cadena SER"
-   ],
-   "alertas": [
-    "El dato de que las encuestas le dan mayoría a PP y Vox sale de un resumen de infoLibre sobre la encuesta de NC Report para La Razón (194 a 199 bancas, con la mayoría absoluta en 176). Conviene sumar otra encuestadora antes de dar números."
-   ]
-  },
-  {
-   "id": "es-frente-amplio",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "Más de 70 exdirigentes de Podemos piden el voto para Frente Amplio, la coalición de Ada Colau",
-   "resumen": "Un manifiesto titulado “En defensa de lo común y nuestra democracia, votamos Frente Amplio” reúne a exdirigentes de Podemos y de sus alianzas, entre ellos Manuela Carmena, exalcaldesa de Madrid, Carolina Bescansa, cofundadora de Podemos, Ramón Espinar, exsenador de Podemos, y Alberto Garzón, exministro de Consumo y excoordinador de Izquierda Unida (IU). Frente Amplio es la coalición heredera de Sumar y lleva a Ada Colau como candidata. Las últimas encuestas lo dejan por debajo del 10% que se había puesto como meta, y su portavoz, Pablo Bustinduy, sostiene que van a remontar.",
-   "por_que_importa": "Muestra cómo se reacomoda la izquierda española, que nació en parte de las movilizaciones juveniles de 2011 y 2014.",
-   "fuentes": [
-    {
-     "medio": "elDiario.es",
-     "titulo": "Carmena, Bescansa, Tania Sánchez y otros exdirigentes de Podemos y su entorno piden el voto para el Frente Amplio",
-     "url": "https://www.eldiario.es/politica/carmena-bescansa-tania-sanchez-exdirigentes-entorno-piden-voto-frente-amplio_1_13694266.html"
+     "medio": "20 Minutos",
+     "titulo": "La Junta Electoral abre expediente de sanción a la periodista Silvia Intxaurrondo: aprecia indicios de vulneración de la neutralidad",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV21HSExPMk1TZmswYnItT1ZWNUNqSGk0UWxseFFySDFZc0hDTzZoZ0JsV3JCM0l1UEVEekRqd0g3LVk3bFE0UDRMMzNVTUVDd2V5VDhiYVJnU05kOHhLcTJXSkc4eERPd1BmaDNOWVRLbVBPMzk2RUxhMmdhMzZtaDZ3TVA1bFc1ZWptck5sWlBxRmUyc0hYcTBkSTRYWW1LdzR5cVFRdVNYVnZDd3Z5X3NmRzRPUDJMNERPSVJ6TU53N3F2X1hDVVZTeUluM2tYMEE?oc=5",
+     "fecha": "2026-11-23T13:56:21-03:00"
     },
     {
-     "medio": "La Vanguardia",
-     "titulo": "Excargos de Podemos y sus alianzas como Carmena, Bescansa y Espinar apoyan a Frente Amplio",
-     "url": "https://www.lavanguardia.com/politica/20261126/11693793/excargos-alianzas-carmena-bescansa-espinar-apoyan-frente-amplio.html"
+     "medio": "Onda Cero",
+     "titulo": "La Junta Electoral Central abre expediente sancionador a la periodista Silvia Intxaurrondo por posible vulneración de la neutralidad",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQVZJNHlUeE5mX3JsS2FPM2pQWjB4X3FQbVFCeWU2QVAtQUJvQ0MwZzlDajlxTnEwUG93cHlPMXI2ZV8xeDYxOHpwZHVWSVZSckxBVDhxNlpmSTRxcEFJNHFFMUViNHUyZDk0enFtTV90cWxvOUxOQy10WGRSeUloV3JhRWtSN2hnRmNqLVhobk9wbUI3enl0Sl93WlNsMDQ1Q2RVYmFMTFphVF90cHlrX1JMX0piR1pZcUFtckYzZGZ1ZTNNUEZ1SzkyUFZtOU9VLWhhOVozSkJxZ1ZMTUlJM25NN3Vad3E5Rk50NmlGQlFiQVMwck9NTVhJb0RfVUpaOGlXV3RhWkxmQdIBigJBVV95cUxQVVplSWFNeGV0N3RrM1lHdkdIX2RzcDZDczZ6WlNicGNFcTAzc2ZENU9xX3YwZjQ4SzE1X3hZRTZQeW9yODFreERuYU1OZzA5UXdQa2xPNXJSLWd3OEpDQkNtWFhVMU42dGc5dkFhd09GUlhZU0k0RzF1RkdJRzRZSHc1Y3ZtNk56eGVyaHo4M1B5OE9kbHJGX1N2d3U0dS1tVWlMeUNLYWgxdWJvY19waEZibFdmQU1IaXk1TVpxczRoU2ZUSzk5ajdobmtDbXNNZW5KenJJRVUyMWdUdWEyTm5NM1ZNZE1VNFZWSWc5TGs4WDZTVmZ2MHUwQ1lVT2xOVjJYOWsxQTJVdw?oc=5",
+     "fecha": "2026-11-23T14:36:26-03:00"
     },
-    {
-     "medio": "Europa Press",
-     "titulo": "Manuela Carmena, Alberto Garzón y excargos de Podemos como Bescansa y Ramón Espinar piden votar a Frente Amplio",
-     "url": "https://www.europapress.es/nacional/noticia-manuela-carmena-alberto-garzon-excargos-podemos-bescansa-ramon-espinar-piden-votar-frente-amplio-20261126094619.html"
-    }
-   ],
-   "otras": [
-    "El Mundo",
-    "RTVE",
-    "Agencia EFE"
-   ],
-   "alertas": [
-    "Discrepancia en la cifra de firmantes. elDiario.es dice más de 70, La Vanguardia alrededor de 80 y El Mundo 75 cargos. En el título se usó “más de 70” hasta tener el manifiesto."
-   ]
-  },
-  {
-   "id": "es-vox-diputacion-permanente",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "Vox no asistió a la Diputación Permanente y acusa a Sánchez de \"comprar votos\" con decretos ley",
-   "resumen": "Vox no fue a la reunión de la Diputación Permanente del Congreso de los Diputados y acusó al Gobierno de Pedro Sánchez de usar los decretos ley para \"comprar votos\" a tres días de las elecciones.",
-   "por_que_importa": "Los decretos del Gobierno antes de votar definen medidas de vivienda y de ayudas que alcanzan a los jóvenes españoles.",
-   "fuentes": [
-    {
-     "medio": "Europa Press",
-     "titulo": "Vox no acude a la Diputación Permanente y acusa a Sánchez de tratar de \"comprar votos\" a tres días del 29N",
-     "url": "https://www.europapress.es/nacional/noticia-vox-no-acude-diputacion-permanente-acusa-sanchez-tratar-comprar-votos-tres-dias-29n-20261126100615.html",
-     "fecha": "2026-11-26T06:06:15-03:00"
-    },
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Vox planta a la Diputación Permanente del Congreso a tres días de las elecciones",
-     "url": "https://www.lavanguardia.com/politica/20261126/11693811/vox-planta-diputacion-permanente-congreso-tres-dias-elecciones.html",
-     "fecha": "2026-11-26T06:18:06-03:00"
-    },
-    {
-     "medio": "ABC",
-     "titulo": "PP y Vox consolidan su alternativa contra Sánchez a tres días de las elecciones",
-     "url": "https://www.abc.es/espana/pp-vox-consolidan-alternativa-sanchez-tres-dias-20261126000318-nt.html",
-     "fecha": "2026-11-26T20:03:19-03:00"
-    }
-   ],
-   "otras": [],
-   "alertas": [
-    "Falta qué decretos ley se discutían en la Diputación Permanente y cuál fue la respuesta del Gobierno; los títulos no lo traen.",
-    "La acusación de \"comprar votos\" es una afirmación de Vox."
-   ]
-  },
-  {
-   "id": "es-vox-diputacion-permanente",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "Vox no asistió a la Diputación Permanente y acusa a Sánchez de \"comprar votos\" con decretos ley",
-   "resumen": "Vox no fue a la reunión de la Diputación Permanente del Congreso de los Diputados y acusó al Gobierno de Pedro Sánchez de usar los decretos ley para \"comprar votos\" a tres días de las elecciones.",
-   "por_que_importa": "Los decretos del Gobierno antes de votar definen medidas de vivienda y de ayudas que alcanzan a los jóvenes españoles.",
-   "fuentes": [
-    {
-     "medio": "Europa Press",
-     "titulo": "Vox no acude a la Diputación Permanente y acusa a Sánchez de tratar de \"comprar votos\" a tres días del 29N",
-     "url": "https://www.europapress.es/nacional/noticia-vox-no-acude-diputacion-permanente-acusa-sanchez-tratar-comprar-votos-tres-dias-29n-20261126100615.html",
-     "fecha": "2026-11-26T06:06:15-03:00"
-    },
-    {
-     "medio": "La Vanguardia",
-     "titulo": "Vox planta a la Diputación Permanente del Congreso a tres días de las elecciones",
-     "url": "https://www.lavanguardia.com/politica/20261126/11693811/vox-planta-diputacion-permanente-congreso-tres-dias-elecciones.html",
-     "fecha": "2026-11-26T06:18:06-03:00"
-    },
-    {
-     "medio": "ABC",
-     "titulo": "PP y Vox consolidan su alternativa contra Sánchez a tres días de las elecciones",
-     "url": "https://www.abc.es/espana/pp-vox-consolidan-alternativa-sanchez-tres-dias-20261126000318-nt.html",
-     "fecha": "2026-11-26T20:03:19-03:00"
-    }
-   ],
-   "otras": [],
-   "alertas": [
-    "Falta qué decretos ley se discutían en la Diputación Permanente y cuál fue la respuesta del Gobierno; los títulos no lo traen.",
-    "La acusación de \"comprar votos\" es una afirmación de Vox."
-   ]
-  },
-  {
-   "id": "es-ayuso-jec",
-   "seccion": "Política",
-   "semaforo": "🟢",
-   "titulo": "La Junta Electoral Central abre un expediente sancionador a Isabel Díaz Ayuso por un video contra Sánchez",
-   "resumen": "La Junta Electoral Central (JEC) abrió un expediente sancionador a Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, por un video contra Pedro Sánchez publicado tras el desalojo de la Puerta del Sol.",
-   "por_que_importa": "Muestra que la Junta Electoral controla a candidatos y a funcionarios de todos los partidos en los últimos días de campaña.",
-   "fuentes": [
     {
      "medio": "elDiario.es",
      "titulo": "La Junta Electoral Central abre expediente sancionador a Ayuso por su vídeo contra Sánchez tras el desalojo de Sol",
      "url": "https://www.eldiario.es/politica/junta-electoral-central-ordena-abrir-expediente-sancionador-ayuso-video-pedro-sanchez-desalojo-sol_1_13697287.html",
      "fecha": "2026-11-26T16:15:09-03:00"
-    },
-    {
-     "medio": "El País",
-     "titulo": "La Junta Electoral abre un expediente a Ayuso por un vídeo contra Sánchez tras el desalojo de la Puerta del Sol",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZkVtRTBSV0J5UU1FelFpSFdVd1VsaFhOY0FBcDFPUGJqX3VOOFYyQ1l5NTh6ek5jTEhvU3F2cDBGVldnVmJVUUpCblFPS1o1OGIxbnJNR0VXU1lrMGRaYUZXM0x5TWdyMjRweklNRkhPS3VwcUlsTTBSTGdIQ0d3a0x1b3lwbjJ5TzQyYzViUHZHcVFiS2pJR3NKRExLNkN1aDcyRWhJaHB5b2dWTTRyamUxalRQWmg0VThkSUt4eXZDMkVrTVBnVE9mR0I0a1JETnF4dVhmX0VTODVWX2ViTTEwVVN6RU9ITUNSUmItcWFBUnI5Q0pyYjdsMWVZTEdEQVp3R0VPV1NKUXIyalo5QnFSSVdiVUdf0gGYAkFVX3lxTFBmRW1FMFJXQnlRTUV6UWlIV1V3VWxoWE5jQUFwMU9QYmpfdU44VjJDWXk1OHp6TmNMSG9TcXZwMEZWV2dWYlVRSkJuUU9LWjU4YjFuck1HRVdTWWswZFphRlczTHlNZ3IyNHB6SU1GSE9LdXBxSWxNMFJMZ0hDR3drTHVveXBuMnlPNDJjNWJQdkdxUWJLaklHc0pETEs2Q3VoNzJFaElocHlvZ1ZNNHJqZTFqVFBaaDRVOGRJS3h5dkMyRWtNUGdUT2ZHQjRrUkROcXh1WGZfRVM4NVZfZWJNMTBVU3pFT0hNQ1JSYi1xYUFScjlDSnJiN2wxZVlMR0RBWndHRU9XU0pRcjJqWjlCcVJJV2JVR18?oc=5",
-     "fecha": "2026-11-26T16:34:43-03:00"
-    },
-    {
-     "medio": "The Objective",
-     "titulo": "La Junta Electoral abre expediente a Ayuso por sus críticas a Sánchez tras la acampada en Sol",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ041N29rbGFkOVh2N1Z3ZC1Hd3ZkcFNLbkZoa0RZVGpTQW1HeFdnNWRPWkJKbHhWQlJ4VW9ZNW9kMldic0tudGZVdHZSMWNfOGpUbHZmcHEwZHlHOTJsN2JQaTRPdmNyNHVnMFhxYnQxUkJnaXdWTVkzXzdmUGdkM1U4S0dCd0ttQ2pPdE5mMlBTQl9Jd1NFWtIBngFBVV95cUxOaEp6WHIwUFhWRDllVmVXMVFRdmtES2pIUVkwbmpvVmhDMUtULUN3YzFNS0FuUXJNanJYaUJIVnRXSDFmaHFRUmRoWUxMWlhjdEVMU2FHbTJVYjVZamlPOHlzcDI3NW1hZ09mMVBMUTBpNUwwYklHa3VXbUdQcE5DTDg4OXM4Z2p6Z1JzZGxaWjh2X1VRTk1IMS10X1lEZw?oc=5",
-     "fecha": "2026-11-26T16:16:05-03:00"
     }
    ],
    "otras": [],
    "alertas": [
-    "Falta el contenido exacto del video y el plazo del expediente; los títulos no lo traen."
+    "Falta el medio en el que trabaja Silvia Intxaurrondo y el motivo exacto del expediente; los títulos no lo traen."
    ]
   },
   {
-   "id": "es-amnistia",
+   "id": "es-seguridad-29n",
    "seccion": "Sociedad y cultura",
    "semaforo": "🟢",
-   "titulo": "Amnistía Internacional identifica 57 retrocesos en derechos humanos en los programas electorales del PP y de Vox",
-   "resumen": "Amnistía Internacional publicó un análisis de los programas electorales del PP y de Vox y señaló 57 \"retrocesos en derechos humanos\".",
-   "por_que_importa": "Los programas definen derechos de migrantes, mujeres y jóvenes, y la ciudadanía española de miles de descendientes en la Argentina depende de ellos.",
+   "titulo": "Despliegue récord de más de 100.700 agentes de seguridad para el 29N",
+   "resumen": "España desplegó más de 100.700 agentes de seguridad para las elecciones generales del 29 de noviembre, una cifra récord.",
+   "por_que_importa": "Muestra la escala de una jornada electoral que se vive en todo el país, de la que se habla también en la Argentina.",
    "fuentes": [
     {
-     "medio": "La Vanguardia",
-     "titulo": "Amnistía Internacional señala 57 “retrocesos en derechos humanos” en los programas electorales de PP y Vox",
-     "url": "https://www.lavanguardia.com/politica/20261124/11691857/amnistia-internacional-senala-57-retrocesos-derechos-humanos-programas-electorales-pp-vox.html",
-     "fecha": "2026-11-24T05:05:33-03:00"
+     "medio": "Agencia EFE",
+     "titulo": "Despliegue récord de efectivos de seguridad para el 29N, con más de 100.700 agentes",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aUjB5N19fRWhTcTJtZlRaRFZBR1NOMjdFSnNMcGYydmhmUURsZFNwY29jQVZKalc3eG5mQlR6S3FGcHhkbEIzMjltdUljTmNIZkltM0xMdlVoN09SOU50UFRjS0tsdnBhWWptVzk4bVl0M2hW?oc=5",
+     "fecha": "2026-11-24T07:52:33-03:00"
     },
+    {
+     "medio": "RTVE",
+     "titulo": "Despliegue récord de efectivos de seguridad para las elecciones del 29N, con más de 100.700 agentes",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGRnWjFOWlpydFdpU3ZWYVBuZGluZHFndXZMWGVZMU1fcVgweVY0STFTWUwtOVZXbUFUMHBqaUVfWUhXTW13UXBpZnVBc0lVV3lJSmttMVh5NXFhaEt5OTB4cW1sNU9hZzdpTm1adjUtNk1sd2k3UGlZZEU1dFBJUjVHdHJMcmpiNElJdEU4bU1SLXZIYktLM1A2clpLaUI4NTBHTzRTZUtmUWc4dHJ5RC1PZjlfMlZuM1kxQTdyMFktanV3azY4aHp0WWxYaW9mU1Z3?oc=5",
+     "fecha": "2026-11-28T07:50:58-03:00"
+    },
+    {
+     "medio": "Europa Press",
+     "titulo": "España se prepara para las elecciones generales con un despliegue récord en seguridad",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWw5eDJKOEJ6RXFiaXJQZWRycW5DVjNqTG56TnZKaHlOVGlfOEhBa2lJTEtEemF3ZFB2TFdGbEVSa1B0MHEta2l1V0w4TjIyNFFSNzdzZ0RfZTZQMUFGOE11dmdTelQ3bTZpWjdUM2NnRm8yQWcxWi1NV1FieTVuengwcXo0OTh3REZaaUFyVm96dVQ1cG5UeTBtU1pDaWNVU1FKWHVHU25vOXhCR1BqbHRabk5QMzNWU0FJR1hVcnc?oc=5",
+     "fecha": "2026-11-28T09:57:06-03:00"
+    }
+   ],
+   "otras": [],
+   "alertas": [
+    "Falta el comunicado del Ministerio del Interior como fuente primaria."
+   ]
+  },
+  {
+   "id": "es-amnistia-programas",
+   "seccion": "Sociedad y cultura",
+   "semaforo": "🟢",
+   "titulo": "Amnistía Internacional identifica 57 retrocesos en derechos humanos en los programas del PP y Vox",
+   "resumen": "Amnistía Internacional señala 57 retrocesos en derechos humanos en los programas electorales del Partido Popular (PP) y de Vox, de cara a las elecciones generales del 29 de noviembre.",
+   "por_que_importa": "Los programas definen derechos que afectan a las juventudes, como vivienda, migración y libertades.",
+   "fuentes": [
     {
      "medio": "Europa Press",
      "titulo": "Amnistía Internacional identifica 57 \"retrocesos\" en derechos humanos en los programas electorales de PP y Vox",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcDE1T2dnY0Z1QzFRUi1UbW1zRDQ4TlBXdUVZMTZRNjVQZ19IYUljbW56VUxyZml0QjRxTHVQY0llZE1mUEVPQklpTjlPeUl6T2dRSlc3S3A2QUwxcVdHRVNDVk5wQy13X3JUemZrX2tzZ3U3cFVic1hJUVVpOWd5OXVha0RNb2pxWnBKY0ZFUjQ3OHZRQ3VDQjhMU21jZkVXNHducFBaYWhMWEtEakxRQTgtTm8wNFFyZkwybmxPR2JVTHg4VDdWVmphYUx5YUdscXludVVDNmxhZTNaUUJGLUhYVjF3OHZwdV9jZjk0a0RxdmdMblZFM09LSS1wRDR1T0k1Vw?oc=5",
      "fecha": "2026-11-23T20:01:49-03:00"
+    },
+    {
+     "medio": "La Vanguardia",
+     "titulo": "Amnistía Internacional señala 57 “retrocesos en derechos humanos” en los programas electorales de PP y Vox",
+     "url": "https://www.lavanguardia.com/politica/20261124/11691857/amnistia-internacional-senala-57-retrocesos-derechos-humanos-programas-electorales-pp-vox.html",
+     "fecha": "2026-11-24T05:05:33-03:00"
     },
     {
      "medio": "Agencia EFE",
@@ -575,65 +263,12 @@
    ],
    "otras": [],
    "alertas": [
-    "Falta el link al informe de Amnistía Internacional como fuente primaria y el detalle de cada retroceso; solo se pueden citar las afirmaciones del informe."
+    "La cifra de 57 retrocesos es la que cuenta el informe de Amnistía Internacional; falta el texto del informe para contrastarla."
    ]
-  },
-  {
-   "id": "es-falsos",
-   "seccion": "Sociedad y cultura",
-   "semaforo": "🔴",
-   "titulo": "Dos videos falsos de la campaña, uno de Sánchez y otro de Ada Colau",
-   "resumen": "El video que muestra a Pedro Sánchez y a María Jesús Montero, exministra y diputada en el Parlamento de Andalucía, bailando “Bailaré sobre tu tumba” en un mitin del PSOE en Córdoba está editado; la canción que sonó fue “Aserejé”, como muestra la transmisión del propio partido. El video de Ada Colau saltando y cantando por la calle tiene indicios de haber sido hecho con inteligencia artificial, como movimientos de boca que no coinciden con la canción, y su partido dijo que es falso. Los dos los chequearon Maldita.es y Newtral, y el de Colau también la Agencia EFE y la AFP.",
-   "por_que_importa": "Las campañas ya se juegan con videos editados o hechos con IA que circulan en redes, y los mismos trucos se pueden usar en la Argentina.",
-   "fuentes": [
-    {
-     "medio": "Maldita.es",
-     "titulo": "No, el PSOE no puso la canción de \"Bailaré sobre tu tumba\" durante un mitin en Córdoba",
-     "url": "https://maldita.es/desinfo/20261126/en-un-acto-politico-del-psoe-en-cordoba-a-37-km-de-adamuz-se-puso-la-cancion-bailare-sobre-tu-tumba/"
-    },
-    {
-     "medio": "Newtral",
-     "titulo": "Sánchez no bailaba la canción ‘Bailaré sobre tu tumba’ en este vídeo del mitin socialista en Córdoba, sino ‘Aserejé’",
-     "url": "https://www.newtral.es/mitin-psoe-cordoba-bailar-tumba/20261126/"
-    },
-    {
-     "medio": "Maldita.es",
-     "titulo": "No, este vídeo de Ada Colau saltando y cantando por la calle no es real",
-     "url": "https://maldita.es/desinfo/20261125/este-video-muestra-a-ada-colau-bailando-una-cancion-infantil-por-la-calle/"
-    }
-   ],
-   "otras": [
-    "Agencia EFE",
-    "AFP"
-   ],
-   "alertas": [
-    "El mitin fue cerca de Adamuz, donde hubo un accidente ferroviario; eso explica por qué el video editado buscaba indignar. ABC menciona otro accidente, en Urda, con 69 muertos. Hay que aclarar cuál es cuál antes de nombrarlo."
-   ],
-   "idea_carrusel": {
-    "formato": "narrativo",
-    "enfoque": "Mostrar cómo se fabrican y se desmienten los videos falsos de una campaña, con los dos casos de España como ejemplo y una guía para detectarlos.",
-    "portada": "Este video de Sánchez bailando *es falso*",
-    "placas": [
-     "En la campaña de España circuló un video de Pedro Sánchez bailando “Bailaré sobre tu tumba” en un mitin cerca de donde hubo un accidente de tren.",
-     "*Está editado.* En la transmisión del PSOE se ve que la canción que sonó fue “Aserejé”.",
-     "Otro video muestra a Ada Colau saltando y cantando por la calle. Tiene *indicios de IA*, como la boca que no coincide con la canción y los dientes que desaparecen.",
-     "Los desmintieron Maldita.es, Newtral, la Agencia EFE y la AFP.",
-     "¿Cómo te das cuenta? Buscá el video original, mirá si la boca coincide con el audio y desconfiá de lo que te indigna al toque.",
-     "¿Te llegó alguno? Mandalo y lo chequeamos."
-    ],
-    "copy": "En España votan el domingo y las redes ya se llenaron de videos truchos 🎭 Te mostramos dos que se viralizaron y cómo detectar uno antes de compartirlo.",
-    "audiovisual": [
-     "Capturas de los dos videos con el sello de falso (usar las de Maldita.es o Newtral, citando la fuente)",
-     "Fragmento de la transmisión original del PSOE"
-    ],
-    "a_chequear": [
-     "Qué accidente ferroviario fue cerca de Córdoba (Adamuz) y si es el mismo que ABC ubica en Urda",
-     "Permiso o cita para usar las capturas de Maldita.es y Newtral"
-    ]
-   }
   }
  ],
  "para_chequear": [],
  "seguimiento": [],
- "periodistas": []
+ "periodistas": [],
+ "nota": "Armada sin acceso a las notas completas; encuestas no incluidas por la prohibición de publicarlas en España desde el 24 de noviembre."
 }

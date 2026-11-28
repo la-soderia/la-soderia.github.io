@@ -65,6 +65,7 @@ Por pedido de la dirección, mientras dure esta excepción cada edición de las 
 7. `seguimiento`: los 🟠, con lo que se dice y dónde.
 8. **Continuidad**: un tema queda vigente 24 h desde que se sumó o se actualizó. Si sigue, se repite con el mismo `id` y la info al día. Si resultó falso, se pasa a 🔴 Falso.
 9. Antes de guardar, revisar: ¿cada tema tiene semáforo y fuentes? ¿Hay alguna cifra sin fuente? ¿Se marcaron las discrepancias?
+10. **Control de precisión (obligatorio, es la ley).** Después de guardar `data/edicion.json`, correr `python3 scripts/control_precision.py`. Si dice FRENADO, corregir cada falla que lista (decir cuál juez, fiscalía o informe; desarrollar la sigla la primera vez; sacar "según [medio]", los dos puntos y el "no es X, sino Y") y volver a correrlo. **No se publica hasta que diga OK.** Si una falla es una excepción legítima, no se fuerza: se anota en `alertas` y se avisa a la redacción, que decide si la suma a `data/control_excepciones.json`.
 
 ## Secciones y periodistas
 - **Secciones.** Cada tema lleva `seccion` con uno de estos valores exactos, que el sitio usa para agruparlos: "Política", "Economía", "Juventud y educación" o "Sociedad y cultura". La agenda general (lo que más cubren los medios) la arma el sitio solo a partir de `data/candidatos.json`.

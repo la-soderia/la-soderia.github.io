@@ -1,7 +1,7 @@
 {
- "generado": "2026-11-28T01:22:48-03:00",
+ "generado": "2026-11-28T02:37:27-03:00",
  "fin": "2026-12-01T00:00:00-03:00",
- "grupos": 2171,
+ "grupos": 2192,
  "candidatos": [
   {
    "id": "04a1c716d6",
@@ -7515,6 +7515,55 @@
      "dominio": "elperiodico.com",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZTlwV1pBLU9OMHBmZ0k3OU9NZW56WExLMjl6WGpSQmdWU2NtY2NyMmY0RkdyTG1ndzZmZ3NfWFJnZFFnMHluRVBNakJVUGxqMnMxbmh1Uy1HZHh3U3RtcGI1aVp5T181RzcwUWRLVGYyZTY3VkhtSDhtVEItZjNoNkQzbmxzTXV4eDFlMTM3UEo2TjhrT25iYVlCOVktb1lnSTk2YVVHR0dpTU9GZ2lINHZlbzBiZ2xDYVQ0djZONXpmREsxRGxYSEZ1Z1h5YWhHMTNOS1ZOMnJXSTVaUlhIUVAtRUVKUUJUaHZGVnhzSXBNdTJycFByWtIB-AFBVV95cUxQSzQwWGg3ellwNUNwVTZJci05X2pHeElKeGw4b3FOcGViSENCT0Y5Y3g0S0VXalpSQjMwbDY1dmFrRksyUFFfX01YTEdySG5oWUNOVW1OZ2pZRE1DY2ZIOEthaVM0MWR5NUhFZVBCUl9GR0ZJdmxtWC11Y1l1WmVtbHNJNHlzaU1UR1F1TENtZ0pBWC1GZVFJLVF6MnhncGYxTlQxTkVPX0NPN1dtQzltX2h5eG5rOEw3WTdkOHJNOGZjc0plSUM4SmtrRmZ1UWlmdzR5MDE0RjdyTklaS0haLTFMcFVZbDZJblJ5VUpPMUhzYkc2ZU00dA?oc=5",
      "fecha": "2026-11-25T09:41:37-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    }
+   ]
+  },
+  {
+   "id": "d75b591a8e",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "El País"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 4,
+   "cant_notas": 4,
+   "ultima": "2026-11-28T01:30:01-03:00",
+   "notas": [
+    {
+     "titulo": "¿Qué no se puede hacer en una jornada de reflexión? Ni actos, ni propaganda, ni entrevistas",
+     "medio": "El País",
+     "dominio": "elpais.com",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/que-no-se-puede-hacer-en-una-jornada-de-reflexion-ni-actos-ni-propaganda-ni-entrevistas.html",
+     "fecha": "2026-11-28T01:30:01-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    },
+    {
+     "titulo": "Qué pasa ahora tras el último debate: jornada de reflexión, encuestas y qué se puede (y no se puede) hacer hasta el domingo 29N",
+     "medio": "Artículo 14",
+     "dominio": "articulo14.es",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZFdnQ0wyOUZuNm5GeTdZU09Qb3hKQXdwNmtEQ3d2NnB3bEpQbzdtQTY4M3Q1N2gwRFpFdVVGaTNjRURIUmRqQ2tmY0ZxR1JselVyTjl6SFp6ODRxbnhfX3RERU5sRWhKRVpEaTZwYWl1TlNyM0NMZ25YTEQxRWw1ZzJfcXFwc1NHUHZmdmZFVm1FbDc4Uzl1ZUFUZGJMdnFXX0hvdHI1Tk9XNWR5Ui05ejRwQ1hrLXdXLUUzb1dTYzMzTlp0cm5yN2RjaXN2T0ttOG9xdWUtYnd6eFlBSDFtSG5IbTFCbUduNTdaMWhuRzFnY1ppaUYxLWdxWnFPZmxuX0RlZ0RKdDFTaVhlekRIRE93TjNqdVhzTE1PeWdn?oc=5",
+     "fecha": "2026-11-27T04:45:00-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    },
+    {
+     "titulo": "Jornada de reflexión 29N: ¿qué se puede hacer y qué no antes de las elecciones generales?",
+     "medio": "Diario AS",
+     "dominio": "as.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEgxbTMweWRQdXZaMDdOa0JKbXRINFRaaWV5Q0t1YU04UnVtdFVMWnlMZHhxVW1faGtCWUZsX2xrZ3pBNHo1dzdidTY3b3R6dU9USWdGMUg3ekxPSW9jdGJBdXQ5aDZYeGRIN3gwSk5HUlc0R2NTRlExYmFrZGxkaTRhME5KSWY2dklfVG1NQWxxVGhoazhiOHBJaTh3WmdkTzBJakZFaWxDSEpjMTBvbnpLSy1RYTJhRE9SLVJtX3JvTC14akR2UG5Mc0rSAeABQVVfeXFMTUlPdTVocEZMWVcxOGJhaWFOcmwyc1docXpFVDYtRTRrRG5wN2FjOFpxdXZlVjIzODFtRkhmWEEyeHlFeVZ1RTN0YkZ4RUt2R2VRa3ZsNldZMk41OWZiZC12ZGxIRjM5MHg4bXBudUk0NXliWm5xS3pNdEtEYjdORTk4Q2Jqa1F4WnVnSjM5WDItOUV0QVhQa19NblFWd2lDcDRQaVJzbzdsNEJXY21QY1llT1RKenNzUldZMWJTenpRSHdGRmtoeWV0R1lBN0lCbzRJcXVrZEJJS3hSVlJ0RG4?oc=5",
+     "fecha": "2026-11-27T11:30:00-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    },
+    {
+     "titulo": "Jornada de reflexión 28-N: qué se puede hacer y qué no",
+     "medio": "Estrella Digital",
+     "dominio": "estrelladigital.es",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTzVLVU1wb3hTclQwaUdaN2Noc0IxNDJHcXhIUFR1RW5lZmZZVW1RNy1pZFc0TTdKRlR3TVdOSkhWemJPdUF2UmlDT3EzQVMwVjEzOG5hUVZhaXJHbFJkQnByMkxDYy1PN2lVblpEcmxaWUh2d3FMSzJDOVpGUG9uQ0JXRTlCaWE2OF9MR012TW1fV3JsZkcxbDVoT3lPZU93a3FwQkxUSG5FRFJjdlhTLXpIOGFkLXdtVkFqTmtGRWpReHlMMmhPMWVBQUtzb2xPNnM3VUJjTm9RRTQyZDZzY1FGc9IB4wFBVV95cUxPTzVLVU1wb3hTclQwaUdaN2Noc0IxNDJHcXhIUFR1RW5lZmZZVW1RNy1pZFc0TTdKRlR3TVdOSkhWemJPdUF2UmlDT3EzQVMwVjEzOG5hUVZhaXJHbFJkQnByMkxDYy1PN2lVblpEcmxaWUh2d3FMSzJDOVpGUG9uQ0JXRTlCaWE2OF9MR012TW1fV3JsZkcxbDVoT3lPZU93a3FwQkxUSG5FRFJjdlhTLXpIOGFkLXdtVkFqTmtGRWpReHlMMmhPMWVBQUtzb2xPNnM3VUJjTm9RRTQyZDZzY1FGcw?oc=5",
+     "fecha": "2026-11-27T16:15:00-03:00",
      "fuente_tipo": "medio",
      "origen": "otros"
     }
@@ -16057,6 +16106,292 @@
    ]
   },
   {
+   "id": "c7e48952a6",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:44-03:00",
+   "notas": [
+    {
+     "titulo": "El PP y Vox vuelven a olvidar el derecho a la información de la ciudadanía",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/opinion/plaza-publica/pp-vox-vuelven-olvidar-derecho-informacion-ciudadania_129_2241396.html",
+     "fecha": "2026-11-28T02:00:44-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "c8dcc3c3a4",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:44-03:00",
+   "notas": [
+    {
+     "titulo": "El voto que las encuestas no ven (y que puede salvar a Sánchez)",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/opinion/plaza-publica/voto-encuestas-no-ven-salvar-sanchez_129_2241281.html",
+     "fecha": "2026-11-28T02:00:44-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "8f00529012",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:44-03:00",
+   "notas": [
+    {
+     "titulo": "Feijóo actúa como un robot mal programado",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/club-infolibre/librepensadores/feijoo-actua-robot-mal-programado_129_2241278.html",
+     "fecha": "2026-11-28T02:00:44-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "5b14bef8a9",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:43-03:00",
+   "notas": [
+    {
+     "titulo": "La educación bajo la 'neutralidad' de PP y Vox: menos igualdad, diversidad y memoria democrática",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/economia-y-sociedad/educacion/educacion-neutralidad-pp-vox-igualdad-diversidad-memoria-democratica_1_2241149.html",
+     "fecha": "2026-11-28T02:00:43-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "baee379bf3",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:43-03:00",
+   "notas": [
+    {
+     "titulo": "El cristianismo liberador ante las elecciones",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/opinion/ideas-propias/cristianismo-liberador-elecciones_129_2241205.html",
+     "fecha": "2026-11-28T02:00:43-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "6f0799afcf",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:42-03:00",
+   "notas": [
+    {
+     "titulo": "La guerra del mitin se la lleva el PSOE con llenos en Madrid y Santiago",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/politica/guerra-mitin-lleva-psoe-llenos-madrid-santiago_1_2241467.html",
+     "fecha": "2026-11-28T02:00:42-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "98d95272d5",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "La Vanguardia"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:00-03:00",
+   "notas": [
+    {
+     "titulo": "Esquerra llama a evitar el voto al PSC “como mal menor”",
+     "medio": "La Vanguardia",
+     "dominio": "lavanguardia.com",
+     "url": "https://www.lavanguardia.com/politica/20261128/11695392/esquerra-llama-evitar-voto-psc-mal-menor.html",
+     "fecha": "2026-11-28T02:00:00-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "1e10337eb0",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "La Vanguardia"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:00-03:00",
+   "notas": [
+    {
+     "titulo": "Un puñado de votos decidirán si el PNV mantiene su grupo y si Bildu rompe su techo electoral",
+     "medio": "La Vanguardia",
+     "dominio": "lavanguardia.com",
+     "url": "https://www.lavanguardia.com/local/paisvasco/20261128/11695317/punado-votos-decidiran-pnv-mantiene-grupo-bildu-rompe-techo-electoral.html",
+     "fecha": "2026-11-28T02:00:00-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "79177583b1",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "La Vanguardia"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T02:00:00-03:00",
+   "notas": [
+    {
+     "titulo": "Las tribus políticas ante el 29-N: el voto se derechiza; los valores, no",
+     "medio": "La Vanguardia",
+     "dominio": "lavanguardia.com",
+     "url": "https://www.lavanguardia.com/politica/20261128/11695270/29-n-tribu-politica-valores-voto-derecha.html",
+     "fecha": "2026-11-28T02:00:00-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "be307de7bd",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "El País"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T01:30:01-03:00",
+   "notas": [
+    {
+     "titulo": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+     "medio": "El País",
+     "dominio": "elpais.com",
+     "url": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+     "fecha": "2026-11-28T01:30:01-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "da792e3777",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "El País"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T01:30:01-03:00",
+   "notas": [
+    {
+     "titulo": "Blindaje frente a la desestabilización rusa y el riesgo de ciberataques ante el 29-N",
+     "medio": "El País",
+     "dominio": "elpais.com",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/blindaje-frente-a-la-desestabilizacion-rusa-y-el-riesgo-de-ciberataques-ante-el-29-n.html",
+     "fecha": "2026-11-28T01:30:01-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "3085896967",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "El País"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T01:30:01-03:00",
+   "notas": [
+    {
+     "titulo": "¿Cuándo abren los colegios electorales? ¿Cómo se realiza el recuento? Claves sobre la jornada electoral",
+     "medio": "El País",
+     "dominio": "elpais.com",
+     "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/cuando-abren-los-colegios-electorales-como-se-realiza-el-recuento-claves-sobre-la-jornada-electoral.html",
+     "fecha": "2026-11-28T01:30:01-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "289d423238",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "El País"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-28T01:30:01-03:00",
+   "notas": [
+    {
+     "titulo": "Núcleo Nacional planeaba ocultar su ideología nazi para presentarse a las elecciones",
+     "medio": "El País",
+     "dominio": "elpais.com",
+     "url": "https://elpais.com/espana/2026-11-28/nucleo-nacional-planeaba-ocultar-su-ideologia-nazi-para-presentarse-a-las-elecciones.html",
+     "fecha": "2026-11-28T01:30:01-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
    "id": "d4416a5e8e",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -17272,6 +17607,28 @@
    ]
   },
   {
+   "id": "516b007362",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T16:06:38-03:00",
+   "notas": [
+    {
+     "titulo": "Reflexionando, que es gerundio",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/opinion/columnas/aspavientos/reflexionando-gerundio_129_2241421.html",
+     "fecha": "2026-11-27T16:06:38-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
    "id": "713ac21be7",
    "pre_semaforo": "amarillo?",
    "medios_serios": [
@@ -17288,6 +17645,94 @@
      "dominio": "efe.com",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDhIMmp2MkdqOUc5Sl9TUm5zeHhCMWQ5V3gtSUlMdmpQQ3hoLXQya1NzSzBlbzdWODZ6ZFZHUmpOVzZ4ek5QRk5IcG9YOFBDeDVKSEE4UHZ1cTlYVUxoWEhyeEZWX1RfUE1neGxkZm5Kb3pPMlhXX2dzN2dHaVpjTE5mWndjeVQzZnZHdWRSUVBQRUplbTdMUjlMRW80dVBwUzlQdzBWbTNHSHJF?oc=5",
      "fecha": "2026-11-27T16:06:35-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "78d7e5ad29",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T16:06:34-03:00",
+   "notas": [
+    {
+     "titulo": "29N: tres conquistas feministas",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/opinion/columnas/desde-la-casa-roja/29n-tres-conquistas-feministas_129_2241431.html",
+     "fecha": "2026-11-27T16:06:34-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "8c41f6f314",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T16:06:30-03:00",
+   "notas": [
+    {
+     "titulo": "La violencia machista se abre paso en la víspera de las elecciones tras una campaña llena de ausencias",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/igualdad/violencia-machista-abre-paso-vispera-elecciones-campana-llena-ausencias_1_2241420.html",
+     "fecha": "2026-11-27T16:06:30-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "dda27a1e68",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T16:06:15-03:00",
+   "notas": [
+    {
+     "titulo": "Feijóo se juega su futuro en las elecciones que el PP afrontaba con todo a favor",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/politica/feijoo-juega-futuro-elecciones-pp-afrontaba-favor_1_2241461.html",
+     "fecha": "2026-11-27T16:06:15-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "4f5c67899b",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T16:06:12-03:00",
+   "notas": [
+    {
+     "titulo": "Más de una decena de candidatos de Vox se presentaron antes por partidos fascistas y neonazis",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/investigacion/decena-candidatos-vox-presentaron-partidos-fascistas-neonazis_1_2241412.html",
+     "fecha": "2026-11-27T16:06:12-03:00",
      "fuente_tipo": "medio",
      "origen": "espana_europa"
     }
@@ -18287,6 +18732,28 @@
      "dominio": "abc.es",
      "url": "https://www.abc.es/espana/andalucia/malaga/calladita-psoe-puso-jaque-diputado-pp-20261127170345-nts.html",
      "fecha": "2026-11-27T13:06:17-03:00",
+     "fuente_tipo": "medio",
+     "origen": "espana_europa"
+    }
+   ]
+  },
+  {
+   "id": "3941420670",
+   "pre_semaforo": "amarillo?",
+   "medios_serios": [
+    "infoLibre"
+   ],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T13:04:40-03:00",
+   "notas": [
+    {
+     "titulo": "El bono térmico de Abascal marca la recta final de la campaña y anula el discurso de las \"paguitas\" de Vox",
+     "medio": "infoLibre",
+     "dominio": "infolibre.es",
+     "url": "https://www.infolibre.es/politica/bono-termico-abascal-marca-recta-final-campana-anula-discurso-paguitas-vox_1_2241432.html",
+     "fecha": "2026-11-27T13:04:40-03:00",
      "fuente_tipo": "medio",
      "origen": "espana_europa"
     }
@@ -41069,53 +41536,6 @@
    ]
   },
   {
-   "id": "a51ffbc719",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "medios_argentinos": [],
-   "cant_medios": 4,
-   "cant_notas": 4,
-   "ultima": "2026-11-27T16:15:00-03:00",
-   "notas": [
-    {
-     "titulo": "Jornada de reflexión el 28 de noviembre: qué está prohibido hacer, dónde está el límite de la campaña",
-     "medio": "Libertad Digital",
-     "dominio": "libertaddigital.com",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOHExOWREdUpKa0FjMVlja2s4eGk2X1dnTnIwYjJSdTJLWEJpamdwVV83bkRrS1IzZGlLWGdwTjh0ME4weU1kZmpuY01jcTFYXzVKdFM5VDBFS0dyalZ1NXhVNDZVNlY2a3IyYmhfdUE0cnVscERUcm1oVFFBSU9OOVg4RTZjeHRYSzBIMHpiTXN1MFdSR0tudm40dWR6Q2V2XzFyd09JbDg1cEg0aEcyMVdNNmlXMFhjeExHOEJhZlEyY1BrX25GTWdkT3VtZDV1RnRxOVUzRXVpS0Z0RnF1LXMwbU9WTm9GM0JPdlp2UC1FaGMydkNpQXRneFnSAYcCQVVfeXFMTmhPSy1XSUhiTHUwUFlXOVRyc0FVQXdhLXBUcTE5ZWNsVnBjVnA3NkdyYzN2V0J4MkllekFkT1U2YTNKYUFTeW54UEVJdjF6d1ZYQ082VHlmWF9mSGdsazFuV0tYRlZPR3J3c0VqTTNaaHNhc0hqVHlQa0ktbDVHYUNFblBtYlRzYkVQSm11UVA5MHJEaVA4MmhtdkZ3X1Vyd09hd0R2X3J3STktWHA5VnI5RGdMcFlLTWN4ZjdGUUxoaEU0RUNKMUZxTndGTWU5enlkcXFxa1JsNzJycnpKYnFQaldlUDlQZlpRQ0lxVzJsZEUwZjJuME91U1B0Zy12c1BWSmljVUE?oc=5",
-     "fecha": "2026-11-27T02:20:08-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    },
-    {
-     "titulo": "Qué está prohibido durante la jornada de reflexión del 29N: mítines, propaganda electoral y mensajes en redes sociales",
-     "medio": "Onda Cero",
-     "dominio": "ondacero.es",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOFZSUm1Cc2tKWVp5SHI2TkR2Yl9pcGtyLWVIclhZcjBOSEs2MlFTUjhzYi1Mby04dDdyUHp5S3Yyd3dvNGdXSjhqbTROR0R0eVpnbWdzeEEzZTVuUGZ5dTBsNmtvdnB3Wk9XZEJLeElYT2p4QmVyQjkwdWs2NktjSUlWQXRvcXBIMDhaMjVkQTFaUUc0YUhPcFRxN1NxX1dnQjE1RzFXdnl3MjR1UEJBeDFWRUpBOWxmN2Z1TS1BemhQRXk0U1BGWUpZYXRjQW9yZWZDTUFaMzk0cUtFRlkyTW9pYWs2X1NqamNYYXhpaG4wM20tbUFweDhaTzNOcHBJcGNqZ0dJMNIBhwJBVV95cUxNZjdoUzNXRlN5enE3ekZYODE3MXhadEtxZ1JwYmNQeUMzck1DZWZLWWxnUFhnblFsbzRRekF4dFVxOTBSTVBRUzE5UU85cVlXTDlBUm04NmJKLVhpbnhnQ2lMZF80QmtLWG1mWlpjeWZJdVJGa0JsRWJuZklNbEdqS3Q3Ykhob2FmcFlzYjIzTU9vY2l3d0FVVGhORnlsSElfY3h3dUwycVFUMVlhOF9IQzdUb3NlVVhRcjA3MXB5c3B3MFQ3SWZmMlN6TmUtMURUcGJpZEgwcHVHa0l5akFSa1ZGbTRPam12TlBLV0FfQlFCSVo5RXJFM0cxMUZMS29janVJdHprQQ?oc=5",
-     "fecha": "2026-11-27T13:57:26-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    },
-    {
-     "titulo": "¿Qué está prohibido durante la jornada de reflexión del 28 de noviembre?",
-     "medio": "Diario Público",
-     "dominio": "publico.es",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3JTQS1QanN0T2tZbUhLRFd4eTlrWXFzam1tWXBVMUNoVE10Q2EtcnBrNE1lb0d3eEZYXzNmZS1oNHdvc0ZRemNUVXdoUU1Ubmp6UlNKbVY0UDB0M3BHN19Xdm0tU0c5V21jOGpweE55OGhCU0lrWXVHa2dXNElXOFZDRQ?oc=5",
-     "fecha": "2026-11-27T14:00:20-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    },
-    {
-     "titulo": "Jornada de reflexión 28-N: qué se puede hacer y qué no",
-     "medio": "Estrella Digital",
-     "dominio": "estrelladigital.es",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTzVLVU1wb3hTclQwaUdaN2Noc0IxNDJHcXhIUFR1RW5lZmZZVW1RNy1pZFc0TTdKRlR3TVdOSkhWemJPdUF2UmlDT3EzQVMwVjEzOG5hUVZhaXJHbFJkQnByMkxDYy1PN2lVblpEcmxaWUh2d3FMSzJDOVpGUG9uQ0JXRTlCaWE2OF9MR012TW1fV3JsZkcxbDVoT3lPZU93a3FwQkxUSG5FRFJjdlhTLXpIOGFkLXdtVkFqTmtGRWpReHlMMmhPMWVBQUtzb2xPNnM3VUJjTm9RRTQyZDZzY1FGc9IB4wFBVV95cUxPTzVLVU1wb3hTclQwaUdaN2Noc0IxNDJHcXhIUFR1RW5lZmZZVW1RNy1pZFc0TTdKRlR3TVdOSkhWemJPdUF2UmlDT3EzQVMwVjEzOG5hUVZhaXJHbFJkQnByMkxDYy1PN2lVblpEcmxaWUh2d3FMSzJDOVpGUG9uQ0JXRTlCaWE2OF9MR012TW1fV3JsZkcxbDVoT3lPZU93a3FwQkxUSG5FRFJjdlhTLXpIOGFkLXdtVkFqTmtGRWpReHlMMmhPMWVBQUtzb2xPNnM3VUJjTm9RRTQyZDZzY1FGcw?oc=5",
-     "fecha": "2026-11-27T16:15:00-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    }
-   ]
-  },
-  {
    "id": "30c21e5354",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -42107,44 +42527,6 @@
      "dominio": "eleconomista.es",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObHUycUJNeDhZWS1WUS0tQTluQ0h2TWllRkFPY3dsU1BpcTdxS0tka29zNEdndEs0UUFpSUFFcGpNY3hzQXhTOE1laVdtNkUzQm9ZUU5USlR3cXV3RkJ6eFhhT0RhMzBZYzFmU0xrMUJCeWN5UE14V0pBWGxfTkdITWdxOTJ3OHRzMUpkRnhKbzg3M05SZVhHRm01WXNkcFVMYVY5UV95NDRqUHl4QWx4WFpOalhXS0NhQV9iSTV2QQ?oc=5",
      "fecha": "2026-11-27T14:32:48-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    }
-   ]
-  },
-  {
-   "id": "29d2a9638e",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "medios_argentinos": [],
-   "cant_medios": 3,
-   "cant_notas": 3,
-   "ultima": "2026-11-27T14:13:26-03:00",
-   "notas": [
-    {
-     "titulo": "Qué pasa ahora tras el último debate: jornada de reflexión, encuestas y qué se puede (y no se puede) hacer hasta el domingo 29N",
-     "medio": "Artículo 14",
-     "dominio": "articulo14.es",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZFdnQ0wyOUZuNm5GeTdZU09Qb3hKQXdwNmtEQ3d2NnB3bEpQbzdtQTY4M3Q1N2gwRFpFdVVGaTNjRURIUmRqQ2tmY0ZxR1JselVyTjl6SFp6ODRxbnhfX3RERU5sRWhKRVpEaTZwYWl1TlNyM0NMZ25YTEQxRWw1ZzJfcXFwc1NHUHZmdmZFVm1FbDc4Uzl1ZUFUZGJMdnFXX0hvdHI1Tk9XNWR5Ui05ejRwQ1hrLXdXLUUzb1dTYzMzTlp0cm5yN2RjaXN2T0ttOG9xdWUtYnd6eFlBSDFtSG5IbTFCbUduNTdaMWhuRzFnY1ppaUYxLWdxWnFPZmxuX0RlZ0RKdDFTaVhlekRIRE93TjNqdVhzTE1PeWdn?oc=5",
-     "fecha": "2026-11-27T04:45:00-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    },
-    {
-     "titulo": "Jornada de reflexión 29N: ¿qué se puede hacer y qué no antes de las elecciones generales?",
-     "medio": "Diario AS",
-     "dominio": "as.com",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEgxbTMweWRQdXZaMDdOa0JKbXRINFRaaWV5Q0t1YU04UnVtdFVMWnlMZHhxVW1faGtCWUZsX2xrZ3pBNHo1dzdidTY3b3R6dU9USWdGMUg3ekxPSW9jdGJBdXQ5aDZYeGRIN3gwSk5HUlc0R2NTRlExYmFrZGxkaTRhME5KSWY2dklfVG1NQWxxVGhoazhiOHBJaTh3WmdkTzBJakZFaWxDSEpjMTBvbnpLSy1RYTJhRE9SLVJtX3JvTC14akR2UG5Mc0rSAeABQVVfeXFMTUlPdTVocEZMWVcxOGJhaWFOcmwyc1docXpFVDYtRTRrRG5wN2FjOFpxdXZlVjIzODFtRkhmWEEyeHlFeVZ1RTN0YkZ4RUt2R2VRa3ZsNldZMk41OWZiZC12ZGxIRjM5MHg4bXBudUk0NXliWm5xS3pNdEtEYjdORTk4Q2Jqa1F4WnVnSjM5WDItOUV0QVhQa19NblFWd2lDcDRQaVJzbzdsNEJXY21QY1llT1RKenNzUldZMWJTenpRSHdGRmtoeWV0R1lBN0lCbzRJcXVrZEJJS3hSVlJ0RG4?oc=5",
-     "fecha": "2026-11-27T11:30:00-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    },
-    {
-     "titulo": "Anatomía de una jornada de reflexión: qué se decide en el último día antes de las elecciones",
-     "medio": "Demócrata",
-     "dominio": "democrata.es",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjZIeC1ZNzVMN3JDTzlHLVNHSWhWbnczM1A0NWdORW1hY2ZmQ2NnbW1TYTYxQ0t6UHcydThqYUR0bFpKVGNKR25aYTFrLTdySnhwdi1MOE5qSzlXMUVQWFBRWGkzUURJOUFDaTNzUnJZNlMxNVY1dzc2V0hkaGtXMzNlOWFjRGowOGRFNjJlbmRWMS1xdlJjbncxNjJHT1IzdXBkRXJoMFRydHN2UmfSAbMBQVVfeXFMT3NSSzlOZ3pOd1pDVkQ2RDNkYUpid3RaclB2Z25sX2M1bkxUcGJmVWk1eHY4YTYwLUxkQnh1MHVFbXV4Ukl5ZjRPcWh5MnJIcGhoV2hnT29xUDFfaENhSnhVVmxMN1BXWERtY3ZieUc1a0N5T21IQVdoZGVBd1FuSVBjel9EbjRYa2R0Q2tQMlB3UkNUMnFOMVlOb0pLOHo4bURUZlNjeWMxRUoteFpWVDUyWjg?oc=5",
-     "fecha": "2026-11-27T14:13:26-03:00",
      "fuente_tipo": "medio",
      "origen": "otros"
     }
@@ -43516,6 +43898,37 @@
    ]
   },
   {
+   "id": "f9a6553fcc",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "medios_argentinos": [
+    "Perfil"
+   ],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-28T01:42:45-03:00",
+   "notas": [
+    {
+     "titulo": "España vota entre la crisis de la vivienda y el avance de Vox",
+     "medio": "Euronews.com",
+     "dominio": "es.euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWtucnA2OU5uODVWLS1vOUUxSVA3anJqUWVvZGtGa1ZJcTN1TVVzR3E2SzY3UEVoR2ZPbl9Xd0REUkVlTF8xRExvczhOelcyTDZWTl9ZRzlfV0hZMGxyQzZBempNcFQ4SVZlbWRpZ2llUDg5MzRwbjN4c25ZUXdIendpR054UmhpM2w5bElCTXJTVmhoSHNQRlJRTUhmTTl4Y1RyX25nQW1OZw?oc=5",
+     "fecha": "2026-11-27T14:40:17-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    },
+    {
+     "titulo": "La crisis de vivienda, el debate central de las elecciones en España",
+     "medio": "Perfil",
+     "dominio": "perfil.com",
+     "url": "https://www.perfil.com/edicion-impresa/la-crisis-de-vivienda-el-debate-central-de-las-elecciones-en-espana-aR5pF1c7Bt25",
+     "fecha": "2026-11-28T01:42:45-03:00",
+     "fuente_tipo": "medio",
+     "origen": "argentina"
+    }
+   ]
+  },
+  {
    "id": "2d3599f8b9",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -43965,6 +44378,35 @@
      "dominio": "eldiadecordoba.es",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3FVZHJzVnVJWjlkTFZwTjZ4QVY3VnJpYVcwampaNU5Ya3RSWjctTDZmQTdGYTktbkxPeEFUVGVUT3Z5RENnN1BIOExjdjl5cUVza2R4OUxGVjJFMG1wUXE1QmNWZkFsM3B5R1RITTdUcmQ1a2hzRlotQkhyME5FbC1hcDZRT2fSAYwBQVVfeXFMTXZuZWpQdi1tUnpVUk1aRWF0cUVQYk9FS2FkUF9NTk5VaWlHSGxwaVlXOU1pMFN0RXBKR0VHWFMxZmppaENoT0RRWGxzWXZMSXhVSjZOVlU1SE1SQXNULXVXM0NPamRzTVdzSnB6UXI1ZGx4Smo0WDdWclpRZ2NTaDgwOVlUWmdGbGR4ejg?oc=5",
      "fecha": "2026-11-27T14:31:35-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    }
+   ]
+  },
+  {
+   "id": "a76730df91",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "medios_argentinos": [],
+   "cant_medios": 2,
+   "cant_notas": 2,
+   "ultima": "2026-11-27T14:00:20-03:00",
+   "notas": [
+    {
+     "titulo": "Qué está prohibido durante la jornada de reflexión del 29N: mítines, propaganda electoral y mensajes en redes sociales",
+     "medio": "Onda Cero",
+     "dominio": "ondacero.es",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOFZSUm1Cc2tKWVp5SHI2TkR2Yl9pcGtyLWVIclhZcjBOSEs2MlFTUjhzYi1Mby04dDdyUHp5S3Yyd3dvNGdXSjhqbTROR0R0eVpnbWdzeEEzZTVuUGZ5dTBsNmtvdnB3Wk9XZEJLeElYT2p4QmVyQjkwdWs2NktjSUlWQXRvcXBIMDhaMjVkQTFaUUc0YUhPcFRxN1NxX1dnQjE1RzFXdnl3MjR1UEJBeDFWRUpBOWxmN2Z1TS1BemhQRXk0U1BGWUpZYXRjQW9yZWZDTUFaMzk0cUtFRlkyTW9pYWs2X1NqamNYYXhpaG4wM20tbUFweDhaTzNOcHBJcGNqZ0dJMNIBhwJBVV95cUxNZjdoUzNXRlN5enE3ekZYODE3MXhadEtxZ1JwYmNQeUMzck1DZWZLWWxnUFhnblFsbzRRekF4dFVxOTBSTVBRUzE5UU85cVlXTDlBUm04NmJKLVhpbnhnQ2lMZF80QmtLWG1mWlpjeWZJdVJGa0JsRWJuZklNbEdqS3Q3Ykhob2FmcFlzYjIzTU9vY2l3d0FVVGhORnlsSElfY3h3dUwycVFUMVlhOF9IQzdUb3NlVVhRcjA3MXB5c3B3MFQ3SWZmMlN6TmUtMURUcGJpZEgwcHVHa0l5akFSa1ZGbTRPam12TlBLV0FfQlFCSVo5RXJFM0cxMUZMS29janVJdHprQQ?oc=5",
+     "fecha": "2026-11-27T13:57:26-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    },
+    {
+     "titulo": "¿Qué está prohibido durante la jornada de reflexión del 28 de noviembre?",
+     "medio": "Diario Público",
+     "dominio": "publico.es",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3JTQS1QanN0T2tZbUhLRFd4eTlrWXFzam1tWXBVMUNoVE10Q2EtcnBrNE1lb0d3eEZYXzNmZS1oNHdvc0ZRemNUVXdoUU1Ubmp6UlNKbVY0UDB0M3BHN19Xdm0tU0c5V21jOGpweE55OGhCU0lrWXVHa2dXNElXOFZDRQ?oc=5",
+     "fecha": "2026-11-27T14:00:20-03:00",
      "fuente_tipo": "medio",
      "origen": "otros"
     }
@@ -48444,26 +48886,6 @@
    ]
   },
   {
-   "id": "4a48308cae",
-   "pre_semaforo": "naranja?",
-   "medios_serios": [],
-   "medios_argentinos": [],
-   "cant_medios": 1,
-   "cant_notas": 1,
-   "ultima": "2026-11-27T14:40:17-03:00",
-   "notas": [
-    {
-     "titulo": "España vota entre la crisis de la vivienda y el avance de Vox",
-     "medio": "Euronews.com",
-     "dominio": "es.euronews.com",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWtucnA2OU5uODVWLS1vOUUxSVA3anJqUWVvZGtGa1ZJcTN1TVVzR3E2SzY3UEVoR2ZPbl9Xd0REUkVlTF8xRExvczhOelcyTDZWTl9ZRzlfV0hZMGxyQzZBempNcFQ4SVZlbWRpZ2llUDg5MzRwbjN4c25ZUXdIendpR054UmhpM2w5bElCTXJTVmhoSHNQRlJRTUhmTTl4Y1RyX25nQW1OZw?oc=5",
-     "fecha": "2026-11-27T14:40:17-03:00",
-     "fuente_tipo": "medio",
-     "origen": "otros"
-    }
-   ]
-  },
-  {
    "id": "669fb0abe1",
    "pre_semaforo": "naranja?",
    "medios_serios": [],
@@ -48518,6 +48940,26 @@
      "dominio": "telemadrid.es",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlNGdTY5d3VxcHdIclM2VEpZeHRRRUhoU3ZweEYzaEY5MkxrUjJrQ2l2eWYxSjdXRk80ekdtVFJIRWVKZzNXd3JhdlIzaE92NVp3WTFLOXNnNXNrV1lUNWpfQjhERHRSdXJWamthWS1yODZEUFZ0RjloMHhoWFMtRzdmb2d6T21IRG0xTm1yNDh6djgxMVZ6b2ZmM0Q4eXVCM1ZKdEwxNzhodUlWaVpoNFBoWnZoeEllNHhvckhIdU84WFBKWnU5dkZqYnNfdDZaSXpiSkRYUmY?oc=5",
      "fecha": "2026-11-27T14:18:00-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    }
+   ]
+  },
+  {
+   "id": "29d2a9638e",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T14:13:26-03:00",
+   "notas": [
+    {
+     "titulo": "Anatomía de una jornada de reflexión: qué se decide en el último día antes de las elecciones",
+     "medio": "Demócrata",
+     "dominio": "democrata.es",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjZIeC1ZNzVMN3JDTzlHLVNHSWhWbnczM1A0NWdORW1hY2ZmQ2NnbW1TYTYxQ0t6UHcydThqYUR0bFpKVGNKR25aYTFrLTdySnhwdi1MOE5qSzlXMUVQWFBRWGkzUURJOUFDaTNzUnJZNlMxNVY1dzc2V0hkaGtXMzNlOWFjRGowOGRFNjJlbmRWMS1xdlJjbncxNjJHT1IzdXBkRXJoMFRydHN2UmfSAbMBQVVfeXFMT3NSSzlOZ3pOd1pDVkQ2RDNkYUpid3RaclB2Z25sX2M1bkxUcGJmVWk1eHY4YTYwLUxkQnh1MHVFbXV4Ukl5ZjRPcWh5MnJIcGhoV2hnT29xUDFfaENhSnhVVmxMN1BXWERtY3ZieUc1a0N5T21IQVdoZGVBd1FuSVBjel9EbjRYa2R0Q2tQMlB3UkNUMnFOMVlOb0pLOHo4bURUZlNjeWMxRUoteFpWVDUyWjg?oc=5",
+     "fecha": "2026-11-27T14:13:26-03:00",
      "fuente_tipo": "medio",
      "origen": "otros"
     }
@@ -52106,6 +52548,26 @@
      "dominio": "telecinco.es",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUndwYXBhd3M5ZDVvSloxbVV0SHQ1U3YwNlNkNEFqNTQ2aUhWSmZmdkhLMjlEWVdsN2NndDRtLXBBYWZFcU4waXhOTzktSlpGWUFSM1Ayb25hWWhWc2pWejJyZWo3SEFXTWtTRkptSzdMOGlyMjYzMFhQRUNOOC1lLVlWd010d2RRd2xJS1BIMkkwdUR5d1h4amlUZTlvaHl4YzNDbFVrMHQ0V1Rwd1JITk9iWFVnMlpUOVAydTFkVTJZQjBfalQyLXRhR3kzMGN4ZW5z?oc=5",
      "fecha": "2026-11-27T02:30:33-03:00",
+     "fuente_tipo": "medio",
+     "origen": "otros"
+    }
+   ]
+  },
+  {
+   "id": "177c0c050c",
+   "pre_semaforo": "naranja?",
+   "medios_serios": [],
+   "medios_argentinos": [],
+   "cant_medios": 1,
+   "cant_notas": 1,
+   "ultima": "2026-11-27T02:20:08-03:00",
+   "notas": [
+    {
+     "titulo": "Jornada de reflexión el 28 de noviembre: qué está prohibido hacer, dónde está el límite de la campaña",
+     "medio": "Libertad Digital",
+     "dominio": "libertaddigital.com",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOHExOWREdUpKa0FjMVlja2s4eGk2X1dnTnIwYjJSdTJLWEJpamdwVV83bkRrS1IzZGlLWGdwTjh0ME4weU1kZmpuY01jcTFYXzVKdFM5VDBFS0dyalZ1NXhVNDZVNlY2a3IyYmhfdUE0cnVscERUcm1oVFFBSU9OOVg4RTZjeHRYSzBIMHpiTXN1MFdSR0tudm40dWR6Q2V2XzFyd09JbDg1cEg0aEcyMVdNNmlXMFhjeExHOEJhZlEyY1BrX25GTWdkT3VtZDV1RnRxOVUzRXVpS0Z0RnF1LXMwbU9WTm9GM0JPdlp2UC1FaGMydkNpQXRneFnSAYcCQVVfeXFMTmhPSy1XSUhiTHUwUFlXOVRyc0FVQXdhLXBUcTE5ZWNsVnBjVnA3NkdyYzN2V0J4MkllekFkT1U2YTNKYUFTeW54UEVJdjF6d1ZYQ082VHlmWF9mSGdsazFuV0tYRlZPR3J3c0VqTTNaaHNhc0hqVHlQa0ktbDVHYUNFblBtYlRzYkVQSm11UVA5MHJEaVA4MmhtdkZ3X1Vyd09hd0R2X3J3STktWHA5VnI5RGdMcFlLTWN4ZjdGUUxoaEU0RUNKMUZxTndGTWU5enlkcXFxa1JsNzJycnpKYnFQaldlUDlQZlpRQ0lxVzJsZEUwZjJuME91U1B0Zy12c1BWSmljVUE?oc=5",
+     "fecha": "2026-11-27T02:20:08-03:00",
      "fuente_tipo": "medio",
      "origen": "otros"
     }

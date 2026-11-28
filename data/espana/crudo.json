@@ -1,8 +1,293 @@
 {
- "generado": "2026-11-28T01:22:48-03:00",
- "total": 3758,
- "errores": [],
+ "generado": "2026-11-28T02:37:27-03:00",
+ "total": 3778,
+ "errores": [
+  {
+   "fuente": "site efe.com",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site europapress.es",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site cadenaser.com",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site reuters.com",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site afp.com",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site theguardian.com",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site interior.gob.es",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site juntaelectoralcentral.es",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site boe.es",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site cis.es",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "site lamoncloa.gob.es",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews elecciones generales 29N",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews elecciones generales España",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews campaña electoral Sánchez Feijóo",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews Vox Abascal elecciones generales",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews Sumar Podemos elecciones generales",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews encuesta elecciones generales",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews Junta Electoral Central",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews voto por correo elecciones generales",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews resultados elecciones generales",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews debate electoral elecciones generales",
+   "error": "HTTP 503"
+  },
+  {
+   "fuente": "gnews pactos investidura elecciones generales",
+   "error": "HTTP 503"
+  }
+ ],
  "notas": [
+  {
+   "id": "c7e48952a6",
+   "titulo": "El PP y Vox vuelven a olvidar el derecho a la información de la ciudadanía",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/opinion/plaza-publica/pp-vox-vuelven-olvidar-derecho-informacion-ciudadania_129_2241396.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "c8dcc3c3a4",
+   "titulo": "El voto que las encuestas no ven (y que puede salvar a Sánchez)",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/opinion/plaza-publica/voto-encuestas-no-ven-salvar-sanchez_129_2241281.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "8f00529012",
+   "titulo": "Feijóo actúa como un robot mal programado",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/club-infolibre/librepensadores/feijoo-actua-robot-mal-programado_129_2241278.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:44-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "5b14bef8a9",
+   "titulo": "La educación bajo la 'neutralidad' de PP y Vox: menos igualdad, diversidad y memoria democrática",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/economia-y-sociedad/educacion/educacion-neutralidad-pp-vox-igualdad-diversidad-memoria-democratica_1_2241149.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "baee379bf3",
+   "titulo": "El cristianismo liberador ante las elecciones",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/opinion/ideas-propias/cristianismo-liberador-elecciones_129_2241205.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:43-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "6f0799afcf",
+   "titulo": "La guerra del mitin se la lleva el PSOE con llenos en Madrid y Santiago",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/politica/guerra-mitin-lleva-psoe-llenos-madrid-santiago_1_2241467.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:42-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "98d95272d5",
+   "titulo": "Esquerra llama a evitar el voto al PSC “como mal menor”",
+   "medio": "La Vanguardia",
+   "dominio": "lavanguardia.com",
+   "url": "https://www.lavanguardia.com/politica/20261128/11695392/esquerra-llama-evitar-voto-psc-mal-menor.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "1e10337eb0",
+   "titulo": "Un puñado de votos decidirán si el PNV mantiene su grupo y si Bildu rompe su techo electoral",
+   "medio": "La Vanguardia",
+   "dominio": "lavanguardia.com",
+   "url": "https://www.lavanguardia.com/local/paisvasco/20261128/11695317/punado-votos-decidiran-pnv-mantiene-grupo-bildu-rompe-techo-electoral.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "79177583b1",
+   "titulo": "Las tribus políticas ante el 29-N: el voto se derechiza; los valores, no",
+   "medio": "La Vanguardia",
+   "dominio": "lavanguardia.com",
+   "url": "https://www.lavanguardia.com/politica/20261128/11695270/29-n-tribu-politica-valores-voto-derecha.html",
+   "url_original": null,
+   "fecha": "2026-11-28T02:00:00-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "be307de7bd",
+   "titulo": "La victoria del PSOE y otras sorpresas posibles, según las encuestas",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-11-28/la-victoria-del-psoe-y-otras-sorpresas-posibles-segun-las-encuestas.html",
+   "url_original": null,
+   "fecha": "2026-11-28T01:30:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "da792e3777",
+   "titulo": "Blindaje frente a la desestabilización rusa y el riesgo de ciberataques ante el 29-N",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/blindaje-frente-a-la-desestabilizacion-rusa-y-el-riesgo-de-ciberataques-ante-el-29-n.html",
+   "url_original": null,
+   "fecha": "2026-11-28T01:30:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "d75b591a8e",
+   "titulo": "¿Qué no se puede hacer en una jornada de reflexión? Ni actos, ni propaganda, ni entrevistas",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/que-no-se-puede-hacer-en-una-jornada-de-reflexion-ni-actos-ni-propaganda-ni-entrevistas.html",
+   "url_original": null,
+   "fecha": "2026-11-28T01:30:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "3085896967",
+   "titulo": "¿Cuándo abren los colegios electorales? ¿Cómo se realiza el recuento? Claves sobre la jornada electoral",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/cuando-abren-los-colegios-electorales-como-se-realiza-el-recuento-claves-sobre-la-jornada-electoral.html",
+   "url_original": null,
+   "fecha": "2026-11-28T01:30:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "289d423238",
+   "titulo": "Núcleo Nacional planeaba ocultar su ideología nazi para presentarse a las elecciones",
+   "medio": "El País",
+   "dominio": "elpais.com",
+   "url": "https://elpais.com/espana/2026-11-28/nucleo-nacional-planeaba-ocultar-su-ideologia-nazi-para-presentarse-a-las-elecciones.html",
+   "url_original": null,
+   "fecha": "2026-11-28T01:30:01-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
   {
    "id": "d4416a5e8e",
    "titulo": "Sábado de reflexión: los partidos valencianos aguantan la respiración para la cita de mañana",
@@ -3631,6 +3916,20 @@
    "origen": "espana_europa"
   },
   {
+   "id": "516b007362",
+   "titulo": "Reflexionando, que es gerundio",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/opinion/columnas/aspavientos/reflexionando-gerundio_129_2241421.html",
+   "url_original": null,
+   "fecha": "2026-11-27T16:06:38-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
    "id": "713ac21be7",
    "titulo": "Meloni expresa su preocupación a Zelenski por su ataque en Libia al amenazar el Mediterráneo",
    "medio": "Agencia EFE",
@@ -3644,6 +3943,62 @@
     "site:efe.com"
    ],
    "visto": "2026-11-27T16:23:30-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "78d7e5ad29",
+   "titulo": "29N: tres conquistas feministas",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/opinion/columnas/desde-la-casa-roja/29n-tres-conquistas-feministas_129_2241431.html",
+   "url_original": null,
+   "fecha": "2026-11-27T16:06:34-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "8c41f6f314",
+   "titulo": "La violencia machista se abre paso en la víspera de las elecciones tras una campaña llena de ausencias",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/igualdad/violencia-machista-abre-paso-vispera-elecciones-campana-llena-ausencias_1_2241420.html",
+   "url_original": null,
+   "fecha": "2026-11-27T16:06:30-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "dda27a1e68",
+   "titulo": "Feijóo se juega su futuro en las elecciones que el PP afrontaba con todo a favor",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/politica/feijoo-juega-futuro-elecciones-pp-afrontaba-favor_1_2241461.html",
+   "url_original": null,
+   "fecha": "2026-11-27T16:06:15-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
+  },
+  {
+   "id": "4f5c67899b",
+   "titulo": "Más de una decena de candidatos de Vox se presentaron antes por partidos fascistas y neonazis",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/investigacion/decena-candidatos-vox-presentaron-partidos-fascistas-neonazis_1_2241412.html",
+   "url_original": null,
+   "fecha": "2026-11-27T16:06:12-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
    "origen": "espana_europa"
   },
   {
@@ -6556,6 +6911,20 @@
    ],
    "visto": "2026-11-27T13:27:26-03:00",
    "origen": "otros"
+  },
+  {
+   "id": "3941420670",
+   "titulo": "El bono térmico de Abascal marca la recta final de la campaña y anula el discurso de las \"paguitas\" de Vox",
+   "medio": "infoLibre",
+   "dominio": "infolibre.es",
+   "url": "https://www.infolibre.es/politica/bono-termico-abascal-marca-recta-final-campana-anula-discurso-paguitas-vox_1_2241432.html",
+   "url_original": null,
+   "fecha": "2026-11-27T13:04:40-03:00",
+   "fuente_tipo": "medio",
+   "lista_seria": true,
+   "busquedas": [],
+   "visto": "2026-11-28T02:37:27-03:00",
+   "origen": "espana_europa"
   },
   {
    "id": "e82ed0e8e5",
